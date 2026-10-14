@@ -1,0 +1,378 @@
+ID	Col	CellKey	English	Chinese
+p1	1	p1::English	Goodbye.	再见。
+p0	1	p0::English	Farewell.	告辞。
+pq1	1	pq1::English	Can I ask you some questions?	我能问你几个问题吗？
+pq2	1	pq2::English	Okay, I think I get it.	好吧，我明白了。
+pq3	1	pq3::English	Got it.	明白了。
+pq4	1	pq4::English	Actually, I had other questions.	其实，我还有别的问题。
+pq5	1	pq5::English	That's all I wanted to know.	我想知道的就是这些。
+pVela	1	pVela::English	What do you know about Vela Callose?	关于薇拉·卡洛斯，你知道些什么？
+door1	1	door1::English	<<The enchanted mask is deathly still, but its stoic eyes track you as you approach.>> ##The [[Erudite Academy]] is closed to all but a chosen few. Present your recommendation, or leave.	<<那面附魔面具死寂不动，但当你走近时，它那沉静的眼睛始终追随着你。>> ##[[博识学院]]只对少数受选者开放。请出示推荐信，否则请离开。
+p6	1	p6::English	Here's my recommendation. 	这是我的推荐信。
+door2	1	door2::English	<<The mask is silent for a long while. Just as you are about to say something, it responds.>> ##Recommendation accepted. You may enter.	<<面具沉默了许久。就在你正要开口时，它做出了回应。>> ##推荐信核验通过。请进。
+p7	1	p7::English	How do I get a recommendation?	怎么才能拿到推荐信？
+door3	1	door3::English	This cipher-spell cannot answer questions. Please direct enquiries, in a written letter, to the Erudite Academy Administration Facility in Riova. Average response time is currently... ##<<A pause.>> Seven years, three months and two days. 	本密文法术无法回答问题。如需咨询，请以书面形式致函里奥瓦的博识学院行政设施。当前平均回复时间为……##<<停顿。>>七年零三个月零两天。
+p8	1	p8::English	Never mind.	算了。
+explorer1	1	explorer1::English	<<The scholar seems to be absorbed with their looking glass. They peer through, scribble something in their notebook, then peer again. They do not look at you.>> ##A traveller, hm? Apologies - I'm on Academy business, and this map won't make itself...	<<这位学者似乎全神贯注于手中的窥镜。他们透过窥镜观察，在笔记本上涂写几笔，又继续观察，完全没有看你一眼。>> ##旅行者，嗯？抱歉——我在办学院的事务，这地图可不会自己画好……
+explorer2	1	explorer2::English	<<The scholar seems engrossed in their studies.>> ##Ah, you're the fledgling cartographer, correct? Not ((lost)), I hope? 	<<这位学者似乎埋头于研究。>> ##啊，你就是那个初出茅庐的制图师，对吧？希望你没有((迷路))？
+p10	1	p10::English	Can I get a copy of your map?	能给我一份你的地图吗？
+explorer3	1	explorer3::English	Look, I don't have time to pander to your every want. The Chief Cartographer needs this urgently... ##<<They turn to look at you, then pause - as if realising something.>>	听着，我可没工夫满足你的每个要求。首席制图师急着要这个……##<<他们转过身来看你，忽然顿住——像是意识到了什么。>>
+explorer4	1	explorer4::English	Actually, you know what? Maybe you ((can)) have a copy. As long as you're willing to work for it.	不过，你知道吗？也许你((确实))可以拿一份副本。只要你愿意为此出力。
+p11	1	p11::English	I can do that. What do you need?	没问题。你需要我做什么？
+explorer5	1	explorer5::English	We're making a new kind of map. A magical map that tracks the shifting movements of these islands and... ((corrects)) itself.	我们在绘制一种全新的地图。一张能追踪这些岛屿漂移轨迹、并且能……((自行修正))的魔法地图。
+explorer6	1	explorer6::English	The real work is with this cipher spell we're weaving together. But I need someone to go out and anchor the spell to specific landmarks.	真正的关键在于我们正在编织的这道密文法术。但我需要有人跑出去，把法术锚定到特定的地标上。
+explorer7	1	explorer7::English	Take this [[Cartography Notebook]]. When you get to a landmark, [[equip it]], and [[use]] it to make a cipher chart. The map will show up in your journal.##((If you obtain a ))[[compass]]((, you'll be able to see yourself on the map too.))	拿上这本[[制图笔记]]。到达地标后，[[装备]]它并[[使用]]它来制作密文海图。地图会显示在你的日志里。##((如果你获得一具))[[-指南针]]((，你还能在地图上看到自己的位置。))
+p12	1	p12::English	About these cipher-charts I'm making...	关于我制作的这些密文海图……
+explorer8	1	explorer8::English	When you get to a landmark, [[equip]] your cartography notebook, and [[use]] it to make a cipher chart. The map will show up in your journal.##((If you obtain a ))[[compass]]((, you'll be able to see yourself on the map too.))	到达地标后，[[装备]]你的制图笔记，并[[使用]]它来制作密文海图。地图会显示在你的日志里。##((如果你获得一具))[[指南针]]((，你还能在地图上看到自己的位置。))
+explorer9	1	explorer9::English	There are four scholars working on this map, including myself. Together we cover [[Hallowshire]], the [[Endless Realm]], the [[Clockwork Kingdom]] and [[Pwyll]]. You should also visit my colleagues, to see what landmarks they need.	包括我在内，共有四位学者在绘制这张地图。我们分别负责[[哈洛郡]]、[[无尽领域]]、[[发条王国]]和[[普威尔]]。你也该去拜访我的同事们，看看他们需要标注哪些地标。
+p13	1	p13::English	So, what landmarks do you need for this region?	那么，这个区域你需要标注哪些地标？
+explorer10	1	explorer10::English	Hallowshire is a large place. In the centre, we'll need the [[Hallow clocktower]] in the middle of town. Then, to the east, we'll want [[the biggest farmstead]].	哈洛郡地方不小。中心位置，我们需要镇中央的[[哈洛钟楼]]。然后，东边要[[最大的农庄]]。
+explorer11	1	explorer11::English	Next, there's a [[ruin entwined with a tree]] to the west. And finally, to the south, find the point at which the [[river splits in two]]. 	接着，西边有一处[[与树木缠绕的废墟]]。最后，去南边找到[[河流分岔]]的地方。
+p14	1	p14::English	So, is there any reward?	那么，有报酬吗？
+explorer12	1	explorer12::English	Well, you'll get access to the [[map]] itself. But I suppose we can throw in a few coins with each cipher-chart, too.	嗯，你能获得[[地图]]本身的使用权。不过我想，每张密文海图我们也可以附赠几枚硬币。
+explorer13	1	explorer13::English	And if you manage to map the [[Hallowshire region]], I'd consider giving you [[a recommendation]] to the [[Erudite Academy]]. Can you see it, flying up there in the sky? Being allowed access is a real privilege, believe me. 	如果你能完成[[哈洛郡]]区域的测绘，我会考虑给你一封[[博识学院]]的[[推荐信]]。看见天上飞着的那个了吗？能获准进入可是莫大的荣幸，相信我。
+p15	1	p15::English	Okay, got it.	好，明白了。
+explorer14	1	explorer14::English	You're sure? Very well.	你确定？那好吧。
+p16	1	p16::English	Actually, I'll pass.	其实，我还是算了。
+explorer15	1	explorer15::English	Suit yourself.	随你便。
+p17	1	p17::English	I have cipher-charts to hand in.	我有一些密文海图要上交。
+explorer16	1	explorer16::English	Excellent. Yes, these will do nicely. The detail here is impressive, for one of your... limited experience. ##Please, take this in recompense. 	很好。是的，这些完全合格。以你……有限的经验来说，这些细节相当了不起。##请收下这个作为报酬。
+explorer16b	1	explorer16b::English	Ah, most impressive. You're turning out to be quite the asset to this endeavour. ##Please, take this in recompense. 	啊，非常出色。你正在成为这项事业的一大助力。##请收下这个作为报酬。
+explorer16c	1	explorer16c::English	More perfect charts. I'd expect nothing less from one of your skills. I don't know what we'd do without you. 	又是完美的海图。以你的本事，这本就理所应当。真不知道没有你我们该怎么办。
+explorer17	1	explorer17::English	It seems that you've accrued quite the collection of cipher-charts, doesn't it? I must admit, I'm impressed. ##Take this; it's a [[letter of recommendation]] that will grant you entry to the [[Erudite Academy]]. 	看来你已经攒下了一大把密文海图，不是吗？必须承认，我很佩服。##拿上这个；这是一封[[推荐信]]，能让你进入[[博识学院]]。
+explorer18	1	explorer18::English	You should speak to the [[Chief Cartographer]]. I'm sure he'll have work for someone like yourself.	你该去和[[首席制图师]]谈谈。我相信他会有适合你这种人的活计。
+p18	1	p18::English	What's this Academy you mentioned? 	你提到的这个学院是什么？
+explorer19	1	explorer19::English	The [[Erudite Academy]]? It's only the most esteemed academic institution in the Union. You can see it, up there in the sky - it's a flying island that travels around the Apostatic Union, to where it's needed most.	[[博识学院]]？那可是联盟最负盛名的学术机构。你看到天上那个了吗——那是一座飞岛，环叛教联盟巡游，前往最需要它的地方。
+explorer20	1	explorer20::English	We've been stationed on these Oneiric Isles for the past year or so. There's an elevator platform that will take you to the island, but you can't get in without [[a recommendation]] from a scholar like myself. 	过去一年左右，我们一直驻扎在这些梦幻群岛上。有一座升降平台可以送你上岛，但如果没有像我这样的学者出具的[[推荐信]]，你进不去。
+p19	1	p19::English	Can you tell me about this island?	能给我讲讲这座岛吗？
+explorer21	1	explorer21::English	This archipelago is known as the [[Oneiric Isles]], which is on the far fringes of Apostatic Union territory. Most people would consider this place something of a ((backwater)), but it holds a certain rustic charm, don't you think? 	这片群岛名为[[梦幻群岛]]，地处叛教联盟疆域的偏远边陲。大多数人会觉得这地方有点((穷乡僻壤))，但它自有一种质朴的魅力，你不觉得吗？
+explorer22	1	explorer22::English	These isles are orbited by a small [[neuron star]] with a reddish hue. Quite peculiar, wouldn't you say? Quite different from the twin stars of my home in Venna, which bathe the lands in golden rays as they dance.	这些岛屿由一颗泛红的[[神经元星]]环绕。相当奇特，你不觉得吗？和我家乡维纳的双子星截然不同——那两颗星共舞时，会把大地沐浴在金色光辉里。
+explorer23	1	explorer23::English	You're currently in the centre-most island of [[Hallowshire]]. Just over there - <<he waves his hand vaguely>> - is the central settlement of [[Hallow Town]]. It was founded by refugees after the World Rend, some four hundred years ago.	你现在所在的是[[哈洛郡]]最中央的岛屿。就在那边——<<他含糊地挥了挥手>>——是中心聚落[[哈洛镇]]。大约四百年前，世界撕裂之后，由难民们建立。
+explorer27	1	explorer27::English	Back then, folk worshipped some fertility god called... ((Paeguth)), I think. But after the God War, the Apostatic Union swooped in and put a stop to all that. Now everything's nice and secular.	那时候，人们信奉一位叫……((帕古斯))的丰饶神。但神之战后，叛教联盟突袭而至，终结了这一切。如今一切都世俗得恰到好处。
+explorer28	1	explorer28::English	...At least, that's what the Union would have you believe. Truthfully, there's still plenty about these parts who follow the ((old)) ways. ##A word of advice; I'd keep one eye over your shoulder, friend. 	……至少，联盟希望你这么相信。说实话，这附近仍有许多人遵从((古老))的传统。##一句忠告；朋友，我会留意身后，多长个心眼。
+p20	1	p20::English	Can I ask you some questions?	我能问你几个问题吗？
+p21	1	p21::English	That's all I wanted to know.	我想知道的就是这些。
+explorer24	1	explorer24::English	By all means.	请便。
+explorer25	1	explorer25::English	My pleasure.	乐意效劳。
+explorer26	1	explorer26::English	Ah, and it looks like you've completed an entire map region. Well done; I'll throw in some extra coin for your efforts.	啊，看来你完成了一整个地图区域的测绘。干得漂亮；额外加些硬币犒劳你的辛劳。
+expEndless1	1	expEndless1::English	<<The scholar has one eye pressed to her looking glass; her face crumpled into a grimace.>> ##What a wretched place, eh? Even the trees barely cling to life...	<<这位学者一只眼睛贴在窥镜上，脸皱成一团苦相。>> ##真是个凄惨的地方，对吧？连树都活得勉强……
+expEndless2	1	expEndless2::English	I cannot fathom why I was sent ((here)), of all places, to make this damned map. Why must we chart these isles? Does the Academy plan to start grave digging? There's naught else to do!	我真想不通，为什么偏偏派我((来))这种地方画这该死的地图。我们为什么非要测绘这些岛屿？学院打算来挖坟吗？除此之外实在无事可做！
+expEndless3	1	expEndless3::English	Gods, I wish I were anywhere but here. Even ((Slev)) would do. 	众神啊，我宁愿在别的任何地方。哪怕((斯列夫))也行。
+expEndless4	1	expEndless4::English	I've spied a few points of interest through my looking glass, but I'm loath to leave my post. The local wildlife appears... ((unseemly)). 	我用窥镜侦察到了几个值得注意的地点，但我实在不愿离开岗位。当地的野生动物看起来……((不甚体面))。
+expEndless5	1	expEndless5::English	Can you see that heap of stone buildings over yonder? That's [[Sepulchre]], the only settlement in the Endless Realm that's above ground. We need to scout that, for a start. 	看到远处那片石头建筑群了吗？那是[[陵墓城]]，无尽领域唯一建在地上的聚落。我们得先从侦察那里开始。
+expEndless6	1	expEndless6::English	Next, there's a [[mausoleum]] to the far south of the island that should do nicely. And finally, to the north, I've spotted an enormous vat of formless flesh. I'm guessing it's one of those [[Flesh Farms]] I've heard about.	接下来，岛屿极南处有一座[[陵墓]]，应该合适。最后，北边我发现了一大缸不成形的血肉。我猜那就是听说过的[[血肉农场]]之一。
+expEndless7	1	expEndless7::English	You're in the [[Endless Realm]], a gods-forsaken place. Sometime before the World Rend, this was just another Skyrealms backwater - until their monarch botched some spell and turned everyone into walking corpses. 	你现在身处[[无尽领域]]，一处被众神遗弃的地方。世界撕裂前的某个时候，这里不过是天空领域的又一处穷乡僻壤——直到他们的君主搞砸了某个法术，把所有人都变成了行尸走肉。
+expEndless8	1	expEndless8::English	For a long time, the Endless were at war with the living; I'm sure you've heard the old rhymes about the [[Cadaver Crusades]]. Those weren't just old wives' tales - the Endless really did used to eat people. <<She shudders.>>	长期以来，无尽者与活人交战不休；关于[[尸骸十字军]]的古老童谣你肯定听过。那些可不是吓唬小孩的瞎话——无尽者过去真的吃人。<<她打了个寒颤。>>
+expEndless9	1	expEndless9::English	But times have changed. The Endless say they've mended their ways and only eat ((mindless meat)), whatever that is. 	但时代变了。无尽者声称他们已经改邪归正，如今只吃((无意识血肉))——管那到底是什么东西。
+expEndless10	1	expEndless10::English	And because the Endless are so wretched that even their ((gods)) left them, it makes them allies of convenience with the Apostatic Union. 	而且无尽者凄惨到连他们的((神))都弃他们而去，这反倒让他们成了叛教联盟顺水推舟的盟友。
+expEndless11	1	expEndless11::English	Still, Just because we're tolerated here, doesn't mean we have to ((like)) this place. The first person I met here, I swear I heard their ((stomach growl.)) First chance I get, I'm going back to the Academy.	话虽如此，被容忍留在这里，不代表我们就得((喜欢))这地方。我在这遇到的第一个人，我发誓我听见他((肚子在叫))。一有机会，我就回学院去。
+mapHinter1	1	mapHinter1::English	Oh my, what's all that commotion over yonder? I appear to be quite ((lost.))	天哪，那边闹哄哄的是怎么回事？我好像完全((迷路了。))
+mapHinter2	1	mapHinter2::English	I bought a map of these [[Oneiric Isles]] back in Riova, but it seems to be decades out of date. <<He grumbles.>> That's the trouble with these fringe islands, every few decades they've floated into different positions...	我早先在里奥瓦买了这张[[梦幻群岛]]的地图，但似乎已经过时了几十年。<<他嘟囔着。>>这就是边缘岛屿的麻烦，每隔几十年它们就漂到别的位置去了……
+mapHinter3	1	mapHinter3::English	Take my advice, traveller - if you're looking to explore, make sure you find an accurate [[map!]]	听我一句劝，旅行者——如果你打算探险，务必先找一张准确的[[地图]]！
+p24	1	p24::English	Do you know where I can find a map?	你知道我在哪能找到地图吗？
+mapHinter4	1	mapHinter4::English	Well, I noticed that the [[Erudite Academy]] is flying over [[Hallowshire]], to the south of here. Can you see it up there, in the sky? It travels all over the Apostatic Union, so I've heard... 	嗯，我注意到[[博识学院]]正飞在这南边[[哈洛郡]]的上空。看到天上那个了吗？听说它环叛教联盟全境巡游……
+mapHinter5	1	mapHinter5::English	I met one of their scholars in a [[red tent]] in the forest underneath [[Pwyll Village]], though I've seen them in [[other places]] too. Believe it or not, they're working on a map of the region right now, only... it's not quite ready. 	我在[[普威尔村]]下方的森林里，一个[[红帐篷]]里遇到过他们的一位学者，不过我在[[别的地方]]也见过他们。信不信由你，他们正在绘制这个区域的地图，只是……还没完全画好。
+mapHinter6	1	mapHinter6::English	Still, I'd try asking them. Worth a shot, eh?	不过，你可以试着问问他们。值得一试，对吧？
+p25	1	p25::English	Where are you trying to get to?	你打算去哪？
+mapHinter7	1	mapHinter7::English	Oh, I'm trying to get to the [[Endless Realm.]] It's said to be a place where people never die, even though the flesh peels from their bones!	噢，我正要去[[无尽领域]]。据说在那里人永远不会死，哪怕血肉从骨头上剥落！
+mapHinter8	1	mapHinter8::English	As a boy, my mother would scare me with tales of the Cadaver Crusades; when the Endless would hunt the living and feast on their still-warm bodies. It would scare me witless, but still... I always dreamed of going there, someday.	小时候，我母亲常用尸骸十字军的故事吓唬我；那时无尽者猎捕活人，大啖尚有余温的躯体。吓得我魂飞魄散，可即便如此……我总梦想着有朝一日去那里看看。
+mapHinter9	1	mapHinter9::English	And I have it on good authority that they've reformed their ways. They only eat non-sentient meat, and are on good terms with the Apostatic Union. So I said to myself, what do I have to lose?	而且据可靠消息，他们已经改过自新。他们只吃无意识血肉，与叛教联盟关系良好。所以我对自己说，我还有什么可失去的呢？
+mapHinter10	1	mapHinter10::English	<<He gulps.>> Well, I suppose they could still eat me. 	<<他咽了口唾沫。>>嗯，我想他们还是可能把我吃掉。
+mapHinterEnd1	1	mapHinterEnd1::English	After a long and wearisome journey, I'm finally ((here!)) The ancient kingdom of Verdant, now twisted by cruel cipher into a land of the ((endless))...	经过漫长疲惫的旅程，我终于((到了！))古老的蔓绿王国，如今被残忍的密文扭曲成((无尽者))的国度……
+mapHinterEnd2	1	mapHinterEnd2::English	But it seems as though the rumours are true; they really ((do)) shut up shop when the [[neuron star is brightest]] in the sky.	但看来传闻是真的；当[[神经元星最亮]]时，他们真的((会))闭门歇业。
+mapHinterEnd3	1	mapHinterEnd3::English	Alas, I was hoping to get a potion of Blister Obliteration. My feet are killing me... 	唉，我本想买瓶"水疱根除"药水。我的脚疼死了……
+mapHinterEnd4	1	mapHinterEnd4::English	it seems as though the rumours are true - the endless really ((do)) shut up shop when the [[neuron star is brightest]] in the sky. 	看来传闻是真的——当[[神经元星最亮]]时，无尽者真的((会))闭门歇业。
+expCwk	1	expCwk::English	text5	text5
+wannabe1	1	wannabe1::English	<<The youth is fumbling with a teacup, a spoon and an assortment of other objects, which all appear to be floating.>> ##Gods-damn wizards wouldn't know a good spell if it... hmm? <<The objects clatter to the floor.>>	<<那年轻人正笨手笨脚地摆弄一只茶杯、一把汤匙和各色小物件，它们全都悬浮在半空。>> ##那些天杀的巫师，好法术摆眼前都认不出来……嗯？<<物件哗啦啦掉了一地。>>
+wannabe2	1	wannabe2::English	Are you trying to get into the Academy too? I wouldn't bother. You could enchant a silkslug to shit gold and they'd still ignore you. They won't let you in without a recommendation.	你也想进学院？我劝你别费劲。就算你给丝蛞蝓附魔让它拉金子，他们照样不正眼瞧你。没有推荐信他们不会放你进去。
+p31	1	p31::English	What's this about an Academy? 	学院是怎么回事？
+wannabe3	1	wannabe3::English	The Erudite Academy. You've not heard of it? Well, it's right above us - that big hunk of rock overhead.	博识学院啊。你没听说过？喏，就在我们头顶——头上那块大石头。
+wannabe4	1	wannabe4::English	The Academy flies all over the Apostatic Union, just so their fancy wizards can gloat at all the poor, ((talented)) saps they won't let in.	学院环叛教联盟全境飞行，就为了让他们那些自命不凡的巫师向所有进不去的可怜((天才))炫耀。
+p32	1	p32::English	Uh, surely they must do more than that?	呃，他们总不止干这个吧？
+wannabe5	1	wannabe5::English	<<He scoffs.>> Well, supposedly they make the most advanced cipher spells in the Union. Riova gives them a free pass to do the kind of magic that would get most scholars thrown in an Inquisition jail.	<<他嗤之以鼻。>>哼，据说联盟最尖端的密文法术都出自那里。里奥瓦给他们开了通行证，让他们能施那种换别的学者早进宗教裁判所大牢的法术。
+p33	1	p33::English	So, how do you get in?	那，怎么才能进去？
+wannabe6	1	wannabe6::English	Well, it turns out being an ((exceptional)) cipher scribe means nothing to them. To visit the Academy you need a recommendation from an accredited scholar. 	唉，事实证明，身为((出类拔萃))的密文抄写员在他们眼里一文不值。想进学院，你得有正式学者的推荐信。
+wannabe7	1	wannabe7::English	I've seen some of their scholars exploring the islands nearby. You could try asking them for a recommendation, but I refuse to pander to pompous academics. 	我见过他们的几位学者在附近岛屿考察。你可以试着找他们要推荐信，但我绝不向傲慢的学究低头。
+p34	1	p34::English	Alright, I get it. 	好，明白了。
+wannabe8	1	wannabe8::English	No problem. <<He goes back to playing with his assortment of objects.>>	没问题。<<他回去继续摆弄他那堆物件。>>
+p35	1	p35::English	Uh... why are you playing with all that ((stuff))?	呃……你摆弄那堆((玩意))做什么？
+wannabe9	1	wannabe9::English	Why, these are demonstrations of my most sophisticated cipher spells! See this spoon? <<He shoves the spoon into your hand. It is damp, sodden.>> ##I've created a spell to make any object ((sweat)). Incredible, no? The applications are... ((limitless.))	嘿，这些可是我最精妙的密文法术的演示！看到这把汤匙了吗？<<他把汤匙塞进你手里。汤匙湿漉漉、水淋淋的。>> ##我发明了一个让任意物体((出汗))的法术。不可思议，对吧？用途……((无穷无尽。))
+p36	1	p36::English	I can't think of a single use for sweaty spoons.	出汗的汤匙有什么用，我一条也想不出来。
+wannabe10	1	wannabe10::English	Well, that just says more about your lack of imagination than anything else. 	哼，这只能说明缺乏想象力的是你自己。
+p37	1	p37::English	Wait, is this... human sweat? 	等等，这是……人的汗？
+wannabe11	1	wannabe11::English	Well observed. The spell diverts liquid and salt from the caster's ((own body)) onto the object in question. The only downside is that it makes you very thirsty. 	观察得很仔细。这个法术会把施法者((自己身体))里的水分和盐分转移到目标物体上。唯一的缺点是会让人非常口渴。
+wannabe12	1	wannabe12::English	But, that's just ((one)) of my spells. See this teacup? Put it to your ear and you'll hear a man crying. That's a real man, though I have no idea where he is. Oh, and this hammer? It's the safest hammer in the world, as it can't actually hit anything...	不过，这只是我((众多))法术中的一个。看到这只茶杯了吗？把它贴到耳边，你会听到一个男人在哭。那可是个真人，虽然我不知道他在哪。哦，还有这把锤子？它是世界上最安全的锤子，因为它其实什么都砸不到……
+wannabe13	1	wannabe13::English	<<He continues like this for some time. Eventually, you seize a chance to interrupt his monologue.>>	<<他就这样滔滔不绝了许久。最终，你抓住机会打断了他的独白。>>
+wannabe14	1	wannabe14::English	I've seen you coming and going from the Academy. It's not fair! Did you enchant a rock to sing, or something?	我看见你从学院进进出出。这不公平！你是不是给石头附了魔让它唱歌什么的？
+wannabe15	1	wannabe15::English	Hmph, well ((you've)) been up there.	哼，那是因为((你))上去过了。
+p38	1	p38::English	I'll get going. You look... busy. 	我先走了。你看起来……很忙。
+inq1	1	inq1::English	<<The Inquisition agent looks you up and down with a sneer.>> ##A new face? You're not another of those snivelling scholars, are you? 	<<宗教裁判所探员上下打量着你，一脸讥诮。>> ##生面孔？你不是又一个哭哭啼啼的学者吧？
+inq2	1	inq2::English	This place fills me with disgust. A bunch of egotistical idiots, playing with powers they fail to understand or control.	这地方让我满心厌恶。一群自我陶醉的蠢货，玩弄着自己既不理解也控制不住的力量。
+inq2b	1	inq2b::English	But lately I've caught wind of something that could finally be their undoing. This place harbours a dark secret - and one I intend to uncover.	但最近我风闻了一件事，也许终能让他们万劫不复。这地方藏着一个黑暗的秘密——而我决心把它挖出来。
+inq3	1	inq3::English	<<She glances at you with an inscrutable expression.>> ##Hm. You're back.	<<她用难以捉摸的眼神瞥了你一眼。>> ##嗯。你又来了。
+p41	1	p41::English	What's this secret you're looking for?	你要找的秘密是什么？
+inq4	1	inq4::English	I've been looking for dirt on this place for months. The Academy plays with fire; it flouts Union regulations at every turn, though the Council - in their ineptitude - always turns a blind eye.	几个月来我一直在找这地方的把柄。学院在玩火；他们处处无视联盟法规，而议会——因为他们昏聩无能——总是睁一只眼闭一只眼。
+inq5	1	inq5::English	But recently my equipment detected something; ((a class D god entity)). Only a faint signal, so my superiors put it down to faulty equipment. But if it ((is)) true? God worship is a serious felony. The Council would ((have)) to act! 	但最近我的设备探测到了什么；((一个D级神体))。信号很微弱，所以我的上司把它归咎于设备故障。但如果它((是))真的呢？神崇拜是重罪。议会就((不得不))采取行动了！
+inq5b	1	inq5b::English	If they're really harbouring some sort of minor god, it would be well hidden. I could really use the help of an outsider like yourself.	如果他们真的窝藏了某种小神，那一定藏得极深。我真的很需要你这种局外人的帮助。
+inq6	1	inq6::English	The one advantage we have is that most of these blundering old fools don't seem to like each other very much. I've not had much luck talking to them - they seem to hate me as much as I hate them. But, ask around and you might be able to glean something I've missed. 	我们仅有的一点优势是，这些冒失的老蠢货似乎彼此也看不顺眼。我去跟他们谈话一直没什么收获——他们恨我，正如我恨他们。但你四处打听打听，说不定能挖到我漏掉的东西。
+p42	1	p42::English	I've asked around. Lots of bickering, but nothing solid.	我四处问过了。吵闹不少，实据没有。
+inq7	1	inq7::English	Hmm, that won't do. We need hard evidence.	嗯，这可不行。我们需要铁证。
+inq8	1	inq8::English	Perhaps you could try that Endless woman - the one that looks like a walking corpse. She's been at the Academy the longest - who knows what she's seen here?	也许你可以去试试那个无尽者女人——那个看起来像行尸走肉的。她在学院待得最久——谁知道她在这里见过些什么？
+p43	1	p43::English	One of the scholars was harbouring a god. I have proof. 	有位学者窝藏了一个神。我有证据。
+inq9	1	inq9::English	<<She snatches the notebook from your hands. She flicks through it in silence, her face slowly changing from its stoic frown to a maniacal grin.>>	<<她一把从你手里夺过笔记本，无声地快速翻阅，脸上的表情从冷峻的皱眉慢慢变成狂喜的狞笑。>>
+inq10	1	inq10::English	And this god - you've seen it? Yes. ((Yes.)) This will do nicely. ##Here, take this loot as recompense. You have done a great service to the Inquisition. 	这个神——你亲眼见过？好。((好。))这就够了。##来，拿上这份战利品作为报酬。你为宗教裁判所立了一大功。
+inq11	1	inq11::English	I'll have this scoundrel apprehended, and before long, the full force of the Inquisition will be brought down upon this place. They won't be able to ((sneeze)) without us inspecting the discharge.	我会让人逮捕这个恶棍，要不了多久，宗教裁判所的全部力量就会压到这个地方头上。今后他们((打个喷嚏))，我们都得验一验喷出物。
+p44	1	p44::English	Why do you hate the Academy so much?	你为什么这么恨学院？
+inq12	1	inq12::English	Do you know what cipher magic ((is?)) It's the act of altering the very language of the universe. Yes, it can prove useful in certain situations, but if misused - it has the potential to destroy the fucking world. ((Again.))	你知道密文魔法((是什么吗？))那是篡改宇宙本身语言的行为。没错，某些时候它确实有用，但一旦被滥用——它有能力毁掉这个该死的世界。((再一次。))
+inq13	1	inq13::English	If you ask me, the fact that we let this gross abuse of reality take place in the Union's universities is bad enough, but at least the Inquisition can keep ((those)) fools in line. But ((this)) place?	要我说，我们任凭这种对现实的粗暴亵渎在联盟的大学里上演，已经够糟了，但至少宗教裁判所还能管住((那些))蠢货。可((这))地方呢？
+inq14	1	inq14::English	The Council in Riova has waived all but the most severe restrictions on the Erudite Academy's research. Forget the Wikkans - this damned place is the greatest threat to the Apostatic Union we face. 	里奥瓦议会几乎解除了博识学院研究上除最严重条款外的一切限制。什么维坎教团都靠边站——这该死的地方才是叛教联盟当前面临的最大威胁。
+p45	1	p45::English	Okay, I'll keep an eye out.	好，我会留意的。
+inq15	1	inq15::English	Ah, you are truly a credit to the Apostatic Union. ##Please, return to me if you find anything of interest. 	啊，你真是叛教联盟的楷模。##如果你发现任何有意思的东西，请回来找我。
+p46	1	p46::English	I'd rather not.	我不想。
+inq16	1	inq16::English	Hmph. I cannot force you to help. But I would ask you to stay diligent nonetheless - for the good of the Union.	哼。我无法强迫你帮忙。但还是要请你保持警醒——为了联盟着想。
+carto1	1	carto1::English	<<As you approach, the man's face contorts into a ghoulish expression.>> ##Really, ((this)) is what passes for a scholar, these days? Please, refrain from getting your muddy footwear on the flooring.	<<你走近时，那人的脸扭出一种鬼怪似的表情。>> ##真是的，如今的((学者))都这副德行？请别把你那泥泞的鞋踩到地板上。
+carto2	1	carto2::English	<<He turns away and sighs.>> Well, seeing as you're here, perhaps you may be of some use. Back in Venna I had twelve servants - in this damnable place, nary a soul will lift a finger to help. Perhaps you're different, hm?	<<他转过身去，叹了口气。>>唉，既然你来了，也许能派上点用场。在维纳时我有十二个仆人——在这个该死的地方，没一个人肯动根手指帮忙。也许你与众不同，嗯？
+carto3	1	carto3::English	I am Giovanni Borri, of the Borri family. I'm destined for great things - father says so - but for now, I'm merely the Chief Cartographer of this wretched place. 	我是博里家族的乔瓦尼·博里。我注定成就大事——我父亲说的——但眼下，我只是这个凄惨地方的首席制图师。
+carto4	1	carto4::English	Ah, you've returned. I see you've brought more... ((mud)) with you.	啊，你又来了。我看你又带来了更多……((泥巴))。
+carto5	1	carto5::English	You know, all these Inquisitors make me feel oddly at home. It's just like being back in Riova. And why not? I have nothing to hide.	你知道吗，这些宗教裁判所探员让我莫名感到自在。就像回到了里奥瓦。有何不可呢？我又没什么好隐瞒的。
+p51	1	p51::English	I'd like to help with mapping the island.	我想帮忙测绘岛屿。
+carto6	1	carto6::English	Ah, excellent! We need all the help we can get. It's imperative we impress the Council with our efforts, so we can raise my... I mean ((the Academy's)) status. 	啊，太好了！我们正缺人手。我们务必用成果打动议会，好提升我……我是说((学院))的地位。
+carto7	1	carto7::English	Our scholars are already mapping the islands with dynamic cipher-charts of the terrain. But, I also want some prestigious landmarks to embellish the map. That will really show the Council we mean business, hmm? What do you say?	我们的学者已经在用动态密文海图绘制地形了。但我还想给地图添些声名显赫的地标。这才能真正向议会展示我们是认真的，嗯？意下如何？
+carto8	1	carto8::English	Take a notebook and visit the following locations: /LOCATIONS	带上一本笔记，造访以下地点：/LOCATIONS
+carto9	1	carto9::English	loc2	loc2
+carto10	1	carto10::English	loc3	loc3
+carto11	1	carto11::English	Return to me when you're done. I'll pay you for each, but there's a handsome reward for getting them all. 	完成后回来找我。每个我都付钱，但全部完成有丰厚的奖赏。
+p52	1	p52::English	What are the locations you need, again?	再说一遍，你要我去哪些地点？
+p53	1	p53::English	I have cipher-charts to hand in. 	我有一些密文海图要上交。
+carto12	1	carto12::English	Ah, splendid! Yes, just leave them on the desk there, I'll inspect them when I get a moment. ##<<He scatters a few coins on the table.>> There! Happy, yes? Now please leave me be.	啊，好极了！对，就把它们放在那张桌上，我有空时会查看。##<<他在桌上撒了几枚硬币。>>喏！满意了吧？现在请让我一个人待着。
+p54	1	p54::English	I've found all your ((prestigious landmarks)).	我把你那些((显赫地标))全都找齐了。
+carto13	1	carto13::English	<<Just as you are about to leave, he beckons you to stop.>> ##Hold on, just a moment. It seems you've found ((all)) of the landmarks!	<<就在你正要离开时，他招手叫住你。>> ##等等，稍等片刻。看来你把((所有))地标都找齐了！
+carto14	1	carto14::English	This really is wonderful. I knew I could count on you. From the moment you walked in, I knew you were a person of ((quality)). 	这实在太棒了。我就知道能指望你。你踏进来的那一刻，我就知道你是个有((品位))的人。
+carto15	1	carto15::English	Please, take this as recompense. I'll be sure to include your name in my report to the Council - maybe in a footnote somewhere.	请收下这个作为报酬。我一定会在呈交议会的报告里写上你的名字——也许在某个脚注里。
+p55	1	p55::English	What does the Academy do with cartography? 	学院拿测绘来做什么？
+carto16	1	carto16::English	Traditionally, not much. It's a rather menial task for navy vessels and merchant mapmakers. But the trouble with living on floating bits of rock is they have a habit of moving around - and old maps become useless. So the Academy is working on a more ((inventive)) solution.	传统上，用处不大。那是海军舰船和商业制图师干的粗活。但住在漂浮石块上的麻烦在于，它们总爱到处漂移——旧地图说废就废。所以学院正在研究一种更((别出心裁))的方案。
+p56	1	p56::English	What, like... magic maps?	什么，就像……魔法地图？
+carto17	1	carto17::English	Aha, you are one step ahead, I see. ##Because the the central islands of the Apostatic Union are held fast with powerful magic, there's not been much need for enchanted cartography - until recently.	啊哈，你反应很快嘛。##由于叛教联盟中央诸岛被强大的魔法牢牢固定，附魔制图一直没有太大用武之地——直到最近。
+carto18	1	carto18::English	You see, these Oneiric Isles lie on the fringes of Union territory. They drift around, crash into each other... even break apart. New maps are produced and circulated all the time, but even so - captains can't rely on them out here.	要知道，这些梦幻群岛地处联盟疆域的边缘。它们四处漂移，相互碰撞……甚至分崩离析。新地图不断印制发行，但即便如此——船长们在这片海域也没法全信地图。
+carto19	1	carto19::English	So the Academy is working on a network of cipher spells to track an island's movements, to update maps ((instantly)). Rather ingenious, wouldn't you say? Of course, the scholars here do all the clever calculations. I provide the... impetus.	所以学院正在构建一张密文法术网络，追踪岛屿的移动，((即时))更新地图。相当巧妙，你说是不是？当然，那些聪明的计算都是这里的学者在做。我提供的是……推动力。
+p57	1	p57::English	How did you become Chief Cartographer?	你是怎么当上首席制图师的？
+carto20	1	carto20::English	Well, it's a funny thing. I had no real interest in maps before this position. Fiddly things, wouldn't you say? All those tiny drawings, and so easy to get them the wrong way round...	唉，说来好笑。在上任之前，我对地图毫无兴趣。琐碎的小玩意，你不觉得吗？尽是些小小的图样，还特别容易把方向搞反……
+carto21	1	carto21::English	Ahem. But when father decided I needed some academic experience to continue my political career, the only position he could wrangle was Chief Cartographer of this dismal place.	咳咳。但我父亲认定我需要些学术资历来延续政治生涯时，他唯一能弄到手的职位，就是这个阴沉地方的首席制图师。
+carto22	1	carto22::English	Honestly, I would have much rather been the Aetherist Commander. At least neuron stars are a bit more fun. 	说实话，我更想当乙太师统领。至少神经元星有趣一点。
+carto23	1	carto23::English	Anyway, might as well make the best of it, hm? I sent out our junior scholars to map these Oneiric Isles. This may be a dreary backwater, but at least there are discoveries to be made.	总之，既来之则安之，嗯？我派出了我们的初级学者去测绘这些梦幻群岛。这里也许是无聊的穷乡僻壤，但至少还有可发现的东西。
+p58	1	p58::English	Okay, I think I get it. 	好，我明白了。
+carto24	1	carto24::English	Good to hear it.	很高兴听你这么说。
+p59	1	p59::English	Have you witnessed anything strange, or... ((forbidden)) lately?	你最近有没有见到什么奇怪的，或者……((违禁))的事？
+carto25	1	carto25::English	Hmm, what's this? A sudden interest in the... integrity of our establishment? If I didn't know better, I'd say that Inquisition agent has you under her thumb...	嗯，这是怎么？突然对我们……机构的清白感兴趣了？如果我不了解内情，还真会以为是那个宗教裁判所探员把你捏在手心里了……
+carto26	1	carto26::English	<<He flashes a smile.>> No matter. Between you and me, my allegiance lies more with the Council and their Inquisition, than most of the dusty old codgers in this place. I'm sure they're flouting Union regulations left and right!	<<他露出一丝微笑。>>无所谓。跟你交个底，比起这里大多数老古板，我更忠于议会和他们的宗教裁判所。我敢肯定他们处处无视联盟法规！
+carto27	1	carto27::English	I'd check that Aetherist fool up in the tower. He's always prattling on about the importance of the cosmos, and how he flew out into the night sky before most of us were even birthed. If anyone's a rulebreaker, it's him. 	我会去查查塔上那个乙太师蠢货。他总是喋喋不休地念叨宇宙何其重要，还有他怎么在我们大多数人出生前就飞上了夜空。要说不守规矩，头一个就是他。
+newCarto1	1	newCarto1::English	The most important region we need mapping is [[Hallowshire]]. I'll note those locations in your [[log]] - as I'm sure whoever marks them will be [[rewarded.]] 	我们最需要测绘的区域是[[哈洛郡]]。我会把这些地点记进你的[[日志]]——标记它们的人肯定会得到[[奖赏]]。
+cwkCarto1	1	cwkCarto1::English	<<The scholar looks jittery at your approach.>> ##Thank the stars, I thought you were one of the King's goons. You weren't observed coming here, were you?	<<你走近时，这位学者神情紧张。>> ##谢天谢地，我还以为你是国王的走狗。你来这里没被人发现吧？
+cwkCarto2	1	cwkCarto2::English	As you've no doubt already discerned, my presence on this island is a matter of utmost secrecy. The Inquisition is sorely in want of up-to-date intelligence from the Clockwork Kingdom, whereas the Academy has cartographic expertise and a bottomless need for funding...	你想必已经猜到，我在这座岛上的存在属于最高机密。宗教裁判所极度渴求发条王国的最新情报，而学院恰好有制图专长，又永远缺钱……
+cwkCarto3	1	cwkCarto3::English	So a deal was struck, and now here I am playing at bloody ((espionage)). I'd better get tenure for this.	于是一桩交易达成，如今我就窝在这干着见鬼的((间谍))勾当。这功劳总得给我换个终身教职吧。
+cwkCarto4	1	cwkCarto4::English	You mustn't let slip to ((anyone)) here about our presence, understand? 	你绝不能向这里的((任何))人泄露我们的行踪，明白吗？
+cwkCarto5	1	cwkCarto5::English	I'll tell you one thing: our old Kardovan maps are ((severely)) out of date. Everything's changed so much, and I dare not leave this platform lest I alert the King to my presence.	跟你说了吧：我们手里的旧卡尔多瓦地图((严重))过时。一切都变了太多，而我根本不敢离开这个平台，以免被国王察觉我的行踪。
+cwkCarto6	1	cwkCarto6::English	The obvious starting place is the city of [[Ferropolis]], right in the centre of the island. Fifty years ago it was just a mining outpost, and now it seems to be on ((stilts)). At least that makes it a good landmark.	显而易见的起点是岛屿正中央的[[铁城]]。五十年前它还只是个采矿前哨，如今似乎已经架在了((高跷))上。至少这让它的地标价值很高。
+cwkCarto7	1	cwkCarto7::English	Next, there's a [[fenced-in compound]] at the far northern tip of the island. I haven't been able to ascertain its purpose through all these trees, but it could be some kind of magazine or military stockpile.	其次，岛屿最北端有一处[[围栏封闭的大院]]。隔着层层林木我没能查明它的用途，但可能是某种弹药库或军用仓库。
+cwkCarto8	1	cwkCarto8::English	Finally, I've spotted a sizeable [[signalling tower]] at the far eastern end of the island. Proceed carefully, though - things look a little ((weird)) over there. I'd swear at one point I saw the forest ((pulsating))...	最后，我在岛屿极东端发现了一座规模可观的[[信号塔]]。不过务必小心行事——那边的情况有点((诡异))。我发誓有一回我看见那片森林在((搏动))……
+cwkCarto9	1	cwkCarto9::English	You're in the domain of the [[Clockwork King]] - a colossal engine of cipher magic that rules with an iron first. I wouldn't have believed it myself, except that I've seen the things it can do.	你正身处[[发条王]]的领地——一座以铁腕统治的密文魔法巨型引擎。要不是亲眼见过它的手段，我自己都不会相信。
+cwkCarto10	1	cwkCarto10::English	Before the God War this island was known as [[Kardova]]. We loaned the natives absolutely oodles of gold to cast off their god and build a shipyard. And what did we get in return? A rabble of techno-monarchist fanatics defaulting on their bloody debt.	神之战之前，这座岛叫[[卡尔多瓦]]。我们借给当地人天文数字的金币，让他们摆脱自己的神、修建船厂。结果我们换来了什么？一群技术君主制的狂热暴民，赖掉了血债。
+cwkCarto11	1	cwkCarto11::English	Since then they've been nothing but trouble. Obviously the Union can't ignore that degree of arcane power; it's like a seven-year-old walking around with a barrel of gunpowder. At one point they even seemed intent on annexing Hallowshire. 	从那以后他们就净给我们添乱。显然，联盟无法无视那种程度的秘法力量；那就像让一个七岁小孩抱着火药桶到处走。他们甚至一度觊觎吞并哈洛郡。
+cwkCarto12	1	cwkCarto12::English	The problem is, nothing stays still. Every few years the King reconfigures the landscape as easily as a toddler rearranging wooden blocks. That's why the Inquisition brought us in.	问题在于，这里没有什么是静止的。每隔几年，国王就会重塑地形，轻松得像幼儿摆弄积木。所以宗教裁判所才把我们请来。
+cwkCarto13	1	cwkCarto13::English	Except... nobody warned me it would be such a ((mess)). Have you seen those mad machines clanking around out there? Or this unseasonal snow? And where did all the ((people)) go?	只是……没人提醒过我这里会是这么一团((乱麻))。看见外面那些哐当作响的疯狂机器了吗？还有这场不合时令的雪？还有那些((人))都去哪了？
+cwkCarto14	1	cwkCarto14::English	I mean, what in blazes has been ((happening)) here? 	我的意思是，这里到底((发生))了什么鬼事？
+aeth1	1	aeth1::English	<<The old man is hunched in his chair, wheezing heavily. Each breath reverberates like a broken machine. Suddenly, it stops altogether. You wait a moment, then another...>	<<老人弓身坐在椅子里，沉重地喘息。每一次呼吸都像一台破损的机器在回响。忽然，喘息声彻底停了。你等了一会儿，又等了一会儿……>
+p71	1	p71::English	Uh... hello?	呃……你好？
+p72	1	p72::English	((Reach to check his pulse))	((伸手探他的脉搏))
+aeth2	1	aeth2::English	HEEEUUURGH! <<He lurches awake, eyes peering from a mound of wrinkles.>> ##What's the hull integrity? Are we out of orbit?	赫——啊！<<他猛然惊醒，双眼从一堆皱纹里鼓出来。>> ##船体状况如何？我们脱离轨道了吗？
+p73	1	p73::English	Um, I think the hull integrity is... fine?	呃，船体状况好像……还好？
+p74	1	p74::English	What are you talking about?	你在说什么呢？
+aeth3	1	aeth3::English	<<He is still for a moment, blinking.>> ##Ah, apologies. Thought I was back in the cosmos for a moment there, hehe.	<<他怔了片刻，眨着眼睛。>> ##啊，抱歉。刚才还以为自己回到宇宙里了，呵呵。
+aeth4	1	aeth4::English	I'm Jerome Verrier, the Head Aetherist of this place. Pleased to meet you. So, you want to go into the cosmos, or what? 	我是杰罗姆·维里耶，这里的首席乙太师。幸会。所以，你想去宇宙，还是怎么着？
+aeth5	1	aeth5::English	Ah, it's you again! ##...wait, ((who)) are you again?	啊，又是你！##……等等，((你))又是什么人来着？
+p75	1	p75::English	Uh, I'd like to go into the cosmos. Very much. 	呃，我很想去宇宙。非常想去。
+aeth6	1	aeth6::English	t1	t1
+aeth7	1	aeth7::English	t2	t2
+aeth8	1	aeth8::English	t3	t3
+aeth9	1	aeth9::English	t4	t4
+aeth10	1	aeth10::English	t5	t5
+p76	1	p76::English	Can you remind me how to get to the cosmos outpost?	你能提醒我怎么去宇宙前哨吗？
+p77	1	p77::English	I sailed to the cosmos outpost. 	我已经航行到宇宙前哨了。
+aeth11	1	aeth11::English	t1	t1
+aeth12	1	aeth12::English	t2	t2
+aeth13	1	aeth13::English	t3	t3
+p78	1	p78::English	So, what is aethology?	那么，什么是乙太学？
+aeth20	1	aeth20::English	Aethology is the study of the aether. It is a noble art, one of the oldest. We track the neuron stars, behold the beauty of the infinite cosmos - and even travel there ourselves.	乙太学是研究乙太的学问。它是一门高贵的艺术，也是最古老的学问之一。我们追踪神经元星，凝望无限宇宙的壮美——甚至亲身前往。
+aeth21	1	aeth21::English	But this newfangled Union would rather throw coin at more rudimentary magic. Cipher spells that help trade, war, expansion. The youth of today have their eyes on their purses, not on the stars. 	可这个新兴的联盟宁愿把钱砸在更粗浅的魔法上。助力贸易、战争、扩张的密文法术。如今的年轻人眼里只有钱袋，没有星辰。
+p79	1	p79::English	How long have you been an aetherist?	你当乙太师多久了？
+aeth22	1	aeth22::English	<<He chuckles.>> Now that's a question. ##Before the God War, before the forming of the Apostatic Union itself, I was an aetherist in Byonne. I was captain of my first cosmos vessel before I was twenty, would you believe.	<<他轻笑。>>这问题问得好。##早在神之战前，早在叛教联盟成立之前，我就是拜昂的一名乙太师。不到二十岁我就当上了自己的第一艘宇宙航船的船长，你敢信吗。
+aeth23	1	aeth23::English	It's a dangerous business, visiting the cosmos. The air is very thin; cipher seals need to keep the ship together and prevent leaks. Complex magics recycle the air. One faulty spell, one flaw in the cipher and your whole crew could die.	去宇宙是件危险差事。那里空气极其稀薄；密文封印要把船体维持完整、防止泄漏。复杂的魔法负责循环空气。一个失灵的法术、一处密文瑕疵，全船人都可能丧命。
+aeth24	1	aeth24::English	But oh! The beauty, the majesty! To be out there, witnessing the throb and pulse of the neural network, first hand. There's nothing like it.	可是哦！那种壮美，那种庄严！亲身置身其中，亲眼见证神经网络的悸动与脉搏。无可比拟。
+p80	1	p80::English	What can you tell me about the cosmos?	关于宇宙，你能给我讲讲吗？
+aeth25	1	aeth25::English	As you leave the planet's atmosphere, you see it: The neural network. ((The cosmos.))	当你离开行星的大气层，你就会看到它：神经网络。((宇宙。))
+aeth26	1	aeth26::English	On this planet we have hundreds of neuron stars, as you know. The one here orbits these islands every twelve hours, and glows red. Others glow blue, yellow, purple; of varying sizes and orbital trajectories, all over the globe...	如你所知，这颗行星上有数百颗神经元星。这里的这一颗每十二小时环绕这些岛屿一周，发出红光。别处的发出蓝光、黄光、紫光；大小与轨道轨迹各异，遍布全球……
+aeth27	1	aeth27::English	And they're all connected by synapses. But those synapses also stretch out to the neural network; to the cosmos. And when you see it? There aren't just hundreds of neuron stars, no! They fill your vision. They never end. 	而它们全部由神经突触相连。那些突触还一路延伸到神经网络——延伸到宇宙。当你亲眼看到它？那可不只有几百颗神经元星，不！它们填满你的视野。永无尽头。
+aeth28	1	aeth28::English	We have, with magical means, peered inside the fabric of our very skulls. Our minds look just like the cosmos. An uncanny reflection. We have been debating what this means for hundreds of years, but truly? Your guess is as good as mine.	我们已经用魔法手段窥见了颅骨内部的结构。我们的心智看上去与宇宙一模一样。一场离奇的映照。几百年来我们一直争论这意味着什么，但说真的？你我一样都在瞎猜。
+p81	1	p81::English	Have you seen any signs of... ((corruption)) in the Academy?	你在学院里见过什么……((腐化))的迹象吗？
+aeth29	1	aeth29::English	Corruption? Ha! That Giovanni Borri is as corrupt as they come. He has friends in powerful places, which is the only reason he's here. 	腐化？哈！那个乔瓦尼·博里才是腐败到骨子里。他朝中有人，这也是他待在这儿的唯一原因。
+aeth30	1	aeth30::English	They made him Chief Cartographer, but the young idiot wouldn't know a map if he was looking right at one. He'd probably wipe his arse with it. And now he's sent all our junior scholars out on some fool's errand... 	他们让他当了首席制图师，可这小蠢货就算盯着地图也认不出地图。他大概会拿它擦屁股。现在他还把我们所有的初级学者都派出去办傻事……
+engi1	1	engi1::English	<<The woman tinkers with a small crystal, brows furrowed. She taps at it with a stylus, before it seethes with magical energy and she drops it, cursing.>>	<<那女人正摆弄一小块水晶，眉头紧锁。她用触笔敲了敲它，水晶骤然沸腾起魔法能量，她咒骂着撒手扔开。>>
+engi2	1	engi2::English	Gods-damnit! ((You)) broke my concentration. It'll take hours to recalibrate that. 	众神该死！((你))打断了我的专注。重新校准得花好几个小时。
+engi3	1	engi3::English	<<She glares at you for a moment.>> But, seeing as you're here, you might as well make yourself useful. 	<<她瞪了你一会儿。>>不过，既然你来了，不如帮点忙。
+engi4	1	engi4::English	I'm Natalya, Chief Engineer here. ##Now tell me - how would you like to travel anywhere, instantly?	我是娜塔莉亚，这里的首席工程师。##告诉我——能眨眼间抵达任何地方，你意下如何？
+engi5	1	engi5::English	<<Natalya looks preoccupied with a complex crystal gadget.>> ##Welcome back. Let's keep this brief, I've plenty to do. 	<<娜塔莉亚正专心摆弄一台复杂的水晶装置。>> ##欢迎回来。长话短说，我事多得是。
+p91	1	p91::English	Instantaneous travel? Sign me up.	眨眼即达？算我一个。
+engi6	1	engi6::English	That's the spirit. You see this big chamber, here? I had it brought up from the islands below. It's a portal chamber. 	这就对了。看到这边这个大厅了吗？我让人把它从下面的岛屿运了上来。这是一座传送门大厅。
+engi7	1	engi7::English	It's tech from this Academy, but it's actually pretty old. The Erudite Academy moves around a lot, and it seems one of my predecessors tried to set up a portal network on these very islands, a long time ago.	这是学院的技术，但其实相当古老。博识学院四处迁徙，很久以前似乎有位前任曾试图在这些岛屿上建立传送门网络。
+engi8	1	engi8::English	It looks like they never got it working, but I think I've found the missing link. I've calibrated a crystal to act as a key, of sorts. It should activate the portals and allow for safe travel. But I just need someone to test it out...	看样子他们从没能让它运转起来，但我想我找到了缺失的一环。我校准了一块水晶，让它充当某种钥匙。它应该能激活传送门并保障安全通行。但我需要有人来试验……
+p92	1	p92::English	Sounds dangerous.	听起来很危险。
+engi9	1	engi9::English	Dangerous? Pfft. The chance of the portal ripping you up and sending your limbs to completely different continents is, uh, quite low. I think. 	危险？切。传送门把你撕碎、把你的四肢寄到完全不同大陆的概率，呃，相当低。我觉得。
+p93	1	p93::English	Sure, I'll do it. 	行，我来干。
+engi10	1	engi10::English	That's what I wanted to hear! See this crystal key?## <<She reveals a glimmering device - a marriage of clockwork and crystal - and hands it to you.>>	我就等这句话！看到这把水晶钥匙了吗？##<<她亮出一台微光闪烁的装置——发条与水晶的结晶——递到你手中。>>
+engi11	1	engi11::English	It will allow you to activate the portal chambers. Once activated, you can teleport to any of the other portals you've found.	它能让你激活传送门大厅。激活之后，你可以传送到你找到的其他任何传送门。
+engi12	1	engi12::English	The only trouble is that I've only found ((one)). But the Academy records state there should be many more scattered around the island. 	唯一的麻烦是，我只找到((一座))。但学院档案记载，岛上应该还散落着更多。
+engi13	1	engi13::English	You don't need to find them ((all.)) If you can link [[this one]] to a portal chamber in the [[Endless Realm]] and another in the [[Clockwork Kingdom]], I'll reward your efforts. 	你不必把它们((全部))找齐。只要你能把[[这一座]]与[[无尽领域]]和[[发条王国]]的传送门大厅各连上一座，我就犒赏你的辛劳。
+p94	1	p94::English	I'll pass, thanks.	算了，谢谢。
+engi14	1	engi14::English	That's your choice, but you're missing out on ((history)), friend. 	那是你的选择，但朋友，你错过了((历史))。
+p95	1	p95::English	Can you remind me about these portals? 	你能再给我讲讲这些传送门吗？
+engi15	1	engi15::English	No problem. That crystal key I gave you? 	没问题。我给你的那把水晶钥匙？
+p96	1	p96::English	I activated those portals for you. 	我替你激活了那些传送门。
+engi16	1	engi16::English	You did? Excellent work! And, I'm guessing you're still in one piece? No severed limbs or appendages? Wow, what're the chances these old hunk o' junks would actually ((work?))	真的？干得漂亮！而且，我猜你依然四肢健全？没有断手断脚？哇，这些老古董居然真能((用))，这概率得多低啊？
+engi17	1	engi17::English	...uh, I mean of ((course)) they worked. And I can't thank you enough for finding them. Here, take this - it's the least I can do. 	……呃，我是说它们((当然))能用。你把它们找齐了，我感激不尽。来，拿上这个——聊表心意。
+p97	1	p97::English	How did you end up at the Academy?	你怎么会来学院的？
+engi18	1	engi18::English	What, I don't look like I belong here? <<She smirks.>>	怎么，我不像这里的人？<<她坏笑。>>
+engi19	1	engi19::English	Well, you're not exactly the first to think that. I grew up in the slums of Slev, scraping a living through... unsavoury means. I always had a knack for cipher-tech, and by the time I was a teenager I was making bombs and traps for a local gang.	唉，你可不是第一个这么想的。我在斯列夫的贫民窟长大，靠一些……不太光彩的手段糊口。我天生擅长密文科技，十几岁就给当地帮派造炸弹和陷阱了。
+engi20	1	engi20::English	Well, one day we pulled a heist on a wizard. All went tits-up, and the gang scarpered; but the wizard caught me. He threw me in his cart - I coulda sworn he was gonna take me to the Inquisition, have me hung...	唉，有一天我们打劫了一位巫师。全砸了，帮派作鸟兽散；但巫师抓住了我。他把我扔上他的马车——我发誓他当时要把送去宗教裁判所，把我吊死……
+engi21	1	engi21::English	...But he took me here. Took a bit of getting used to - got into some scrapes, nearly been thrown out a bunch of times. But they stuck with me, and now it's home. 	……可他把我带到了这里。花了不少时间适应——惹过些麻烦，好几次差点被扫地出门。但他们收留了我，如今这里就是家。
+p98	1	p98::English	What's with all the crystals?	这里怎么全是水晶？
+engi22	1	engi22::English	The Academy has been tinkering with crystals for as long as anyone can remember. They're technically called epoch crystals - you find 'em in the earth. They're especially useful for teleportation, levitation - anything that's too powerful for a normal spell. 	自有人记得以来，学院就一直在捣鼓水晶。它们的学名是纪元水晶——埋在土里。它们对传送、悬浮格外有用——凡是一般法术扛不住的大功率场合都得靠它们。
+p99	1	p99::English	So wait, what exactly ((are)) epoch crystals?	等等，纪元水晶((到底))是什么？
+engi23	1	engi23::English	They form in the earth, over hundreds of years. They're actually what makes all these islands levitate - naturally occurring epoch crystals are embedded deep in the rock.	它们在地下历经数百年生成。让这些岛屿悬浮的其实就是它们——天然纪元水晶深嵌在岩层之中。
+engi24	1	engi24::English	They form where there's been large human societies - or that's the theory. Think of 'em like a sort of societal residue. All those hopes, dreams, fears, emotions - some trace of them gets left behind in the crystal. 	它们只在大规模人类社会存在过的地方生成——至少理论如此。把它们想象成某种社会残渣。那些希望、梦想、恐惧、情感——总会有些痕迹留在水晶里。
+engi25	1	engi25::English	Anyway, they can be a conduit for cipher magic. Whatever goes on in a spellcaster's mind when they weave a spell - that can be reflected a hundredfold by an epoch crystal. They amplify magic. 	总之，它们是密文魔法的导管。施法者编织法术时脑海中发生的一切——纪元水晶都能将其百倍映照。它们放大魔法。
+p100	1	p100::English	What can you tell me about portals? 	关于传送门，你能给我讲讲吗？
+engi26	1	engi26::English	Portals are tricky; they're not outright banned by the Union, but the Inquisition keeps a close eye on them. After all, if you open a portal to the ocean? Or inside a neuron star? You're gonna be pretty fucked. 	传送门很难搞；联盟没有彻底禁绝它们，但宗教裁判所盯得很紧。毕竟，要是你把传送门开到海底？或者神经元星内部？那你就死得很难看了。
+engi27	1	engi27::English	Not to mention most portal spells are unstable, often dangerous. If you ask a merchant captain whether she'd rather ferry her goods by airship or ((a portal)), she'd say airship every time.	更别提大多数传送法术都不稳定，往往还很危险。你去问哪个商船船长，她愿意用飞艇还是((传送门))运货，她每次都会选飞艇。
+engi28	1	engi28::English	But we're trying to change that. We know the ancient Emberians could teleport goods and people safely, all around their empire. So it's ((possible)). We just need to refine the cipher... stabilise the magic. We'll get there. 	但我们正试图改变这一点。我们知道古代余烬人能把货物和人口安全地传送到帝国各地。所以这是((可行的))。我们只需要完善密文……让魔法稳定下来。我们会成功的。
+p101	1	p101::English	Okay, I think I get it. 	好，我明白了。
+engi29	1	engi29::English	Right. Is there anything else you wanna ask? 	好。还有想问的吗？
+p102	1	p102::English	Have you witnessed anything strange, or... ((forbidden)) lately?	你最近有没有见到什么奇怪的，或者……((违禁))的事？
+engi30	1	engi30::English	If anyone's suspicious, it's that Dohn Ghee downstairs. He's an old Wikkan loyalist, don't you know? ##How he managed to escape the post-war purges, I don't know - but I bet you'll find him muttering to the old gods in his sleep. 	要说谁可疑，楼下那个多恩·吉最可疑。他可是维坎教团的老忠臣，知道吗？##他是怎么逃过战后清洗的，我不知道——但我敢打赌，你会看见他睡觉时对着旧神喃喃自语。
+ghlem1	1	ghlem1::English	<<The woman's flesh hangs loosely from her bones. Ruptures in the skin reveal muscle, sinew and patches of exposed bone. She glances at you with cloudy eyes.>>	<<那女人的血肉松垮地挂在骨头上。皮肤开裂处露出肌肉、筋腱和斑驳的裸骨。她用浑浊的眼睛瞥了你一眼。>>
+ghlem2	1	ghlem2::English	You know it's rude to stare, mortal. ##My name is Ghlem; the Chief Historian of this Academy.	你知道盯着人看很不礼貌吧，凡人。##我叫格莱姆；本学院的首席历史学家。
+ghlem3	1	ghlem3::English	<<Ghlem glances at you with her cloudy eyes.>> ##Back again, mortal?	<<格莱姆用浑浊的眼睛瞥了你一眼。>> ##又来了，凡人？
+p111	1	p111::English	You don't seem quite like the... other scholars.	你看起来和……其他学者不太一样。
+ghlem4	1	ghlem4::English	Your skills of deduction are quite exemplary, mortal. I am an Endless, and so - quite unlike the rest of this bunch - I look like a rotting corpse.	你的推理能力相当出色，凡人。我是无尽者，所以——与这群人大不相同——我看上去像一具腐烂的尸体。
+ghlem5	1	ghlem5::English	But I've also been here the longest. In fact, I've been at the Adademy since before any of these scholars were even born. 	而且我在这里待得最久。事实上，早在这些学者出生之前，我就已经在学院了。
+p112	1	p112::English	How did you end up here?	你是怎么来这里的？
+ghlem6	1	ghlem6::English	I left my homeland over two centuries ago. Back then, my kind indulged their insatiable hunger by waging constant war on the living; the Cadaver Crusades. It was repulsive, and so I left. 	两个多世纪前，我离开了故乡。那时，我的同族为满足永不餍足的饥渴，向活人连年征战；尸骸十字军。那令人作呕，于是我离开了。
+ghlem7	1	ghlem7::English	I wandered for a long time, half-starved, before the Erudite Academy found me. I think they brought me in more as a research specimen, but it soon became apparent I was a brighter spark than most of them.	我半饥半饱地流浪了很久，直到博识学院发现了我。我想他们收留我更多是当作研究标本，但很快他们发现，我比他们大多数人脑筋都灵光。
+ghlem8	1	ghlem8::English	I became a historian, on account of me being older than most of their books. Sooner or later my superiors all died, and so here I am - Chief Historian. 	我成了历史学家，因为我比他们大多数书都年长。迟早我的上司们全死光了，于是就有了今天——首席历史学家。
+p113	1	p113::English	And the other scholars accept you?	其他学者能接受你吗？
+ghlem9	1	ghlem9::English	It varies. Many in the Apostatic Union think us Endless should be burned at the stake; but here at the Academy, your kind seem to be more accepting. ##Although that buffoon Giovanni clearly wants me thrown out with the outhouse slop.	因人而异。叛教联盟里很多人认为我们无尽者该绑上火刑柱；但在学院，你们这类人似乎更包容些。##尽管那个蠢货乔瓦尼明显想把我连同茅厕污水一起倒出去。
+ghlem10	1	ghlem10::English	When I first came here, I hid my flesh in silks and bandages, to hide my shame. But over the years I ceased to care. If people want to gawp, let them gawp. 	我刚来时，用丝绸和绷带裹住血肉，遮掩我的羞耻。但这些年过去，我已经不在乎了。谁想看就让他们看个够。
+p114	1	p114::English	Thanks for indulging my curiosity. 	谢谢你满足我的好奇心。
+ghlem11	1	ghlem11::English	That's quite alright, mortal. Most of your kind just scarper at the sight of me. Think I'm infectious, or something. 	没什么，凡人。你们这类人大多一看见我就跑。以为我会传染什么似的。
+p115	1	p115::English	Can I ask about some history? 	我能问点历史吗？
+ghlem12	1	ghlem12::English	Of course, mortal. I've read every book in this place, and let me tell you - most of them are wrong. I should know, being older than the World Rend. 	当然可以，凡人。这里每本书我都读过，而且告诉你——大多都写错了。我有资格这么说，我比世界撕裂还年长。
+p116	1	p116::English	Can you tell me about the Apostatic Union?	能给我讲讲叛教联盟吗？
+ghlem13	1	ghlem13::English	The Union is a relatively young conglomerate of states. It was formed forty years ago, when the victors of the [[God War]] unified under one banner. 	联盟是个相当年轻的国家联合体。四十年前，[[神之战]]的胜利者们团结在同一旗帜下，联盟就此成立。
+ghlem14	1	ghlem14::English	But the lands that make up the Union can trace their history back four hundred years, when the survivors of the World Rend fled to the skyrealms. They were feudal kingdoms then, allied to the Wikkans and their gods.	但构成联盟的诸邦，历史可以追溯到四百年前——世界撕裂的幸存者逃往天空领域之时。那时它们还是封建王国，与维坎教团及其诸神结盟。
+ghlem15	1	ghlem15::English	[[Venna]] has always been a diplomatic hub; and its principal city, [[Riova]], is now the capital of the Union. ##[[Lundel]] is a noble land, full of castles and windswept plains. 	[[维纳]]一直是外交枢纽；其主城[[里奥瓦]]如今是联盟的首都。##[[伦德尔]]是一片高贵的土地，遍布城堡与劲风平原。
+ghlem16	1	ghlem16::English	[[Byonne]] is a place of culture and learning. The best universities, the best theatres; the best wines. ##And lastly, [[Slev]] is the northernmost land - and a cold, harsh one at that. Its cities are rife with corruption and gangs. 	[[拜昂]]是文化与学术之地。最好的大学、最好的剧院；最好的美酒。##最后是[[斯列夫]]，最北端的土地——寒冷而严酷。那里城市腐败横行，帮派林立。
+ghlem17	1	ghlem17::English	But, half a century ago, the rulers of these lands chose to break free of the Wikkan covens. Astoundingly, they chose to fight their own gods; and even more astoundingly, they won... and the Apostatic Union was born. 	但半个世纪前，这些土地的统治者们选择挣脱维坎教团。惊人地，他们选择与自己的神开战；更惊人地，他们赢了……叛教联盟就此诞生。
+p117	1	p117::English	((Keep listening))	((继续听))
+p118	1	p118::English	Okay, I think I've heard enough.	好，我听得差不多了。
+ghlem18	1	ghlem18::English	Okay, mortal. Now where were we?	好吧，凡人。刚才说到哪了？
+p120	1	p120::English	Can you tell me about these islands?	能给我讲讲这些岛屿吗？
+ghlem19	1	ghlem19::English	This archipelago, with [[Hallowshire]] at its heart, is known as the [[Oneiric Isles]].	这片群岛以[[哈洛郡]]为中心，被称为[[梦幻群岛]]。
+ghlem20	1	ghlem20::English	To the east of Hallowshire lies Kardova - more recently known as the [[Clockwork Kingdom.]] To the west is the [[Endless Realm]], where my kind originates. 	哈洛郡以东是卡尔多瓦——如今称为[[发条王国]]。以西是[[无尽领域]]，我族人的发源之地。
+ghlem21	1	ghlem21::English	But these islands have not always existed together. Islands in the skyrealms drift with the current, and if you go back a hundred years or so - neither Kardova or the Endless Realm were part of this archipelago.	但这些岛屿并非一直聚在一处。天空领域的岛屿随流漂移，倘若回溯百年左右——卡尔多瓦和无尽领域都还不是这片群岛的一部分。
+p121	1	p121::English	What about Hallowshire?	那哈洛郡呢？
+ghlem22	1	ghlem22::English	For many years, Hallowshire has existed as an independent territory; in league with the Wikkan cult of the worm, who worship the fertility god [[Paeguth]]. 	多年来，哈洛郡一直是独立领地；与崇拜蠕虫的维坎教团结盟，他们信奉丰饶神[[帕古斯]]。
+ghlem23	1	ghlem23::English	But recently it has been absorbed into the Apostatic Union's borders; making it the southernmost territory of the Union.	但最近它被并入了叛教联盟的版图；成为联盟最南端的领地。
+ghlem24	1	ghlem24::English	As you have no doubt noticed, there is a great deal of friction between the locals and the Apostatic Union's soldiers. When townsfolk have relied upon a god for so long, they don't take kindly to having that god suddenly outlawed.	你一定已经注意到，当地人与叛教联盟士兵之间摩擦不断。镇民依赖一位神明这么久，自然不会乐见这位神明突然被定为非法。
+p122	1	p122::English	Okay, I think I get it. 	好，我明白了。
+ghlem25	1	ghlem25::English	Assuredly. 	应该的。
+p123	1	p123::English	Can you tell me about the Erudite Academy?	能给我讲讲博识学院吗？
+ghlem26	1	ghlem26::English	The [[Erudite Academy]] is over two hundred years old. Unlike the other universities in the Apostatic Union, it is not tied to a single state; it exists independently.	[[博识学院]]已有两百多年历史。与叛教联盟的其他大学不同，它不隶属于任何单一邦国；它独立存在。
+ghlem27	1	ghlem27::English	For much of its history it was a fringe establishment, refusing to align with gods or Wikkan covens. In fact, many of the treatises and polemics that laid the ground for the God War originated from this very establishment.	在它历史的大部分时期，它都是边缘机构，拒绝依附任何神明或维坎教团。事实上，为神之战埋下伏笔的许多论著和檄文，正是出自这家机构。
+ghlem28	1	ghlem28::English	And so, it should come as no surprise that - since its inception - the Union has favoured the Erudite Academy with high profile commissions and secretive projects. 	因此，毫不意外——自联盟成立起，它就一直把声名显赫的委托和机密项目交给博识学院。
+ghlem29	1	ghlem29::English	As you can see, the Academy exists on a flying island. It moves between territories, to where it is needed most. We have been stationed on these Oneiric Isles for about a year now.	如你所见，学院坐落在一座飞岛上。它在各领地之间迁徙，前往最需要它的地方。我们驻扎在这些梦幻群岛上已有一年了。
+p124	1	p124::English	Can you tell me about the distant past? 	能给我讲讲远古的历史吗？
+ghlem30	1	ghlem30::English	Well, that is quite a question. I will try to be brief.	唔，这可是个大问题。我尽量长话短说。
+ghlem31	1	ghlem31::English	For most of human history, civilisation thrived far below - on the world's surface. Feudal kingdoms flourished, under the patronage of powerful gods, and the Wikkans mediated between mortals and the divine. 	在人类历史的大部分时间里，文明在遥远的下方——世界地表——繁荣兴旺。封建王国在强大神明的庇护下昌盛，维坎教团在凡人与神明之间斡旋。
+ghlem32	1	ghlem32::English	But advances in magic and technology led to the rise of the Emberian Empire. Huge cities spread across the world, linked by unfathomable spells, and the Wikkans fled to the skyrealms.	但魔法与科技的进步催生了余烬帝国的崛起。巨大的城市铺满世界，以深不可测的法术相连，维坎教团逃往了天空领域。
+ghlem33	1	ghlem33::English	But then, of course, we had the World Rend - four hundred years ago. We cannot say exactly ((what)) the World Rend was - only that it destroyed the world's surface, and forced humans to flee to these skyrealms. 	但后来，当然，世界撕裂降临——四百年前。我们说不清世界撕裂((究竟))是什么——只知道它毁掉了世界地表，逼迫人类逃向这些天空领域。
+ghlem34	1	ghlem34::English	Believe it or not, I was alive during the World Rend. I remember an intense flash, a burning heat - and a terrible sound like a thousand screams. Our island crashed into another during the commotion. I have known nothing like it. 	信不信由你，世界撕裂时我还活着。我记得一道刺目的强光，一阵灼人的热浪——还有可怕的声音，像一千人的尖叫。混乱中我们的岛撞上了另一座岛。我此生再未见过那样的事。
+p125	1	p125::English	That's all I wanted to know.	我想知道的就是这些。
+ghlem35	1	ghlem35::English	My pleasure, mortal.	乐意效劳，凡人。
+p126	1	p126::English	Have you heard of anything... ((untoward)) going on here?	你有没有听说这里发生过什么……((不轨))的事？
+ghlem36	1	ghlem36::English	Oh, this place has secrets, that's for sure. There's a [[chamber]] underneath this building - accessible from the garden outside - that I've seen someone entering in the dead of night. 	噢，这地方肯定藏着秘密。这座建筑下面有个[[密室]]——可以从外面的花园进去——我曾看见有人深更半夜进去。
+ghlem37	1	ghlem37::English	There's no doorway, though I've seen a number of [[suspicious candlesticks]] around the Academy. Mortal wizards do ((love)) to hide their dirty little secrets with enchanted candles!	那里没有门，但我在学院各处见过几只[[可疑的烛台]]。凡人巫师((最爱))用附魔蜡烛来藏他们见不得人的小秘密了！
+herb1	1	herb1::English	<<The man mumbles to himself as he grinds a mortar and pestle. He seems oblivious to your presence, until he mutters...>>##I'll be just a moment, young'un.	<<那人一边研磨臼钵一边自言自语。他似乎没察觉你的存在，直到他嘟囔道……>>##稍等片刻，年轻人。
+herb2	1	herb2::English	<<He stares at the concoction of herbs, frowning. Suddenly, he hawks a gob of phlegm and spits it into the bowl, grinds, and sets it aside; seemingly satisfied.>>	<<他盯着那剂草药，皱着眉。忽然，他咳出一口浓痰吐进碗里，研磨几下，放到一旁；一脸满意。>>
+herb3	1	herb3::English	Now then. I'm Dohn Ghee, Prime Alchemist of this old Academy. What can I do for you?	好了。我是多恩·吉，这所老学院的首席炼金师。有什么能帮你的？
+herb4	1	herb4::English	<<Dohn Ghee's eyes glint from beneath his bushy eyebrows.>> Back again, eh?	<<多恩·吉浓密的眉毛下目光一闪。>>又来啦？
+herb5	1	herb5::English	<Dohn Ghee scowls at you from behind the bars.>> ##Damn these Inquisition bastards. I wasn't hurting a soul, y'hear?	<多恩·吉隔着栏杆怒视着你。>>##该死的宗教裁判所混蛋。我可没伤过任何人，听见没？
+p131	1	p131::English	Can you teach me about alchemy?	能教教我炼金术吗？
+herb6	1	herb6::English	Better than most, I'd wager. ##With alchemical equipment, you can combine ingredients to make new concoctions. Feel free to use the equipment in my study.	我敢说，我比大多数人都在行。##用炼金设备，你可以把原料组合成新的制剂。随意用我书房里的设备。
+herb7	1	herb7::English	Now, the Academy has been floatin' over these Oneiric Isles for about a year now, and I've gotten a flavour for the herbs that grow here.	学院在这些梦幻群岛上空飘了差不多一年，我已经摸清了这里生长的草药的门道。
+herb8	1	herb8::English	Brew two [[Eyes of Paeguth]] for a potent [[Health]] potion. Just the same, [[Paradoxicus]] revitalises [[Mana]] and [[Jitterseed]] will restore [[Stamina]]. ##But there are plenty more potent combinations, mark my words. 	把两株[[帕古斯之眼]]熬成强效[[生命]]药水。同理，[[悖论花]]恢复[[法力]]，[[颤籽]]补充[[体力]]。##不过还有更多强力配方，记住我的话。
+p132	1	p132::English	Are there any... rarer herbs?	有没有什么……更稀有的草药？
+herb9	1	herb9::English	<<He betrays a sly grin.>> ##Ah, well that depends who's askin'. That damned Inquisition have banned the use of some of the most potent alchemical herbs, to the chagrin of those who know better.	<<他露出狡黠的笑。>>##啊，这得看是谁在问。那该死的宗教裁判所禁用了几种药效最强的炼金草药，懂行的人都气得牙痒痒。
+herb10	1	herb10::English	<<He leans closer.>> ##But to those who know where to look, you can still find [[Death's Veil]] around these parts. It's a shroom that grows from the cursed remains of a corpse. Macabre stuff, but extremely useful.	<<他凑近了些。>>##但只要知道去哪找，这一带还是能寻到[[死亡之幕]]。那是一种从受诅咒的尸骸上长出的蘑菇。听着瘆人，但极其有用。
+herb11	1	herb11::English	Combine it with an [[Eye of Paeguth]] for an [[Elixir of Restoration]]. You could be on death's door, but one o' those would fix you right up.	把它和一株[[帕古斯之眼]]调配，就能得到[[复原灵药]]。就算你已一只脚踏进鬼门关，一瓶下去也能活蹦乱跳。
+p133	1	p133::English	Is it possible to make poison?	能调制毒药吗？
+herb12	1	herb12::English	Of course. Mix an [[Eye of Paeguth]] with [[Jitterseed]]. The latter reverses the healing effects of the former; making a concoction that'll eat through skin. Coat your weapons with that an' your enemies will be sorry.	当然。把一株[[帕古斯之眼]]和[[颤籽]]混合。后者会逆转前者的疗效；调出的东西能腐蚀皮肉。把它涂在武器上，你的敌人会追悔莫及。
+p134	1	p134::English	Can you combine ingredients other than herbs? 	草药以外的原料也能组合吗？
+herb13	1	herb13::English	You can. When an alchemical experiment fails to produce something useful, you'll often get a type of alcoholic [[spirit]]. Mix these with herbs and you can make all sorts of beverages. They'll get you right plastered, too. 	可以。当炼金实验没能产出有用之物时，常常会得到某种含酒精的[[烈酒]]。把这些和草药混合，就能调出五花八门的饮品。还能把你灌得烂醉如泥。
+herb14	1	herb14::English	The ancient alchemists write of refining base metals into gold, but the art has been lost forever, erased from existence itself. Such powers were deemed too dangerous and unstable.	古代炼金师写过把贱金属炼成黄金的法子，但这门技艺已经永远失传，被从存在本身中抹去了。那种力量被认为太过危险、太不稳定。
+p135	1	p135::English	Thanks for the information.	多谢指点。
+herb15	1	herb15::English	Any time.	随时效劳。
+p136	1	p136::English	How did you become the Prime Alchemist? 	你是怎么当上首席炼金师的？
+herb16	1	herb16::English	<<He is silent for a moment; looking past you in contemplation.>> ##I come from Lundel. A beautiful and wild place, where the wind and rain will shape a man.	<<他沉默了片刻；目光越过你，陷入沉思。>>##我来自伦德尔。一片美丽而狂野的土地，那里的风与雨能塑造一个人。
+herb17	1	herb17::English	My father was the court alchemist for the King. He worked with the Wikkans and the local gods to ensure the prosperity of the realm. It was a noble position, and one I inherited on my two-and-twentieth year.	我父亲是国王的宫廷炼金师。他与维坎教团及当地诸神合作，保王国风调雨顺。那是个高贵的职位，我二十二岁那年继承了它。
+herb18	1	herb18::English	<<He sighs.>> But my tenure was cut short by the God War. Lundel fell into civil war, and my liege was slain. The Wikkans became traitors, my gods became outcasts. 	<<他叹了口气。>>但我的任期被神之战截断了。伦德尔陷入内战，我的君主被杀。维坎教团成了叛徒，我的神成了弃儿。
+herb19	1	herb19::English	I fled to this Academy - and good thing I did. My... past allegiances would've seen me hung by this newfangled Union, were it not for the protection of this place. I warrant there are still some who would wish that fate upon me, even now. 	我逃到了这所学院——幸好如此。要不是这里的庇护，我那……过去的立场，足够让这个新兴的联盟把我吊死。我敢说，即便现在还有人盼着我落得那个下场。
+p137	1	p137::English	Do you know of any... ((unsavoury)) happenings in the Academy? 	你知道学院里有什么……((见不得人))的事吗？
+herb20	1	herb20::English	Well, if there's any wrongdoing, it'll be that blasted engineer up above me. I can always hear her banging an' clattering. Tell me, what can possibly be so important as to warrant so much damned noise?	嗯，要说不轨之事，肯定是我头顶上那个该死的工程师。我总能听见她叮叮当当敲个不停。你说，什么事能重要到非得弄出这么大动静？
+p150	1	p150::English	I found the god you've been hiding.	我找到了你藏的那个神。
+god1	1	god1::English	<<He grimaces.>> I clearly didn't hide it well ((enough)). ##Its name is Xanarrib. Must be one of the last gods on Union soil, I suppose.	<<他做了个苦相。>>显然我藏得不够((严实))。##它的名字叫萨纳里布。想必是联盟境内最后的神之一了吧。
+p151	1	p151::English	What were you doing with it?	你拿它做什么？
+god2	1	god2::English	Oh my. It's ((fascinating)) research, if I do say so myself. ##As you are no doubt aware, gods draw power from human belief. A devout follower is like a source of ((food)) to them.	噢我的天。恕我自夸，这是((极其迷人))的研究。##你肯定知道，神从人类的信仰中汲取力量。虔诚的信徒对他们而言就像((食物))的来源。
+god3	1	god3::English	So I have been examining this process. Gods do not have organs; simply a nucleus surrounded by strange matter. This turns out to be remarkably similar to the human mind; full of neural synapses. The implications are astounding!	所以我一直在研究这个过程。神没有器官；只有一个核心，外面包裹着奇异的物质。结果发现这与人类心智惊人地相似；满是神经突触。其中的含义令人震撼！
+p152	1	p152::English	Is it ((safe)) to harbour a god? 	窝藏一个神((安全))吗？
+god4	1	god4::English	Ah, quite safe, I assure you. Before the God War, Xanarrib was a god of revenge for a nearby village - but I have muted its power with cipher wards.	啊，非常安全，我向你保证。神之战之前，萨纳里布是附近一座村庄的复仇之神——但我用密文结界削弱了它的力量。
+god5	1	god5::English	Just last week, that oaf Giovanni lost my favourite pen. Not a moment after I found out, he stubbed his toe and was in quite a lot of pain. If Xanarrib was at its full strength, I'm sure Giovanni would have fallen out a window to certain death, or something.	就在上周，那个蠢货乔瓦尼弄丢了我最喜欢的钢笔。我得知后没多久，他脚趾踢到东西，疼得龇牙咧嘴。如果萨纳里布处于全盛之力，我确信乔瓦尼早就摔出窗外摔死了，或者什么的。
+god6	1	god6::English	In fact, thinking of it, maybe I muted its power a little ((too)) much...	说起来，这么一想，也许我把它削弱得((太))狠了点……
+p153	1	p153::English	I found your journal. It's fairly... ((incriminating)).	我找到了你的笔记。写得相当……((有罪证感))。
+god7	1	god7::English	Hmph. Yes, it's true. The Apostatic Union has outright banned this kind of research, even in this Academy. ##The fools! Do they realise what could be achieved if they did not ((run)) from what they fear? 	哼。是的，属实。叛教联盟明令禁止这类研究，连这所学院也不例外。##蠢货们！如果他们不再((逃避))恐惧之物，他们能成就什么，他们想过吗？
+god8	1	god8::English	Please, I would ask you to return the journal to me - and forget this whole business. If the Inquisition were to get their hands on that journal, they would punish the whole Academy for my deeds. 	拜托，请你把笔记还给我——然后把整件事忘掉。如果那本笔记落到宗教裁判所手里，他们会为我的所作所为惩罚整个学院。
+p154	1	p154::English	Okay, have the journal.	好，笔记还你。
+god9	1	god9::English	<<He grabs the book hastily.>> ##You have my sincerest thanks. I will see to it that Xanarrib is relocated - just as soon as I've finished my study. 	<<他慌忙抓过笔记。>>##衷心感谢。我会安排萨纳里布转移——就在我完成研究之后。
+p155	1	p155::English	I think I'll hold on to it, actually. 	我想我还是留着它吧。
+god10	1	god10::English	I do hope you reconsider. The Academy should not be punished unduly. 	我希望你再想想。学院不该受到过重的惩罚。
+p156	1	p156::English	Okay, I've heard enough. 	好，我听得够多了。
+god11	1	god11::English	Indeed. But please, I would ask for your discretion in this matter. ##Now, was there anything else? 	确实。但拜托，此事还请你守口如瓶。##好了，还有别的事吗？
+god12	1	god12::English	<<Jerome scowls at you.>> ##Damn these Inquisition bastards. They won't even let me ((piss)) if a guard's not in there with me. 	<<杰罗姆怒视着你。>>##该死的宗教裁判所混蛋。连我((撒尿))都要一个卫兵跟着。
+god13	1	god13::English	I've been assigned to guard this old fool, until his case can be brought to trial. ##What does he even ((do)) with all this junk? 	我被派来看守这个老蠢货，直到他的案子开庭。##他拿这一堆破烂((到底))能干什么？
+god14	1	god14::English	A god, right here in a Union institution? What in the ((realms)) were they thinking? 	一个神，就在联盟的机构里？他们((到底))是怎么想的？
+god15	1	god15::English	This academy is now under Inquisition occupation. We've got our eyes on you. 	这所学院现由宗教裁判所接管。我们盯着你呢。
+pwyllCarto1	1	pwyllCarto1::English	<<The scholar has one eye pressed to his looking glass. As you approach he squints, takes a deep breath and is suddenly still.>> ##Aaaah...	<<这位学者一只眼睛贴在窥镜上。你走近时，他眯起眼，深吸一口气，突然僵住。>> ##啊——啊……
+p181	1	p181::English	Uh, are you okay?	呃，你还好吗？
+p182	1	p182::English	Pleased to meet y-	幸会——
+pwyllCarto2	1	pwyllCarto2::English	((-CHOOOO!))##<<As the scholar sneezes, he sprays a thick globule of mucus over his looking glass lens. He wipes his face and looks perturbed.>> 	((阿——嚏！))##<<学者打了个喷嚏，一大团浓稠的鼻涕喷在他的窥镜镜片上。他擦了擦脸，一脸狼狈。>>
+pwyllCarto3	1	pwyllCarto3::English	These... <<sniff,>> ((bloody)) mushroom spores! Why did I have to be sent to Pwyll, of all places, to make this [[damned map]]?	这些……<<吸鼻子>>，((该死的))蘑菇孢子！偏偏派我到普威尔这种地方来画这张[[破地图]]？
+pwyllCarto4	1	pwyllCarto4::English	<<The scholar wipes his nose with his sleeve.>> If only that beady-eyed creature hadn't run off with my handkerchief... 	<<学者用袖子擦了擦鼻子。>>要是那个小眼睛的家伙没叼走我的手帕就好了……
+p183	1	p183::English	So, what landmarks do you need for this region?	那么，这个区域你需要标注哪些地标？
+pwyllCarto5	1	pwyllCarto5::English	<<He sniffs, wipes his nose on his sleeve, then points to the towering fortress behind you.>> ##Well, the first one I was supposed to chart was the old God War fortress over there, called the [[Blinding Light.]] Only... I heard it's infested with ((pirates)) and ((smugglers)), so... I was going to wait until I felt better... <<He looks sheepish.>>	<<他吸吸鼻子，用袖子擦了擦，然后指着你身后高耸的要塞。>>##嗯，我本该测绘的第一个地标，是那边那座神战时期的要塞，叫[[炫光要塞]]。只是……听说里面盘踞着((海盗))和((走私犯))，所以……我想等身体好点再去……<<他一脸赧然。>>
+pwyllCarto6	1	pwyllCarto6::English	Then there's ((another)) fortress to the south-east of the island, but... <<he sniffs.>> Have you seen the [[huge creature]] that's floating above it? No, no - that one will have to wait. 	然后，岛屿东南还有((另一座))要塞，可是……<<他吸吸鼻子。>>你看到漂浮在它上空的那只[[巨型生物]]了吗？不不不——那个还是等以后再说。
+pwyllCarto7	1	pwyllCarto7::English	And finally there's the [[Sacred Shroom]], as the locals call it, to the north-west. Only... that's the largest mushroom I've ever seen, so it would surely ((destroy)) my sinuses... 	最后是西北处的[[神圣蘑菇]]，当地人这么叫它。只是……那是我平生见过最大的蘑菇，去了肯定((毁掉))我的鼻窦……
+p184	1	p184::English	Can you tell me about this island?	能给我讲讲这座岛吗？
+pwyllCarto8	1	pwyllCarto8::English	<<He swallows and rubs his bloodshot eyes.>> Oh, you mean [[Pwyll]]? Well... it's the northern-most island of these Oneiric Isles. ##The local neuron star, that orbits all the islands every twelve hours or so, is brightest when it passes Pwyll. 	<<他咽了口唾沫，揉着布满血丝的眼睛。>>哦，你是说[[普威尔]]？嗯……它是梦幻群岛最北端的岛。##本地的神经元星——大约每十二小时环绕所有岛屿一周——经过普威尔时最为明亮。
+pwyllCarto9	1	pwyllCarto9::English	Decades ago, the locals had a particularly nasty god - which meant they were more than willing to take up arms in the God War. <<He sniffs.>> This place became a frontline in the fighting; that's why there are so many old fortresses about.	几十年前，当地人信奉一位相当凶恶的神——所以神之战时他们格外踊跃地拿起武器。<<他吸吸鼻子。>>这里成了战争的前线；所以附近有这么多古要塞。
+pwyllCarto10	1	pwyllCarto10::English	Of course, when the war ended it went back to being a sleepy sort of place. Though it's technically part of the Apostatic Union, you'll find that few in the heartlands have really heard of Pwyll - unless they're particularly fond of the [[scryshroom tea]] they make here. 	当然，战争结束后这里又变回了冷清地方。虽然名义上属于叛教联盟，你会发现腹地没几个人真正听说过普威尔——除非他们特别钟爱这里出产的[[窥菇茶]]。
+pwyllCarto11	1	pwyllCarto11::English	If you want to meet the locals yourself, I'd head up to [[Pwyll Village]] above us. But if you'd rather be in ((civilisation)) - and I wouldn't ((blame)) you - take the road north to [[Hallowshire]] where the Apostatic Union has a larger presence. 	如果你想亲自见识当地人，我建议去我们上方的[[普威尔村]]。但如果你更想待在((文明世界))——我也((不怪))你——沿路向北去[[哈洛郡]]，那边叛教联盟的存在感强得多。
+pwyllCarto12	1	pwyllCarto12::English	And more than anything, as I'm sure you've noticed, Pwyll is ((covered)) in blooming mushrooms! The spores stick to your clothes, they get in your hair, your nose - it's enough to make anyone... 	最重要的是，你一定也注意到了，普威尔((遍地))都是盛开的蘑菇！孢子粘在衣服上，钻进头发里、鼻子里——谁受得了……
+pwyllCarto13	1	pwyllCarto13::English	<<He pauses and suddenly becomes very still.>> ##...((I think I'm going to sneeze...))	<<他顿住，突然一动不动。>>##……((我觉得我要打喷嚏了……))

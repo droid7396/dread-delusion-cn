@@ -1,0 +1,125 @@
+ID	Col	CellKey	English	Chinese
+p1	1	p1::English	I'd like to look at your wares.	我想看看你的货。
+p2	1	p2::English	I want to create something through alchemy.	我想通过炼金做点什么。
+p3	1	p3::English	That's all, thank you.	就这些了，谢谢。
+p4	1	p4::English	Let me see what you have for sale.	让我看看你卖些什么。
+p5	1	p5::English	I want to upgrade my equipment. 	我想升级我的装备。
+p6	1	p6::English	Farewell. 	再会。
+p7	1	p7::English	I'd like to rent a room.	我想订个房间。
+p8	1	p8::English	I'll take it.	我要了。
+p9	1	p9::English	Actually, I've changed my mind.	其实，我改主意了。
+p10	1	p10::English	Can I ask you some questions?	能问你几个问题吗？
+p11	1	p11::English	Do you know of any work going?	你知道哪儿有活干吗？
+p12	1	p12::English	Thanks, that's all I wanted to know.	谢谢，我想知道的就这些。
+p13	1	p13::English	I had another question...	我还有一个问题……
+p14	1	p14::English	That's all I wanted to ask.	我想问的就这些。
+p15	1	p15::English	That's all, thank you.	就这些了，谢谢。
+p16	1	p16::English	I'll take a lockpick.	我买一把开锁器。
+p17	1	p17::English	I'll take five lockpicks.	我买五把开锁器。
+p18	1	p18::English	I'm okay, thanks.	不用了，谢谢。
+p19	1	p19::English	What's with the skull?	那个骷髅是怎么回事？
+p20	1	p20::English	What can you tell me about Hallow?	关于哈洛你能告诉我些什么？
+ps1	1	ps1::English	Please, peruse our selection of potions. Oh and, if you need something specially brewed, I can assist with alchemy. 	请随意浏览我们的药剂。哦对了，如果你需要特别调制的什么，我可以协助炼金。
+es1	1	es1::English	We've weapons and equipment for sale. If you've brought ore, I can also modify your gear.	我们出售武器和装备。如果你带了矿石，我还可以帮你改造装备。
+ik1	1	ik1::English	Welcome to the Wobbly Noggin. If you're in need of a rest, we've beds and ale aplenty. 	欢迎来到摇晃酒馆。如果你需要休息，我们床铺充足，麦酒管够。
+ikBedTaken	1	ikBedTaken::English	Uh... you've already rented the room.	呃……你已经租过房间了。
+ik2	1	ik2::English	The skull suite's vacant. It's yours for two coins. 	骷髅套房空着。两枚硬币就是你的了。
+ik3	1	ik3::English	Thank you. It's just up the stairs there - just look for the wall of bone. You can't miss it.	谢谢惠顾。就在那边的楼梯上——找骨墙就对了，绝对不会错过。
+ik4	1	ik4::English	Sorry, friend. Looks like you don't have enough.	抱歉了朋友，你的钱好像不够。
+ik5	1	ik5::English	No problem. Can I help with something else?	没关系。还有别的能帮你的吗？
+ik6	1	ik6::English	Talk is free, friend. 	聊天不要钱，朋友。
+ik7	1	ik7::English	Hmm. Well I've heard Vernon Berwig's looking for adventurers. Not sure what he's after, but he's the richest man in town, so I daresay it's worth a punt. Go to the Winged Merchants Guild on the main road if you're interested..	嗯。听说弗农·伯维格正在找冒险者。不清楚他图什么，但他是镇上最有钱的人，要我说值得一试。有兴趣的话，去大路上的飞翼商会看看吧。
+ik8	1	ik8::English	Well, most of us are simple farmers. Folk 'ave been round here since the world rend, making ends meet. After the God War we joined the Apostatic Union, but they mostly left us to our business... until recently.	这个嘛，我们大多是老实的农民。自世界撕裂以来，人们就住在这儿，勉强糊口。神之战后我们加入了叛教联盟，但他们基本不管我们的事……直到最近。
+ik9	1	ik9::English	The Union 'as seen fit to take a more... direct hand in our affairs, see. They claim our crops grow with illegal god magic. That organised cultism runs rife. But in trying to stomp that out, they've started a gods-damn famine.	联盟觉得该更……直接地插手我们的事务了，你瞧。他们声称我们的庄稼是靠非法神术长出来的，说什么有组织的邪教活动泛滥。可他们一心要铲除这些，反倒闹出了一场该死的饥荒。
+ik10	1	ik10::English	Most of us are thinking we'd be better off without the damn Union, frankly.	说实话，我们大多数人都觉得没有那个该死的联盟，日子反倒好过些。
+ik11	1	ik11::English	Oh, you noticed? Heh. Big fella, 'aint he? 	哦，你注意到了？呵。大家伙，对吧？
+ik12	1	ik12::English	He's a relic of the God War. One of the old gods, who got a voidsteel spear right through the peeper. His noggin wobbled, then he came crashing down onto this pub.	他是神之战的遗物。一位古神，被一根虚空钢长矛正中眼窝。脑袋晃了晃，就一头栽到了这家酒馆上。
+ik13	1	ik13::English	You wanna know the funny thing? The pub was already called the Wobbly Noggin. On account of the... uh... state of most of the patrons. 	你想知道最好笑的是什么吗？这家酒馆本来就叫摇晃酒馆。因为大多数……呃……酒客们那副摇摇晃晃的德行。
+p20a	1	p20a::English	I'd like to buy a drink.	我想买杯喝的。
+ik14	1	ik14::English	Sure thing. We recently got a big shipment of [[Fine Wine]] from Riova, so I can give you a good deal on a bottle. ##Though if you're looking for [[Cipher Wine]], we've been short ever since the [[Clockwork Kingdom]] shut its borders.	没问题。我们最近从里奥瓦进了大批[[精良美酒]]，一瓶能给你个好价钱。##不过如果你找的是[[魔法酒]]，自从[[发条王国]]关闭边境，我们就一直缺货。
+lp1	1	lp1::English	Greetings, friend. I'm in the business of selling... alternative keys, if you catch my drift. Two gold apiece.	你好啊，朋友。我做的是卖……"替代钥匙"的生意，你懂的。两枚金币一把。
+lp2	1	lp2::English	A fair trade. And remember - you 'aint never been here.	公平交易。记住——你从没来过这儿。
+lp3	1	lp3::English	Looks like you don't have the coin, friend.	看来你的硬币不够啊，朋友。
+npc1	1	npc1::English	Past few months, the famine's got real bad. Folk are starting to get scared. 	过去几个月，饥荒越来越严重。人们开始害怕了。
+gd1	1	gd1::English	Hail, peasant. May the Apostatic Union shine resplendent. 	你好，乡巴佬。愿叛教联盟光辉闪耀。
+p21	1	p21::English	What can you tell me about the Union?	关于联盟你能告诉我些什么？
+p22	1	p22::English	Can you give me directions around town?	能告诉我镇上怎么走吗？
+p23	1	p23::English	Uh, I'll just be going.	呃，我先走了。
+gd2	1	gd2::English	The Union is the last bastion of sense in this broken world. We're committed to stamping out the remnants of god worship and cultism. Only human-made magic is permitted in the Union. 	联盟是这个破碎世界里最后的理智堡垒。我们致力于铲除神明崇拜与邪教活动的残余。联盟只允许人造魔法。
+gd3	1	gd3::English	If you see anything suspicious - an illegal shrine, or a forbidden text - report it straight away. This town is rife with cultism. 	如果你看到任何可疑的东西——非法神龛，或禁书——立刻上报。这个镇子邪教活动猖獗。
+gd4	1	gd4::English	Sure. On the low-end of the town is a tavern with a giant skull. That's the Wobbly Noggin; you can rest up there.	当然。镇子下端有家挂着巨型骷髅的酒馆。那就是摇晃酒馆；你可以在那儿歇脚。
+gd5	1	gd5::English	Further into town you have the high street, with a few well stocked shops. Several alleys lead down to the docks, or you can carry on straight to the clocktower.	往镇里走是大街，有几家货品充足的店铺。几条小巷通往码头，或者你可以一路直走到钟楼。
+gd6	1	gd6::English	Just past the clocktower is the Union Council building. It's where the local Polymath lives. You can always stop by if you're looking for work. 	钟楼再过去就是联盟议会大楼。当地的博学家就住在那儿。想找活干的话，随时可以去看看。
+rest1	1	rest1::English	Welcome to the Wobbly Noggin, friend. You look like the adventurin' sort; so, take some advice from an old fool. If you're exploring the countryside, come back an' [[rest often]].	欢迎来到摇晃酒馆，朋友。你看上去是个爱冒险的；那就听老糊涂一句劝。要是去乡下探险，记得常回来[[休息]]。
+pRest1	1	pRest1::English	Uh, stupid question - but why should I rest often?	呃，问个蠢问题——为什么我要常休息？
+rest2	1	rest2::English	It might not feel like it at the time, but almost everything you do [[builds fatigue]]. Your stamina threshold will lower and you'll find yourself weaker. ##You won't just be worse at swinging a sword; you'll even fumble at [[picking a lock]] and other skills.	当时可能感觉不到，但你做的几乎每件事都会[[累积疲劳]]。你的体力上限会降低，你会发现自己越来越弱。##不只是挥剑会变差；连[[开锁]]之类的技能都会手忙脚乱。
+rest3	1	rest3::English	But, finding a [[safe place to rest]] will restore your fatigue to full. So always consider stopping off at an inn. 	不过，找到一个[[安全的休息处]]就能让疲劳完全恢复。所以记得考虑在旅店歇脚。
+p24	1	p24::English	Thanks for the advice.	谢谢你的建议。
+day1	1	day1::English	Keep an eye on the neuron star, friend. It's got a twelve hour pulse cycle, and most of the shops close when it's dark. 	留意那颗神经元星，朋友。它有十二小时的脉冲周期，天一黑大多数店铺就关门了。
+day2	1	day2::English	If you're used to the longer days and nights of some mainland Union countries, you may find it strange. 	如果你习惯了联盟某些大陆国家更长的昼夜，可能会觉得奇怪。
+pDay1	1	pDay1::English	What can you tell me about neuron stars?	关于神经元星你能告诉我些什么？
+day3	1	day3::English	Well, I don't know where you're from, but many people live their whole lives in the cycle of a single neuron star - believing all days and nights to be the same. 	这个嘛，我不知道你从哪儿来，但许多人一辈子只活在一颗神经元星的循环里——以为所有的昼夜都一样。
+day4	1	day4::English	But the world is wrapped in a blanket of interconnected neuron stars, and each one is different. They all travel in regular movements, though - and 'pulse' brighter at certain times.	但整个世界裹在一张相互连接的神经元星织成的毯子里，每一颗都不相同。不过它们的运行都有规律——并且在特定时刻"脉冲"得更亮。
+day5	1	day5::English	Hallowshire's star circles all the surrounding islands every twelve hours. It pulses brightest at noon, and shrinks to be darker at night. ##People here will sleep more often, and for less time, than a place with a longer cycle.	哈洛郡的星每十二小时环绕周围所有岛屿一圈。正午它脉冲得最亮，夜晚则收缩变暗。##比起循环更长的地方，这里的人睡得更频繁，但每次睡得更短。
+day6	1	day6::English	Of course, there are some places so far from a neuron star that they're trapped in perpetual night - and others where a single day can last hundreds of hours.	当然，有些地方离神经元星太远，被困在永夜里——还有些地方，一个白天能长达数百小时。
+pDay2	1	pDay2::English	What happens at night, around here?	这一带的晚上会发生什么？
+day7	1	day7::English	Well, at night the [[shops shut]] in town, and most locals sleep. ##You may find that out in the countryside there are [[other things]] that only occur at certain times, too.	这个嘛，晚上镇上的[[店铺关门]]，大多数本地人都睡了。##你还会发现在乡间，有些[[别的东西]]也只在特定时刻出没。
+scope1	1	scope1::English	Ah, the view from here is superb, is it not? ##If only I had a [[telescope]], I bet I'd even be able to see the creatures in the forest... 	啊，这儿的景色真是绝妙，不是吗？##要是我有一架[[望远镜]]，我打赌连森林里的生物都能看见……
+scope2	1	scope2::English	There's probably one for sale in town. But what with the famine, all my money goes on bread.	镇上应该有卖的。可闹饥荒的年月，我的钱全花在面包上了。
+scope3	1	scope3::English	Ah, the view from here is superb, is it not? All one needs is a [[compass]] and a [[map]], and you'd have quite the adventure, I'd wager.	啊，这儿的景色真是绝妙，不是吗？只要有[[指南针]]和[[地图]]，我敢说，你就能来一场了不起的冒险。
+pScope1	1	pScope1::English	Do you know where I could find a compass?	你知道我在哪儿能找到指南针吗？
+pScope3	1	pScope3::English	Do you know where I could find a telescope?	你知道我在哪儿能找到望远镜吗？
+scope4	1	scope4::English	I know there was a fellow [[here in Hallowshire]] who was obsessed with telescopes. Apparently he filled his house with traps, locked it up tight and left on some adventure - only to never return.	我知道[[哈洛郡这里]]曾有个痴迷望远镜的家伙。据说他在家里装满了陷阱，把房子锁得严严实实，就出门冒险去了——结果再没回来。
+pScope2	1	pScope2::English	Do you know where I could find a map?	你知道我在哪儿能找到地图吗？
+scope5	1	scope5::English	As it happens, I do. ##I've heard the [[Erudite Academy]] is visiting the Oneiric Isles, and they have a number of cartographers. I'd look out for one of their [[red tents]] on your travels. 	巧了，我知道。##听说[[博识学院]]正在造访梦幻群岛，他们有不少制图师。旅途中留意他们的[[红帐篷]]吧。
+scope6	1	scope6::English	I hear they're sold out around Hallow Town. Too many adventurers and merchants passing through I suppose.##If you need a [[compass]], you'll have better luck in a rural place like [[Pwyll Village]]...	听说哈洛镇附近都卖光了。大概是路过的冒险者和商人太多。##要买[[指南针]]的话，去[[普威尔村]]那种乡下地方运气会好些……
+walk1	1	walk1::English	This used to be such a quiet place. Since the Apostatic Union's stepped up its presence here, there are guards patrolling the streets night and day. 	这里从前多安静啊。自打叛教联盟加强了在这里的驻扎，卫兵日夜在街上巡逻。
+docks1	1	docks1::English	Merchant ships have been stopping in Hallow less and less since the famine. We've got less goods to sell and grain is getting more expensive by the day. 	闹饥荒以来，商船在哈洛停留得越来越少。我们能卖的货越来越少，粮价却一天比一天高。
+use1	1	use1::English	Welcome to [[The Bubbling Brew]]! We sell a wide array of useful items; from healing potions to alchemy ingredients. ## There's also an [[alchemy station]] in the corner; if you possess some alchemical ability it's free to use, and I can assist with the process.	欢迎来到[[咕嘟酿造铺]]！我们出售各种实用物品；从治疗药剂到炼金材料。##角落里还有一座[[炼金台]]；只要你会点炼金术就能免费使用，过程中我还可以协助。
+pUse1	1	pUse1::English	What can you tell me about alchemy? 	关于炼金你能告诉我些什么？
+use2	1	use2::English	Alchemy is the art of transmuting two base ingredients into something entirely new. All you need is an [[alchemy station]] to start the process.	炼金是将两种基础原料转化为全新之物的技艺。你只需要一座[[炼金台]]就能开始。
+use3	1	use3::English	If it's the first time you're combining new ingredients, you'll have no idea what the result will be. It's best to experiment to find out new combinations. 	如果你是第一次组合新材料，完全猜不到会得出什么。最好多做实验，发现新的组合。
+use4	1	use4::English	Some combinations are doomed to fail, and will produce a type of alchemical spirit - but these may still prove useful in other experiments.	有些组合注定失败，只会产出某种炼金酒精——但它们在别的实验里说不定还派得上用场。
+wpn1	1	wpn1::English	The countryside is teeming with goblins and unsavoury creatures - only a fool ventures forth without a sharpened blade. Here at [[A Fair Blade]] We've plenty for sale, and you can use our [[crafting station]] to modify your gear.	乡下到处是哥布林和不三不四的生物——不带把磨快的刃就出门的只有傻子。在[[公道之刃]]这儿，我们货品充足，你还可以用我们的[[锻造台]]改造装备。
+wpn2	1	wpn2::English	Use the [[crafting station]] in the corner to upgrade your weapons and equipment. ##You'll need [[metal ores]] to upgrade combat gear, and [[thread]] to upgrade clothing.	用角落里的[[锻造台]]升级你的武器和装备。##升级战斗装备需要[[金属矿石]]，升级衣物需要[[丝线]]。
+wpn3	1	wpn3::English	There's plenty of mines in the countryside. Since the famine struck, many have been abandoned. You might find scraps of ore left within.	乡下有许多矿坑。饥荒来袭后，很多都被废弃了。里面说不定还剩下些矿石碎料。
+tailor1	1	tailor1::English	Ah, welcome to [[Glorious Garments]]! I can tell you are a customer of exemplary taste; I have a selection of fine attires to choose from. ##If you are interested, I can also explain the specifics of [[tailoring]].	啊，欢迎来到[[华服店]]！一看您就是品味出众的客人；这里有多款上等衣着供您挑选。##如果有兴趣，我还可以为您讲解[[裁缝]]的门道。
+pTailor1	1	pTailor1::English	How do I upgrade my clothing? 	我怎么升级衣物？
+tailor2	1	tailor2::English	First, you'll need to find a [[crafting station]]. There's one in the weapon shop nearby - [[A Fair Blade]]. ##You can use them to modify both metal equipment and clothing.	首先，您需要找到一座[[锻造台]]。附近的武器店里就有一座——[[公道之刃]]。##金属装备和衣物都可以用它们改造。
+tailor3	1	tailor3::English	Most of our wares are made with [[thread]] from the [[silkslug]] native to this region. It is a most marvelous creature; it produces a silk of unrivalled strength and durability.	我们的大多数货品都用本地的[[丝蛞蝓]]产的[[丝线]]制成。那是一种奇妙的生物；它产出的丝强度与耐久无与伦比。
+tailor4	1	tailor4::English	There is a picture of a silkslug on the wall just beside you. If you happen to see one out in the countryside, you should try harvesting its silk. ##It's quite a messy procedure, though. Make sure you take rags for the excess mucus...	您身旁墙上就挂着一幅丝蛞蝓的图。若您在乡间碰巧遇到一只，不妨试着采集它的丝。##不过那过程相当邋遢。记得带上破布擦多余的黏液……
+cult1	1	cult1::English	<<The cultist looks at you, weariness in their eyes.>>##So, someone's finally found me. It was only a matter of time, I suppose. I've been hiding right under the Union's nose.	<<邪教徒看着你，眼中满是疲惫。>>##所以，终于有人找到我了。我想，这只是时间问题。我一直就藏在联盟的眼皮底下。
+cult2	1	cult2::English	Please, I beg of you - don't tell the guards. It won't just be me they'll throw into the cell. The clothier will be ruined, and... he's been so kind. ##I've a few possessions around. Help yourself to whatever you find.	求你了——别告诉卫兵。被扔进牢里的不会只有我一个。裁缝的店会完蛋，而且……他一直待我这么好。##我在这附近有些物件。找到什么你尽管拿去。
+book1	1	book1::English	Ah, welcome to the [[Emporium of Oddities]]. We have spells and equipment for the budding adventurer, and you are welcome to peruse the books I have lying around.	啊，欢迎来到[[奇物商场]]。我们有适合初出茅庐的冒险者的法术和装备，也欢迎随意翻阅我摆在外面的书。
+pBook1	1	pBook1::English	Tell me more about your shop.	多跟我讲讲你的店吧。
+book2	1	book2::English	After I graduated from university in Byonne, I spent a long while travelling the skyrealms. Much of what I have for sale was accumulated from my travels, and the cipher spells were written by my own hand.	我从拜昂的大学毕业后，花了很长时间游历天空诸陆。店里出售的东西很多都是游历途中攒下的，那些密文法术则是我亲手写的。
+book3	1	book3::English	I also pay merchants good coin to import the latest treatises and scriptures from Riova - and I invite the townfolk to browse my selection. It's a sort of humble library, I suppose.	我还出好价钱托商人从里奥瓦进口最新的论文与经籍——并邀请镇民来翻阅。也算是个小小的图书室吧。
+thief1	1	thief1::English	<<The woman eyes you up and down.>> ##You look like someone who can take care of themselves. A word of advice, if you'll hear it...	<<那女人上下打量着你。>> ##你看上去是个能照顾好自己的人。听一句劝吧，如果你愿意的话……
+thief2	1	thief2::English	While the countryside starves from the famine, the merchants here are just as rich as ever. They won't let you root around their houses in the daytime, but at night... well, that's a different story.	乡下人还在闹饥荒挨饿，这里的商人却跟从前一样阔气。白天他们不会让你在屋里乱翻，但到了晚上……那就是另一回事了。
+thief3	1	thief3::English	Just make sure you stock up on [[lockpicks]] if you're planning any unsavoury activities. Picks break all the time, so you can never have too many. ##There are places you can buy them, if you know the right people.	如果你打算干点见不得光的勾当，记得多备些[[开锁器]]。撬棍动不动就断，永远不嫌多。##只要认识对的人，有地方能买到。
+thief4	1	thief4::English	I hear the guards know about this place, but they turn a blind eye. Someone's lining their pockets for sure. 	听说卫兵知道这地方，但他们睁一只眼闭一只眼。肯定有人在往他们兜里塞钱。
+lostPurse	1	lostPurse::English	Welcome to the Lost Purse. 	欢迎来到失包黑店。
+lostPurse1	1	lostPurse1::English	<<The barkeep shoots you a glare.>> ##Welcome to the [[Lost Purse]]. The guards don't come down this way, so we sell items you won't find in more... ((reputable)) establishments. Cause a ruckus - or go yappin' about what you see here - and it won't end well for you.	<<酒保狠狠瞪了你一眼。>> ##欢迎来到[[失包黑店]]。卫兵不走这条道，所以我们卖的货，那些更……((有名声))的店里可找不到。要是闹事——或者到处乱嚼舌根说你在这儿看见了什么——你不会有好果子吃。
+pPurse2	1	pPurse2::English	How 'come the guards don't know about this place?	卫兵怎么不知道这地方？
+pPurse1	1	pPurse1::English	Let's see what you're selling.	看看你卖些什么。
+lostPurse2	1	lostPurse2::English	Oh, they know about us alright. Let's just say it's in their interest to turn a blind eye. We'll leave it there, ((friend)).	哦，他们当然知道我们。这么说吧，睁一只眼闭一只眼对他们有好处。这话就说到这儿，((朋友))。
+outCold	1	outCold::English	<<They seem to be out cold.>>	<<他们似乎不省人事。>>
+barSleep	1	barSleep::English	<<They've had one too many.>>	<<他们喝多了。>>
+thiefSleep	1	thiefSleep::English	<<Luckily, they're a heavy sleeper.>>	<<幸好，他们睡得很沉。>>
+sleep	1	sleep::English	<<They're fast asleep.>>	<<他们睡得正香。>>
+tutRest1	1	tutRest1::English	Welcome to the Wobbly Noggin, friend. You look like the adventurin' sort; so, take some advice from an old fool. If you're exploring the countryside, come back an' [[rest often]].	欢迎来到摇晃酒馆，朋友。你看上去是个爱冒险的；那就听老糊涂一句劝。要是去乡下探险，记得常回来[[休息]]。
+pTutRest1	1	pTutRest1::English	Uh, stupid question - but why should I rest often?	呃，问个蠢问题——为什么我要常休息？
+pTutExit	1	pTutExit::English	Thanks for the advice.	谢谢你的建议。
+tutRest2	1	tutRest2::English	It might not feel like it at the time, but almost everything you do [[builds fatigue]]. Your stamina threshold will lower and you'll find yourself weaker. #You won't just be worse at swinging a sword; you'll even fumble at [[picking a lock]] and other skills.	当时可能感觉不到，但你做的几乎每件事都会[[累积疲劳]]。你的体力上限会降低，你会发现自己越来越弱。#不只是挥剑会变差；连[[开锁]]之类的技能都会手忙脚乱。
+tutRest3	1	tutRest3::English	But, finding a [[safe place to rest]] will restore your fatigue to full. So always consider stopping off at an inn.	不过，找到一个[[安全的休息处]]就能让疲劳完全恢复。所以记得考虑在旅店歇脚。
+tutStar1	1	tutStar1::English	Keep an eye on the neuron star, friend. It's got a twelve hour pulse cycle, and most of the shops close when it's dark. 	留意那颗神经元星，朋友。它有十二小时的脉冲周期，天一黑大多数店铺就关门了。
+tutStar2	1	tutStar2::English	If you're used to the longer days and nights of some mainland Union countries, you may find it strange. 	如果你习惯了联盟某些大陆国家更长的昼夜，可能会觉得奇怪。
+pTutStar1	1	pTutStar1::English	What can you tell me about neuron stars?	关于神经元星你能告诉我些什么？
+tutStar3	1	tutStar3::English	Well, I don't know where you're from, but many people live their whole lives in the cycle of a single neuron star - believing all days and nights to be the same. 	这个嘛，我不知道你从哪儿来，但许多人一辈子只活在一颗神经元星的循环里——以为所有的昼夜都一样。
+tutStar4	1	tutStar4::English	But the world is wrapped in a blanket of interconnected neuron stars, and each one is different. They all travel in regular movements, though - and 'pulse' brighter at certain times.	但整个世界裹在一张相互连接的神经元星织成的毯子里，每一颗都不相同。不过它们的运行都有规律——并且在特定时刻"脉冲"得更亮。
+tutStar5	1	tutStar5::English	Hallowshire's star circles all the surrounding islands every twelve hours. It pulses brightest at noon, and shrinks to be darker at night. ##People here will sleep more often, and for less time, than a place with a longer cycle.	哈洛郡的星每十二小时环绕周围所有岛屿一圈。正午它脉冲得最亮，夜晚则收缩变暗。##比起循环更长的地方，这里的人睡得更频繁，但每次睡得更短。
+tutStar6	1	tutStar6::English	Of course, there are some places so far from a neuron star that they're trapped in perpetual night - and others where a single day can last hundreds of hours. 	当然，有些地方离神经元星太远，被困在永夜里——还有些地方，一个白天能长达数百小时。
+pTutStar2	1	pTutStar2::English	What happens at night, around here?	这一带的晚上会发生什么？
+tutStar7	1	tutStar7::English	Well, at night the [[shops shut]] in town, and most locals sleep. ##You may find that out in the countryside there are [[other things]] that only occur at certain times, too. 	这个嘛，晚上镇上的[[店铺关门]]，大多数本地人都睡了。##你还会发现在乡间，有些[[别的东西]]也只在特定时刻出没。
+lightHouse1	1	lightHouse1::English	Ah, the view from here is superb, is it not? ##If only I had a [[telescope]], I bet I'd even be able to see the creatures in the forest...	啊，这儿的景色真是绝妙，不是吗？##要是我有一架[[望远镜]]，我打赌连森林里的生物都能看见……
+lightHouse2	1	lightHouse2::English	I heard there's one for sale at the [[Emporium of Oddities]], in town. But what with the famine, all my money goes on bread.	听说镇上的[[奇物商场]]有卖。可闹饥荒的年月，我的钱全花在面包上了。

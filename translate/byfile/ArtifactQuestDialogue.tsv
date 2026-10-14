@@ -1,0 +1,50 @@
+ID	Col	CellKey	English	Chinese
+m1	1	m1::English	A guest? Welcome, welcome. ##<<The man flares his nostrils as he looks you up and down.>>	有客?欢迎,欢迎。 ##<<男人上下打量你,鼻孔微张。>>
+m2	1	m2::English	I'd offer you a seat, but... these chairs are terribly expensive. I presume you are here about the job offering?	我本想请你坐,但……这些椅子贵得吓人。我猜你是为那份差事来的?
+p1	1	p1::English	I'm here for the job.	我是来接活的。
+m3	1	m3::English	Yes, yes - I thought as much. Your attire is certainly suited for the... physical labour of the task. ##<<He dabs his forehead with a handkerchief, as if the thought of your attire is overbearing.>>	对,对——我就猜是这样。你这身行头倒是挺适合这差事的……体力活。 ##<<他用手帕轻按额头,仿佛你这身行头让他不堪重负。>>
+p2	1	p2::English	What job is that?	什么差事?
+m4	1	m4::English	You mean... you simply came to exchange pleasantries?##<<He swallows, clearly repulsed at the thought.>>	你是说……你只是来寒暄的? ##<<他咽了口唾沫,显然被这想法恶心到了。>>
+p3	1	p3::English	Tell me about yourself.	介绍一下你自己吧。
+m5	1	m5::English	Myself? Well, I am sure you have already heard a great deal. I am Vernon Berwig, of the Winged Merchants Guild. Peruse the shops in Hallow and there is not a single potion or herb that has not graced my vessels on its way here.	我自己?嗯,我相信你已经如雷贯耳。我是飞翼商会的弗农·伯维格。去哈洛的店铺随便看看,没有一瓶药剂、一味草药,不是经由我的船队运抵此地。
+p4	1	p4::English	Actually, I'll just be going.	其实,我先走了。
+m6	1	m6::English	The job is to locate my merchant vessel - the [[Golden Typhos]] - and retrieve its ((cargo)).##It is a magnificent ship, made with the strongest Lundel oak; so I cannot imagine that it could have been shipwrecked. 	差事是找到我的商船——[[黄金蒂福斯号]]——并取回它的((货物))。 ##那是一艘壮丽的船,用最坚实的伦德尔橡木建造;我无法想象它会失事。
+m7	1	m7::English	It's captain is none other than [[Walter Cecil]], who has charted many of the Apostatic Union's most distant islands and is known for his character.##Mutiny, then, is not a possibility.	它的船长不是别人,正是[[沃尔特·塞西尔]]——他测绘过叛教联盟最偏远的诸多岛屿,并以人品著称。 ##因此,哗变是不可能的。
+m8	1	m8::English	A course was plotted to the Paeguthian ruins, south of Hallow.##The Typhos should have returned a week ago. I am beginning to worry.	航线已定,前往哈洛以南的帕古斯遗迹。 ##蒂福斯号一周前就该回来了。我开始担心了。
+m9	1	m9::English	The ship and the crew are irrelevant; only the [[cargo]] matters. Return it to me and I will reward you handsomely.	船和船员都无关紧要;只有[[货物]]要紧。把它带回来,我必有重谢。
+p5	1	p5::English	Tell me about the ship's captain.	跟我讲讲船长。
+m10	1	m10::English	I hired [[Walter Cecil]] for the fee of a small fortune. His exploits have been well documented.##It is said that, when exploring distant realms, his ship defeated a sky-god... though between you and me, it was more likely a very large fish. 	我重金聘了[[沃尔特·塞西尔]]。他的丰功伟绩有据可查。 ##据说,在探索遥远国度时,他的船击败过一位天神……不过就你我之间说说,那多半是条特别大的鱼。
+m11	1	m11::English	Nonetheless, he is one of the most reliable captains in the Union. His record is impeccable.	尽管如此,他是联盟最可靠的船长之一。他的记录无懈可击。
+p6	1	p6::English	What cargo is it carrying?	船上装的是什么货?
+m12	1	m12::English	I am afraid... I simply cannot say. You understand that - within the machinations of the Apostatic Union's legal system - there are certain trade goods that are... ((unfairly scrutinised.)) 	恐怕……我实在不能说。你要理解——在叛教联盟法律体系的运作之下——某些贸易品会遭受……((不公的审查))。
+m13	1	m13::English	Suffice to say there is nothing dangerous or unwholesome about this cargo. But we should speak of it no further. 	这么说吧,这批货没有任何危险或不洁之处。但此事我们就不必再谈了。
+p7	1	p7::English	I'll let you know if I discover your ship. Goodbye. 	要是找到你的船,我会告诉你。再见。
+fm1	1	fm1::English	Oh, what's this - a fellow to join our shanties? You there, fancy a drink?	哦,这是怎么了——有伙计来跟我们一起唱船歌?喂,来一杯不?
+p8	1	p8::English	Don't mind if I do.	那我就不客气了。
+fm2	1	fm2::English	That's the spirit. Drink your fill.##<<He offers you an empty, dusty bottle.>>	这就对了。喝个痛快。 ##<<他递给你一个空荡荡、落满灰的瓶子。>>
+p9	1	p9::English	This is the Typhos, isn't it? You're lost. 	这是蒂福斯号,对吧?你们迷路了。
+fm3	1	fm3::English	Lost? Nay, we've only just set sail. We'll be back in Hallow in a day or two.	迷路?不,我们才刚起航。一两天就回哈洛了。
+p10	1	p10::English	But you were due back a week ago.	可你们一周前就该回来了。
+fm4	1	fm4::English	A week? You've gone daft. We hadn't even left a week ago. I was still ashore with my daughter.	一周?你疯了。一周前我们连船都没开。我还在岸上陪闺女呢。
+p11	1	p11::English	Can't you see? You're all dead.	你还没看出来吗?你们都死了。
+fm5	1	fm5::English	Dead? Ha! You're a jester alright.	死了?哈!你真是个活宝。
+c1	1	c1::English	Say, you there. Fetch more rum from the lower decks. Captain's orders!	喂,你,过来。去下层甲板再取些朗姆酒。船长的命令!
+p12	1	p12::English	You're the captain of the Golden Typhos?	你就是黄金蒂福斯号的船长?
+c2	1	c2::English	You don't know your own captain? Walter Cecil, who charted the outer reaches and slew a lesser god? Bah! The brig with you.	你不知道自己的船长?沃尔特·塞西尔,测绘天外之境、斩杀次等神明的那位?呸!把你关进禁闭室。
+p13	1	p13::English	I'm here on behalf of your employer. The cargo is late.	我受你们雇主之托前来。货物迟了。
+c3	1	c3::English	Late? We're making good time! The cargo is stashed in the hold, safe and sound. Berwig will have his artifact.	迟了?我们一路顺风!货物好端端存在货舱里。伯维格会拿到他的神器。
+p14	1	p14::English	Did you really kill a god?	你真杀过神吗?
+c4	1	c4::English	One of the naysayers, are you?##Sure, it may have seemed like a big fish, but you didn't look into those eyes. They were powerful eyes, my friend - ((powerful eyes))...	你也是那些唱反调的? ##诚然,那看着也许像条大鱼,可你没直视过那双眼睛。那是威严的眼睛,我的朋友——((威严的眼睛))……
+p15	1	p15::English	I think you've had enough rum. Farewell.	我看你朗姆酒喝够了。告辞。
+m20	1	m20::English	Ah, you have returned. How... pleasant.	啊,你回来了。真是……愉快。
+m20alt	1	m20alt::English	Ah, I've heard about you. You've been aboard my ship, the [[Golden Typhos]], correct?##There was ((precious cargo)) aboard which I need returned to me.	啊,我听说了你的事。你上过我的船,[[黄金蒂福斯号]],对吧? ##船上有一批((贵重货物)),我需要你归还于我。
+m21	1	m21::English	Pray tell, have you located the [[Golden Typhos']] cargo?	请问,你找到[[黄金蒂福斯号]]的货物了吗?
+m21alt	1	m21alt::English	You didn't... find it, did you...?	你没……找到它,是吧……?
+p20	1	p20::English	I have the [[cargo]] right here.	[[货物]]就在我手上。
+m22	1	m22::English	Excellent, excellent. Oh my, how it gleams with beauty! Is it not simply the most splendid, the most radiant thing you have set eyes upon? Yes, This was well worth the wait. 	好极了,好极了。哎呀,它多么光彩夺目!这难道不是你平生所见最华丽、最璀璨的宝物吗?没错,这趟等待太值了。
+p21	1	p21::English	The crew of your ship is dead.	你船上的船员都死了。
+m23	1	m23::English	I care not for the trifling details. The voyage was a success. You have my sincerest thanks. 	我不在乎那些细枝末节。航行成功了。我由衷感谢你。
+p22	1	p22::English	What about my payment?	我的报酬呢?
+m24	1	m24::English	Hmmm... What? Payment? Yes, yes - allow me some time to gather my assets. Return soon and you shall be paid in full.	嗯……什么?报酬?对,对——容我些时间筹措资产。不久再来,必当如数奉上。
+p23	1	p23::English	Can you tell me again about the job?	能再讲一遍那差事吗?
+p24	1	p24::English	I'm still looking. Farewell.	我还在找。告辞。

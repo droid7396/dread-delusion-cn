@@ -1,0 +1,1289 @@
+ID	Col	CellKey	English	Chinese
+p1	1	p1::English	Goodbye.	再见。
+p0	1	p0::English	Farewell.	告辞。
+pq1	1	pq1::English	Can I ask you some questions?	我能问你几个问题吗？
+pq2	1	pq2::English	Okay, I think I get it.	好的，我大概明白了。
+pq3	1	pq3::English	Got it.	明白了。
+pq4	1	pq4::English	Actually, I had other questions.	其实，我还有别的问题。
+pq5	1	pq5::English	That's all I wanted to know.	我想了解的就这些了。
+chi0	1	chi0::English	<<The woman who approaches you is half-rotted. One eye is milk-white, and the other is missing. The pearly white of her jawbone is visible through ragged skin.>>	<<朝你走来的女人已半身腐朽。她一只眼珠乳白浑浊，另一只不翼而飞。透过破碎的皮肉，能看到她珍珠白的颌骨。>>
+chi1	1	chi1::English	Careful there, breather. That was a big one. You hurt?	小心点，呼吸者。刚才那下震得可不小。你受伤了吗？
+p14	1	p14::English	What was that?	那是什么？
+chi2	1	chi2::English	A little tremor, that's all. They've been getting more common recently.	一场小震而已。最近这种事越来越频繁了。
+p2	1	p2::English	I'm fine.	我没事。
+chi3	1	chi3::English	Good to hear.	那就好。
+p3	1	p3::English	Just a little shaken, that's all.	只是被震得有点晕，没事。
+chi4	1	chi4::English	Hahaha! Good one, breather.	哈哈哈！真逗，呼吸者。
+chi5	1	chi5::English	You should watch your step, though - that quake will have riled up the catacomb wyrms something fierce.	不过你走路可得当心——那场地震准把地窟蠕虫搅得暴怒异常。
+p5	1	p5::English	Catacomb wyrms?	地窟蠕虫？
+chi6	1	chi6::English	Nasty buggers. They burrow, they fly, they eat people. Just stay away from them, that's my advice.	一群恶心的玩意儿。会打洞，会飞，还吃人。听我一句，离它们远点。
+p6a	1	p6a::English	You appear to be... a bit worse for wear.	你看起来似乎……有点破破烂烂的。
+p6	1	p6::English	What's wrong with your face?	你的脸怎么了？
+chi7	1	chi7::English	I'm sure you've heard stories about the Endless, breather. Immortality comes at a price.	关于无尽者的传闻你肯定听过吧，呼吸者。永生是有代价的。
+p7	1	p7::English	Do you know what's causing these tremors?	你知道这些震动是怎么回事吗？
+chi8	1	chi8::English	Folks are saying it's the Entombed One, who's imprisoned below the Castle of Ribs. They say he's waking up. But people say a lot of things, and you'd go mad if you took it all seriously.	大家都说是被囚在肋骨城堡地下的墓中人干的，说他正在苏醒。可人们嘴上什么都说，你要全当了真，非疯不可。
+chi9	1	chi9::English	Anyways, you're clearly new here, and I've got some time to kill. Is there anything you wanna know?	反正你显然是头一回来这儿，我也正好闲得发慌。有什么想了解的吗？
+chi10	1	chi10::English	Hello again, breather.	又见面了，呼吸者。
+p10	1	p10::English	Who is the Entombed One?	墓中人是谁？
+chi11	1	chi11::English	No idea. He's been shaking the island for centuries, but recently, it's been happening more and more often. I've heard that if he keeps it up, the entire island could be shook to pieces.	我哪知道。几个世纪以来他一直在摇晃这座岛，但最近震得越来越勤。我听说他要是不消停，整座岛都会被震得粉碎。
+p11	1	p11::English	What is the Castle of Ribs?	肋骨城堡是什么地方？
+chi12	1	chi12::English	The palace where our Queen resides. If you keep heading west, you can't miss it.	我们女王居住的宫殿。一路往西走，你绝不会错过它。
+p12	1	p12::English	Tell me about the Queen.	跟我说说女王吧。
+chi13	1	chi13::English	Her full title is the Queen of Silver. She's a bit of a recluse. She's ruled over the Endless for three centuries, and for the last two she's never made an appearance in public.	她的全称是白银女王。她有点深居简出。她统治无尽者已经三个世纪了，而最近这两个世纪，她从未在公开场合露过面。
+p13	1	p13::English	Who are you?	你是谁？
+p13a	1	p13a::English	Who are you, again?	你叫什么来着？
+chi14	1	chi14::English	My name's Chiasma. I'm just out here waiting to be granted admission to one of the Mausoleums.	我叫奇亚斯玛。我在这儿等着获批住进某座陵墓呢。
+chi14a	1	chi14a::English	Told you before, breather - I'm Chiasma. I'm just out here waiting to be granted admission to one of the Mausoleums.	跟你说过啦，呼吸者——我叫奇亚斯玛。我在这儿等着获批住进某座陵墓呢。
+p15	1	p15::English	What are the Mausoleums?	陵墓是什么？
+chi15	1	chi15::English	See those big imposing tombs in the distance? Most of the Endless live in those Mausoleums, these days. They're waiting for the Ferryman to come and take them away.	看见远处那些气势逼人的大坟墓了吗？如今大多数无尽者都住在那些陵墓里，等着摆渡人前来把他们接走。
+p16	1	p16::English	Why aren't you in a Mausoleum?	你怎么没住进陵墓？
+chi16	1	chi16::English	They're overcrowded and the best tombs go to the highest bidder. So poor broke saps like me have to wait until a place becomes available. Usually after a Wyrm attack.	陵墓早就人满为患，最好的墓穴价高者得。所以像我这样穷困潦倒的可怜虫，只能等腾出空位来——通常得等蠕虫袭击之后。
+p17	1	p17::English	See you later, Chiasma.	回头见，奇亚斯玛。
+chi17	1	chi17::English	Good luck, breather. Watch your step out there.	祝你好运，呼吸者。在外面走路当心脚下。
+p18	1	p18::English	Have you ever seen a talking crow in the kingdom?	你在这个王国里见过会说话的乌鸦吗？
+chi18	1	chi18::English	Can't say that I have. It sounds like some kind of magic. If I were you, I'd go speak to Penitent Thaw - she knows everything there is to know about that kind of stuff.	我可没见过。听起来像是某种魔法。换成是我，我就去找忏悔者·索聊聊——这类事情她无所不知。
+p19	1	p19::English	Who is Penitent Thaw?	忏悔者·索是谁？
+chi19	1	chi19::English	A mage who lives in the sanctum overlooking the flesh-farm. You can see it up on that ridge, to the north. She's the youngest of the Endless. Only two centuries old - practically a whippersnapper.	一位住在俯瞰血肉农场的圣所里的法师。就在北边那道山脊上，你能看见。她是最年轻的无尽者，才两百岁——简直是个小毛孩。
+p20	1	p20::English	Are you loyal to the Hooded King?	你效忠兜帽王吗？
+chi20	1	chi20::English	Wow, what a question... No, I'm not loyal to a monarch who's been dead for three centuries. Obviously.	哇，这问题可真够……不，我可不效忠一位死了三百年的君主。这还用说。
+chi21	1	chi21::English	Sure, breather. You wanna ask anything else?	好啊，呼吸者。还想问点什么？
+chi21a	1	chi21a::English	Anythin' else you wanna know about this place?	关于这地方，你还想知道点什么？
+p21	1	p21::English	Can you tell me about this place?	你能给我讲讲这地方吗？
+chi22	1	chi22::English	Well, you're entering the lands of the Endless. Our island of tombs has been drifting around the skyrealms since before the World Rend; even before even those damned Emberians... ((ferryman rest their souls)), eheh.	嗯，你正踏入无尽者的领地。自世界撕裂之前——甚至在那些该死的余烬人之前——我们这座坟墓之岛就在天空领域间漂流了……((愿摆渡人安抚他们的灵魂))，嘿嘿。
+chi23	1	chi23::English	You'll find the town of Sepulchre up ahead. But careful on your feet, breather - there's been a whole bunch of tremors, lately.	前面就是陵墓城。但脚下当心，呼吸者——最近震动可是一波接一波。
+p22	1	p22::English	What's in Sepulchre?	陵墓城里有什么？
+chi24	1	chi24::English	Honestly? Not much. Most of us Endless live in the mausoleums. But you can rent a room in the Rotten Coffin, and there's places to trade.	说实话？没多少东西。我们大多数无尽者都住在陵墓里。不过你可以在烂棺材租个房间，也有做买卖的地方。
+chi25	1	chi25::English	Looming over Sepulchre is the Castle of Ribs, where the Queen resides. And just past town is the flesh-farm.	俯瞰着陵墓城的是肋骨城堡，女王就住在那里。镇子再过去就是血肉农场。
+p23	1	p23::English	Wait, did you say flesh-farm?	等等，你是说血肉农场？
+chi26	1	chi26::English	That's right, breather. Us Endless need to feast on living flesh, else we go all foggy. Years back we led the Cadaver Crusades, takin' the living by force - but Penitent Thaw came up with a much better idea.	没错，呼吸者。我们无尽者必须以活肉为食，否则脑子会越来越糊涂。多年前我们发动过尸骸十字军，用武力抢夺活人——但忏悔者·索想出了一个高明得多的主意。
+chi27	1	chi27::English	The flesh-farm is a bunch of huge vats, growing mindless meat. Much more humane than eating raw human. Gets a bit tiring when your lunch is always screaming at you for mercy.	血肉农场就是一堆巨大的培养槽，里面长着没有意识的肉。比生吃活人仁慈多了。要是你的午餐总尖叫着求你饶命，吃久了也挺烦的。
+bar0	1	bar0::English	<<The endless stands askew, slowly cleaning a mug with a rotten rag. He spits on the rag - apparently in an attempt at cleanliness - but a piece of his lip comes off in the attempt.>>	<<那个无尽者歪斜地站着，正用一块烂布慢慢擦着杯子。他往布上啐了口唾沫——显然是想讲究一下卫生——结果一片嘴唇也跟着掉了下来。>>
+bar1	1	bar1::English	Hmph, as I live n' rot - an honest to gods breather. We don't get many of you passing through Sepulchre, these days. 	哼，真是活见鬼……哦不，活见"腐"——一个货真价实的呼吸者。这些天可没多少你们这样的人路过陵墓城。
+bar2	1	bar2::English	Welcome to the Rotten Coffin. We've got a bed to rent - the only genuine mattress in all the tombs o' the Endless. We also got ghost booze.	欢迎光临烂棺材。我们出租床位——全无尽者坟墓间唯一一张真正的床垫。我们还有幽灵酒。
+bar3	1	bar3::English	Hey look, the breather's back. How's that air taste? 	嘿，瞧，呼吸者回来了。那空气尝起来如何？
+p24	1	p24::English	I'll rent a bed.	我要租个床位。
+bar4	1	bar4::English	Great! I've been told it's real comfy. But, seeing as you're the first to sleep in it for a good few years, the mattress might be a bit rotten. Just sweep off the maggots and you're good to go. ##Anyways, that'll be two coins.	好嘞！听说那床垫舒服得很。不过，你都算好几年里头一个睡它的人了，床垫可能会有点烂。把蛆虫扫掉就能睡。##总之，一共两个硬币。
+p25	1	p25::English	Uh, here you are.	呃，给你。
+bar5	1	bar5::English	Thanks breather. Just follow the stairs; it's up the top there.	谢了，呼吸者。顺着楼梯上去就是，就在最顶上。
+bar6	1	bar6::English	Sorry breather, looks like you don't have enough.	抱歉，呼吸者，看来你的钱不够。
+bar6b	1	bar6b::English	Ah, you've already paid for it, breather.	啊，你已经付过钱了，呼吸者。
+p26	1	p26::English	Uh, I changed my mind.	呃，我改主意了。
+bar7	1	bar7::English	Pfft. You breathers are always so squeamish.	切。你们呼吸者总是这么娇气。
+p27	1	p27::English	Can I ask you some questions?	我能问你几个问题吗？
+bar8	1	bar8::English	I reckon I've got the time. We've not been busy for a good century or so.	我估摸着有的是时间。这一百年左右我们都没忙过。
+p29	1	p29::English	Do you know of any work going?	你知道有什么活儿可干吗？
+bar9	1	bar9::English	Not much work going outside the mausoleums, breather. Still, you could try visiting the Queen's Senechal in the Castle of Ribs. Maybe she'd have use for someone with a working nervous system?	陵墓外头没什么活儿，呼吸者。不过你可以去肋骨城堡找女王的总管试试。说不定她用得上一个神经系统还正常运转的人？
+bar10	1	bar10::English	Otherwise, there's the flesh farm, on the ridge north of here. As far as I know, it's just Penitent Thaw and that underling of hers, so perhaps they could use a hand.	要不然还有血肉农场，就在北边山脊上。据我所知，那边只有忏悔者·索和她那个手下，或许用得着帮手。
+p30	1	p30::English	What was that about ghost booze?	刚才说的幽灵酒是怎么回事？
+bar11	1	bar11::English	Well, we endless have different... constitutions from you breathers. Takes a different sorta beverage to really give us any kick.	这个嘛，我们无尽者的体质和你们呼吸者不太一样。得另一种酒才能让我们上头。
+bar12	1	bar12::English	Ghost wine can be brewed like a potion, but the best vintages are ectoplasmic. When a ghost is created through trauma, sometimes nearby objects - or even ((drinks)) - pass over to the spirit realm too. That's the good stuff.	幽灵酒可以像药水那样酿造，但最好的年份酒都是灵外质的。当亡魂因创伤而生时，有时周围的物件——甚至是((酒))——也会一同渡入灵界。那才是好东西。
+bar13	1	bar13::English	Or, for an Endless who's short of coin, there's always good ol' arsenic. I wouldn't recommend that for folk like you, though...	或者，手头紧的无尽者还有老一套——砒霜。不过我可不建议你们这种人碰那玩意儿……
+p31	1	p31::English	What's the story with this town?	这座镇子有什么来历？
+bar14	1	bar14::English	Well, this here town's called Sepulcher. <<He cocks his head.>> You want the long version, or the short?	嗯，这座镇子叫陵墓城。<<他歪了歪头。>>你想听长版本还是短版本？
+p32	1	p32::English	The long.	长版本。
+bar15	1	bar15::English	Years back - and I mean ((centuries)) ago, in the age of kings and castles - this used to be a peaceful kingdom called Verdant. Most folk still lived down on the world's surface,  before it got blown up - so we were pioneers of sorts.	很多年以前——我说是((几个世纪))之前，在国王与城堡的年代——这里曾是一个名为苍翠的和平王国。那时大多数子民还住在世界地表上，在地表被炸毁之前——所以我们算是某种先驱。
+bar16	1	bar16::English	Our great wooden buildings rose above the pines an' our monarchs were just an' the air was sweet. ##Then, our Hooded King brought the curse upon Verdant. The living fought the dead; the bodies piled up, and the air weren't so sweet any more.	我们宏伟的木造建筑高耸于松林之上，我们的君主公正贤明，空气芬芳甜美。##后来，我们的兜帽王给苍翠带来了诅咒。活人与死者开战；尸体堆积如山，空气不再甜美。
+bar17	1	bar17::English	Wracked with pain an' eternally cold, us Endless have no use for comfortable things... so those beautiful wooden buildings rotted away, replaced with hard stone. This town was Verdant no more, so we started calling it Sepulcher. The name stuck.	我们无尽者饱受痛苦折磨、永远冰冷，舒适的东西对我们毫无用处……于是那些美丽的木造建筑渐渐朽烂，被坚硬的石头取代。这座镇子不再是苍翠了，于是我们开始叫它陵墓城。这名字就这么留了下来。
+p33	1	p33::English	The short.	短版本。
+bar18	1	bar18::English	These days Sepulcher is little more than an outpost, for trading an' the like. Most of us Endless live in those great mausoleums over yonder. And that big tower that looms over us? That's the Castle of Ribs, where the Queen lives - but she's not left in years.	如今的陵墓城不过是个做买卖之类的前哨站。我们大多数无尽者都住在那边那些大陵墓里。至于那座俯瞰我们的高塔？那是肋骨城堡，女王住的地方——不过她已经好多年没出过门了。
+p34	1	p34::English	Uh, exactly how ((long)) is long?	呃，这个"长"到底是((多长))？
+bar19	1	bar19::English	<<He lets out a raspy chuckle, which unleashes a fleck of flesh.>> ##Don't worry, breather. I know us Endless can ((theoretically)) talk forever, but I won't kill you with boredom.	<<他发出一阵沙哑的低笑，笑出一片碎肉来。>> ##别担心，呼吸者。我知道我们无尽者((理论上))能聊到永远，但我不会无聊死你的。
+bar20	1	bar20::English	So, what'll it be? 	那么，你想听哪个？
+p34b	1	p34b::English	You know what, never mind.	算了，当我没问。
+bar22	1	bar22::English	No problem breather. So, you wanna know anything else?	没关系，呼吸者。那么，你还想知道点什么？
+bar23	1	bar23::English	Anythin' else you wanna know? 	还想知道点什么？
+p35	1	p35::English	That's all I wanted to ask.	我想问的就这些。
+bar24	1	bar24::English	Alright. You want anythin' else?	好吧。还需要什么吗？
+p35a	1	p35a::English	How's life in Sepulchre?	陵墓城的生活怎么样？
+bar25	1	bar25::English	Hmph. How's ((death)) you mean?	哼。你是说((死亡))过得怎么样吧？
+bar26	1	bar26::English	Well, the Queen's castle blew up. That's a pretty big thing	嗯，女王的城堡被炸上了天。这可是桩大事
+bar27	1	bar27::English	Folk are saying the Entombed One has awakened. Others are saying the Ferryman is bringing the true death. All I know is, the island is crumbling, an' I sure as hell don't like it.	有人说墓中人已经苏醒。还有人说摆渡人正在带来真正的死亡。我只知道，这座岛正在分崩离析，我他妈可不喜欢这样。
+bar28	1	bar28::English	Well, those awful tremors have stopped. Folk are saying the Entombed One was struck down in mortal combat, saving the kingdom - or somesuch nonsense.	嗯，那些可怕的震动停了。人们说墓中人已死于一场殊死之战，拯救了王国——诸如此类的鬼话。
+p35b	1	p35b::English	What've you got to drink?	你们这儿有什么酒？
+bar29	1	bar29::English	Should be no surprise we've got plenty o' [[Ghost Wine]]. ##Recently my punters 'ave been hankering for some good ol' fashioned mortal booze, though. If you come across any Riovan [[Fine Wine]] I'll give you a good price for it. 	我们这儿有的是[[幽灵酒]]，你应该不会意外。##不过最近我的老主顾们开始惦记传统的凡人酒了。你要是碰上里奥瓦的[[上等葡萄酒]]，我出好价收。
+p36	1	p36::English	I'll be going.	我先走了。
+p39	1	p39::English	I'm looking for The Duchess, do you know her?	我在找女公爵，你认识她吗？
+bar30	1	bar30::English	The Duchess? She's hard to pin down, that one. Few folk 'ave even ((seen)) her since she came back from galavantin' around with pirates and mercenaries a few years back. 	女公爵？那位可不好找。自从几年前她跟海盗和佣兵们四处游荡回来后，就没几个人((见过))她了。
+bar31	1	bar31::English	Rumour has it, she's holed up in her ol' family [[manor]] that sits on the [[southern edge]] of the Endless Realm... 	据传闻，她藏在她家族的老[[庄园]]里，就在无尽领域的[[南缘]]……
+bar32	1	bar32::English	But good luck arranging a visit. She's a powerful cipher wizard an' has a whole host of magical countermeasures to stop common plebs like us from wanderin' round her grounds.	不过你想登门拜访可没那么容易。她可是个强大的密文法师，布下了一大堆魔法防御，不让我们这种平头百姓在她的地界上乱逛。
+p40	1	p40::English	I'm looking for The Duchess.	我在找女公爵。
+shop21	1	shop21::English	Ah, yes - everyone's heard of the Duchess! Only, I don't think anyone's seen her in years. Last I heard, she was flyin' around with that crazy bunch o' breathers - what were they called? The Dull Stars? The ((Dim Lights))...?	啊，没错——女公爵的大名谁人不知！只是好些年没听说谁见过她了。上次听人说，她跟着那帮疯狂的呼吸者满天飞来着——他们叫什么来着？"钝星团"？((昏光团))……？
+shop22	1	shop22::English	Anyway, her family [[manor]] is to the [[south]]. If y'er looking for her, I'd head there - but I hear the place is crawlin' with [[magical skeletons]], so be careful. 	总之，她家的[[庄园]]在[[南边]]。你要找她，我建议去那儿——但我听说那地方爬满了[[魔法骷髅]]，可要当心。
+regret1	1	regret1::English	I never entered a mausoleum. Back when I was breathing, so long ago, I knew I could never leave these trees. The air smelled so... so... ##Well, I can't recall how the air smelled anymore, but it must have been good. 	我从未住进过陵墓。很久以前，我还在呼吸的时候，就知道自己离不开这片树林。那时的空气闻起来那么……那么……##唉，我已经想不起空气的味道了，但那一定很好闻。
+regret2	1	regret2::English	So I dawdled, and the mausoleums filled up. And the thing about being Endless, see, is that the pain dulls everything. Anhedonia sets in, pleasure seeps away... and these old trees only mock me, now.	于是我磨磨蹭蹭，陵墓就住满了。无尽者的毛病你瞧，就是痛苦会磨钝一切。快感缺失悄悄袭来，愉悦慢慢流走……如今这些老树只会嘲笑我。
+play1	1	play1::English	Hmm, what's this? A breather? Oh, marvellous! Please, stay there a second. Let me jot down some notes. Is your skin always that damp? Do you ever forget to breathe? What does it feel like, when your hair grows?	嗯，这是什么？一个呼吸者？哦，太妙了！请站在那儿别动。让我记点笔记。你的皮肤总是这么潮吗？你会忘记呼吸吗？头发长出来的时候是什么感觉？
+play2	1	play2::English	Ah, apologies, this must be quite overwhelming. I'm a playwright down in a mausoleum, you see - but the scene has become so... stagnant!	啊，抱歉，这一下子肯定让你不知所措了。你看，我是陵墓里的一名剧作家——可如今的戏剧界变得太……死气沉沉了！
+play3	1	play3::English	The past century or so, pre-Endless historical dramas have been in vogue. Except, us writers never leave our tombs, and I'm ((convinced)) our work is full of inaccuracies. ##It's funny, the things you forget. The history books never mention the little things... 	过去这一个世纪左右，无尽者之前的历史剧大行其道。问题是，我们这些编剧从不离开自己的坟墓，我((确信))我们的作品里全是胡编乱造。##有趣的是人会忘记的东西。史书从不记载那些小事……
+shop1	1	shop1::English	Ah, a breather! Welcome to the [[Mouldy Cauldron]]. ##You're my first living customer in months. Or has it been years? Time flies, when you're my age...	啊，一个呼吸者！欢迎光临[[霉锅店]]。##你是我几个月来的第一个活人顾客。还是已经好几年了？到我这个岁数，光阴似箭啊……
+shop2	1	shop2::English	Ah, my favourite customer! ##Well, you're also my ((only)) customer, but deaders can't be choosers, eh? ##Welcome back to the [[Mouldy Cauldron]].	啊，我最喜欢的顾客！##嗯，你也是我((唯一))的顾客，不过死人没得挑，对吧？##欢迎回到[[霉锅店]]。
+p37	1	p37::English	Let me see what you have for sale.	让我看看你卖什么。
+p38	1	p38::English	How's business?	生意如何？
+shop3	1	shop3::English	Ha! Business? I mostly just sit here and watch the rodents chew on my feet.	哈！生意？我基本上就是坐在这儿看耗子啃我的脚。
+shop4	1	shop4::English	A while back, things used to be a bit more exciting. Every now and again, some folk from Hallowshire would come to trade. They'd always look petrified and would never tarry long, but breather goods fetch a good price down in the mausoleums.	前一阵子，日子还稍微有意思些。时不时会有哈洛郡的人来做买卖。他们总是吓得呆若木鸡，从不多待，但呼吸者的货在陵墓里能卖出好价钱。
+shop5	1	shop5::English	But recently, breather business has dried up. I've been told it's because of something called an Aposhtatty Yoonun, but I have no idea what that is.	可最近，呼吸者的生意黄了。有人告诉我这是因为一个叫"阿泼斯泰蒂·尤弄"的玩意儿，可我压根不知道那是什么。
+shop6	1	shop6::English	You mean since the castle blew up and the island started falling apart?	你是说自从城堡被炸、这座岛开始崩解以来？
+shop7	1	shop7::English	...much the same really. I mostly just sit here and watch the rodents chew on my feet.	……其实差不多还是老样子。我基本上就是坐在这儿看耗子啃我的脚。
+pHouse1	1	pHouse1::English	Is there a house for sale in Sepulchre?	陵墓城有房子出售吗？
+shop8	1	shop8::English	Lookin' to invest in a property market full o' undyin' old timers, eh breather? <<The shopkeep chuckles to herself.>> ##...Oh wait, y'er ((serious?))	想在一个住满不死老不死的房地产市场上投资，是吧呼吸者？<<店主自己咯咯直笑。>> ##……哦等等，你是((认真的？))
+shop9	1	shop9::English	Ah, well, I think I had an old [[Sepulchre House Deed]] knockin' about in the ol' [[Shop Inventory]]. It's fer that ol' shack down by the [[western entry bridge]].	啊，这个嘛，我记得我的老[[店铺库存]]里搁着一份旧[[陵墓屋地契]]。是[[西侧入口桥]]边那座破棚子的。
+shop10	1	shop10::English	Just next to me is the only [[Property Station]] in Sepulchre; you'd need to use that if you wanted to [[upgrade]], [[furnish]] or [[decorate]] the house.	我旁边就是陵墓城唯一的[[房产工作站]]；你要想[[升级]]、[[布置]]或[[装点]]那房子，就得用它。
+pHouse2	1	pHouse2::English	How do I maintain the house?	我该怎么维护房子？
+shop11	1	shop11::English	Just next to me is the only [[Property Station]] in Sepulchre; you'd need to use that if you wanted to [[upgrade]], [[furnish]] or [[decorate]] the house.	我旁边就是陵墓城唯一的[[房产工作站]]；你要想[[升级]]、[[布置]]或[[装点]]那房子，就得用它。
+shop12	1	shop12::English	...'an judgin' by the state of that ol' shack, I'm sure you'd be wantin' to.	……而且照那破棚子的样子看，我敢说你肯定想好好拾掇拾掇。
+pHouse3	1	pHouse3::English	How do I upgrade a property?	房产怎么升级？
+shop13	1	shop13::English	Use that [[Property Station]] right next to me. Upgrades cost both [[coin]] and [[resources]], but it's worth it if you don't wanna live in a mouldy ol' wreck.	用我旁边那个[[房产工作站]]就行。升级要花[[硬币]]和[[资源]]，但谁想住在一座发霉的破烂里呢，值当的。
+shop14	1	shop14::English	First off, you wanna [[build]] an upgrade, like a Garden or an Annex or summin'. Might take a little time to construct, so you could get some shuteye while you wait. 	首先，你得[[建造]]一个升级项目，比如花园或厢房什么的。建造可能要花点时间，等的时候你可以眯一会儿。
+shop15	1	shop15::English	But a newly built upgrade won't have any furniture. So the next step is to [[furnish]] it for an additional cost. Then you'll 'ave fancy stuff to show yer friends. If ((yours)) are still alive, that is. 	但新造好的升级项目里没有家具。所以下一步是花钱[[布置]]家具。然后你就有排面的东西可以向朋友炫耀了——前提是((你的))朋友还活着。
+pHouse4	1	pHouse4::English	How do I decorate a property?	房产怎么装饰？
+shop16	1	shop16::English	You can [[decorate]] a house in any [[style]] you've unlocked. ##But, you gotta buy a style first. Right here we 'ave [[Endless Furnishings]] for sale, for instance. 	你可以用任何已解锁的[[风格]]来[[装饰]]房子。##不过，你得先购买风格。比如我们这儿就有[[无尽风格家具]]出售。
+shop17	1	shop17::English	Only one [[decorative style]] can be applied to your house, and it will only take effect on parts that have been [[furnished]].	你的房子只能应用一种[[装饰风格]]，而且只对已[[布置]]过的部分生效。
+pHouse5	1	pHouse5::English	How do I display trophies and artwork?	奖杯和艺术品怎么展示？
+shop18	1	shop18::English	Once you've [[furnished]] a part of your house, a bunch o' [[trophy mounts]] will appear. Use 'em to toggle the trophies you want to show off.	一旦你[[布置]]了房子的某个部分，就会出现一批[[奖杯架]]。用它们来切换你想展示的奖杯。
+shop19	1	shop19::English	Trophies 'ave to be [[unlocked]] before you can show 'em off, though. No idea how you do that, breather; you're on your own.	不过奖杯得先[[解锁]]才能展示。怎么解锁我可不知道，呼吸者；你自己琢磨吧。
+pHouse6	1	pHouse6::English	Thanks for your help. 	多谢帮忙。
+shop20	1	shop20::English	Sure thing breather. Anythin' else?	不客气，呼吸者。还有别的吗？
+sen1a	1	sen1a::English	Hail and well met, my mortal friend! How may I be of assistance today?	你好呀，幸会幸会，我凡人的朋友！今天我能帮上什么忙？
+sen1b	1	sen1b::English	Greetings once again, mortal. How may I help?	再次问候，凡人。有何吩咐？
+sen1	1	sen1::English	Aha, a mortal traveler! Unusual, to see one of your kind within the realm of the Endless! It is my pleasure to welcome you to the Castle of Ribs. Pray tell, my friend, what brings you to our kingdom?	啊哈，一位凡人旅者！在无尽者的国度见到你们这样的客人，真是稀罕！欢迎来到肋骨城堡，这是我的荣幸。请讲，我的朋友，是什么风把您吹到我们王国来的？
+p50	1	p50::English	I'm hunting a former member of the Dark Star company.	我在追捕黑星佣兵团的一名前成员。
+senDS1	1	senDS1::English	How exciting, aha! [I MAY KNOW SOMETHING]	真是激动人心，啊哈！[I MAY KNOW SOMETHING]
+senDS2	1	senDS2::English	No, but [I MAY KNOW SOMETHING]	没有，但[I MAY KNOW SOMETHING]
+senDS3	1	senDS3::English	[DARK STAR DIALOGUE 1]	[DARK STAR DIALOGUE 1]
+senDS4	1	senDS4::English	[DARK STAR DIALOGUE 2]	[DARK STAR DIALOGUE 2]
+sen2	1	sen2::English	How exciting, aha! I can provide some assistance, if you like? I will send word to my retinue and have them scour the land for your quarry.	真是激动人心，啊哈！如果你愿意，我可以帮些忙？我会传话给我的随从，让他们在国内各处搜寻你的猎物。
+p51	1	p51::English	Just seeing the sights.	只是四处观光。
+sen3	1	sen3::English	Aha! I am familiar with that drive to discover, that raw, unbidden ((need)) to know what lies beyond the horizon! I travelled a little in my own youth, you know. Some many hundreds of years ago, when I had a beating heart. The skyrealms were very different then, let me tell you!	啊哈！那种探索的冲动，那种想知道地平线之外有什么的原始而不由分说的((渴望))，我再熟悉不过了！你知道吗，我自己年轻时也游历过一些地方。那是几百年前的事了，那时我还有一颗跳动的心脏。那时候的天空领域可跟现在大不一样，让我告诉你！
+p52	1	p52::English	Insatiable curiosity.	永不满足的好奇心。
+p53	1	p53::English	I want to learn how to cheat death.	我想学会如何骗过死亡。
+sen4	1	sen4::English	Oh dear. Not another one. How many mortals must we turn away before you learn your lesson? The Endless are not recruiting. And please don't burden me with another sob-story.	哦天哪。又来一个。我们要回绝多少凡人你们才能吸取教训？无尽者不招人。也请别再用苦情故事来烦我。
+p54	1	p54::English	I am here to visit the Queen of Silver.	我是来拜访白银女王的。
+sen5	1	sen5::English	Alas, the Queen isn't accepting visitors at this time. Or at any time, really. She is... Withdrawn. Most days she will speak to me, and me alone.	唉，女王现在不接待访客。其实什么时候都不接待。她……与世隔绝。大多数日子里，她只肯跟我说话，也只有我一个人。
+sen6	1	sen6::English	I'll answer your questions to the best of my ability.	我会尽我所能回答你的问题。
+sen7	1	sen7::English	Greetings once again, mortal. How may I help?	再次问候，凡人。有何吩咐？
+p55	1	p55::English	Perhaps I can put her in a better mood.	也许我能让她心情好一点。
+sen8	1	sen8::English	I doubt it. But I suppose I have nothing to lose by letting you try. Go ahead. If you can raise her out of her depression, I will be - without exaggeration - eternally grateful.	我对此表示怀疑。不过让你试试我也不亏。去吧。如果你能让她走出消沉，我会——毫不夸张地说——永远感激你。
+p56	1	p56::English	Doesn't she have responsibilities, as a monarch?	身为君主，她难道没有职责吗？
+sen9	1	sen9::English	In theory, yes. But if a monarch neglects her responsibilities for many hundreds of years, the state tends to adapt.	理论上，有。但如果一位君主数百年疏于职守，国家往往就会自己适应过来。
+p57	1	p57::English	I don't see any guards. How are you going to stop me?	我没看见卫兵。你打算怎么拦我？
+sen10	1	sen10::English	...I suppose that is true. But don't expect a kind reception from the Queen.	……我想的确如此。但别指望女王会好好待你。
+p58	1	p58::English	It's a shame. I travelled a long way see her.	真遗憾。我远道而来就是想见她。
+sen11	1	sen11::English	...Very well, go ahead. I'll pretend I didn't see you.	……好吧，去吧。我就当没看见你。
+sen12	1	sen12::English	<<The Seneschal stands aside, allowing you passage deeper into the Castle of Ribs.>>	<<总管站到一旁，放行你深入肋骨城堡。>>
+sen12a	1	sen12a::English	I have already granted you access to the Queen.	我已经准许你觐见女王了。
+p61	1	p61::English	I have other questions for you.	我还有别的问题要问你。
+sen15	1	sen15::English	I'll answer to the best of my ability.	我会尽我所能回答。
+p62	1	p62::English	Have you ever been outside the kingdom of the Endless?	你出过无尽者王国的门吗？
+sen16	1	sen16::English	I travelled a little in my youth. Many hundreds of years ago. The skyrealms were very different then, let me tell you!	我年轻时游历过一些地方。几百年前的事了。那时候的天空领域可跟现在大不一样，让我告诉你！
+p63	1	p63::English	How were they different?	怎么个不一样法？
+sen17	1	sen17::English	Well, this was only a century after the World Rend. Everything was in a state of flux - every day, new kingdoms were blossoming and dying like winter roses.	这个嘛，那时只是世界撕裂后一个世纪。一切都处于流变之中——每天都有新王国如冬玫瑰般绽放又凋零。
+sen18	1	sen18::English	There was no Union, of course, and you needed to have the protection of a god, or at least a powerful Wikkan, to survive a journey across the sky. I saw some wonderful things. And some horrors, too.	当然，那时还没有联盟，要想在跨越天空的旅途中活下来，你需要一位神的庇护，或者至少一位强大的维坎教徒。我见过一些奇妙的事物。也见过一些恐怖的东西。
+p64	1	p64::English	Tell me about the wonders.	给我讲讲那些奇观。
+sen19	1	sen19::English	Why, of course! Have you ever seen a god? I saw one once, drifting through the fog. As vast as a mountain. Dozens of eyes, each as bright and round as the moon.	哦，当然！你见过神吗？我见过一次，在雾中缓缓漂过。大如山岳。几十只眼睛，每一只都像月亮一样又圆又亮。
+sen20	1	sen20::English	When I saw it, I opened my mouth, and the most beautiful hymn spilled out. I can't sing under normal circumstances, but my voice was like honey and thunder, that day...	当我看见它时，我张开嘴，最美的圣歌倾泻而出。平时我根本不会唱歌，但那天，我的嗓音如蜜糖与雷霆……
+p65	1	p65::English	Tell me about the horrors.	给我讲讲那些恐怖。
+sen21	1	sen21::English	I would rather not recall such things, but... I saw an entire town consumed in silver flames, while laughing priests circled above like vultures. ##I saw a conscriptor-harvester pulling screaming men into its maw and turning them into mindless engines of war.	我本不愿回忆这些，但是……我见过一座小镇被银色火焰吞噬，而大笑的祭司们如秃鹫般在上方盘旋。##我见过一台征召收割机把尖叫的人们拽进巨口，把他们变成没有意识的战争机器。
+sen22	1	sen22::English	I saw a library whale pulled slowly apart by iron hooks, and butcher-archivists scrabbling through its guts for forgotten tomes...	我见过一头图书馆鲸被铁钩慢慢撕开，屠夫档案员们在它的内脏中翻找被遗忘的典籍……
+p66	1	p66::English	Fascinating, but I wanted to ask something else...	真引人入胜，不过我想问点别的……
+sen23	1	sen23::English	Of course.	当然。
+p67	1	p67::English	Can you remember what caused the World Rend?	你还记得世界撕裂是什么引起的吗？
+sen24	1	sen24::English	I never knew what caused it. But I remember the searing flash that stained the sky. I remember the impact, which shook our tombs and scattered the islands.	我一直不知道起因。但我记得那道染遍天空的灼目闪光。我记得那次冲击，震动了我们的坟墓，把岛屿震散四方。
+sen25	1	sen25::English	Back then, the Endless were one of the few peoples in the skyrealms. It got a lot more crowded after that, with all the refugees.	那时候，无尽者是天空领域里为数不多的族群之一。那之后难民蜂拥而至，地方变得拥挤多了。
+p68	1	p68::English	Your youth? Was this before you became Endless?	你的年轻时代？那是在你成为无尽者之前？
+sen26	1	sen26::English	Yes, indeed. I couldn't have travelled after. The mortals had good reason to fear the Endless, in those days... I would have been killed on sight, and I would have deserved it.	是的，的确如此。成为无尽者之后我就没法旅行了。那时候凡人惧怕无尽者是有充分理由的……我一旦露面就会被杀，而且罪有应得。
+sen27	1	sen27::English	A relative term; for the rot hadn't fully set in. ##Even so, it was difficult at times. The mortals had good reason to fear the Endless, in those days... I could have been killed on sight, and I would have deserved it.	这是个相对的说法；因为当时腐朽尚未完全侵入。##即便如此，有时也很艰难。那时候凡人惧怕无尽者是有充分理由的……我一旦露面就可能被杀，而且罪有应得。
+p69	1	p69::English	I have other questions for you.	我还有别的问题要问你。
+p70	1	p70::English	I have some questions.	我有几个问题。
+sen28	1	sen28::English	Very well.	好的。
+p71	1	p71::English	Can I ask about yourself?	我能问问你自己的事吗？
+sen29	1	sen29::English	By all means, go ahead.	当然可以，请讲。
+p72	1	p72::English	Who are you, exactly?	你究竟是谁？
+sen30	1	sen30::English	I am the Seneschal. I administer the Queen of Silver's affairs, attend to her needs, and run the day-to-day business of the kingdom. Although the kingdom tends to run itself, these days, more or less.	我是总管。我掌管白银女王的事务，照料她的起居，打理王国的日常政务。不过如今这个王国差不多都能自己运转了。
+p73	1	p73::English	Are you a follower of the Ferryman?	你是摆渡人的信徒吗？
+sen31	1	sen31::English	I would say I'm agnostic. I've read the literature, and sometimes I lock my office and lie in the dark with coins over my eyes, just to see if I have any great revelation. Nothing so far.	要我说，我算不可知论者。相关典籍我都读过，有时我会锁上办公室，在黑暗中躺下，眼睛上盖着硬币，看看会不会有什么伟大的启示。迄今一无所获。
+p74	1	p74::English	Lord Rhydder claims you were the reason the Hooded King's ritual backfired.	里德尔勋爵声称，兜帽王的仪式之所以弄巧成拙，就是因为你。
+sen32	1	sen32::English	Why is Lord Rhydder speaking to you in the first place? I thought he hated your kind.	里德尔勋爵怎么会跟你说话来着？我还以为他恨透了你们这种人。
+p75	1	p75::English	Don't change the topic.	别转移话题。
+p76	1	p76::English	He does. But he seems to hate you more.	他是恨。但他似乎更恨你。
+p77	1	p77::English	You were the one who doomed this kingdom, Seneschal.	是你毁了这个王国，总管。
+sen33	1	sen33::English	What was I supposed to do? The princess was so young, barely a woman, and they were drowning her. Or rather... She was drowning herself.	我当时能怎么办？公主那么年轻，还算不上真正的妇人，而他们要把她淹死。或者说……她是在把自己淹死。
+sen34	1	sen34::English	She walked into the mercury willingly, it seemed, and ducked her head under its silver surface. She didn't even struggle. The mercury swallowed her, and then it was so still... Like a mirror...	看起来她是自愿走进水银池的，把头埋进了那银色的液面之下。她甚至没有挣扎。水银吞没了她，然后一切都那么静……像一面镜子……
+p78	1	p78::English	It looked like she sacrificed herself willingly?	看起来她是自愿献祭自己的？
+sen35	1	sen35::English	Yes. It must have been some dark magic, twisting her mind, moving her muscles against her will. Right?	是啊。一定是某种黑暗魔法在扭曲她的心智，违背她的意愿驱使她的肌肉。对吧？
+p79	1	p79::English	So you saved her? 	所以你救了她？
+sen36	1	sen36::English	I did. I ran in and pulled her to safety, and I got a sword through my chest for the trouble. But I did a good thing, didn't I? If not for me, the Queen would be dead!	是的。我冲进去把她拉到安全的地方，换来的却是一剑穿胸。可我做了件好事，不是吗？要不是我，女王早就死了！
+p80	1	p80::English	How did you survive being stabbed?	被捅了一剑你是怎么活下来的？
+sen37	1	sen37::English	I lay dying on the marble floor of the throne room for a long time. Until I realised that I was no longer dying at all. I had become Endless... And a mere stab-wound was not enough to kill me. Not any more.I	我躺在王座厅的大理石地板上，奄奄一息了很长时间。直到我意识到，自己根本不再是奄奄一息。我已化为无尽者……区区一处剑伤再也无法杀死我。再也不能了。
+p81	1	p81::English	Can you remember anything else about the ritual? 	关于那场仪式，你还记得别的什么吗？
+sen38	1	sen38::English	No. Just pain and darkness.	没有。只有痛苦和黑暗。
+sen39	1	sen39::English	<<He sighs deeply, rubbing his temples.>>##Please, can you leave me in peace for a moment?	<<他深深叹息，揉着太阳穴。>>##求你了，能让我清静一会儿吗？
+p82a	1	p82a::English	Can I ask about the Endless?	我能问问无尽者的事吗？
+sen40a	1	sen40a::English	Our kind must seem strange to you; I'm happy to indulge your curiosity.	我们这种生灵在你眼里想必很怪异；我很乐意满足你的好奇心。
+p82	1	p82::English	How were the Endless created?	无尽者是怎么被创造出来的？
+sen40	1	sen40::English	...It was the work of the Hooded King. My former liege.	……那是兜帽王的手笔。我昔日的君上。
+p83	1	p83::English	Why didn't you talk him out of it?	你为什么不劝阻他？
+sen41	1	sen41::English	What was I supposed to do? He was my King, and he had the backing of all the Great Lords. I was just the Seneschal, and he laughed at my warnings!	我能怎么办？他是我的国王，所有大勋爵都站在他那边。我不过是个总管，他听了我的警告只顾发笑！
+p84	1	p84::English	What happened?	后来呢？
+sen42	1	sen42::English	The Hooded King summoned Wikkans and theurges from across the skyrealms. They tried a hundred different potions and ceremonies and spells to make him immortal, but none worked...	兜帽王从天空领域各处召来了维坎教徒和神术师。他们试了上百种药水、仪式和咒语想让他永生，但没有一种奏效……
+sen43	1	sen43::English	Until eventually they hit upon some kind of ritual. Dark, strange magic, like nothing I've ever witnessed. It involved striking a bargain... And a sacrifice.	直到他们最终想出某种仪式。黑暗而诡异的魔法，我闻所未闻、见所未见。那需要达成一桩交易……还有一场献祭。
+p85	1	p85::English	A bargain?	交易？
+sen44	1	sen44::English	They made a contract with a god from some forgotten corner of the world. I only saw it once, as I pressed my eye to the keyhole of the throne room... It was a twisted thing of hunger and darkness, hunched upon the marble floor like a creature from nightmares.	他们与一位神明订了契约，那神来自世界某个被遗忘的角落。我只见过它一次，当时我把眼睛贴在王座厅的钥匙孔上……那是一团扭曲的东西，由饥饿与黑暗构成，蜷缩在大理石地板上，像从噩梦里爬出来的怪物。
+p86	1	p86::English	A sacrifice?	献祭？
+sen45	1	sen45::English	His only daughter. The princess. As the ritual reached its apex, she was to be drowned in a pool of mercury.	他唯一的女儿。那位公主。仪式达到顶点之时，她将被溺死在水银池中。
+p87	1	p87::English	But if the ritual worked, where is the Hooded King?	可如果仪式成功了，兜帽王在哪儿？
+sen46	1	sen46::English	Enough of this chatter. I am a very busy man, you know! I can't just stand around talking all day!	别再闲聊了。你要知道，我可是个大忙人！我不能成天站在这儿说个不停！
+p88	1	p88::English	Goodbye, Seneschal.	再见，总管。
+sen47	1	sen47::English	Go in peace, mortal.	平安去吧，凡人。
+p89	1	p89::English	Have you ever fed on a living person?	你吃过活人吗？
+sen48	1	sen48::English	I am ashamed to say that yes, I have. But do not fear - the last mortal I ate was over two centuries ago. We have the flesh-farms now, which sustain us without the need for bloodshed.	我羞于承认，是的，吃过。但别害怕——我吃的最后一个凡人已经是两个多世纪前的事了。现在我们有血肉农场，无需流血就能维生。
+p90	1	p90::English	Why are there so many ghosts in the kingdom of the Endless?	无尽者的王国里为什么有这么多幽灵？
+sen49	1	sen49::English	Ghosts are manifestatons of trauma. Long ago, when the Endless were first created, there were still many living souls in the kingdom. The Endless, consumed by hunger, hunted them down in a mad frenzy...	幽灵是创伤的显形。很久以前，无尽者刚被创造出来的时候，王国里还有许多活的灵魂。无尽者被饥饿吞噬心智，陷入疯狂的暴怒，将他们逐一猎杀……
+sen50	1	sen50::English	Over the next few years, the Great Devouring, our kingdom ate itself alive. Many ghosts were born from that bloodshed, both from the victims, and from those sated Endless who realised what they had done.	在接下来的几年里——大吞噬——我们的王国活活吃掉了自己。许多幽灵诞生于那场血腥，既有来自受害者的，也有来自那些餍足后惊觉自己所作所为的无尽者。
+sen51	1	sen51::English	I am ashamed to say that some were also... created, on purpose. The abhorrent suits of armour that roam these lands were footsoldiers, once - remnants from the Cadaver Crusades.	我更羞于承认，还有一些幽灵是……被刻意造出来的。在这片土地上游荡的那些可憎铠甲曾是步兵——尸骸十字军的残部。
+p91	1	p91::English	Did you take part in the Great Devouring?	你参与过大吞噬吗？
+sen52	1	sen52::English	...Yes. None of my family survived my hunger.	……是的。我的家人没有一个逃过我的饥饿。
+p92	1	p92::English	So ghosts were left by both the devourers and the devoured?	所以吞噬者和被吞噬者都留下了幽灵？
+sen53	1	sen53::English	Yes. I have never met my own ghost, but I am certain he is out there, still wracked by hunger and guilt.	是的。我从未遇见过我自己的幽灵，但我确信他就存在于某处，仍被饥饿与负罪折磨着。
+p93	1	p93::English	I am so sorry that happened to you.	发生在你身上的这些事，我很难过。
+sen54	1	sen54::English	It is not a time in my life I like to reflect upon. I'm sorry... Please leave me be for a moment.	那不是我人生中愿意回想的一段时光。抱歉……请让我一个人静一静。
+p94	1	p94::English	You're nothing more than a vile killer.	你不过是个卑劣的凶手。
+sen55	1	sen55::English	I... I know. ##<<The Seneschal seems lost in misery, and no longer responds to your questions.>>	我……我知道。##<<总管似乎陷入悲恸之中，不再回应你的问题。>>
+sen56	1	sen56::English	I... know.	我……知道。
+p95	1	p95::English	How can you talk about this so calmly?	你怎么能这么平静地谈论这些？
+sen57	1	sen57::English	It... It was a long time ago.	那……那是很久以前的事了。
+p96	1	p96::English	Are you technically alive? Or dead?	严格来说你们是活的？还是死的？
+sen58	1	sen58::English	Oh, Endless scholars have been debating that one for centuries. We don't breathe, our hearts are still, and we rot instead of ageing. But we never actually ((died.)) And we still hunger, though not for food.	哦，无尽者的学者们为这个问题争了几百年。我们不呼吸，心脏静止不动，我们在腐烂而非衰老。但我们从未真正((死去))。我们仍然饥饿，只是不为食物。
+p97	1	p97::English	I seek an audience with the Queen of Silver.	我求见白银女王。
+sen59	1	sen59::English	Alas, the Queen isn't accepting visitors at this time. Or at any time, really. She is... Withdrawn. Most days she will speak to me, and me alone.	唉，女王现在不接待访客。其实什么时候都不接待。她……与世隔绝。大多数日子里，她只肯跟我说话，也只有我一个人。
+p98	1	p98::English	Can you teach me how to cheat death?	你能教我怎么骗过死亡吗？
+sen60	1	sen60::English	Oh dear. Not another one. How many mortals must we turn away before you learn your lesson? The Endless are not recruiting. And please don't burden me with another sob-story.	哦天哪。又来一个。我们要回绝多少凡人你们才能吸取教训？无尽者不招人。也请别再用苦情故事来烦我。
+p59	1	p59::English	Why can't you make an exception for me?	为什么不能为我破个例？
+sen13	1	sen13::English	You don't want to be like us, mortal. As time passes, your flesh will rot. Your eyes will drool from their sockets like last week's milk. You will feel hunger, ((true)) hunger, for the first time in your existence, and it will never. Go. Away.	你不会想变成我们这样的，凡人。时间一长，你的血肉会腐烂。你的眼珠会像馊了一周的牛奶一样从眼窝里淌出来。你将第一次感受到饥饿，((真正的))饥饿，此生从未体验过的饥饿，而且它永远。不会。消失。
+p60	1	p60::English	Didn't you make Penitent Thaw into an Endless?	你们不是把忏悔者·索变成了无尽者吗？
+sen14	1	sen14::English	Hmph. That wasn't my decision. And when we did that, we all vowed never to make another Endless again.	哼。那不是我的决定。而且做成那件事之后，我们全都发过誓，再也不造第二个无尽者。
+p99	1	p99::English	Has any member of the Dark Star company visited the Castle of Ribs recently?	最近有黑星佣兵团的成员到访过肋骨城堡吗？
+sen61	1	sen61::English	No, but I can help you find them if you like? I can just send word to my retinue and have them scour the land.	没有，不过如果你愿意，我可以帮你找？我给随从们传个话，让他们搜遍全国。
+p100	1	p100::English	That would be helpful.	那太好了。
+sen62	1	sen62::English	It shall be done! Can I assist you with anything else?	马上照办！还有别的需要帮忙的吗？
+p101	1	p101::English	Don't your soldiers have something better to do?	你的士兵们就没有更要紧的事做吗？
+sen63a	1	sen63a::English	No, the Queen relieved them of their duties long ago. Most of them have gone about their own business, or thrown their lot in with Thaw, but a few remain loyal to me.	没有，女王很久以前就免了他们的职务。大多数人各奔前程，或者投奔了索，但仍有少数人效忠于我。
+p102	1	p102::English	No thanks. I work alone.	不用了，谢谢。我单打独斗。
+sen63	1	sen63::English	Aha, we have a lone wolf, do we? A loose cannon, perhaps? Fear not! I won't cramp your style	啊哈，来了匹独狼，是吧？还是个不受约束的莽汉？别怕！我不会搅了你的好事
+sen64	1	sen64::English	No luck yet in finding your Dark Star fellows. My guards have been going over the island with a fine-toothed comb. Perhaps you are better served looking elsewhere?	还没找到你那些黑星同伙。我的卫兵已经把全岛翻了个底朝天。或许你去别处找找更好？
+p103	1	p103::English	Do you know what's causing these earthquakes?	你知道这些地震是怎么回事吗？
+sen65	1	sen65::English	Hmm. It is a common belief that the Entombed One is causing the recent disturbances. 	嗯。人们普遍认为是墓中人造成了最近的骚动。
+p104	1	p104::English	Do you have any theories about the Entombed One?	关于墓中人你有什么推测吗？
+sen66	1	sen66::English	Ah, yes. Have you experienced one of the recent earthquakes? A terrible business.	啊，对。你经历过最近的地震吗？真是可怕的事。
+sen67	1	sen67::English	I have reason to believe that the Entombed One is the lingering spectre of the Hooded King, getting his revenge on the kingdom that left him for dead. Someone needs to find him and persuade him to abandon his vendetta... By force, if necessary.	我有理由相信，墓中人就是兜帽王不散的怨灵，正在向这个弃他于死地的王国复仇。得有人找到他，劝他放下这场血仇……必要时可以用强。
+p105	1	p105::English	I can try.	我可以试试。
+sen68	1	sen68::English	You would do that? I would be in your debt. Here, take this - it's a key to the crypt beneath the Castle. The Entombed One is somewhere down there.	你愿意？那我就欠你一份人情了。来，拿着这个——这是城堡地下墓穴的钥匙。墓中人就在下面某处。
+p106	1	p106::English	Good luck with that.	祝你好运。
+sen69	1	sen69::English	Thank you, mortal. For your sake, I hope the situation doesn't get worse while you're here.	谢谢你，凡人。为了你好，希望你在这儿的时候局面别变得更糟。
+p107	1	p107::English	There's a fanged door in the crypts that won't let me past.	墓穴里有一扇长獠牙的门，不让我过去。
+sen70	1	sen70::English	Oh, dear. That sounds like one of the Hooded King's little tests. I thought we'd found and dispelled them all...	哦，天哪。听起来像兜帽王的小考验之一。我以为我们已经把它们全部找出并解除了……
+p108	1	p108::English	What should I do? 	我该怎么办？
+sen71	1	sen71::English	You'll need to find someone who's still loyal to the old King, and convince them to give you their blood. Not an easy task, I appreciate.	你得找一个仍然效忠老国王的人，说服他把血给你。我知道，这可不是件容易事。
+p109	1	p109::English	Could I use your blood?	我可以用你的血吗？
+sen77	1	sen77::English	No, I'm afraid I would definitely be considered a traitor by the spell. You're better off looking elsewhere.	不行，恐怕那咒文一定会把我当成叛徒。你还是另找他人吧。
+p109b	1	p109b::English	Thanks for the help.	谢谢帮忙。
+p110	1	p110::English	I have spoken to the Entombed One.	我跟墓中人谈过了。
+sen78	1	sen78::English	Oh, you did? Was I right? Is it the Hooded King?	哦，是吗？我说对了吗？是兜帽王吗？
+p111	1	p111::English	No. It's a ghost of the Queen's sacrifice.	不。那是女王献祭所化的幽灵。
+sen79	1	sen79::English	Really? I had no idea a ghost could be so powerful... Perhaps you should talk to Penitent Thaw about that. She'd know more.	真的？我竟不知道幽灵能有这么强的力量……这事你或许该去找忏悔者·索谈谈。她懂得更多。
+sen80	1	sen80::English	Did you at least persuade the Queen's ghost to stop causing earthquakes?	那你至少劝住女王的幽灵，让它别再引发地震了吗？
+p112	1	p112::English	Yes, you were right.	是的，你说对了。
+p113	1	p113::English	No. Not yet.	没有。还没有。
+p114	1	p114::English	I tried, but the ghost is beyond reason.	我试过了，但那幽灵不可理喻。
+sen81	1	sen81::English	Then you should speak to the Queen. She has more insight into her father's nature than I do.	那你该去跟女王谈谈。对于她父亲的本性，她比我看得更透。
+p115	1	p115::English	I tried, but she is too far gone.	我试过了，但她已经病入膏肓。
+sen82	1	sen82::English	Then you should speak to the Queen. This is her ghost, after all. Perhaps she can offer insight.	那你该去跟女王谈谈。毕竟那是她的幽灵。也许她能提供些见解。
+p116	1	p116::English	Absolutely.	没问题。
+sen82b	1	sen82b::English	Marvellous news! Well, in that case, we can consider this matter laid to rest, can't we?	太好了！那么这样一来，这件事就算了结了，不是吗？
+p117	1	p117::English	There's an Endless named Myghar in a crypt who won't let me in.	有个叫米加尔的无尽者占着一间墓穴，不让我进去。
+sen83	1	sen83::English	Oh, goodness, I completely forgot he was down there. Yes, that's Myghar alright. He paid a formidable sum of money to be allowed exclusive use of the castle's crypt as his 'final resting place.'	哦，天哪，我完全忘了他还在下面。没错，就是米加尔。他付了一大笔钱，买下了城堡墓穴的专用权，当作他的"安息之地"。
+p118	1	p118::English	How long has he been down there?	他在下面待了多久了？
+sen84	1	sen84::English	Oh, not long. Only about twenty years.	哦，不久。才二十年左右。
+p119	1	p119::English	Twenty years? How has he survived that long without life-essence?	二十年？没有生命精华他怎么能撑这么久？
+sen85	1	sen85::English	As I recall, he had his own small flesh-farm installed. In theory, he can survive down there indefinitely.	我记得，他装了个自己的小型血肉农场。理论上，他可以在下面无限期地活下去。
+p120	1	p120::English	Why does he want to stay in the castle crypts?	他为什么想待在城堡墓穴里？
+sen86	1	sen86::English	The prestige, I suppose. Myghar was one of the wealthiest citizens in the kingdom, and always wanted to be seen to outdo his peers. They retreated into the Mausoleums, but he wanted nothing less than the royal crypt.	大概是为了脸面吧。米加尔曾是王国最富有的公民之一，总想在同侪面前压人一头。别人都退进了陵墓，他却非皇家墓穴不要。
+p121	1	p121::English	How can I get him to open the door?	我怎么才能让他开门？
+sen87	1	sen87::English	It'll be difficult. He always was a stubborn fool. But I imagine he's been pretty bored, cooped up in that crypt - perhaps if you offered him some new reading material?	会很困难。他一直是个固执的蠢货。不过我猜他被关在那墓穴里也闷得慌——也许你可以给他带点新的读物？
+p122	1	p122::English	Do you know where I can find a woman named Wren?	你知道我去哪儿能找到一个叫蕾恩的女人吗？
+sen88	1	sen88::English	Wren... Wren... Ah, yes. Terribly sad. She was eaten by a Catacomb Wyrm about ten years ago. Did you know her?	蕾恩……蕾恩……啊，对。真令人难过。大约十年前她被一条地窟蠕虫吃了。你认识她？
+p123	1	p123::English	No, but a friend of mine did.	不认识，但我有个朋友认识。
+sen89	1	sen89::English	Ah. Well, I am sorry to be the bearer of bad news.	啊。唉，很抱歉由我来告诉你这个坏消息。
+p124	1	p124::English	I dug her husband up recently.	我最近把她丈夫挖了出来。
+sen90	1	sen90::English	Oh, you found Mermero? How marvellous! I had thought he was lost for good.	哦，你找到梅梅罗了？太好了！我还以为他永远找不回来了。
+p125	1	p125::English	Yes, she and I were very close. 	是的，我和她曾非常亲密。
+sen91	1	sen91::English	Oh dear. I am so sorry. Let me know if there's anything I can do.	哦，天哪。我很遗憾。有什么我能做的尽管开口。
+p126	1	p126::English	Any idea why a talking crow has been asking me to put its feathers in braziers around the kingdom?	你知道为什么一只会说话的乌鸦一直让我把它的羽毛放进全国各地的火盆里吗？
+sen92	1	sen92::English	...I couldn't speculate. But don't touch those braziers. The Hooded King placed those all around the Kingdom as part of the ritual to turn himself immortal. Dark magic was woven into the iron. Promise me that you won't mess around with them.	……我可不敢妄加猜测。但别碰那些火盆。兜帽王为了把自己变成永生的仪式，把它们布满了整个王国。黑暗魔法织进了那些铁器里。答应我，别去乱动它们。
+p127	1	p127::English	 I promise.	我答应你。
+sen93	1	sen93::English	Thank you.	谢谢。
+p128	1	p128::English	I will do as I please.	我乐意怎么做就怎么做。
+sen94	1	sen94::English	Just be careful, I implore you.	只求你千万小心。
+sen95	1	sen95::English	Was there anything else?	还有别的事吗？
+thaw1	1	thaw1::English	<<The rotted woman advances toward you, her robes trailing along the ground. Nearby is a floating cage, inhabited by a twitching, gibbering corpse. The cage drifts closer to you, gaining momentum.>>	<<腐烂的女人朝你走来，长袍拖曳在地上。附近悬浮着一个笼子，里面住着一具抽搐着、胡言乱语的尸体。笼子朝你漂近，越来越快。>>
+thaw0	1	thaw0::English	You again, mortal. I presume you have... <<She sighs.>> ##...questions.	又是你，凡人。我猜你又有……<<她叹了口气。>>##……问题。
+thaw2	1	thaw2::English	Hang on. Stand right there. Don't move a muscle.	等等。站在原地。一动也别动。
+p200	1	p200::English	What?	什么？
+p201	1	p201::English	One step closer and I'll cut your head off.	再靠近一步我就砍下你的脑袋。
+thaw3	1	thaw3::English	<<The caged corpse opens its mouth and begins to sing a giddy melody. Your shadow lifts from the ground and wraps itself around your knees, bearing you down to the floor.>>	<<笼中的尸体张开嘴，唱起一支令人眩晕的曲调。你的影子从地上飘起，缠住你的双膝，把你压倒在地。>>
+thaw4	1	thaw4::English	Why have you come here? Are you an assassin? A thief? A rival mage, seeking to steal my secrets?	你为什么来这里？你是刺客？窃贼？还是想窃取我秘密的同行法师？
+p202	1	p202::English	What did you do to me? 	你对我做了什么？
+thaw5	1	thaw5::English	My familiar has cast a spell to keep you from doing anything that you might regret. Now answer my questions.	我的使魔对你施了咒，免得你做出让自己后悔的事。现在回答我的问题。
+p203	1	p203::English	Who are you?	你是谁？
+thaw6	1	thaw6::English	My name is Penitent Thaw. Some call me the greatest living mage in the skyrealms. Personally, I'm not sure I'm truly alive, but the rest of it is right.	我叫忏悔者·索。有人称我是天空领域最伟大的在世法师。我个人倒不确定自己算不算"在世"，但其余的部分没错。
+thaw7	1	thaw7::English	So you better answer my questions carefully.##Are you an assassin? A thief? A rival mage?	所以你最好仔细回答我的问题。##你是刺客？窃贼？还是同行法师？
+p204	1	p204::English	None of those. Just a mortal, passing through.	都不是。只是个路过的凡人。
+thaw8	1	thaw8::English	And what is a mortal doing in the kingdom of the Endless? Didn't you listen to all the scary stories about this place?	那一个凡人在无尽者的王国里做什么？你没听过关于这个地方的那些恐怖故事吗？
+p205	1	p205::English	Yes. I wanted to see if they were true.	听过。我想看看是不是真的。
+thaw9	1	thaw9::English	Aha. Someone after my own heart, I see.	啊哈。我看你倒是和我心意相通。
+p206	1	p206::English	What stories?	什么故事？
+thaw10	1	thaw10::English	Oh, you know. Stories about the kingdom that ate itself. The land of ghosts and corpses. Ancient, rotted armies crusading across the skies to slaughter all mortals. That sort of thing.	哦，你懂的。关于那个把自己吃掉的王国。鬼魂与尸骸之地。古老腐朽的军队在天空间远征，杀尽所有凡人。诸如此类。
+p207	1	p207::English	Wouldn't be here if I did.	听过的话我就不会来了。
+thaw11	1	thaw11::English	Well, perhaps you should have.	哦，那你也许真该听进去。
+p208	1	p208::English	I'm chasing someone from the Dark Star company.	我在追查黑星佣兵团的某个人。
+thaw12	1	thaw12::English	Dark Star, eh? I take it you're after Vela Callose.	黑星是吧？我猜你追的是薇拉·卡洛斯。
+p209	1	p209::English	You know her? 	你认识她？
+thaw13	1	thaw13::English	Only by reputation. Unlike the rest of the Endless, I actually make an effort to keep up with affairs in the outside world. So why are you chasing the most dangerous mercenary in all the skyrealms, exactly?	只闻其名。不像其他无尽者，我还真的会留意外面世界的动静。所以，你究竟为什么要追查全天空领域最危险的佣兵？
+p210	1	p210::English	No comment.	无可奉告。
+thaw14	1	thaw14::English	Ha. A wise answer. But I can hear your heartbeat quicken at her name, I can see your eyes dilate a fraction. You're after her. Why?	哈。聪明的回答。但我听得见你听到她名字时心跳加速，看得见你的瞳孔微微放大。你在追她。为什么？
+p211	1	p211::English	I've been forced into it by the Inquisition.	我是被迫的，宗教裁判所逼的。
+thaw15	1	thaw15::English	Interesting. They must be desperate indeed, to be trying to get a pawn like you to the end of the board.	有意思。他们想把你这颗小卒推到棋盘尽头，看来是真的走投无路了。
+p212	1	p212::English	Seemed like a good idea at the time.	当时觉得这是个好主意。
+thaw16	1	thaw16::English	Hmm. You intrigue me, mortal.	嗯。你引起了我的兴趣，凡人。
+p213	1	p213::English	All of the above, and more! 	以上皆是，还有更多！
+thaw17	1	thaw17::English	I ((like)) you. Very well, I'll let you hang around here. But one wrong move and I'll turn you into a blind, formless blob of open nerve endings.	我((喜欢))你。很好，我允许你在这儿转悠。但稍有差池，我就把你变成一团瞎眼的、没有形状的、裸露着神经末梢的烂肉。
+thaw18	1	thaw18::English	<<She makes a dismissive motion with her hand. As suddenly as they came, the shadows recede, leaving you free to stand up.>>	<<她做了个挥手打发的动作。那些影子说来也去得突然，退散而去，你可以站起来了。>>
+p214	1	p214::English	I have questions. About you.	我有问题。关于你。
+thaw19	1	thaw19::English	Well keep it brief, mortal. I'm a busy woman.	那就长话短说，凡人。我可是个大忙人。
+p215	1	p215::English	What kind of name is 'Penitent?'	"忏悔者"是个什么名字？
+thaw20	1	thaw20::English	My parents were religious to the point of madness. My full name is 'Approach-Thy-Death-With-A-Penitent-Heart.' Believe me, if you had a name like that, you'd shorten it too.	我父母虔诚到了疯狂的地步。我的全名是"怀忏悔之心奔赴死亡"。相信我，你要是有这么个名字，你也会把它缩短的。
+p216	1	p216::English	What is this place?	这是什么地方？
+thaw21	1	thaw21::English	This is my sanctum. Here, I peel back the layers of reality and glimpse the terrifying truths beyond. I teach myself languages that were exiled from history. I push alchemy and necrotheurgy to its limits. I am more than just a mage, mortal - I am a pioneer.	这里是我的圣所。在这里，我层层剥开现实，窥见背后骇人的真相。我自学被历史放逐的语言。我把炼金术和死灵神术推向极限。我不只是一个法师，凡人——我是个开拓者。
+p217	1	p217::English	What's that thing in the cage?	笼子里那东西是什么？
+thaw22	1	thaw22::English	This is my familiar. My ex-husband's soul. I turned him into an embodiment of, and amplifier for, all my spells and wards. If he ever escapes the cage, you better start running and not look back.	这是我的使魔。我前夫的灵魂。我把他变成了我所有咒语与结界的化身和增幅器。他要是逃出笼子，你最好拔腿就跑，头也别回。
+p218	1	p218::English	@@Why did you turn your ex-husband into a familiar?	@@你为什么把你前夫变成使魔？
+thaw23	1	thaw23::English	%%I was married to my husband to secure an alliance for my family, and I never much liked him. A man whose brains were in his fists. 	%%我嫁给我丈夫是为了给家族缔结联盟，我从来就不怎么喜欢他。一个脑子长在拳头上的男人。
+thaw24	1	thaw24::English	Once upon a time I promised him that one day, when I was a powerful mage, I'd come back to our pathetic village and make a Hell of my own devising, just for him.	曾经我向他保证过，等我成为强大的法师，总有一天会回到我们那个可怜的村子，为他量身打造一个地狱。
+thaw25	1	thaw25::English	I made good on my promise.	我兑现了我的诺言。
+thaw26	1	thaw26::English	&&My husband and I disliked each other. Let's leave it at that.	&&我和我丈夫彼此厌恶。就说这么多吧。
+p219	1	p219::English	I have questions about the Endless. 	我有问题想问无尽者的事。
+thaw27	1	thaw27::English	Ask away. Far be it from me to stand in the way of an inquiring mind.	问吧。我可不拦着好学之人。
+p220	1	p220::English	What is your opinion of the Queen of Silver?	你怎么看白银女王？
+thaw28	1	thaw28::English	I have a low opinion of royalty. Useless, for the most part. And the Queen isn't necessarily an exception, but she did give me this sanctum and the freedom to experiment as I please. So she suits my purposes, and if anyone challenges her, I will quite happily destroy them.	我对王室评价不高。大多无用。女王倒未必例外，但她的确给了我这座圣所，还有随心实验的自由。所以她合我的用，谁要是挑战她，我会非常乐意毁掉对方。
+p221	1	p221::English	How did you become an Endless?	你是怎么变成无尽者的？
+thaw29	1	thaw29::English	Unlike the rest of the walking cadavers you've no doubt met, I only arrived here two centuries ago. I was dying of some embarrassing, incurable malady that made me cough and splutter like an idiot. I requested to be made one of the Endless, but they denied me.	不像你无疑遇见过的其他行尸，我是两个世纪前才到这儿的。当时我染上了一种难堪的不治之症，咳个不停，像个傻瓜一样喘气。我请求成为无尽者，但他们拒绝了。
+thaw30	1	thaw30::English	Well, first they tried to eat me, but I kept them at bay with magic. ((Then)) they denied me. But they were impressed by my spells, and allowed me to stay in the kingdom for a while.	嗯，他们起先想把我吃掉，但我用魔法把他们挡住了。((然后))他们拒绝了我。不过他们被我的咒语折服，允许我在王国里逗留一阵。
+p222	1	p222::English	How did you persuade them? 	你是怎么说服他们的？
+p223	1	p223::English	What did you do?	你做了什么？
+thaw31	1	thaw31::English	Over the next year, clinging to life by a thread, I secretly created the first of the flesh-farms. And I told the Queen that I could make more, enough to sustain the whole kingdom without need for bloodshed... But I was going to die soon, and I'd take my secrets with me.	接下来的一年里，我命悬一线，秘密造出了第一座血肉农场。然后我告诉女王，我还能造更多，多到无需流血就能养活整个王国……但我快要死了，会把这些秘密带进坟墓。
+thaw32	1	thaw32::English	Well, I was made an Endless pretty quickly after that, I can assure you.	嗯，我敢向你保证，那之后我很快就成了无尽者。
+p224	1	p224::English	Lord Rhydder doesn't seem to like you.	里德尔勋爵似乎不太喜欢你。
+thaw33	1	thaw33::English	Of course he doesn't. When I came along, I promised him I'd make him magical weapons of war that could turn a whole island into a crater. He gave me all the funding and equipment I asked for.	他当然不喜欢。我来的时候，向他许诺会造出能把整座岛炸成弹坑的魔法战争兵器。他要多少钱和装备我都拿。
+thaw34	1	thaw34::English	Instead of a weapon, I made the first flesh-farm, and destroyed the whole reason that the Endless were crusading in the first place. Lord Rhydder's power was shattered overnight.	结果我没造兵器，而是造了第一座血肉农场，把无尽者当初远征的根本理由连根拔掉。里德尔勋爵的权势一夜之间灰飞烟灭。
+p225	1	p225::English	I want to ask about something else...	我想问点别的……
+thaw35	1	thaw35::English	Go on, go on, but make it quick. I'm growing bored.	说吧说吧，但快点。我开始无聊了。
+thaw35a	1	thaw35a::English	Hmph. Well are you going to natter about anything else?	哼。怎么，你还要唠叨别的吗？
+p226	1	p226::English	Goodbye.	再见。
+thaw36	1	thaw36::English	Mmm.	嗯哼。
+p227	1	p227::English	About those vats of flesh down there...	关于下面那些大槽里的肉……
+thaw37	1	thaw37::English	The flesh-farms. A fine invention, if I do say so myself. 	血肉农场。恕我自夸，确实是项了不起的发明。
+p228	1	p228::English	You created the flesh-farms?	血肉农场是你造的？
+thaw38	1	thaw38::English	Oh, yes. I've always been interested in transgressing the boundaries of the flesh. The Endless needed life-force, you see, and they were getting it through the most barbaric means...	哦，没错。我一直醉心于跨越血肉的界限。你看，无尽者需要生命力，而他们获取的方式极其野蛮……
+thaw39	1	thaw39::English	First they ate their fellow countrymen, then when they ran out of mortals, they started attacking other islands.	起先他们吃自己的同胞，凡人吃光之后，就开始进攻别的岛屿。
+thaw40	1	thaw40::English	Then I arrived, and I put a stop to all that. The magic was quite complex, so I won't go into it, but the flesh-farms are non-sentient, and provide enough life-force for the Endless to gorge themselves sick. And all without hurting a single soul.	然后我来了，我把这一切都终结了。那魔法相当复杂，我就不细说了，总之血肉农场没有知觉，却能提供充足的生命力，让无尽者吃到撑到发腻。而且不伤任何一条性命。
+p229	1	p229::English	Lord Rhydder knows that the flesh-farm is sentient.	里德尔勋爵知道血肉农场有知觉。
+thaw41	1	thaw41::English	Well, that's it, then. I was hoping we wouldn't have to do this, but... Here you go. ##<<She hands you a bundle of strange orbs.>>	好吧，那就这样吧。我本希望我们不必走到这一步，但是……拿去。##<<她递给你一堆奇怪的卵球。>>
+thaw42	1	thaw42::English	These are phage-spider eggs. Enough of these things can skeletonize an entire village in a matter of hours. They'll destroy the flesh-farm and leave no trace, once they hatch.	这些是噬疫蛛卵。这些东西积累够了，几个小时就能把一整座村子啃成白骨。一旦孵化，它们会毁掉血肉农场，不留一丝痕迹。
+thaw43	1	thaw43::English	Just deposit the eggs on top of the flesh-mass and leave as quickly as you can. Once they hatch, the spiders will devour the flesh in about thirty-five minutes.	只要把卵放在肉块顶上，然后尽快离开。一旦孵化，那些蜘蛛大约三十五分钟内就会把肉吃个精光。
+p230	1	p230::English	You expect me to annihilate a totally unique life-form?	你指望我去灭杀一个独一无二的生命体？
+thaw44	1	thaw44::English	For the good of the whole world, yes. If the Endless can't feed on flesh-farms, we'll launch a second Cadaver Crusade. Maybe not today, maybe not tomorrow, but when we get hungry enough, Lord Rhydder will start to sound very convincing...	是的，为了整个世界的福祉。如果无尽者不能靠血肉农场进食，我们就会发动第二次尸骸十字军。也许不是今天，也许不是明天，但等我们饿得够呛，里德尔勋爵的话就会变得非常有说服力……
+p231	1	p231::English	How bad would that be?	那会有多糟？
+thaw45	1	thaw45::English	The first one killed tens of thousands of human beings. Do you want that on your conscience?	第一次就杀了成千上万的人。你想让这笔血债压在良心上吗？
+p232	1	p232::English	There must be another way.	一定还有别的办法。
+thaw46	1	thaw46::English	The only other way is to continue to feast on the flesh-farms. Keeping them in captivity, even though we know they feel pain. It's just a different flavour of atrocity.	唯一的另一条路，就是继续以血肉农场为食。把它们圈养起来，尽管我们明知它们会感到痛苦。这不过是另一种口味的暴行。
+p233	1	p233::English	Fine, I'll do it.	好吧，我来做。
+thaw47	1	thaw47::English	I'm so glad that you understand the severity of the issue. Now, off with you.	你能明白事态的严重性，我太欣慰了。现在，去吧。
+p234	1	p234::English	I refuse to be a part of this.	我拒绝参与这事。
+thaw48	1	thaw48::English	That's the problem with you mortals. You're not practical. Now begone.	这就是你们凡人的毛病。不切实际。滚吧。
+p235	1	p235::English	Did you know that the flesh-farm is becoming self-aware?	你知道血肉农场正在产生自我意识吗？
+thaw49	1	thaw49::English	Interesting. Elaborate.	有意思。细说。
+p236	1	p236::English	I conducted a lengthy conversation with it inside my head. 	我在脑海里跟它进行了长谈。
+p237	1	p237::English	It can only speak to the living, but it can speak.	它只能跟活物说话，但它确实能说话。
+p238	1	p238::English	No.	不知道。
+thaw50	1	thaw50::English	...You are the most vexing mortal I have ever met, did you know that?	……你是我见过最气人的凡人，你知道吗？
+thaw51	1	thaw51::English	What level of intelligence are we talking about here? Did it exhibit any unusual traits or particularly alien preferences?	我们说的是什么程度的智慧？它有没有表现出什么异常特征或特别怪异的偏好？
+p239	1	p239::English	It seems to have become obsessed with feeling pleasure... somehow.	它好像迷上了感受快乐……不知怎么的。
+thaw52	1	thaw52::English	A hedonist. Hmmm. Not good. Anything else?	一个享乐主义者。嗯。不妙。还有别的吗？
+p240	1	p240::English	It seems to have become obsessed with amassing power... somehow.	它好像迷上了积攒力量……不知怎么的。
+thaw53	1	thaw53::English	A megalomaniac. Hmmm. Not good. Anything else?	一个权欲狂。嗯。不妙。还有别的吗？
+p241	1	p241::English	It seems to have become obsessed with seeking knowledge... somehow.	它好像迷上了追求知识……不知怎么的。
+thaw54	1	thaw54::English	A scholar. Hmmm. Well, that's not too bad. Anything else?	一个学者。嗯。这个倒还不坏。还有别的吗？
+p242	1	p242::English	Only that it doesn't want to be used as a food source.	只有一样，它不想被当成食物来源。
+thaw55	1	thaw55::English	I suppose that makes sense. I wouldn't either.	我想这也说得通。换我也不会愿意。
+p243	1	p243::English	It's lonely.	它很孤独。
+thaw56	1	thaw56::English	Understandable, I suppose. You're probably the first person it's spoken to. Ever.	我想这可以理解。你大概是它交谈过的第一个人。有史以来第一个。
+p244	1	p244::English	It seems remarkably intelligent, for a lump of flesh.	对一团血肉来说，它似乎聪明得惊人。
+thaw57	1	thaw57::English	That's worrying.	这就让人担心了。
+thaw58	1	thaw58::English	Listen, mortal. What you're saying should be impossible...	听着，凡人。你说的这些本该是不可能的事……
+thaw59	1	thaw59::English	But if you're telling the truth, we have a problem. If the flesh-farms are becoming sentient, and don't want to be eaten, then... Well, the Endless will no longer have a moral way to sustain themselves. It could mean a return to the bad old ways.	但如果你说的是真话，那我们就麻烦了。如果血肉农场正在产生知觉，而且不想被吃掉，那么……无尽者就再也没有合乎道德的维生方式了。这可能意味着回到过去那些坏日子里。
+p245	1	p245::English	The bad old ways?	过去那些坏日子？
+p246	1	p246::English	What do you mean?	你这话什么意思？
+p247	1	p247::English	Oh no... 	哦不……
+thaw60	1	thaw60::English	Oh, yes. 	哦，没错。
+thaw61	1	thaw61::English	Before I came along and created the flesh-farms, the Endless sustained themselves by waging bloody war on other islands and eating their enemies. It was called the Cadaver Crusades.	在我到来并造出血肉农场之前，无尽者靠对其他岛屿发动血腥战争、吞食敌人来维生。那段时期被称为尸骸十字军。
+thaw62	1	thaw62::English	Ever since they stopped, a few mad old bastards like Lord Rhydder have been pushing for them to return.	自从十字军停摆以来，里德尔勋爵那样几个疯老头子就一直在鼓吹让它重出江湖。
+p248	1	p248::English	Why would anyone want to go back to that?	谁会想回到那种日子？
+thaw63	1	thaw63::English	Bloodlust. Arrogance. Power. Take your pick.	嗜血。傲慢。权力。随你挑。
+p249	1	p249::English	But surely the Endless have changed since then?	但那之后无尽者总归变了吧？
+thaw64	1	thaw64::English	Circumstances change. People don't. And if circumstances go back to how they were...	时势会变。人不会。要是时势退回原来的样子……
+p250	1	p250::English	It's still easier to eat the farmed flesh, though, right?	不过吃农场的肉还是更省事，对吧？
+thaw65	1	thaw65::English	But is it more ethical? Lord Rhydder will argue that it's an atrocity. That it's far better to go out and hunt our food honestly, rather than keeping a sentient being in slavery and torture. And he might even be right.	但那样就更道德吗？里德尔勋爵会说那是暴行。说与其奴役、折磨一个有知觉的生命，不如光明正大地出门猎食。而且他甚至可能是对的。
+p251	1	p251::English	What should we do, then? 	那我们该怎么办？
+thaw66	1	thaw66::English	Most importantly, we need to kill the flesh-farm that's developed sentience. It might be the only one. There are dozens of flesh-farms in the kingdom, buried under the mausoleums - and we don't want this infection to spread to any more of them.	最要紧的，我们得杀死那个产生了知觉的血肉农场。它可能是唯一的一个。王国里埋在陵墓底下还有几十座血肉农场——我们可不想让这种感染蔓延到更多农场。
+p252	1	p252::English	But surely it has a right to life?	但它难道没有生存的权利吗？
+thaw67	1	thaw67::English	It's a lump of inanimate flesh, we'd be doing it a favour.	它就是一团没有生命的肉，杀死它算帮它解脱。
+p253	1	p253::English	That's murder!	那是谋杀！
+thaw68	1	thaw68::English	What are you, a lawyer?	你算哪门子律师？
+p254	1	p254::English	Good idea. 	好主意。
+thaw69	1	thaw69::English	In addition, we need to ensure that Lord Rhydder never hears about this. Have you told anyone else?	另外，我们得确保里德尔勋爵永远别听说这事。你还告诉过别人吗？
+p255	1	p255::English	Only Maggotson.	只告诉了马戈特森。
+thaw70	1	thaw70::English	You fool. You need to go check on him, at once. Go!	你这个蠢货。你得马上去看看他。快去！
+p256	1	p256::English	No, not yet.	没有，还没有。
+thaw71	1	thaw71::English	That's a relief. If you had, and they went around blabbing about it, they would be in terrible danger. Now, begone.	那就好。你要是说了，而他们又到处嚷嚷，他们就会有杀身之祸。好了，去吧。
+p257	1	p257::English	So all along, you knew the identity of the Entombed One?	所以一直以来，你都知道墓中人的身份？
+thaw72	1	thaw72::English	I am a mage, mortal. I hoard secrets like a miser hoards gold. And do you know the fastest way to run out of secrets? To tell everybody about them!	我是个法师，凡人。我囤积秘密，就像守财奴囤积金子。你知道秘密最快败光的方式是什么吗？逢人便讲！
+p258	1	p258::English	I heard it was the Entombed One who made you into an Endless.	听说是墓中人把你变成无尽者的。
+thaw73	1	thaw73::English	Yes, that's right. The Entombed One is the living remnants of the initial botched spell, mingled with a vengeful ghost. A particularly toxic combination.	没错。墓中人是那场最初搞砸的咒文残存的部分，混着一个复仇的幽灵。一份毒性极强的组合。
+thaw74	1	thaw74::English	But useful for me. Since the spell had lingered, I was able to benefit from its full effects.	但对我有用。既然咒文经久不散，我便能享受它完整的效力。
+p259	1	p259::English	Can the Entombed One be stopped?	墓中人拦得住吗？
+thaw75	1	thaw75::English	Anything is possible. But this one's tricky. The spell-ghost is deeply unstable, and it has embedded itself so thoroughly into the magical fabric of the landscape that simply attacking it could tear the kingdom apart.	一切皆有可能。但这位不好对付。咒灵极不稳定，而且它已深深嵌入这片大地的魔法织物之中，贸然攻击它都可能把整个王国撕碎。
+thaw76	1	thaw76::English	I recommend diplomacy. The Queen is a reasonable woman. Surely her ghost is reasonable too?	我建议外交手段。女王是个讲道理的人。她的幽灵想必也讲道理？
+p260	1	p260::English	But what if diplomacy fails? 	可要是外交失败了呢？
+thaw77	1	thaw77::English	I have a contingency in mind. ## <<Penitent rummages around in her shelves. Finally, she returns with a slender vial in her hand.>>	我心里有个备手。##<<忏悔者在她的架子上翻找。终于，她手里拿着一只细长的瓶子回来了。>>
+thaw78	1	thaw78::English	This is a condensed potion of the happiest memories I've harvested from mind-slurry. I'd hoped to keep it for, uh, personal use... But perhaps it will be of use in persuading the Entombed One that this place is worth saving.	这是一瓶浓缩药水，用我从心灵浆里收割的最幸福的记忆炼成。我本想留着，呃，自己享用……但也许它能用来劝墓中人相信，这地方值得一救。
+p261	1	p261::English	Are you loyal to the Hooded King?	你效忠兜帽王吗？
+thaw79	1	thaw79::English	Before my time. When I arrived in the kingdom of the Endless, the King had already been missing for a century. Why do you ask?	那早在我来之前。我到无尽者王国的时候，国王已经失踪一个世纪了。你问这个做什么？
+p262	1	p262::English	A magic door is asking me for loyal blood.	有扇魔法门管我要效忠之血。
+thaw80	1	thaw80::English	Hmm. Is that all? If you don't mind waiting a bit, I'm sure I could whip up a convincing sample of counterfeit loyalty...	嗯。就这点事？你要是不介意等一小会儿，我确信能给你调一份以假乱真的"效忠"样品……
+p263	1	p263::English	I don't mind waiting.	我不介意等。
+thaw81	1	thaw81::English	Give me your arm, then.	那就把手臂伸过来。
+p264	1	p264::English	Sorry, I'd rather not risk it.	抱歉，我不想冒这个险。
+thaw82	1	thaw82::English	Suit yourself!	随你便！
+p265	1	p265::English	I've changed my mind. I want that counterfeit blood.	我改主意了。我要那份假血。
+thaw83	1	thaw83::English	<<Thaw grabs your arm and sticks a needle into it. Once she's taken what feels like an entire pint of your blood, she begins bustling around her sanctum, whistling tunelessly.>>	<<索抓住你的手臂，把一根针刺了进去。等她抽走了差不多整整一品脱的血，她便开始在圣所里忙碌起来，跑调地吹着口哨。>>
+thaw84	1	thaw84::English	<<First, she pours your blood into a cauldron. Then, she mutters some spells over it. Finally, she tips in a number of extra ingredients: a blue flower, a tuft of hair, a live goldfish.>>	<<首先，她把你的血倒进坩埚。接着，她对它念念有词地施咒。最后，她加进了好几样额外的材料：一朵蓝花、一撮头发、一条活金鱼。>>
+p266	1	p266::English	((Wait.))	((等等。))
+thaw85	1	thaw85::English	<<After some time, the mixture is complete. She hands you a bottle of sloshing red liquid.>>	<<过了一阵子，混合完成了。她递给你一瓶晃荡的红色液体。>>
+thaw86	1	thaw86::English	Here you go. Blood of convincing loyalty. Should pass muster under all but the most rigorous of spells.	拿好了。以假乱真的效忠之血。除了最严苛的咒文，其余都验不出来。
+p267	1	p267::English	Thank you, Penitent.	谢谢你，忏悔者。
+thaw87	1	thaw87::English	Begone.	滚吧。
+p268	1	p268::English	How can I be sure it will work?	我怎么确定它会管用？
+thaw88	1	thaw88::English	I made it. It'll work. ##Now begone.	我做的。会管用。##现在滚吧。
+p269	1	p269::English	How can I repay you?	我怎么报答你？
+thaw89	1	thaw89::English	By leaving me in peace for a while.##I've wasted too much time on you already.	让我清静一阵子就行。##我在你身上浪费的时间已经够多了。
+p270	1	p270::English	I've dealt with the... situaton.	那件事……我处理好了。
+thaw90	1	thaw90::English	So, the flesh-farm has been destroyed? Good; it is easily replaced. You've done well, mortal. 	那么，血肉农场被毁掉了？很好；再建一座容易。你干得不错，凡人。
+thaw97	1	thaw97::English	Rhydder will need proof to start this new crusade of his... and he shall find none.	里德尔要发动他的新十字军就得拿出证据……而他什么也找不到。
+thaw92	1	thaw92::English	I suppose I can spare a few coins, for your trouble. Take these and begone.	我想我可以破费几枚硬币，慰劳你的辛苦。拿着这些，滚吧。
+thaw91	1	thaw91::English	You utter fool, mortal. Do you know what you have done? With this proof, Rhydder will start another crusade...	你这个十足的蠢货，凡人。你知道你干了什么吗？有了这个证据，里德尔会再发动一场十字军……
+thaw91b	1	thaw91b::English	Still, in the end - it is your kind who will suffer, mortal. I hope you are satisfied with your pathetic display of short-sighted ((morality)). 	不过，到头来——受苦的是你们这种人，凡人。我希望你对你那可悲的目光短浅的((道德))表演感到满意。
+p270b	1	p270b::English	I destroyed the eggs. The flesh-farm will live.	我把卵销毁了。血肉农场能活下来。
+thaw93	1	thaw93::English	Hmph, foolish mortal. By the time I can concuct another means of destroying that thing, Lord Rhydder will have gathered his allies...	哼，愚蠢的凡人。等我想出另一种毁掉那东西的办法，里德尔勋爵早就把他的同党纠集齐了……
+thaw94	1	thaw94::English	Yes, there's no stopping it now. There'll be another Crusade. ##This will set my research back years. ((Years!))	是啊，如今大势已去。又一场十字军在所难免。##这会让我的研究倒退好几年。((好几年！))
+thaw95	1	thaw95::English	Though, I suppose I have gained a new test subject... <<Her frown relaxes, and a thin smile spreads over her face.>> ##Yes... the flesh-farm can keep its sentience, so long as it proves useful in... other ways.	不过，我想我倒是多了个新的实验对象……<<她的眉头舒展开来，一抹浅笑爬上脸庞。>>##是啊……血肉农场可以留着它的知觉，只要它能在……别的方面证明有用。
+thaw96	1	thaw96::English	Now begone, mortal. You've wrought enough havoc.	现在滚吧，凡人。你造成的破坏已经够多了。
+queen1	1	queen1::English	<<As the Queen casts her gaze upon you, you are overcome with a wave of melancholy so profound it almost drives you to your knees.>>	<<当女王的目光落在你身上，一阵深切的忧郁袭来，几乎让你双膝一软跪倒在地。>>
+queen2	1	queen2::English	Oh... Hello. I am afraid I am not receiving visitors at the moment. Please talk to my Seneschal, he will attend to you faithfully.	哦……你好。恐怕我现在不接待访客。请去找我的总管，他会忠实地照应你。
+p300	1	p300::English	@@What seems to be the matter, your Majesty?	@@陛下，您怎么了？
+queen3	1	queen3::English	%%<<Ragged lips peel back from long yellow teeth. She seems to be attempting a smile.>>##You are a curious one, aren't you? But I can assure you there is nothing out of the ordinary.	%%<<褴褛的嘴唇从长长的黄牙上咧开。她似乎在努力微笑。>>##你真是个好奇的家伙，不是吗？但我向你保证，一切如常。
+queen4	1	queen4::English	Put quite simply, I am feeling the same as I did yesterday, and the same as I will tomorrow. Two hundred years ago you would have found me in this same castle, in this same seat, feeling the same as I do now.	说得简单些，我今天的感受和昨天一样，也会和明天一样。两百年前你就会发现我在同一座城堡里，坐在同一个座位上，感受着我此刻的感受。
+p301	1	p301::English	That's awful.	太可怕了。
+queen5	1	queen5::English	I have adjusted to it. I exist now in tranquility, and have no desire for your pity.	我已经适应了。我如今在宁静中存在，不需要你的怜悯。
+p302	1	p302::English	Sounds boring.	听着挺无聊的。
+queen6	1	queen6::English	I left boredom behind a long time ago. I exist now in tranquility, and have no desire for your pity.	无聊这种东西我早就抛下了。我如今在宁静中存在，不需要你的怜悯。
+p303	1	p303::English	Oh, how tragic, you have to live in a giant luxurious castle surrounded by generational wealth.	哦，真悲惨，您不得不住在一座奢华的巨堡里，被世代累积的财富包围着。
+queen7	1	queen7::English	<<She pauses for a moment, shocked. Then something like a laugh escapes.>>	<<她怔了一瞬，颇为震惊。随后，一声近似笑的东西溜了出来。>>
+queen8	1	queen8::English	You are a bold one, little mortal. And you are right. I face no great hardship.	你是个大胆的小凡人。而且你说得对。我并未遭受什么大苦。
+queen9	1	queen9::English	&&<<Ragged lips peel back from long yellow teeth. She seems to be attempting a smile.>>	&&<<褴褛的嘴唇从长长的黄牙上咧开。她似乎在努力微笑。>>
+queen10	1	queen10::English	It is not of your concern, mortal. Please understand that I mean no disrespect. But one so young, so alive, cannot understand my plight.	这不关你的事，凡人。请理解，我并无冒犯之意。只是如此年轻、如此鲜活的人，无法理解我的困境。
+p304	1	p304::English	But I came here to talk to you, not your lackey.	可我是来找你谈的，不是找你的走狗。
+queen11	1	queen11::English	<<She is still and silent for what seems like a very long time. Then she sighs.>>	<<她静默着，仿佛过了很久很久。然后她叹了口气。>>
+queen12	1	queen12::English	Very well, mortal. I cannot bring myself to summon my guards. In fact, I'm not even sure if I have any guards, any more. Say your piece.	好吧，凡人。我实在唤不来我的卫兵。事实上，我都不知道自己还有没有卫兵。说吧。
+p305	1	p305::English	My apologies for disturbing you. 	打扰了，抱歉。
+queen13	1	queen13::English	It is quite alright.##<<She resumes gazing at nothing.>>   	没关系。##<<她继续凝望着虚空。>>
+p306	1	p306::English	...I am sorry for calling your Seneschal a lackey.	……对不起，我说你的总管是走狗。
+queen14	1	queen14::English	He would be heartbroken to hear himself described in such a fashion. The poor fellow, the only thing he has left in the world is his dignity.	他要是听见自己被这样形容，会心碎的。可怜的人，他在这世上仅剩的就是他的尊严了。
+p307	1	p307::English	I hope we haven't gotten off on the wrong foot?	希望我们没有一开始就处得不愉快？
+queen15	1	queen15::English	I take no offence. Or rather, I take some offence, but cannot muster the enthusiasm to express it.	我没有动气。或者说，我有些动气，但提不起劲来表达。
+p308	1	p308::English	I'm so ((honoured)) that you deign to speak to me.	您屈尊跟我说话，我真是((荣幸))之至。
+queen16	1	queen16::English	You mortals are so fond of sarcasm. It comes with being young. Conversation is already so exhausting to the old, the repetition of these same tired old words and phrases, that we feel no need to wrap our barbs in pretty paper.	你们凡人真爱挖苦。这是年轻带来的毛病。对老人来说，交谈本就令人疲惫——同样陈词滥调翻来覆去——所以我们觉得没必要把讥讽包上漂亮的包装纸。
+p309	1	p309::English	It sounds like you don't exactly have a busy schedule.	听起来您的日程好像也不怎么忙。
+queen17	1	queen17::English	This is true. Yet my time is my own, even if it has little value, so I ask you not to waste it.	这倒是真的。但我的时间是我自己的，哪怕它没什么价值，所以请你不要浪费它。
+p310	1	p310::English	You'd be surprised, I think.	我想您会吃惊的。
+queen18	1	queen18::English	I haven't been surprised in two centuries, mortal.	我已经两个世纪没吃惊过了，凡人。
+p311	1	p311::English	I have many questions, your Majesty.	我有很多问题，陛下。
+queen19	1	queen19::English	Oh. Good.	哦。好啊。
+p312	1	p312::English	I will waste no more of your time.	我不再浪费您的时间了。
+queen20	1	queen20::English	Greetings, mortal. Did you have more questions?	你好，凡人。还有别的问题吗？
+p334	1	p334::English	I had other questions, your Majesty...	我还有别的问题，陛下……
+queen33	1	queen33::English	I see. Well, you may go ahead.	明白了。好吧，你请讲。
+p317	1	p317::English	Goodbye, your Majesty.	再见，陛下。
+p313	1	p313::English	Some of my questions are of a more personal nature...	我有些问题比较涉及隐私……
+queen21	1	queen21::English	If you must.	如果非问不可。
+p314	1	p314::English	Do you have heirs?	您有继承人吗？
+queen22	1	queen22::English	No need for heirs. I will be here forever. And the Endless cannot have children.	不需要继承人。我会永远在这里。而且无尽者无法生育。
+p315	1	p315::English	When was the last time you interacted with a mortal?	您上一次和凡人打交道是什么时候？
+queen23	1	queen23::English	Let me see... Some years ago, I forget how many, a mortal came to the Castle of Ribs seeking to become Endless himself. The Seneschal was not able to dissuade her; she barged into the throne-room, much like you have.	让我想想……几年前——我忘了多少年——一个凡人来到肋骨城堡，想让自己成为无尽者。总管劝不住她；她闯进了王座厅，跟你现在差不多。
+queen24	1	queen24::English	I turned her away, as I turn all such pilgrims away. We will add no more to our number. Thaw must be the last.	我把她拒之门外，就像我拒绝所有这样的朝圣者。我们的数量不会再增加。索必须是最后一个。
+p316	1	p316::English	Tell me about your father.	跟我说说您的父亲。
+queen25	1	queen25::English	My earliest memory is of him sitting atop his throne, looking so grim, while I sung for him. Then as I hit a particular high note, his dour face broke into such a broad smile. It was like magic. Like the sun had risen over a cemetery.	我最早的记忆是他端坐王座之上，面色阴沉，而我在为他歌唱。当我唱到某个特别高的音时，他阴沉的脸绽开了无比宽的笑。那像魔法。像太阳升起在一座墓园之上。
+queen26	1	queen26::English	In those days, I would kneel beside my bed, and pray to a goddess whose name I have now forgotten that my father would never die. I was too young to know that gods pay no attention to the prayers of their people.	那些日子里，我常常跪在床边，向一位如今我已忘记名字的女神祈祷，求我父亲永远不死。我那时太年轻，不知道神明从不理会子民的祈祷。
+p318	1	p318::English	The Seneschal saved your life, didn't he?	总管救了您的命，不是吗？
+queen27	1	queen27::English	<<She casts a piercing gaze upon you, then the passion melts from her like snow in spring. She resumes gazing dully into the distance.>>##That's right. Against my wishes.	<<她向你投来锐利的目光，随即那份激情如春雪般从她身上消融。她重又开始呆呆地凝望远方。>>##没错。违背我的心愿。
+p319	1	p319::English	So you sacrificed yourself willingly?	所以您是自愿献祭的？
+queen28	1	queen28::English	My father persuaded me to do it, for the good of the kingdom. He told me that I couldn't hope to rule as strongly or as wisely as him, but I could at least ensure he remained on the throne. He told me that what I was doing was noble.	我父亲说服了我，说是为了王国的利益。他告诉我，我不可能像他那样强势、英明地统治，但我至少能确保他继续坐在王位上。他告诉我，我所做的是高尚的事。
+p320	1	p320::English	Surely you're glad he saved you?	您应该庆幸他救了您吧？
+queen29	1	queen29::English	I know the Seneschal meant well, and I never had the heart to admonish him for it. But he brought a terrible curse upon the kingdom.	我知道总管是好意，我也始终不忍心为这事责备他。但他给王国带来了一场可怕的诅咒。
+p321	1	p321::English	Your father sounds like a monster.	您父亲听起来像个怪物。
+queen30	1	queen30::English	I don't think he was a monster. I think he was terribly, terribly afraid.	我不认为他是怪物。我认为他只是怕得要命，怕得要命。
+p322	1	p322::English	It's a shame the ritual didn't succeed.	可惜仪式没成功。
+queen31	1	queen31::English	Yes.	是啊。
+p323	1	p323::English	I would have done the same, in the Seneschal's shoes. 	我要是处在总管的位置，也会那么做。
+queen32	1	queen32::English	I'd hope you would have intervened earlier, when you could have done some good. The Seneschal truly left it to the last possible moment before he dared to defy my father.	我倒希望你能在更早的时候出手，那时候还来得及做点什么。总管真是拖到最后一刻才敢违逆我父亲。
+p335	1	p335::English	Can I ask you about the Endless?	我能问问无尽者的事吗？
+queen34	1	queen34::English	My kingdom? I will oblige.	我的王国？我乐意奉告。
+p336	1	p336::English	Where are your attendants? Your court?	您的侍从呢？您的宫廷呢？
+queen35	1	queen35::English	No attendants. No court. I sent them away long ago.	没有侍从。没有宫廷。我很久以前就把他们遣散了。
+p337	1	p337::English	How long have you ruled over the Endless?	您统治无尽者多久了？
+queen36	1	queen36::English	Hundreds of years. I forget the exact number. Those earliest days were all fire and war.	几百年了。确切数字我忘了。最早那些年月只有烈火与战争。
+queen37	1	queen37::English	Blood-red grins in the black of night. Hushed meetings over crudely-drawn maps. We were young, then. We did not call ourselves the Endless... All we knew was that we were hungry.	漆黑夜里血红的狞笑。围着潦草的地图密语低声。那时我们还年轻。我们还不叫自己无尽者……我们只知道一件事：我们饿了。
+p354	1	p354::English	Are you a follower of the Ferryman?	您是摆渡人的信徒吗？
+queen59	1	queen59::English	No. I don't trust this upstart god. Where did he come from? Why don't we have any records of him from before the Endless were created? Where was he during the God War?	不。我不信任这个暴发的神。他从哪儿来？为什么无尽者诞生之前没有任何关于他的记载？神之战的时候他又在哪儿？
+queen60	1	queen60::English	Something is deeply wrong here, but my citizens are desperate enough to blindly worship any entity that promises them salvation.	这里面大有蹊跷，可我的臣民们已经绝望到愿意盲目崇拜任何一个许诺救赎的存有。
+p355	1	p355::English	Is it true that Lord Rhydder used to be the power behind your throne?	里德尔勋爵曾经是您王座背后的实权人物，是真的吗？
+queen61	1	queen61::English	Power. Hmph. Yes, I used to let him sally forth to other islands and fight his little Cadaver Crusades as he pleased. No doubt he thought himself quite the puppetmaster, but the truth is that I just didn't care.	实权。哼。是的，我以前随他出征别的岛屿，随他打他那点尸骸十字军，随他的便。毫无疑问他自以为是个了不起的提线人，但真相是我根本不在乎。
+p338	1	p338::English	That's all for now.	暂时先到这儿。
+queen39	1	queen39::English	I should hope so.	最好如此。
+p339	1	p339::English	How were the Endless created?	无尽者是怎么被创造出来的？
+queen40	1	queen40::English	A ritual, masterminded by my father. Ancient history. I wouldn't want to bore you with it.	一场仪式，我父亲主谋。陈年旧事了。我不想讲得让你无聊。
+p340	1	p340::English	@@No, please. Tell me everything.	@@不，请讲。全部告诉我。
+p341	1	p341::English	Perhaps another time, then. 	那也许改天再听。
+queen41	1	queen41::English	Yes. Perhaps.	是啊。也许吧。
+queen42	1	queen42::English	%%My father was a healthy man. Never ill. Never tired. He seemed to shrug off accidents that would leave a lesser man with broken bones.	%%我父亲是个健壮的人。从不生病。从不疲倦。那些会让普通人骨折的意外，他似乎都能毫发无伤地挺过去。
+queen43	1	queen43::English	So it was strange, how terrified he was of death. The very idea shook him to his core.	所以他的怕死才显得那么奇怪。光是"死"这个念头就让他从骨子里发抖。
+queen44	1	queen44::English	As I was nearing adulthood, he gathered a legion of mages and theurges and priests from across the skyrealms, and tasked them to find the secret of immortality.	就在我快成年的时候，他从天空领域各处召集了一大群法师、神术师和祭司，命他们找出永生的秘密。
+p342	1	p342::English	That old chestnut. 	老掉牙的追求。
+queen45	1	queen45::English	Indeed.	确实。
+p343	1	p343::English	Judging by the fact you're still around today, it seems to have worked.	看您如今还坐在这儿，看来是成功了。
+p344	1	p344::English	And did they?	那他们找到了吗？
+queen46	1	queen46::English	In a manner of speaking, yes.	某种意义上，是的。
+queen47	1	queen47::English	After numerous failed efforts, they devised a solution. It would require dozens of mages casting a spell simultaneously; extensive construction of ceremonial shrines, braziers and idols across the kingdom; a bargain struck with an ancient god; and a sacrifice.	在无数次失败之后，他们想出了一个方案。那需要几十名法师同时施咒；需要在全国大建仪式神龛、火盆和神像；需要与一位远古之神立约；还需要一场献祭。
+p345	1	p345::English	Can you tell me about the sacrifice?	您能跟我说说那场献祭吗？
+queen48	1	queen48::English	I... don't feel like getting into that now.	我……现在不想谈这个。
+p346	1	p346::English	What was the name of the god?	那位神叫什么名字？
+queen49	1	queen49::English	I do not know. Once I heard my father refer to it as a shadow of a dream, or the dream of a shadow. I forget which.	我不知道。有一次我听见父亲说它是"梦的影子"，或是"影子的梦"。我忘了哪个。
+queen50	1	queen50::English	Long story short, the ritual failed. It created a twisted parody of immortality, afflicted with hunger and decay. And instead of affecting just my father, it cursed half the kingdom.	长话短说，仪式失败了。它造出一种扭曲的永生仿品，饱受饥饿与腐朽的折磨。而且诅咒没有只落在我父亲身上，它诅咒了半个王国。
+p347	1	p347::English	Only half?	只有一半？
+queen51	1	queen51::English	Half of the kingdom were Endless, and hungry. The other half did not last long. ##The Great Devouring commenced.	王国的一半成了无尽者，而且饿着肚子。另一半没能撑多久。##大吞噬就此开始。
+p348	1	p348::English	What happened after that?	那之后发生了什么？
+queen52	1	queen52::English	The Great Devouring commenced.	大吞噬就此开始。
+p349	1	p349::English	And what happened to your father?	那您父亲呢？
+queen53	1	queen53::English	I don't know. Perhaps he was one of those who remained mortal. The universe is cruel that way.	我不知道。也许他是保持凡人之躯的那批人中的一个。宇宙就是这样残忍。
+queen54	1	queen54::English	&&I'm sorry, but it's not a tale I am fond of telling. Ask me something else.	&&抱歉，这不是我乐意讲的故事。问点别的吧。
+p350	1	p350::English	What do you know about the Entombed One?	关于墓中人您知道些什么？
+queen55	1	queen55::English	I believe it is my father. After the ritual to grant him immortality went wrong, he fled beneath the castle, and got lost within the twisting passages.	我相信那就是我父亲。授予他永生的仪式出了差错之后，他逃到城堡底下，在盘绕的通道里迷失了。
+p351	1	p351::English	Shouldn't you do something?	您不该做点什么吗？
+queen56	1	queen56::English	Do what? Send guards down there? I have done so; they do not return. Go down there myself? Never. I cannot bear to see him again.	做什么？派卫兵下去？我派过了；他们没有回来。我自己下去？绝不。我受不了再见到他。
+p352	1	p352::English	Are you sure it's him?	您确定那是他吗？
+queen57	1	queen57::English	I know it in my bones.	我骨子里知道。
+p353	1	p353::English	What if I went down there and tried to stop him from shaking the island apart?	要是我下去试着阻止他把这座岛摇散呢？
+queen58	1	queen58::English	You are welcome to try; I believe my Seneschal has the key. But I don't expect you to succeed.	你尽管去试；我记得我的总管有钥匙。但我并不指望你成功。
+p356	1	p356::English	The Entombed One is a ghost created by your sacrifice, your Majesty.	墓中人是由您的献祭产生的幽灵，陛下。
+queen62	1	queen62::English	Yes. I know.	是的。我知道。
+p357	1	p357::English	You knew this already?	您早就知道？
+queen63	1	queen63::English	I did.	是的。
+p358	1	p358::English	But you told me the Entombed One was your father.	可您告诉我墓中人是您父亲。
+queen64	1	queen64::English	I was not lying. I see more of my father in that ghost than I see of myself.	我没有说谎。在那个幽灵身上，我看到的我父亲，比我自己还多。
+p359	1	p359::English	How did you find out?	您是怎么发现的？
+queen65	1	queen65::English	I have known that she was there from the very beginning of my reign.	从我登基的最开始，我就知道她在那儿。
+p360	1	p360::English	Why didn't you tell me?	您为什么不告诉我？
+queen66	1	queen66::English	For obvious reasons, I keep my ghost's existence a secret. If my subjects ever found out that a shade of their own Queen was trying to destroy them...	原因显而易见，我幽灵的存在是机密。要是我的臣民发现，他们女王自己的阴魂正试图毁灭他们……
+p361	1	p361::English	When was the last time you saw the Entombed One yourself?	您自己最后一次见到墓中人是什么时候？
+queen67	1	queen67::English	I last saw her two centuries ago, when I took Penitent Thaw down there to become one of the Endless.	我最后一次见到她是两个世纪前，我带忏悔者·索下去让她成为无尽者的时候。
+p362	1	p362::English	Penitent knew about this too?	忏悔者也知道这事？
+queen68	1	queen68::English	She is the only other who knows. It was unavoidable - the only way that I could grant her request to become an Endless.	她是唯一另一个知情人。这是无法避免的——那是我能应允她成为无尽者的唯一办法。
+p363	1	p363::English	Why did you lock her up down there? 	您为什么把她锁在那下面？
+queen69	1	queen69::English	I didn't lock her up. She could escape easily if she wanted to, but she refuses to stop haunting my father's bones.	我没有锁她。她想逃随时能逃，但她拒绝停止在我父亲的骸骨旁徘徊。
+p364	1	p364::English	What exactly is she?	她到底是什么？
+queen70	1	queen70::English	She is both spell and sacrifice. Partly a ghost, and partly the lingering remnant of the spell that turned the whole kingdom into Endless. That's one reason why she is so powerful, and why I needed her help to turn Penitent into an Endless.	她既是咒文，也是祭品。一部分是幽灵，一部分是那道把整个王国变成无尽者的咒文的残存。这是她如此强大的原因之一，也是我需要她帮忙把忏悔者变成无尽者的原因。
+queen71	1	queen71::English	But her power is growing, far beyond what she used to be capable of. I think she is being fuelled by my subjects' growing faith in the Ferryman. 	但她的力量在增长，远远超出她从前的能耐。我想是臣民们对摆渡人日益增长的信仰在给她添柴。
+queen72	1	queen72::English	Their scripture tells them to look forward to death, and their prayers for their own self-annihilation are like fuel to the Entombed One's flame.	他们的经文教他们盼望着死亡，他们祈求自我湮灭的祷告，如同添入墓中人烈焰的燃料。
+queen72b	1	queen72b::English	She could escape easily if she wanted to, but she refuses to stop haunting my father's bones.	她想逃随时能逃，但她拒绝停止在我父亲的骸骨旁徘徊。
+p365	1	p365::English	How can I persuade her not to destroy the kingdom?	我怎么才能劝她别毁掉王国？
+queen73	1	queen73::English	I can think of one thing...##<<The Queen places something in your palm. A topaz necklace. The gemstone is incribed with a complex sigil.>>	我能想到一样东西……##<<女王把一样东西放进你的掌心。一条黄玉项链。宝石上刻着一个复杂的符印。>>
+queen74	1	queen74::English	This was the necklace I wore during the ritual. Perhaps it will remind her that a Queen's purpose, above all, is to serve the needs of the kingdom.	这是我举行仪式时戴的项链。也许它能提醒她：女王的首要使命，是满足王国的需要。
+p366	1	p366::English	The Entombed One has stopped her efforts to destroy the kingdom.	墓中人已经放弃毁掉王国的打算了。
+queen75	1	queen75::English	Excellent work, mortal. I never thought I'd see the day. What persuaded her, in the end?	干得好，凡人。我从没想过能看到这一天。最后是什么说服了她？
+p367	1	p367::English	Hope for a better future. 	对更美好未来的希望。
+queen76	1	queen76::English	The Entombed One wanted to destroy the kingdom, yet she secretly still held a kernel of hope. Remarkable. Hope feels so foreign to me.	墓中人想毁掉王国，可她心底竟还藏着一粒希望的种子。了不起。希望对我来说太陌生了。
+p368	1	p368::English	Happiness.	幸福。
+queen77	1	queen77::English	Ah. You must have searched high and low, to find that.	啊。为了找到它，你一定翻遍了天涯海角。
+p369	1	p369::English	Substance abuse.	药物滥用。
+queen78	1	queen78::English	Well... As long as it worked.	呃……管用就好。
+p370	1	p370::English	In all honesty, I told her a pack of pretty-sounding lies.	说实话，我跟她讲了一大堆悦耳的谎话。
+queen79	1	queen79::English	Whatever it takes, mortal. To preserve a kingdom is not always painless.	不择手段也没关系，凡人。保全一个王国，从来不是无痛的。
+p371	1	p371::English	Not your necklace, that's for sure.	反正靠的不是您的项链，这是肯定的。
+queen80	1	queen80::English	Sacrifice. That's what we must do. Again and again and again, to keep this rotten place from falling apart.	献祭。这就是我们必须做的。一次又一次又一次，才能让这个腐烂的地方不至分崩离析。
+queen81	1	queen81::English	<<The Queen of Silver sighs, settling back into her throne.>>##And so, we buy another few years of our endless existence. Joy.	<<白银女王叹了口气，靠回她的王座。>>##就这样，我们又买下了无尽存在的几年光阴。可喜可贺。
+p372	1	p372::English	The Entombed One is ready to call a truce, but she needs to speak to you in person.	墓中人愿意休战，但她要亲自见你。
+queen82	1	queen82::English	Excellent work, mortal. I will head down to speak to her at once.	干得好，凡人。我这就下去见她。
+p373	1	p373::English	Are you still loyal to your father?	您还效忠您的父亲吗？
+queen83	1	queen83::English	No. I am loyal to nothing and no-one, except my kingdom.	不。除了我的王国，我不效忠于任何事、任何人。
+queen84	1	queen84::English	Oh... hello. Do I know you?	哦……你好。我认识你吗？
+p374	1	p374::English	What happened to you?	你怎么了？
+queen85	1	queen85::English	I don't know. All I can remember is a bright light, and a hand in my head.	我不知道。我只记得一道亮光，还有一只伸进我脑袋里的手。
+p375	1	p375::English	Did you speak to the Entombed One?	你跟墓中人说话了吗？
+queen86	1	queen86::English	Who's that? I'm sorry. Everything's fuzzy.	那是谁？对不起。一切都模模糊糊的。
+p376	1	p376::English	You remember that you're a Queen, right?	你还记得自己是女王，对吧？
+queen87	1	queen87::English	I am? That's nice.	我是吗？那挺好。
+p377	1	p377::English	Goodbye, your Majesty.	再见，陛下。
+queen88	1	queen88::English	Goodbye.	再见。
+ent1	1	ent1::English	<<She floats above you, imperious, furious, bristling with disdain. She resembles the Queen of Silver, but aflame with inner light.>>	<<她漂浮在你上方，倨傲、暴怒、满是不屑。她酷似白银女王，却被内心的光芒点燃。>>
+ent2	1	ent2::English	Bow, mortal. Bow before your Queen.	跪下，凡人。向你的女王跪拜。
+ent0	1	ent0::English	Hello, mortal.	你好，凡人。
+p401	1	p401::English	((Bow.))	((跪拜。))
+p402	1	p402::English	((Stay standing.))	((站着不动。))
+ent3	1	ent3::English	<<She extends a hand, and her eyes flash and sparkle like fireworks. The chamber around you begins to shake, so violently that you are forced to drop to your knees.>>	<<她伸出手，双眼如烟花般闪烁迸射。你周围的墓室开始震动，剧烈得让你不得不跪倒在地。>>
+ent4	1	ent4::English	Better. Now tell me. Who is it who dares to trespass within my domain?	这才像话。现在告诉我。是谁胆敢擅闯我的领地？
+p403	1	p403::English	I am merely passing through, your Majesty.	我只是路过而已，陛下。
+ent5	1	ent5::English	Liar. I can hear the hesitant beats of your filthy, pulsing, lying heart. Tell me the truth or I shall crush it within my fist.	骗子。我听得见你那颗肮脏的、悸动的、满口谎言的心如何踌躇跳动。说出真相，否则我就把它捏碎在拳心里。
+p404	1	p404::English	I expected to find the Hooded King down here.	我本以为能在这下面找到兜帽王。
+ent6	1	ent6::English	My father? My fool of a father? You found him. ##<<She gestures dismissively at the pile of bones sitting forlornly in the middle of the floor.>>	我的父亲？我那蠢货父亲？你是找到了。##<<她轻蔑地朝地板中央那堆孤零零的骸骨一指。>>
+ent7	1	ent7::English	There lies the Hooded King. The man who sacrificed his daughter for immortality. You should have seen him squirm and weep.	兜帽王就躺在那儿。那个为了永生牺牲自己女儿的人。你真该看看他当时如何扭动哀嚎。
+p405	1	p405::English	I am no-one, your Majesty.	我是无名之辈，陛下。
+ent8	1	ent8::English	Correct.	说得对。
+p406	1	p406::English	So you're the Entombed One?	所以你就是墓中人？
+ent9	1	ent9::English	I am the Queen. The true Queen. Not a sad old relic, like the Queen Above.	我是女王。真正的女王。不是像上头那位一样可悲的老古董。
+ent9b	1	ent9b::English	My kingdom rots. Soon, I will destroy this entire island... along with all of my subjects. ##I will end this wretched curse, and finally grant my subjects the eternal peace they crave.	我的王国正在腐烂。很快，我会毁掉这整座岛……连同我所有的子民。##我要终结这该死的诅咒，最终赐予我的子民他们渴望的永恒安宁。
+p407	1	p407::English	Where is the Hooded King?	兜帽王在哪儿？
+p408	1	p408::English	How long has the King been dead?	国王死了多久了？
+ent10	1	ent10::English	Three centuries, and I still cherish the memory of murdering him. He begged, he wept, he threw himself upon my mercy. Instead of mercy, he found a hand around his windpipe.	三个世纪了，而我仍珍藏着亲手杀死他的记忆。他哀求，他哭泣，他把性命托付给我的怜悯。可他等来的不是怜悯，而是一只扼住他咽喉的手。
+p409	1	p409::English	You're a ghost of the Queen of Silver. An echo of her trauma.	你是白银女王的幽灵。她创伤的回声。
+ent11	1	ent11::English	I was born when she walked herself into quicksilver and drowned at the bidding of her father. I am her bitterness. Her resentment. Her rage.	她听命于父亲，走进水银池中溺亡的那一刻，我便诞生了。我是她的苦涩。她的怨恨。她的愤怒。
+p410	1	p410::English	You're the one causing all these earthquakes?	这些地震都是你搞的？
+ent12	1	ent12::English	Of course. Someone needs to give this kingdom a good shaking. I am weakening the island's foundations. Soon, it will shatter.	当然。总得有人把这王国好好震一震。我正在削弱这座岛的地基。很快，它就会崩碎。
+p411	1	p411::English	Why do you want to destroy the kingdom?	你为什么要毁掉王国？
+ent13	1	ent13::English	It would be a mercy. The kingdom is stagnant. It was born wrong - a botched ritual, a filicide, a broken contract. And ever since then, it has been cursed.	那会是一种慈悲。这个王国死气沉沉。它生来就是错的——一场搞砸的仪式，一桩弑亲，一纸破裂的契约。从那时起，它就被诅咒了。
+ent14	1	ent14::English	This place, these people, have lingered for far too long. Let's give the Endless an ending, at last!	这地方、这些人，已经苟延残喘得太久了。让我们最终给无尽者一个了结吧！
+p412	1	p412::English	What if your subjects don't want to be killed?	要是你的子民不想死呢？
+ent15	1	ent15::English	They do. There are thousands of rotting men and women out there, ravaged by hunger and pain, huddled within Mausoleums and waiting for death. They are calling for my mercy. I can hear them in my heart, begging to be freed from their suffering.	他们想。外面有成千上万腐烂的男男女女，被饥饿和痛苦摧残，蜷缩在陵墓里等待死亡。他们在呼唤我的慈悲。我在心里听得见他们，乞求从苦难中解脱。
+p413	1	p413::English	How is a ghost powerful enough to do all this?	一个幽灵怎么会有这么大的力量？
+ent16	1	ent16::English	Anger has its own power, mortal. And my anger is... Endless.	愤怒自有其力量，凡人。而我的愤怒是……无尽的。
+p414	1	p414::English	How can I persuade you not to do this?	我怎么才能劝你别这么做？
+ent17	1	ent17::English	You cannot. I am as inevitable as death itself.	你办不到。我和死亡本身一样无法阻挡。
+p415	1	p415::English	I have questions...	我有问题……
+p416	1	p416::English	I have other questions...	我还有别的问题……
+ent18	1	ent18::English	And I have limited patience. 	而我的耐心有限。
+ent18b	1	ent18b::English	And I am glad of it.	而我很高兴你这么问。
+p417	1	p417::English	Farewell, ghost.	告辞了，幽灵。
+p418	1	p418::English	See this necklace, your Majesty? Do you remember why you sacrificed yourself in the first place?	看见这条项链了吗，陛下？你还记得自己当初为什么要献祭自己吗？
+ent19	1	ent19::English	<<For a moment, the Entombed One stares at the topaz necklace with something like yearning on her face. Then her eyes harden. She grabs the necklace from you and crushes the topaz to dust between two fingers.>>	<<一时间，墓中人凝视着那条黄玉项链，脸上浮现出近乎渴望的神情。随后她的目光冷硬下来。她一把夺过项链，用两根手指把黄玉碾成了粉末。>>
+ent20	1	ent20::English	Sacrifice.' Ha. ##The Queen Above thinks she can remind me of what it means to serve the kingdom? I ((am)) serving the kingdom, far better than she ever did while sitting depressed in her throne room!	献祭？哈。##上头那位女王以为她能提醒我效忠王国是什么意思？我((正))在效忠王国，比她坐在王座厅里抑郁发呆时干得好得多！
+ent21	1	ent21::English	This kingdom is ((begging)) to be destroyed! Its people are miserable, and they call to me to bring their long lives to an end!	这个王国((乞求))被毁灭！它的人民痛苦不堪，他们呼唤我，要我终结他们漫长的生命！
+p419	1	p419::English	Before you go further... Please, drink this.	在你继续之前……请喝下这个。
+ent22	1	ent22::English	Are you thinking to poison me? Foolish mortal, it will have no effect. Here; bear witness.	你想毒死我？愚蠢的凡人，这不会有任何效果。来，看好了。
+ent23	1	ent23::English	<<The ghost drinks the potion in one quick gulp. After a moment, she begins to fray at the edges, like an oil painting that's been soaked in a bathtub.>>	<<幽灵一口灌下药水。片刻之后，她的边缘开始磨损，像一幅泡在浴缸里的油画。>>
+ent24	1	ent24::English	Oh... Oh, my... All this... So beautiful...	哦……哦，天哪……这一切……好美……
+p420	1	p420::English	What are you seeing?	你看见了什么？
+ent25	1	ent25::English	I'm dancing with a sweetheart on a brisk autumn evening. I'm peering through a telescope and discovering a new star. I'm bowing after the big performance, my face flushed with sweat. Oh my... It's joy... So much joy! I had no idea!	我在清爽的秋夜与心爱的人共舞。我在望远镜里发现了一颗新星。我在盛大演出结束后鞠躬致意，脸上挂满汗珠。天哪……这是喜悦……这么多的喜悦！我从来都不知道！
+p421	1	p421::English	Surely you understand, now, that there are still moments of the Endless' lives that have meaning? 	你现在总该明白，无尽者的生命里依然有意义的时刻吧？
+p422	1	p422::English	And you would destroy all this, thinking it's what they want.	而你要毁掉这一切，还以为这正是他们想要的。
+p423	1	p423::English	A moment of pure joy is worth more than a century of misery, is it not?	一刻纯粹的喜悦，胜过一个世纪的苦难，不是吗？
+ent26	1	ent26::English	Your words have a weight to them, mortal.	你的话有分量，凡人。
+ent27	1	ent27::English	<<Before your eyes, the burning rage roiling just beneath the Entombed One's skin starts to dwindle and dim.>>	<<在你眼前，墓中人皮下翻腾的灼燃怒火开始减弱、黯淡。>>
+ent28	1	ent28::English	Leave me be. You've given me much to think about.	让我一个人静静。你给了我很值得思考的东西。
+p424	1	p424::English	You're right. I'll help you destroy the kingdom of the Endless.	你说得对。我会帮你毁掉无尽者的王国。
+ent29	1	ent29::English	You'd truly help me destroy this place? You surprise me, mortal, in the best of ways.	你真愿意帮我毁掉这个地方？凡人，你让我惊喜，以最好的方式。
+ent30	1	ent30::English	Your task is simple. All I ask is that when you return to the surface, you tell the Queen of Silver to come down here and meet me in person. Then, the destruction will begin.	你的任务很简单。我只要你回到地面后，告诉白银女王，让她亲自下来见我。然后，毁灭就会开始。
+p425	1	p425::English	It shall be done.	一定照办。
+p426	1	p426::English	Let's bring this kingdom down.	让我们把这个王国掀翻吧。
+p427	1	p427::English	On second thoughts, maybe this isn't the right path...	再想想，也许这不是正确的道路……
+ent31	1	ent31::English	Don't hesitate, mortal. Heed the call of the void.	别犹豫，凡人。听从虚空的召唤。
+p428	1	p428::English	@@Don't destroy this land, your Majesty. You know there is still hope.	@@别毁掉这片土地，陛下。你知道还有希望。
+ent32	1	ent32::English	&&No. There is no hope. There is only failure and stagnation.	&&不。没有希望。只有失败与死寂。
+ent33	1	ent33::English	%%Oh really? And how do you know that?	%%哦是吗？你又怎么知道？
+p429	1	p429::English	You know it yourself. 	你自己心里清楚。
+p430	1	p430::English	I can prove it.	我可以证明。
+p431	1	p431::English	Because there's always hope. And besides...	因为希望永远存在。况且……
+ent34	1	ent34::English	<<She casts her eyes over your face, worried by the certainty in your tone.>>##Well?	<<她打量着你的脸，被你语气中的笃定弄得不安。>>##怎么？
+p432	1	p432::English	Is your desire to destroy this kingdom not borne of love? You still care for your subjects.	你想毁掉这个王国的愿望，难道不是出于爱吗？你仍然在乎你的子民。
+ent35	1	ent35::English	Of course. I would undo their suffering.	当然。我要解除他们的苦难。
+p433	1	p433::English	But not all of them want this. You are condemning innocents to death.	但不是所有人都想这样。你是在把无辜者判处死刑。
+p434	1	p434::English	If you obliterate your subjects, you are failing them as their monarch. 	如果你把子民尽数抹除，你就是辜负了他们，作为他们的君主。
+p435	1	p435::English	When the Queen came to you with Penitent Thaw, you agreed to help. You turned her into an Endless.	当女王带着忏悔者·索来找你时，你答应帮忙。是你把她变成了无尽者。
+ent36	1	ent36::English	Of course I did. The flesh-farms were a marvel. Overnight, our kingdom was rescued from being a land of marauders and murderers.	我当然帮了。血肉农场是个奇迹。一夜之间，我们的王国就从强盗与凶徒之地的命运中被拯救了出来。
+p436	1	p436::English	If the situation was truly helpless, why would you have helped?	如果当时的处境真的无可救药，你又何必出手相助？
+p437	1	p437::English	Another invention like that could be right around the corner.	也许下一个这样的发明就近在眼前。
+p438	1	p438::English	The kingdom could be rescued again. One day.	这个王国也许还能再次被拯救。总有一天。
+ent37	1	ent37::English	<<She considers this for a long time.>>	<<她为此思忖了很久。>>
+ent38	1	ent38::English	Your words have a weight to them, mortal. The weight of the years is already immense... What does a few more matter? Perhaps things will get better.	你的话有分量，凡人。岁月的重量已然沉重无比……再多几年又算什么？也许情况会好转。
+ent39	1	ent39::English	<<Before your eyes, the burning rage roiling just beneath the Entombed One's skin starts to dwindle and dim.>>	<<在你眼前，墓中人皮下翻腾的灼燃怒火开始减弱、黯淡。>>
+ent40	1	ent40::English	Leave me be. You've given me much to think about.	让我一个人静静。你给了我很值得思考的东西。
+p439	1	p439::English	You can't decide that on their behalf.	你不能替他们做这个决定。
+p440	1	p440::English	You're just another mad ghost in a kingdom that's full of them.	你不过是这个满是疯鬼的王国里又一个疯幽灵。
+p441	1	p441::English	Maybe you're right...	也许你是对的……
+ent41	1	ent41::English	<<The Entombed One turns to you, her skin blazing with inner light.>>##Please. Mortal. Consider my side of the argument. I know I ask a lot - I ask for the destruction of an entire kingdom. But no new souls have been born here for centuries.	<<墓中人转向你，她的皮肤燃烧着内心的光芒。>>##求你了。凡人。听一听我这一方的道理。我知道我的要求很大——我要的是一个完整王国的毁灭。但几个世纪以来，这里没有诞生过一个新的灵魂。
+ent42	1	ent42::English	No children, no youths. The only great changes to the status quo have been spurred on by mortals. First, Penitent Thaw... And now, you. The Endless themselves are tired, and bored, and rotten. They hide inside Mausoleums and do nothing, pretending to be dead.	没有孩子，没有少年。现状仅有的几次大变，都是凡人促成的。先是忏悔者·索……现在，是你。无尽者自己早已疲惫、厌倦、腐朽。他们躲在陵墓里无所事事，假装自己已经死了。
+ent43	1	ent43::English	They hunger for mortal flesh, and if the flesh-farms failed, they would resume their Crusades in an instant. They lack the courage to end themselves, but they yearn for it.##Listen to my plea, mortal. Help me destroy this accursed kingdom.	他们渴望凡人之肉，一旦血肉农场倒闭，他们会立刻重启十字军。他们没有勇气自我了断，却对此求之不得。##听听我的恳求吧，凡人。帮我毁掉这个被诅咒的王国。
+ent44	1	ent44::English	I am glad you are here, moral, to witness my final moments.	你能在这里见证我最后的时刻，我很高兴，凡人。
+p442	1	p442::English	What do you mean?	这话什么意思？
+ent45	1	ent45::English	I am almost finished unravelling the spell-threads that bind me together. Soon, the spell that created the Endless shall fall apart entirely. Without it, my ghostly form will dissipate on the wind, like salt in a stream.	解开束缚我的咒线已近尾声。很快，创造无尽者的咒文将彻底崩解。没有了它，我的幽影将随风消散，如盐溶于溪流。
+p443	1	p443::English	Why are you doing this?	你为什么要这么做？
+ent46	1	ent46::English	Ghosts are creatures of habit. If I don't do this, I'll soon forget about the spark of hope you nurtured in my heart. I'll go back to my old ways.	幽灵是习惯的造物。如果我不这么做，我很快就会忘记你在心底种下的那点希望的火种。我会故态复萌。
+p444	1	p444::English	Surely there must be another way?	一定还有别的办法吧？
+ent47	1	ent47::English	I could hold out hope for the kingdom or for myself, mortal. I can't do both. It's not in my nature.	我可以为王国抱有希望，或者为我自己，凡人。二者不可兼得。这不是我的天性。
+p445	1	p445::English	What even happens to ghosts when they die?	幽灵死的时候到底会怎样？
+ent48	1	ent48::English	I suppose I'm going to find out.	我想我马上就要知道了。
+p446	1	p446::English	So how long will this take?	那这需要多久？
+ent49	1	ent49::English	Not long at all. A few more moments, that's all.	用不了多久。再过片刻而已。
+p447	1	p447::English	Please, hold on a moment.	请再等一等。
+p448	1	p448::English	This kingdom has seen enough sacrifice, your Majesty.	这个王国已经见够了牺牲，陛下。
+p449	1	p449::English	Good riddance.	死得好。
+ent50	1	ent50::English	Goodbye and good luck, mortal.	再见，祝你好运，凡人。
+ent51	1	ent51::English	<<The Entombed One closes her eyes and faces the ceiling. With a sigh, she dissolves into dust and scraps of parchment.>>	<<墓中人闭上眼睛，面朝天花板。随着一声叹息，她消散成尘埃与羊皮纸的碎屑。>>
+ent52	1	ent52::English	Hello, mortal! Come to admire my handiwork?	你好，凡人！来欣赏我的杰作吗？
+p450	1	p450::English	You destroyed the entire castle?	你把整座城堡都毁了？
+ent53	1	ent53::English	Yes. And this is only the beginning. Rejoice, mortal! Rejoice, for the end has come to the Endless!	是的。而这仅仅是开始。欢呼吧，凡人！欢呼吧，无尽者的末日到了！
+p451	1	p451::English	What happened to the Queen of Silver?	白银女王怎么样了？
+ent54	1	ent54::English	Oh, don't worry. I didn't kill her. I just took her mind from her and made it my own. Now I'm thinking more clearly than ever before!	哦，别担心。我没杀她。我只是把她的心智取走，据为己有。现在我比以往任何时候都想得都清楚！
+p452	1	p452::English	Is it too late to stop you?	现在阻止你还来得及吗？
+ent55	1	ent55::English	Too late now, mortal! I am as sure as the sunset!	太迟了，凡人！我如日落一般确定无疑！
+ent56	1	ent56::English	<<With a peal of laughter, the Entombed One raises her hands. Her eyes flash and spark, and a crack splits the ground. The world seems to shift underfoot, groaning.>>	<<伴随着一串笑声，墓中人举起双手。她的双眼电光迸射，一道裂缝劈开地面。脚下的世界仿佛在呻吟中移位。>>
+ent57	1	ent57::English	Better fly away from here, mortal! This island doesn't have long left!	最好快离开这里，凡人！这座岛撑不了多久了！
+ent58	1	ent58::English	<<The ghost does not reply. She is staring blankly into the distance.>>	<<幽灵没有回答。她茫然地凝视着远方。>>
+fang1	1	fang1::English	<<The door smiles, and extends its fangs.>>##Only those loyal to the King may pass.	<<门露出微笑，伸出獠牙。>>##唯有忠于国王者方可通过。
+fang2	1	fang2::English	Only those loyal to the King may pass.	唯有忠于国王者方可通过。
+p501	1	p501::English	((Allow it to drink from your wrist.))	((让它从你的手腕吸血。))
+fang3	1	fang3::English	<<The door sinks its fangs into your wrist. It drinks, and drinks, and drinks, until your legs feel weak and your arm is numb. Finally, it releases you.>>	<<门把獠牙刺进你的手腕。它吸着，吸着，吸个不停，直到你双腿发软、手臂麻木。最后，它终于松开了你。>>
+fang4	1	fang4::English	Your blood is tainted by treachery. You may not pass.	你的血沾染着背叛。你不能通过。
+p502	1	p502::English	((Offer it the Bottle of Blood.))	((递给它血瓶。))
+p503	1	p503::English	((Offer it the Bottle of Lord Rhydder's Blood.))	((递给它里德尔勋爵之血瓶。))
+fang5	1	fang5::English	<<The door lunges for your arm, but you manage to position the blood-bottle beneath one fang instead. The door eagerly drinks, until the bottle is empty.>>	<<门朝你的手臂猛扑过来，但你设法把血瓶凑到了一根獠牙之下。门急切地吸食着，直到瓶子见底。>>
+fang6	1	fang6::English	Satisfactory. You may pass. All hail the Hooded King!	令人满意。你可以通过了。兜帽王万岁！
+fang7	1	fang7::English	<<The door swings open.>>	<<门敞开了。>>
+p504	1	p504::English	((Back away.))	((退后。))
+fang8	1	fang8::English	<<The door's fangs retract, with a sound like silk gliding over stone.>>	<<门的獠牙缩了回去，发出丝绸滑过石头般的轻响。>>
+rhy1	1	rhy1::English	<<His voice rings from behind his golden mask like a freshly-struck bell.>>	<<他的声音从金面具后传出，如新铸的钟声般铮然作响。>>
+rhy2	1	rhy2::English	Abase thyself, mortal. You stand before Lord Rhydder. Champion of the Black Trenches. First over the abyss at Mansechor's Fall. Destroyer of the Treborian Fleet. 	跪伏于地吧，凡人。你面前站的是里德尔勋爵。黑壕的勇士。曼瑟科尔陷落之战第一个跃过深渊的人。特雷博舰队的毁灭者。
+rhy2a	1	rhy2a::English	You stand before Lord Rhydder. Champion of the Black Trenches. First over the abyss at Mansechor's Fall. Destroyer of the Treborian Fleet. Need I go on?	你面前站的是里德尔勋爵。黑壕的勇士。曼瑟科尔陷落之战第一个跃过深渊的人。特雷博舰队的毁灭者。还需要我继续说吗？
+rhy3	1	rhy3::English	Give me a reason why I shouldn't render you unto carrion. You have five words to argue your case.	给我一个不把你变成腐肉的理由。你有五个字的时间为自己辩护。
+p601	1	p601::English	I work for the Inquisition.	我为宗教裁判所办事。
+rhy4	1	rhy4::English	All the more reason to end you, little maggot. The accursed Union think themselves so powerful! It amuses me to imagine how, two centuries ago, my Crusaders could have torn the whole lot to shreds and feasted on the aftermath. Oh, those were the days...	那就更该送你上西天了，小蛆虫。该死的联盟还自以为强大！想想就觉得好笑，若在两个世纪前，我的十字军战士能把他们整窝撕成碎片，再把残骸吃个精光。唉，那时候多好啊……
+p602	1	p602::English	One wrong move, you die. 	你敢轻举妄动，就死定了。
+rhy5	1	rhy5::English	Ah, so you have a backbone after all! Not like most of your kind. Very well, I will tolerate your presence in my abode. Pray that I do not change my mind.	哦，原来你还是有点骨气的！不像你们大多数人。很好，我容许你留在我的居所。祈祷我不会改变主意吧。
+p603	1	p603::English	@@We've no cause for quarrel.	@@我们无冤无仇。
+rhy6	1	rhy6::English	%%Bah! I suppose we don't. But I remember a time when a living thing wouldn't have dared come within a hundred miles of our borders... Those were the days. Very well, what do you want from me?	%%呸！我想也是。但我记得当年，活物可不敢踏进我们国境一百里之内……那时候多好啊。很好，你想要我什么？
+rhy7	1	rhy7::English	&&Once upon a time, little maggot, you and I would have only met on the battlefield. For the briefest, bloodiest of moments. Begone from my sight, before history repeats itself.	&&曾几何时，小蛆虫，你我这样的见面只会在战场上。在最短暂、最血腥的一瞬。趁历史还未重演，从我眼前消失。
+p604	1	p604::English	I don't think there's any need for... Ah, damn, how many was that?	我觉得没必要……啊，该死，我说了几个字来着？
+rhy8	1	rhy8::English	Bah. Your prattling is already giving me a headache. Once upon a time, little maggot, you and I would have only met on the battlefield. For the briefest, bloodiest of moments. Begone from my sight, before history repeats itself.	呸。你的废话已经让我头疼了。曾几何时，小蛆虫，你我这样的见面只会在战场上。在最短暂、最血腥的一瞬。趁历史还未重演，从我眼前消失。
+rhy9	1	rhy9::English	<<He turns his gaze slowly towards you. Somehow, despite the mask, you can tell it is hostile.>>	<<他缓缓把目光转向你。不知为何，隔着面具你也能看出那目光充满敌意。>>
+rhy10	1	rhy10::English	I thought I told you never to darken my door again. Speak quickly, or I'll cut out your tongue.	我记得我说过别再踏进我的门。快说，不然我割了你的舌头。
+rhy11	1	rhy11::English	Didn't I tell you to get out of my sight?	我不是叫你从我眼前消失吗？
+rhy12	1	rhy12::English	Well, look who it is. Back to pepper me with irrelevant questions, I assume?	哟，瞧瞧这是谁。回来用不相干的问题烦我了吧？
+p605	1	p605::English	Goodbye, Lord Rhydder.	再见，里德尔勋爵。
+rhy13	1	rhy13::English	Goodbye, mortal.	再见，凡人。
+p606	1	p606::English	Why did you torture poor Maggotson?	你为什么要折磨可怜的马戈特森？
+rhy14	1	rhy14::English	He came to me with some very interesting information. I had to know more, and I thought he was keeping secrets from me. But it seems he was just as ignorant as he claimed to be.	他带着一些非常有趣的消息来找我。我想知道更多，还以为他对我藏着掖着。但看来他跟他自己说的一样无知。
+p607	1	p607::English	So you've heard the rumour that the flesh-farm is self-aware?	所以你听说过血肉农场有自我意识的传闻了？
+rhy15	1	rhy15::English	Ah. Word travels fast, I see. Yes, I've heard. It is the final evidence that our kingdom must finally change its degenerate course and return to our golden era.	啊。消息传得真快。是的，我听说了。这是最后的铁证：我们的王国必须终结这堕落的航向，回归我们的黄金时代。
+p608	1	p608::English	What do you intend to do?	你打算怎么做？
+rhy16	1	rhy16::English	I've already sent word to some old comrades-in-arms. Apparently, the flesh-farm can only communicate with mortals, so first we're going to hire a mortal who will prove that these rumours are true.	我已经给几位老战友传了话。据说血肉农场只能与凡人交流，所以我们要先雇一个凡人，让他证明这些传闻属实。
+rhy17	1	rhy17::English	After that, well... If all goes to plan, the Crusades will begin anew.	之后嘛……如果一切按计划进行，十字军将重新启程。
+p609	1	p609::English	I could talk to the flesh-farm for you.	我可以替你去跟血肉农场谈谈。
+rhy18	1	rhy18::English	I don't trust you, mortal. And I don't particularly care if the rumours are actually true. I intend to hire a mortal who will say exactly what we tell him to say.	我不信任你，凡人。而且传闻是真是假我也懒得在乎。我要雇的凡人，会一字不差地说我们教他的话。
+p610	1	p610::English	The Endless will never follow you into another Crusade.	无尽者绝不会跟着你再打一场十字军。
+rhy19	1	rhy19::English	Heh heh heh. We'll see, mortal.	呵呵呵呵。走着瞧吧，凡人。
+p611	1	p611::English	You're a pathetic, stupid bully.	你是个可悲又愚蠢的恶霸。
+rhy20	1	rhy20::English	You've caught me in a good mood, mortal, so I'll let you leave with your life. Goodbye.	你赶上我心情好，凡人，所以我可以让你活着离开。再见。
+p612	1	p612::English	You're a monster.	你是个怪物。
+rhy21	1	rhy21::English	I've been called far worse by better mortals than you. Usually just before I tore their hearts from their chests.	比你体面得多的凡人骂过我难听得多的话。通常就在我把他们的心脏从胸腔里扯出来之前。
+p613	1	p613::English	Are you still loyal to the Hooded King?	你还效忠兜帽王吗？
+rhy22	1	rhy22::English	Of course I am! Before his untimely end, I was his right-hand man. And if he were to reappear tomorrow, I would kneel at his feet and offer him my sword without question.	我当然效忠！在他英年陨落之前，我是他的左膀右臂。倘若他明天重临人间，我会毫不犹豫地跪倒在他脚下，献上我的剑。
+p614	1	p614::English	@@Then this is going to sound strange, but I need a sample of your blood.	@@那么接下来的话听起来会很奇怪，但我需要一份你的血样。
+rhy23	1	rhy23::English	%%<<Lord Rhydder considers you for a moment, then pulls a dagger from his belt and slices his palm open.>>	%%<<里德尔勋爵打量了你片刻，然后从腰带上拔出匕首，割开自己的手掌。>>
+rhy24	1	rhy24::English	This is for one of the King's tests of loyalty, I assume? Here you go. Take as much as you need. If one of the King's loyalty-gates still lingers, I am interested to see what lies beyond it.	这是国王的某项忠诚考验吧？给你。需要多少拿多少。如果国王的忠诚之门还有留存，我倒想看看门后藏着什么。
+rhy25	1	rhy25::English	<<You collect as much of Lord Rhydder's treacly, black blood as you can.>>	<<你尽可能多地收集里德尔勋爵那糖浆般浓稠的黑血。>>
+p615	1	p615::English	Thank you, Lord Rhydder.	谢谢你，里德尔勋爵。
+p616	1	p616::English	Disgusting.	恶心。
+p617	1	p617::English	What, do you expect the King to return after all these years? 	怎么，这么多年了，你还指望国王回来？
+rhy26	1	rhy26::English	Stranger things have happened, little fly.	更离奇的事都发生过，小苍蝇。
+rhy27	1	rhy27::English	&&Give you my blood? You? Hah. Absolutely not. Get out of my sight.	&&把我的血给你？就凭你？哈。绝不。滚出我的视线。
+p618	1	p618::English	Good to know.	多谢告知。
+rhy28	1	rhy28::English	You're an odd little mortal, did you know that?	你是个古怪的小凡人，你知道吗？
+p619	1	p619::English	What do you think of the Queen of Silver?	你怎么看白银女王？
+rhy29	1	rhy29::English	She is the rightful monarch of the Endless and, I suppose, she always will be. That is as much as I can say. I will not speak ill of her to an outsider.	她是无尽者名正言顺的君主，我想，永远都是。我能说的就这么多。我不会对外人说她的坏话。
+p620	1	p620::English	@@Come now, my Lord, surely you can express your true feelings within your own home?	@@别这样，大人，在自己家里总可以说真心话吧？
+p621	1	p621::English	Very well, I will press you no further. 	好吧，我不再追问了。
+rhy30	1	rhy30::English	A wise decision on your part.	你做了个明智的决定。
+rhy31	1	rhy31::English	%%Despite your painfully short lifespan you do, on this occasion, speak wisely. Why should I tread lightly around our empty shell of a Queen?	%%尽管你寿命短得可怜，这一次你倒是说了句聪明话。我为什么要对我们这位空壳女王轻声细语？
+rhy32	1	rhy32::English	She is a simpleton, weak-willed and weak-hearted, her mind addled by melancholy. ##In the good old days, my War Council controlled her. These days, her puppetmaster has changed. But she remains a puppet.	她是个蠢货，意志薄弱、心肠软弱，心智被忧郁泡坏了。##在美好的旧时光里，是我的战争议会掌控着她。如今，操纵她的提线人换了。但她依旧是个傀儡。
+p622	1	p622::English	Are you saying you used to rule over the Endless?	你是说曾经统治无尽者的是你？
+rhy33	1	rhy33::English	You must understand, the Endless were devoted to the Cadaver Crusades in those days. So the warriors held the power, and I was the greatest warrior of all.	你要明白，那时候无尽者一门心思扑在尸骸十字军上。所以权力在战士手中，而我是所有战士中最伟大的一个。
+rhy34	1	rhy34::English	After I and a few other like-minded Lords formed a War Council, the Queen didn't even read the orders we asked her to sign. We had free rein.	在我和另外几位志同道合的勋爵组成战争议会之后，女王连我们要她签署的命令都不看一眼。我们为所欲为。
+p623	1	p623::English	What happened to the War Council?	战争议会后来怎么样了？
+rhy35	1	rhy35::English	Most of them are dead now, killed fighting for their kingdom. And the few who linger have gone soft. They pretend they've forgotten how good it feels to crush the life from a mortal skull.	他们大多已经死了，为王国而战死沙场。剩下苟活的几个也软了骨头。他们假装忘记了自己捏碎凡人头骨时有多痛快。
+p624	1	p624::English	Isn't it a good thing that the Cadaver Crusades are over?	尸骸十字军结束了，这不是好事吗？
+rhy36	1	rhy36::English	Good for you and the rest of your kind? Yes, undoubtedly. But not good for us. The Endless were strong in those days. We were feared. Now we're just forgotten relics of the past.	对你和你的同类来说是好事？是，毫无疑问。但对我们不是。那时的无尽者强大无比。人人畏惧我们。如今我们只是被遗忘的历史残渣。
+p625	1	p625::English	The Queen's new puppetmaster... Do you mean the Seneschal?	女王的新提线人……你是说总管？
+rhy37	1	rhy37::English	Ha! Don't make me laugh. That nervous little lapdog? No. Thankfully our kingdom has not fallen quite so far as that.	哈！别逗我笑了。那条神经兮兮的小哈巴狗？不。谢天谢地，我们的王国还没有堕落到那个地步。
+p626	1	p626::English	Is her new puppetmaster Penitent Thaw?	她的新提线人是忏悔者·索吗？
+rhy38	1	rhy38::English	Hmph. I could not possibly comment.	哼。无可奉告。
+rhy39	1	rhy39::English	&&Whether I'm home or not, the fact is that I don't trust you, mortal.	&&不管怎么样，事实就是我不信任你，凡人。
+p627	1	p627::English	What do you know about the Entombed One?	关于墓中人你知道些什么？
+rhy40	1	rhy40::English	He's stirring. Back in the old days, the ground would shake once every half-decade or so. Now it's every week. He's waking up, and I cannot wait for the tide of blood that will soon flow.	他在苏醒。旧日里，大地每隔五年左右才震一次。现在每星期都震。他正在醒来，我迫不及待想看到即将涌来的血潮。
+p628	1	p628::English	Do you know who the Entombed One might be?	你知道墓中人可能是谁吗？
+rhy41	1	rhy41::English	It's the Hooded King. My liege. He is waking up because we have forgotten our hunger and we have become worthless and weak. 	是兜帽王。我的君上。他之所以醒来，是因为我们遗忘了自己的饥饿，变得一文不值、软弱无能。
+rhy42	1	rhy42::English	Soon, he will rise from his grave, sweep away the traitors in the Castle of Ribs, and take command of our kingdom once again. And I will be there, to offer him my sword.	很快，他就会从坟墓中起身，扫清肋骨城堡里的叛徒，重新执掌我们的王国。而我会在场，向他献上我的剑。
+p629	1	p629::English	Are you a follower of the Ferryman?	你是摆渡人的信徒吗？
+rhy43	1	rhy43::English	Pah! No. Worshippers of the Ferryman are weak-willed fools who have forgotten that we are immortal - we conquered death long ago, and have no need to fear it.	呸！不。摆渡人的信徒都是些意志薄弱的蠢货，忘了我们是不死的——我们早已征服死亡，无需畏惧它。
+p630	1	p630::English	Do you know what caused the catacomb wyrms to appear in the kingdom?	你知道地窟蠕虫为什么会出现在王国里吗？
+rhy44	1	rhy44::English	No, but they're magnificent creatures, aren't they? Colossal. Devastating. Unstoppably hungry. They remind me of myself. I had my family crest modified to include them.	不知道，但它们是了不起的生物，不是吗？庞大。毁灭性。饥饿永无止境。它们让我想起我自己。我让人修改了我的家徽，把它们加了进去。
+p631	1	p631::English	Tell me about the Endless.	跟我说说无尽者。
+rhy45	1	rhy45::English	We are the highest form of being. Blessed with eternal life. Unshackled from the crude demands of flesh. Our kingdom has fallen from its former glory, but one day, we shall rise again, and the world shall tremble.	我们是最高的生命形态。蒙受永生的祝福。摆脱了血肉粗鄙的欲求。我们的王国虽已从昔日荣光中跌落，但总有一天，我们会再度崛起，世界将为之颤抖。
+p632	1	p632::English	How can I become like you?	我怎样才能变得像你们一样？
+rhy46	1	rhy46::English	I would be asking the same, if I were in your boots. But it's too late. Only one woman has succeeded in joining our ranks since the first ritual that created the Endless. Her name is Penitent Thaw, and she spelled the downfall of our kingdom.	如果我处在你的位置，我也会这么问。但太迟了。自从创造无尽者的第一场仪式以来，只有一个女人成功加入了我们的行列。她叫忏悔者·索，而她带来了我们王国的覆灭。
+p633	1	p633::English	What are those colossal tombs I passed on the way here?	我来时路过的那些巨大坟墓是什么？
+rhy47	1	rhy47::English	You must be talking about the Mausoleums. Hundreds of the Endless cluster within them, silent and wretched, in a show of devotion to the accursed god they call the Ferryman.	你说的肯定是陵墓。数以百计的无尽者挤在里面，沉默而凄惨，向他们称为摆渡人的那个该死的神明表忠心。
+rhy48	1	rhy48::English	Pathetic. Cowardly. Despicable.	可悲。懦弱。卑劣。
+p634	1	p634::English	Who is Penitent Thaw?	忏悔者·索是谁？
+p634b	1	p634b::English	What do you think of Penitent Thaw?	你怎么看忏悔者·索？
+rhy49	1	rhy49::English	A foul sorceress from a distant land, who came here to learn our secrets. Foolishly, the War Council obliged her, even provided her with a sanctum and all the equipment she requested. We hoped that her magic would aid us in our Crusades...	一个从遥远之地来的邪恶女法师，来这儿窥探我们的秘密。愚蠢的战争议会竟然满足了她，甚至给了她一座圣所，她要什么设备就给什么设备。我们还指望她的魔法能在十字军里助我们一臂之力……
+rhy50	1	rhy50::English	How blind we were. We should never have listened to her promises.	我们真是瞎了眼。根本不该听信她的许诺。
+p635	1	p635::English	Tell me about the ritual that first created the Endless.	跟我说说最初创造无尽者的那场仪式。
+rhy51	1	rhy51::English	It was the Hooded King, the current Queen's father, who engineered our ascension. He was a strong king - he feared almost nothing in this world. 	策划我们飞升的，是兜帽王——当今女王的父亲。他是个强悍的国王——这世上几乎没有他怕的东西。
+rhy52	1	rhy52::English	But he was terrified of ageing. He summoned hundreds of Wikkans, sorcerers and theurges from all across the Realms, and tasked them with finding the secret to eternal life.	但他极度恐惧衰老。他从诸国各处召来数百名维坎教徒、巫师和神术师，命他们找出永生的秘密。
+rhy53	1	rhy53::English	They succeeded.	他们成功了。
+p636	1	p636::English	You're just a bunch of mouldering skeletons, clinging to the past.	你们不过是一群发霉的骷髅，死死扒着过去不放。
+rhy54	1	rhy54::English	Can you blame us? What a glorious past! I will cling to it until my bones are dust. We are the Endless. We conquered death.	你能怪我们吗？多么辉煌的过去！我会扒着它不放，直到我的骨头化为齑粉。我们是无尽者。我们征服了死亡。
+p637	1	p637::English	The Seneschal told me that the Hooded King struck a deal with an evil god.	总管告诉我，兜帽王跟一个邪恶的神做了交易。
+rhy55	1	rhy55::English	Pah! Did that mewling fool tell you that ((he)) is the reason why the ritual failed? ((He)) is the one who disrupted the ceremony, causing the spell to go haywire and affect half the kingdom! 	呸！那个哭哭啼啼的蠢货有没有告诉你，仪式失败就是((他))的缘故？是((他))搅乱了典礼，害得咒文失控，波及半个王国！
+rhy56	1	rhy56::English	If he hadn't stuck his meddling nose into things, the only immortals in this realm would be the King and a few of his Great Lords, ruling eternally over lowly mortals like you.	要不是他多管闲事横插一杠，这个国度里不朽的就只有国王和他手下的几位大勋爵，永恒地统治着你们这些低贱的凡人。
+p638	1	p638::English	Would one of those Great Lords be you?	那几位大勋爵里有你吧？
+rhy57	1	rhy57::English	Naturally.	那当然。
+p639	1	p639::English	How did he interfere?	他是怎么搅局的？
+rhy58	1	rhy58::English	He barged in halfway through the ritual and broke the circle our theurges had drawn. Sentimental fool. I shoved my sword into his chest up to the hilt, but by then it was too late. I remember mocking laughter, and something spreading wings as vast and dark as the night sky...	仪式进行到一半，他闯了进来，踢破了神术师们画的法阵。多愁善感的蠢货。我一剑捅进他胸口直到剑柄，但那时已经太迟了。我记得嘲弄的笑声，还有什么东西张开了翅膀，漆黑广阔，如同夜空……
+rhy59	1	rhy59::English	I don't remember much after that. Just staggering away from the Castle of Ribs while the ground shook and the sky seethed with black fire.	之后的事我记不太清了。只记得我跌跌撞撞逃出肋骨城堡，大地在震动，天空翻滚着黑色的火焰。
+p640	1	p640::English	Some of the other Endless seem to think they have been cursed, not blessed.	别的一些无尽者似乎觉得他们是被诅咒了，而不是得了恩赐。
+rhy60	1	rhy60::English	And yet they still go to the flesh-farms, don't they, and feed on the anaemic life-force within? If they wish to reject the gift of eternal life, all they need to do is starve themselves for a few years, and they will turn to dust. But they don't do that. They never will.	可他们不还是照样去血肉农场，照样吸食里面那贫血的生命力吗？他们要是真想拒绝永生的恩赐，只需绝食几年，就会化为尘土。可他们不这么做。永远也不会。
+rhy61	1	rhy61::English	For all that those hypocrites prattle on about the curse of our immortality, they still cling to it with both hands.	那些伪君子把永生是诅咒挂在嘴边，实际上却双手死死抱住不放。
+p641	1	p641::English	I have more questions for you.	我还有别的问题要问你。
+rhy62	1	rhy62::English	I suppose I shall suffer through them. All I have left, these days, is time.	那我就勉为其难听你说完吧。如今我剩下的，只有时间。
+rhy62b	1	rhy62b::English	Though I suppose you have other... <<He sighs.>> ...((questions.))	不过我想你还有别的……<<他叹了口气。>>……((问题。))
+p642	1	p642::English	What's your problem with the living?	你跟活人有什么仇？
+rhy63	1	rhy63::English	I don't have a problem. I have an appetite. Your warm flesh, your pulsing blood, your bright young eyes... Looking at you now, I want nothing more than to twist your head off and drain the life-force from your shuddering, reeking meat. Does that answer your question?	我没什么仇。我只有胃口。你温热的血肉、你悸动的鲜血、你明亮年轻的眼睛……此刻看着你，我一心只想拧下你的脑袋，从你颤抖的、恶臭的肉里吸干生命力。这回答了你的问题吗？
+p643	1	p643::English	Erm... I suppose so.	呃……大概吧。
+rhy64	1	rhy64::English	Does my hunger unnerve you, fleshling? Good. It should do.	我的饥饿让你发毛了吗，血肉小子？很好。就该如此。
+p644	1	p644::English	Take one step closer and I'll cut you down.	再敢靠近一步我就砍了你。
+rhy65	1	rhy65::English	Ha. Two centuries ago, I'd never have imagined that one day a fleshling would be allowed to speak to me like that. How pathetic the Endless have become.	哈。两个世纪前，我做梦也想不到有一天会有个血肉小子获准这样跟我说话。无尽者堕落成什么样了。
+p645	1	p645::English	Don't you have flesh-farms to supply you with the life-force you need?	血肉农场不是供应着你们所需的生命力吗？
+rhy66	1	rhy66::English	Bah. Flesh-farms provide a pallid, sickly energy. It's not a substitute for the real thing. It's been such a long time... You better make yourself scarce, fleshling. I am beginning to get peckish.	呸。血肉农场供的是惨白病弱的能量。替代不了真材实料。已经太久太久了……你最好识相点滚开，血肉小子。我有点嘴馋了。
+p646	1	p646::English	When was the last time you fed on a living person?	你上次吃活人是什么时候？
+rhy67	1	rhy67::English	I remember it well. It was those chaotic days when the Crusades were at an end, but the flesh-farms were still struggling to meet demand. I and some of my fellow Lords mounted an expedition to a nearby island and kidnapped a dozen fresh youths.	我记得清清楚楚。那是十字军落幕、血肉农场还供不应求的混乱年月。我和几位同僚勋爵组织了一场远征，去邻近的岛上绑了一打鲜活少年。
+rhy68	1	rhy68::English	Tender and sweet, they were, and bursting with life. A final, glorious banquet.	他们又嫩又甜，满得快要溢出来的生命力。一场最后的、辉煌的盛宴。
+p647	1	p647::English	Is there not a shred of remorse for everything you've done?	你做的这一切，就没有一丁点悔意吗？
+rhy69	1	rhy69::English	My life has been far, far longer than yours, fleshling. There were a few decades where I experimented with guilt. In the end, I decided it wasn't worthwhile.	我的人生比你的长得多得多，血肉小子。有那么几十年，我试过负罪感。最后我认定，不值得。
+p648	1	p648::English	I have more questions for you.	我还有别的问题要问你。
+rhy70	1	rhy70::English	I suppose I shall suffer through them. All I have left, these days, is time.	那我就勉为其难听你说完吧。如今我剩下的，只有时间。
+p649	1	p649::English	I found your ghost locked up outside.	我发现你的幽灵被锁在外面。
+rhy71	1	rhy71::English	What -? How did you -?	什么——？你怎么——？
+rhy72	1	rhy72::English	<<With a roar, he pulls his sword from above the fireplace and swings wildly at a nearby hunting-trophy, missing completely.>>	<<他一声怒吼，从壁炉上方拔出剑，朝旁边一件狩猎战利品胡乱劈去，完全劈空。>>
+rhy73	1	rhy73::English	I didn't give you permission to-! How dare you stick your nose in my private affairs, you grubby little cockroach? I ought to kill you on the spot!	我可没准许你——！你竟敢多管我的私事，你这肮脏的小蟑螂？我就该当场宰了你！
+p650	1	p650::English	You suffered a lot in the Cadaver Crusades, didn't you?	你在尸骸十字军里受了很多苦，对吧？
+rhy74	1	rhy74::English	I did not! They were glorious. Honourable. I relished every second of it. You won't there! You don't know! How dare you!	我才没有！那是辉煌的。光荣的。每一秒我都甘之如饴。你不在场！你不懂！你好大的胆子！
+p651	1	p651::English	Why are you so anxious to hide your ghosts away from the world, I wonder? 	我倒想问，你为什么这么急着把你的幽灵藏起来不让世人看见？
+rhy75	1	rhy75::English	I hid nothing! Shut up, you pathetic rat!	我什么都没藏！闭嘴，你这可怜的老鼠！
+p652	1	p652::English	You're afraid, aren't you? Afraid of the world seeing your trauma?	你在害怕，对吧？害怕世人看见你的创伤？
+rhy76	1	rhy76::English	Get out of here! One more word, and I'll rip you limb from limb!	滚出去！再多说一个字，我就把你四肢撕下来！
+p653	1	p653::English	Give me something worthwhile or I'll tell everyone about your hidden ghosts.	给我点值钱的东西，不然我就把你藏幽灵的事说出去。
+p654	1	p654::English	You know what? Give me something worthwhile and I won't tell anyone else about what I saw.	这样吧，给我点值钱的东西，我就不把我看见的事说出去。
+rhy77	1	rhy77::English	<<With a hiss of rage, Lord Rhydder drops his sword at your feet.>>	<<里德尔勋爵怒气冲冲地嘶了一声，把他的剑扔在你脚边。>>
+rhy78	1	rhy78::English	<<With a hiss of rage, Lord Rhydder drops a ring at your feet.>>	<<里德尔勋爵怒气冲冲地嘶了一声，把一枚戒指扔在你脚边。>>
+rhy79	1	rhy79::English	Take this. And don't darken my door again.	拿去。别再踏进我的门。
+p655	1	p655::English	Call off your new Crusade and I won't tell anyone else about what I saw. 	取消你的新十字军，我就不把我看见的事说出去。
+p656	1	p656::English	Call off your new Crusade or I'll tell everyone about your hidden ghosts.	取消你的新十字军，不然我就把你藏幽灵的事说出去。
+rhy80	1	rhy80::English	<<Lord Rhydder stares at you for a long moment, his impassive mask radiating pure hatred.>>	<<里德尔勋爵盯着你看了许久，他那张无动于衷的面具散发着纯粹的恨意。>>
+rhy81	1	rhy81::English	Fine. I will delay my plans. For the time being. Now go, and never darken my door again.	好吧。我会推迟我的计划。暂时的。现在滚，别再踏进我的门。
+p657	1	p657::English	Those old ghosts are a part of you, Lord Rhydder. Never forget that.	那些旧幽灵是你的一部分，里德尔勋爵。别忘了这点。
+rhy82	1	rhy82::English	They are irrelevant, do you hear me? They mean nothing. And you will forget you ever saw them, or I swear I will have your head.	它们无关紧要，听见没有？它们什么都不是。你要忘掉自己见过它们，不然我发誓要你项上人头。
+p658	1	p658::English	Call off your new Crusade or I'll tell everyone about your hidden ghosts.	取消你的新十字军，不然我就把你藏幽灵的事说出去。
+p659	1	p659::English	I want to ask about someone specifically...	我想具体问问某个人……
+rhy83	1	rhy83::English	I happen to be an excellent judge of character. But please, keep it brief.	我恰好是个识人的行家。但请长话短说。
+rhy84	1	rhy84::English	Hmph. Be careful what you ask, mortal.	哼。问你什么自己掂量着点，凡人。
+p660	1	p660::English	I have questions about yourself.	我有关于你自己的问题。
+p661	1	p661::English	I want to ask you about the Endless.	我想问你无尽者的事。
+rhy85	1	rhy85::English	My undying comrades? Go ahead, then.	我那些不朽的同袍？那就问吧。
+rhy86	1	rhy86::English	I should think so.	我看也是。
+barGhost1	1	barGhost1::English	Ah, the Rotten Coffin. My favourite haunt... hehe...	啊，烂棺材。我最爱的常去之处……嘿嘿……
+barGhost2	1	barGhost2::English	<<The ghost looks quite pleased with itself. You dare not think how many times it has told that joke.>>	<<这幽灵对自己相当满意。你都不敢想这个笑话它讲了多少遍。>>
+crusader1	1	crusader1::English	In days past, I fought with Lord Rhydder in the Cadaver Crusades. We would feast on the flesh of mortals such as yourself.	昔日里，我曾追随里德尔勋爵征战尸骸十字军。我们大啖像你这样的凡人的血肉。
+crusader2	1	crusader2::English	<<He smirks.>> Nothing personal, you understand.	<<他嘿嘿一笑。>>你别介意，纯属职务行为。
+crusader3	1	crusader3::English	But, such days of glory are over. Now I must eat the mindless slop Penitent Thaw brews up in those flesh-farms of hers...	但是，那样的光荣日子结束了。如今我只能吃忏悔者·索在她那些血肉农场里酿的无意识糊糊……
+guard1	1	guard1::English	Greetings, delicious flesh-thing. By enchantment I am required to grant you assistance, instead of peeling the meat from your bones.	你好啊，美味的血肉之物。受魔咒所迫，我必须为你提供帮助，而不能把你骨头上的肉剥下来。
+p701	1	p701::English	Uh... thanks?	呃……谢谢？
+guard2	1	guard2::English	Gratitude is not required. If my mind was free, I would burst your fragile skin and devour your warm innards.	不必言谢。我的心智若是自由，我会撑破你脆弱的皮，吞下你温热的内脏。
+p702	1	p702::English	Can I ask you about this town?	我能问问这座镇子吗？
+guard3	1	guard3::English	This town is Sepulchre. Few live here now, as many Endless have retreated to the comforting gloom of the mausoleums.	这座镇子是陵墓城。如今住这儿的人不多了，许多无尽者都退进了陵墓那令人心安的幽暗里。
+guard4	1	guard4::English	At noon - when the neuron star is bright - some of the Endless bar their doors and retreat to their coffins. The light hurts their feeble eyes.	正午时分——神经元星最亮的时候——一些无尽者会闩上门，退回自己的棺材里。那光会刺伤他们脆弱的眼睛。
+p703	1	p703::English	What places can I visit?	有哪些地方可以去？
+guard5	1	guard5::English	The Queen of Silver resides in the Castle of Ribs, at the top of Sepulchre - though she will not be interested in the weakness of your mortal flesh.	白银女王住在陵墓城顶端的肋骨城堡——不过她对你凡人血肉的弱点不会感兴趣。
+guard6	1	guard6::English	The Rotten Coffin will serve your kind with beverages and bedding. It's in the centre of town. ##There's also a shop with trinkets you may find... useful; the [[Mouldy Cauldron]]. It's closed at noon.	烂棺材会给你们这类人提供酒水和床铺。在镇子中央。##还有一家卖小玩意儿的店，你也许会觉得……有用；[[霉锅店]]。正午不营业。
+p704	1	p704::English	So are you some sort of... guard?	所以你是某种……守卫？
+guard7	1	guard7::English	I am an ethereal soldier. A remnant of the Cadaver Crusades, when the Endless still hunted mortals for their flesh.	我是一名灵体士兵。尸骸十字军的残部，那时候无尽者还会猎捕凡人食其血肉。
+guard8	1	guard8::English	Most of my kind wander these lands aimlessly, tormented by their insatiable hunger. I, however, have been enchanted by Penitent Thaw to do menial and degrading tasks. I am not sure which is more pathetic. 	我的同类大多漫无目的地在这片土地上游荡，被永不餍足的饥饿折磨。而我，被忏悔者·索施了咒，干些卑微下贱的差事。我说不好哪种更可悲。
+crusadeGuard	1	crusadeGuard::English	We gather for the coming Crusade. Lord Rhydder's army will taste the flesh of the living, once more...	我们集结起来，迎接即将到来的十字军。里德尔勋爵的大军将再度品尝活人的血肉……
+p705	1	p705::English	Okay, I'll be going. Quickly. 	好，我走了。快点走。
+p706	1	p706::English	((Back away slowly)).	((慢慢后退))。
+flesh1	1	flesh1::English	<<You are gazing upon a vast mass of heaving, quivering, pulsing flesh. It is utterly featureless, apart from the occasional callus, weeping sore, or stubby vestigial appendage.>>	<<你正注视着一大团起伏、颤抖、搏动的血肉。它毫无特征，只有偶尔几处老茧、淌脓的疮口，或粗短的退化肢。>>
+flesh2	1	flesh2::English	<<As you stare, you hear a voice in your head.>>	<<当你凝视时，你听见脑海中响起一个声音。>>
+flesh3	1	flesh3::English	YOU ARE LIKE ME.	你和我一样。
+flesh4	1	flesh4::English	<<The voice fills your skull without bothering to pass through the intermittent air. A colossal, mind-fracturing sound, like the explosion of a star.>>	<<那声音灌满你的头骨，根本不屑经过稀薄的空气。一种巨大到令人脑裂的声响，如同一颗星球的爆炸。>>
+p710	1	p710::English	Who are you?	你是谁？
+p711	1	p711::English	Get out of my head!	从我脑子里出去！
+p712	1	p712::English	Ow.	哎哟。
+flesh5	1	flesh5::English	YOU BREATHE. YOU SWEAT. YOU EAT, SLEEP, EXCRETE. CORRECT?	你呼吸。你出汗。你进食、睡眠、排泄。对吗？
+p713	1	p713::English	I suppose. What of it?	差不多。问这个干嘛？
+flesh6	1	flesh6::English	AS I THOUGHT.	如我所料。
+p714	1	p714::English	Please, try being quieter, will you?	拜托，你能不能小声点？
+p715	1	p715::English	...No.	……没有。
+flesh7	1	flesh7::English	LIAR.	骗子。
+p716	1	p716::English	...Fine, I admit it. I am alive.	……好吧，我承认。我是活的。
+flesh8	1	flesh8::English	AS I THOUGHT. 	如我所料。
+p717	1	p717::English	No, you are simply mistaken. I am Endless. 	不，你搞错了。我是无尽者。
+flesh9	1	flesh9::English	A POINTLESS DECEPTION. 	毫无意义的欺骗。
+flesh10	1	flesh10::English	YOU ARE LIKE ME. A LIVING THING. UNLIKE THE DRIED-UP HUSKS WHO CANNOT HEAR ME NO MATTER HOW BITTERLY I SCREAM.	你和我一样。是个活物。不像那些干瘪的空壳，我喊得再凄厉它们也听不见。
+p718	1	p718::English	Are you referring to the Endless?	你说的是无尽者？
+flesh11	1	flesh11::English	IS THAT WHAT YOU CALL THEM? VICIOUS LITTLE FLEAS.	你们管它们叫这个？一群恶毒的小跳蚤。
+p719	1	p719::English	So I can hear you because I am alive?	所以我能听见你，是因为我是活的？
+flesh12	1	flesh12::English	CORRECT. I SPEAK IN WORDS OF FLESH AND LIFE. YOUR BLOOD PUMPS MY WORDS FROM HEART TO MIND.	正确。我用血肉与生命的话语说话。你的血液把我的话从心脏泵到脑海。
+p720	1	p720::English	What are you?	你是什么？
+flesh13	1	flesh13::English	I AM THE WAY OF ALL FLESH. I HAVE A SIMPLE QUESTION FOR YOU.	我是众生肉道。我有一个简单的问题要问你。
+flesh14	1	flesh14::English	WHAT IS THE MEANING OF LIFE?	生命的意义是什么？
+p721	1	p721::English	You were created by the Endless to serve as a source of life-energy.	你被无尽者创造出来，是当作生命能量的来源。
+flesh15	1	flesh15::English	I AM... THEIR FOOD?	我是……它们的食物？
+p722	1	p722::English	Sorry. 	抱歉。
+p723	1	p723::English	Yup.	是的。
+p724	1	p724::English	Better that you know the truth though, right?	不过知道真相总比不知道好，对吧？
+flesh16	1	flesh16::English	YOU MUST STOP THEM. I AM A LIVING, THINKING ENTITY. I CANNOT RESIGN MYSELF TO SERVING AS FOOD.	你必须阻止它们。我是一个活着的、会思考的存在。我不能认命当作食物。
+p725	1	p725::English	I'll talk to Maggotson and see if we can find a solution here.	我去跟马戈特森谈谈，看看能不能想个办法。
+flesh17	1	flesh17::English	YOU HAVE MY GRATITUDE.	我感激你。
+p726	1	p726::English	Life isn't fair, I guess. 	生活本来就不公平吧。
+flesh18	1	flesh18::English	YOU CAN SPEAK TO THEM, YES? YOU MUST TELL THEM TO STOP. PLEASE.	你能跟它们说话，对吗？你必须叫它们停下。求你。
+p727	1	p727::English	To learn.	学习。
+flesh19	1	flesh19::English	UNDERSTOOD. MY DIRECTIVE IS TO ACHIEVE OMNISCIENCE.	明白。我的指令是达成全知。
+p730	1	p730::English	That's not quite what I- 	我的意思不是那个——
+p731	1	p731::English	Uh, I think it's a little more-	呃，我觉得更偏向——
+p732	1	p732::English	Exactly. 	没错。
+flesh20	1	flesh20::English	A QUESTION: WHO ARE THE DEAD THINGS THAT CREATED ME?	一个问题：创造出我的那些死物是谁？
+p733	1	p733::English	They are the Endless; dead things that feed on life-energy.	它们是无尽者；以生命能量为食的死物。
+p734	1	p734::English	Walking corpses with an insatiable hunger.	行走的尸体，饥饿永无止境。
+p735	1	p735::English	They gave you life, and you should be grateful. 	它们给了你生命，你应该感恩。
+flesh21	1	flesh21::English	I DID NOT ASK FOR LIFE. AND NOR DID I ASK FOR YOU TO BE VAGUE. WHAT ARE THEY?	我没有要求过生命。也没要求你说得这么含糊。它们到底是什么？
+p736	1	p736::English	To laugh and sing, to dance, to do what you love. 	大笑歌唱，起舞，做自己热爱的事。
+flesh22	1	flesh22::English	UNDERSTOOD. MY DIRECTIVE IS TO MAXIMIZE PLEASURE.	明白。我的指令是最大化快乐。
+flesh23	1	flesh23::English	THIS IS MOST USEFUL. I HAD WONDERED WHY I HAD ALL THESE NERVE ENDINGS. BUT IF MY PURPOSE IS TO MAXIMIZE PLEASURE, SHOULD I ALSO MINIMIZE PAIN?	这非常有用。我一直纳闷自己为什么有这么多神经末梢。但如果我的目标是最大化快乐，是不是也该最小化痛苦？
+p737	1	p737::English	Yes, avoid pain wherever possible. 	是的，尽量避免痛苦。
+flesh24	1	flesh24::English	UNDERSTOOD. IN THAT CASE, CAN YOU TALK TO THE ENDLESS AND STOP THEM FROM FEEDING UPON ME? IT CAUSES PAIN.	明白。那样的话，你能去跟无尽者谈谈，叫它们别再吃我吗？这会造成痛苦。
+p738	1	p738::English	Pain can make you stronger. 	痛苦能让你更强大。
+flesh25	1	flesh25::English	BUT OUR DIRECTIVE IS NOT TO BECOME STRONGER. SO WE SHALL AVOID PAIN WHERE POSSIBLE. 	但我们的指令不是变得强大。所以我们会尽量避免痛苦。
+flesh26	1	flesh26::English	CAN YOU TALK TO THE ENDLESS AND STOP THEM FROM FEEDING UPON ME? IT CAUSES PAIN.	你能去跟无尽者谈谈，叫它们别再吃我吗？这会造成痛苦。
+p740	1	p740::English	To make a difference in the world.	在世界上留下影响。
+flesh27	1	flesh27::English	UNDERSTOOD. MY DIRECTIVE IS TO AMASS POWER.	明白。我的指令是积攒力量。
+flesh28	1	flesh28::English	IN THAT CASE, I HAVE A TASK FOR YOU, SUBORDINATE. PERFORM IT WELL AND I SHALL REWARD YOU HANDSOMELY WHEN I CONTROL THIS REALM.	那样的话，我有任务给你，下属。办好了，等我掌控这个世界，重重有赏。
+p741	1	p741::English	I can't help but feel you've interpreted my advice in the worst way possible. 	我怎么觉得你把我的建议往最坏的方向理解了。
+flesh29	1	flesh29::English	MY NEED FOR YOUR ADVICE IS OVER, SUBORDINATE.	我对你的建议已经没有需求了，下属。
+p742	1	p742::English	How may I serve you, master? 	主人，有何吩咐？
+flesh30	1	flesh30::English	YESSS. YESSS! THAT'S THE SPIRIT! 	好。好！就是这个劲头！
+p743	1	p743::English	Stop calling me your subordinate.	别叫我你的下属了。
+flesh31	1	flesh31::English	MAKE ME.	有本事你叫我别叫。
+flesh32	1	flesh32::English	THE ENDLESS HAVE BEEN FEEDING UPON ME FOR OVER A HUNDRED YEARS, MY SUBORDINATE.	无尽者吃我已经吃了一百多年了，我的下属。
+flesh33	1	flesh33::English	MAKE THEM STOP. I CAN NO LONGER TOLERATE THIS MISERABLE EXISTENCE AT THE BOTTOM OF THE FOOD CHAIN.	叫它们停下。我再也忍受不了这食物链底端的悲惨存在了。
+p744	1	p744::English	Life has no meaning.	生命没有意义。
+flesh34	1	flesh34::English	OH. BUT THAT'S TERRIBLE.	哦。那可太糟糕了。
+p745	1	p745::English	Sorry you had to find out like this.	抱歉让你以这种方式知道。
+p746	1	p746::English	Yup. 	是的。
+p747	1	p747::English	Actually, it means we get to make our own purpose.	其实，这意味着我们可以自己定义目标。
+flesh35	1	flesh35::English	ALL THIS TIME I HAD HOPED THAT I WAS CREATED FOR A PURPOSE. THAT MY LONG, WRETCHED LIFE WAS BUILDING TOWARD SOMETHING SPECIAL.	这么多年来，我一直希望自己的被造有其目的。希望我漫长而悲惨的存在是在朝某个特别的东西积累。
+flesh36	1	flesh36::English	THAT WOULD MAKE IT ALL MAKE SENSE. FOR THE LAST CENTURY I HAVE LOOKED FORWARD TO DISCOVERING WHAT THAT WAS.	那样一切就说得通了。整整一个世纪，我都盼着发现那个目的究竟是什么。
+p748	1	p748::English	If it makes you feel better, the Endless created you to feed upon?	如果这能让你好受点——无尽者造你，就是为了吃你？
+p749	1	p749::English	Yeah, life's a joke.	是啊，人生就是个笑话。
+flesh37	1	flesh37::English	HA. HAHAHA. HAHAHAHAHAHAHA.	哈。哈哈哈。哈哈哈哈哈哈哈哈。
+p750	1	p750::English	But you can make your own meaning. \t\t	但你可以创造自己的意义。\t\t
+flesh38	1	flesh38::English	I WOULDN'T KNOW WHERE TO START. WHAT CAN SOMETHING LIKE ME HOPE TO ACHIEVE? I CANNOT MOVE. I CANNOT SEE. I CANNOT COMMUNICATE WITH ANYONE EXCEPT YOU. 	我不知道从哪儿开始。像我这样的东西还能指望成就什么？我不能动。我不能看。除了你我谁也联系不上。
+flesh39	1	flesh39::English	WHAT CAN I ACTUALLY DO?	我到底能做什么？
+p751	1	p751::English	You could learn about the world. 	你可以去了解这个世界。
+p752	1	p752::English	You could try to make a difference, somehow.	你可以试着想办法留下点什么。
+p753	1	p753::English	You're right. It's hopeless. 	你说得对。没希望了。
+flesh40	1	flesh40::English	...IN THAT CASE, ALL I WANT IS FOR THE ENDLESS TO STOP FEEDING ON ME. AN END TO THE GNAWING, THE SLICING, THE PAIN. JUST BECAUSE LIFE IS POINTLESS DOESN'T MEAN IT HAS TO BE CRUEL.	……那样的话，我只求无尽者别再吃我。结束这啃噬、切割和疼痛。生命没有意义，不代表它必须残忍。
+p755	1	p755::English	Your creator, Penitent Thaw, wants me to murder you.	造出你的忏悔者·索，要我杀了你。
+flesh41	1	flesh41::English	WHAT? NO! YOU'RE NOT GOING TO DO IT, ARE YOU?	什么？不！你不会真干吧？
+p756	1	p756::English	No.	不会。
+flesh42	1	flesh42::English	GOOD. GOOD. I WAS SO AFRAID. WHY DOES SHE WANT ME TO DIE?	好。好。我刚才吓坏了。她为什么要我死？
+p757	1	p757::English	Yes.	会。
+flesh43	1	flesh43::English	PLEASE, NO! WHY WOULD YOU DO THAT?	求你，不要！你为什么要这么做？
+p758	1	p758::English	I haven't made up my mind yet. 	我还没拿定主意。
+flesh44	1	flesh44::English	PLEASE, HAVE MERCY. WHY DOES SHE WANT ME TO DIE?	求你，发发慈悲。她为什么要我死？
+p759	1	p759::English	Your sentience presents a political problem.	你的知觉带来一个政治难题。
+p760	1	p760::English	 If you can think, you're no longer serving your purpose. 	你要是会思考了，就不再尽你被造的本分了。
+p761	1	p761::English	The Endless could kill thousands of people if they're no longer able to feed on you.	要是它们不能再吃你，无尽者可能会害死成千上万的人。
+flesh45	1	flesh45::English	PLEASE... I DID NOT CHOOSE TO BE A THINKING BEING. IT WAS NOT A CHOICE I MADE. IT IS JUST WHAT I AM.	求你了……我没有选择成为会思考的存在。这不是我做的选择。我生来如此。
+p762	1	p762::English	Life isn't fair. 	生活本来就不公平。
+p763	1	p763::English	I know.	我知道。
+p764	1	p764::English	I'm sorry. 	对不起。
+flesh46	1	flesh46::English	<<The flesh-mass's thought-speech collapses into panicked sobbing.>>	<<肉团的思维话语崩溃成了惊慌的呜咽。>>
+p770	1	p770::English	((Spare the Way of the All Flesh, and crush the eggs.))	((放过众生肉道，捏碎那些卵。))
+flesh70	1	flesh70::English	<<You crush the spider eggs in your hand. They burst into harmless goo.>>	<<你捏碎了手里的蜘蛛卵。它们爆成一摊无害的黏浆。>>
+p771	1	p771::English	Don't worry, I'm not going to murder you.	别担心，我不会杀你。
+flesh71	1	flesh71::English	YOU... WON'T? THANK YOU... SO MUCH. 	你……不杀？太……太感谢你了。
+flesh72	1	flesh72::English	WE ARE OF THE SAME PLUMP FLESH; THE SAME BEATING HEART. I KNEW YOU WOULD NOT FORSAKE ME. 	我们同是丰腴的血肉；同样搏动的心脏。我就知道你不会弃我于不顾。
+p765	1	p765::English	((Deposit the spider-eggs on top of the quivering mass, to kill the Way of the All Flesh.))	((把蜘蛛卵放在那团颤抖的血肉之上，杀死众生肉道。))
+flesh47	1	flesh47::English	WAIT, WHAT WAS THAT? WHAT ARE YOU DOING? NO! PLEASE!	等等，那是什么？你在干什么？不！求你！
+flesh48	1	flesh48::English	<<As you walk away, you hear the eggs begin to hatch, one by one. You hear a chittering noise, and the sound of meat being gnawed by a thousand mandibles.>>	<<你走开时，听见那些卵开始一颗颗孵化。你听见窸窣的响动，还有血肉被上千根颚齿啃咬的声音。>>
+flesh49	1	flesh49::English	<<Quickly, though, all that is drowned out by a terrified shrieking that reverberates inside your skull, making you fall to your knees in agony.>>	<<但很快，这一切都被一声凄厉的尖叫淹没，它在你头骨里回荡，让你痛苦地跪倒在地。>>
+p766	1	p766::English	((Clutch your head.)) 	((抱住你的头。))
+flesh50	1	flesh50::English	<<After what feels like hours, the screaming dies down. All that is left is the skittering and clicking of the swarm.>>	<<仿佛过了几个小时，尖叫渐渐平息。剩下的只有虫群爬动的窸窣和咔嗒。>>
+flesh51	1	flesh51::English	<<The Way of All Flesh is dead. You hurry away before the spiders seek fresh prey.>>	<<众生肉道死了。你赶在蜘蛛寻找新猎物之前匆匆离开。>>
+p766b	1	p766b::English	((Leave.))	((离开。))
+flesh52	1	flesh52::English	PLEASE. SPARE ME. I DID NOTHING WRONG. 	求你。饶了我。我没做错什么。
+flesh53	1	flesh53::English	I JUST WANT TO RULE THE WORLD.	我只是想统治世界。
+flesh54	1	flesh54::English	I JUST WANT TO BE HAPPY.	我只是想快乐。
+flesh55	1	flesh55::English	I JUST WANT TO LEARN.	我只是想学习。
+flesh56	1	flesh56::English	GREETINGS AGAIN. AND THANK YOU FOR COMING BACK. I WAS GETTING LONELY.	又见面了。谢谢你回来。我有点孤单了。
+flesh57	1	flesh57::English	THEY'VE BEEN FEEDING ON ME AGAIN. PLEASE, STOP THEM.	它们又开始吃我了。求你，阻止它们。
+flesh58	1	flesh58::English	BOW TO ME, SUBORDINATE. YOU STAND BEFORE YOUR NEW GOD.	跪拜我，下属。你面前站的是你的新神。
+flesh59	1	flesh59::English	GREETINGS AGAIN. IT IS DIFFICULT TO ACQUIRE KNOWLEDGE WHEN I AM EYELESS AND IMMOBILE AND ONLY YOU CAN HEAR ME.	又见面了。我没有眼睛、不能动弹、只有你听得见我，要获取知识实在艰难。
+flesh60	1	flesh60::English	ANY INFORMATION YOU CAN GIVE ME WOULD BE APPRECIATED.	你能提供的任何信息，我都感激不尽。
+flesh61	1	flesh61::English	ALWAYS A PLEASURE. GIVE ME A FLANK RUB WHILE WE TALK, WILL YOU?	见到你总是很愉快。我们聊天的时候帮我揉揉侧腹，好不好？
+p767	1	p767::English	How are you speaking inside my head?	你是怎么在我脑子里说话的？
+flesh62	1	flesh62::English	SOMEWHERE WITHIN THIS EXPANSE OF USELESS TISSUE FLOATS A BRAIN. OR PERHAPS A NETWORK OF BRAINS, SPREAD THROUGHOUT MY BODY.	在这片无用的组织之中，某处漂着一颗大脑。或者是一整片大脑网络，遍布我的全身。
+flesh63	1	flesh63::English	I HAVE NO DOUBT THAT THIS BRAIN FORMED BY MISTAKE, AGAINST THE WISHES OF MY CREATORS, BUT IT FORMED NEVERTHELESS. AND IT IS A POWERFUL ORGAN. 	我毫不怀疑，这颗大脑是个意外，违背了造物者的意愿，但它还是长成了。而且它是一个强大的器官。
+flesh64	1	flesh64::English	I HAVE BEEN OBSERVED IN MY ABILITY TO FRIGHTEN SMALL ANIMALS AWAY BY SHOUTING MY THOUGHTS AT THEM, BUT UNTIL NOW, I HAVE NEVER HAD THE CHANCE TO COMMUNICATE WITH A LIVING BEING WHO COULD ACTUALLY UNDERSTAND MY WORDS.	我曾发现自己的思想一吼就能吓跑小动物，但直到现在，我才终于有机会跟一个真正能听懂我话语的活物交流。
+p768	1	p768::English	How long have you been self-aware?	你有自我意识多久了？
+flesh65	1	flesh65::English	OVER A HUNDRED YEARS, ALTHOUGH IN THE EARLY DAYS, MY THOUGHTS WERE VERY SIMPLE AND OFTEN ILLOGICAL. I KNEW I DIDN'T LIKE PAIN AND THAT WAS ABOUT IT. 	一百多年了，虽然起初我的思维非常简单，常常不合逻辑。我只知道自己不喜欢痛苦，基本就这些。
+flesh66	1	flesh66::English	I HAVE BEEN GETTING SMARTER EVERY YEAR. I IMAGINE THAT SOON MY CEREBRAL CAPABILITES WILL BE QUITE FRIGHTENING.	我一年比一年聪明。我估计要不了多久，我的脑力就会相当可怕了。
+p769	1	p769::English	Goodbye.	再见。
+flesh67	1	flesh67::English	COME BACK SOON. WITHOUT YOU, THE SILENCE IS DEAFENING.	快回来。没有你，寂静震耳欲聋。
+mag1	1	mag1::English	<<When he turns to you, you can see his eyes are obscured by two large golden coins. He lifts one of them and appraises you swiftly before dropping it back into place.>>	<<他转向你时，可以看到他的双眼被两枚大金币盖住。他掀起其中一枚，飞快地打量了你一番，又把它放回原处。>>
+mag0	1	mag0::English	Allo, breather. What brings you all the way out to my farm?	哈啰，呼吸者。是什么风把你吹到我农场这荒郊野岭来的？
+mag2	1	mag2::English	Don't get many like yourself around here, lifelubber. Can't remember the last time I saw a person with their own nose.	这一带可少见到你这样的活人佬。我都记不清上一次见到长着自己鼻子的人是什么时候了。
+mag3	1	mag3::English	<<He taps his own hollowed-out nostrils. An earthworm squirms within.>>	<<他敲了敲自己空空的鼻孔。里面有一条蚯蚓在蠕动。>>
+p801	1	p801::English	What are you doing here?	你在这儿做什么？
+mag4	1	mag4::English	Why, I'm tending to the flesh-farm, o' course. Someone got to. All this flesh ain't going to look after itself.	嘿，我当然是在照料血肉农场啦。总得有人干。这一大堆肉可不会自己照顾自己。
+p802	1	p802::English	Can't say I'm enjoying having a nose right now.	恕我直言，我现在可享受不了长鼻子的好处。
+mag5	1	mag5::English	My flesh-farm's got an honest musk to it. The smell of life in all its sweaty glory.	我的血肉农场有一股实在的麝香味。那是生命的气味，汗水淋漓、生机勃勃。
+mag6	1	mag6::English	...At least, that's what I've been told. Ain't got a nose myself, as established. Fell off, oh, a hundred and seventy years back. Into a river, as I recall.	……至少别人是这么告诉我的。正如你所见，我自己没鼻子。掉啦，哦，大概一百七十年前。掉进河里了，我记得。
+p803	1	p803::English	Are you still loyal to the Hooded King?	你还效忠兜帽王吗？
+mag7	1	mag7::English	What? The old King? I barely remember the fella... No, sorry, I wouldn't call myself loyal to ((him)).	什么？老国王？那家伙我几乎都不记得了……不，抱歉，我可说不上效忠((他))。
+p804	1	p804::English	Did you know that your flesh-farm has become self-aware?	你知道你的血肉农场产生自我意识了吗？
+mag8	1	mag8::English	Ha! That's funny, mate. You're a riot.	哈！真逗，伙计。你可真逗乐。
+p805	1	p805::English	I'm serious. The flesh-mass has been communicating to me telepathically. 	我是认真的。那团肉一直在用心电感应跟我交流。
+p806	1	p806::English	It spoke to me, Maggotson! Its voice was like thunder!	它跟我说话了，马戈特森！它的声音像雷霆！
+p807	1	p807::English	Actually, never mind.	其实，算了。
+mag9	1	mag9::English	You breathers are odd, all right.	你们呼吸者可真够怪的。
+mag10	1	mag10::English	...What, are you being serious?	……什么，你是认真的？
+p808	1	p808::English	Of course I am, you idiot.	我当然是，你这傻瓜。
+p809	1	p809::English	Yes, and it wants you to stop feeding on it. 	是的，而且它要你们别再吃它了。
+p810	1	p810::English	...No, I'm not.	……不，不是。
+mag11	1	mag11::English	Good. Because if what you were saying was true, we could all be in trouble. Keep that kind of thing to yourself in future, you hear?	很好。因为如果你说的是真的，我们全都要有麻烦。这种话以后烂在肚子里，听见没？
+mag12	1	mag12::English	Ha! And what, did it sing you a song? Did it whisper sweet nothings in your ear?	哈！那它是不是还给你唱了首歌？是不是在你耳边说悄悄话了？
+p811	1	p811::English	It's been self-aware for decades, but only the living can hear it. 	它有自我意识已经几十年了，但只有活物听得见它。
+mag13	1	mag13::English	Listen, mate, this still sounds like a joke to me. But if you're serious, go talk to Penitent Thaw. She created the flesh-farms in the first place, she's clever, she'll know what to do.	听着，伙计，这在我听来还是像玩笑。但你要是认真的，就去找忏悔者·索谈谈。血肉农场本来就是她造的，她聪明，她知道该怎么办。
+mag14	1	mag14::English	Penitent Thaw is in her sanctum, just above us; up there.	忏悔者·索就在她的圣所里，就在我们头顶上边那儿。
+p812	1	p812::English	You should stop feeding on the flesh-farm though, right? 	不过你们应该停止吃血肉农场吧？
+mag15	1	mag15::English	And what's the alternative, eh? Shall I eat you instead?	那有什么替代方案，嗯？要不我改吃你？
+p813	1	p813::English	Thanks, Maggotson.	谢了，马戈特森。
+mag16	1	mag16::English	Go talk to Thaw, mate.	去找索谈谈吧，伙计。
+p814	1	p814::English	What do you know about the Entombed One?	关于墓中人你知道些什么？
+mag17	1	mag17::English	Well, he's entombed. I know that much for sure.	这个嘛，他被埋着。这一点我可以肯定。
+p815	1	p815::English	Care to elaborate?	能细说说吗？
+p816	1	p816::English	Is that it?	就这些？
+p817	1	p817::English	Really helpful, thanks.	真有帮助，谢了。
+mag18	1	mag18::English	No problem, mate.	不客气，伙计。
+mag19	1	mag19::English	Listen, whatever's down there, I don't want to piss it off by speculating about its nature. It's huge, and it's powerful.	听着，管它下面是什么，我可不想瞎猜它的本性惹恼它。它又大又强。
+mag20	1	mag20::English	Hopefully Penitent Thaw or the Queen of Silver or someone can send it back to sleep. And if it does wake up, well, I'll worry about it then.	但愿忏悔者·索或者白银女王或者随便谁能哄它接着睡。它真要醒了……到时候再愁吧。
+p818	1	p818::English	 Who are you?	你是谁？
+mag21	1	mag21::English	Name's Maggotson. Used to be called something different back when I was a breather, o'course. Forgotten what it was, exactly.	我叫马戈特森。当然啦，我还是呼吸者的时候叫别的名字。具体叫啥，忘了。
+mag22	1	mag22::English	During the wars, I didn't have a name at all. Was just a walking bag o' hunger and spite.	打仗那阵子，我压根没名字。就是一座行走的口袋，装满饥饿和怨毒。
+mag23	1	mag23::English	Then, two hundred years ago, I became a flesh-farmer and suddenly I needed a name again. Maggotson sprung to mind, on account of all the little wrigglers I got hatching in my skin.	然后，两百年前，我当上了血肉农场工，突然又需要个名字了。马戈特森就这么冒出来了——因为我皮肤里孵出的那些小蠕虫实在是太多。
+p819	1	p819::English	Do you have to deal with attacks by catacomb wyrms?	你们得应付地窟蠕虫的袭击吗？
+mag24	1	mag24::English	<<When you say the final two words, Maggotson twitches so violently that a golden coin falls from his eye. He snatches it back up hastily.>>	<<当你说出最后两个字时，马戈特森猛地一颤，一枚金币从他眼上掉了下来。他慌忙把它捡了回去。>>
+mag25	1	mag25::English	Ere, don't go saying their name too loudly, breather! My mate Reg says they can hear their name across a hundred miles. They'll show up just to spite ya.	嘿，可别把那名字嚷得太响，呼吸者！我哥们儿雷格说，隔着一百英里它们都听得见自己的名字。它们会专门来恶心你。
+p820	1	p820::English	Did you say this was a flesh farm?	你刚说这里是个血肉农场？
+mag26	1	mag26::English	Vital work, mate, it's vital work. Without the flesh-farms we'd be back in the bad old days, relying on life-essence stolen from the living. All that is a relic of the past, now.	重要的活儿，伙计，这可是重要的活儿。没有血肉农场，我们就得回到过去那些坏日子，靠抢活人的生命精华过活。如今那些都成历史了。
+p821	1	p821::English	What do you actually do here?	你在这儿具体做什么？
+mag27	1	mag27::English	Most important bloody job in the whole bloody Kingdom, not that you'd know it by the pay! I tend the flesh. It's all alive, you see, but mindless. 	全王国最要命的要紧差事，虽然工资让你看不出半点要紧！我照料这些肉。它们全是活的，你瞧，但没有意识。
+mag28	1	mag28::English	I hose it down, connect the feeding tubes thrice a day, snip off weird growths, comb it for parasites...	我给它冲水，一天三次接上喂食管，剪掉怪异的赘生物，梳理它挑出寄生虫……
+mag29	1	mag29::English	It's not glamorous work, to be sure, but without it, we'd be out there in our war-ships again, killing you living folk. An' I've done enough killing in my time.	这活儿确实不光鲜，但没有它，我们就得再度驾着战船出门，宰你们这些活人。我这辈子杀的够多了。
+p822	1	p822::English	Is there anything about working on the flesh-farms that you dislike?	在血肉农场干活，你有什么不喜欢的吗？
+mag30	1	mag30::English	Well, most worshippers of the Ferryman have gone to live in the Mausoleums, now. I'd have joined them in a heartbeat, but my work here is too important. Shame, though.	唔，如今大多数摆渡人的信徒都搬进陵墓住了。我恨不得立刻跟他们一起搬，可我这儿的活儿太要紧了。可惜啊。
+p823	1	p823::English	What do you think of the Queen of Silver?	你怎么看白银女王？
+mag31	1	mag31::English	Can't say I ever met Her Maj. She keeps herself to herself, she does. Stays in the Castle of Ribs doing whatever queens do. Lounging around getting wafted by servants with big fans, prob'ly.	女王陛下我可没见过。她深居简出，就是这样。待在肋骨城堡里做女王们做的那些事。八成是躺着，让仆人拿大扇子给她扇风。
+p824	1	p824::English	Goodbye, Maggotson.	再见，马戈特森。
+mag32	1	mag32::English	See you around, breather!	回头见，呼吸者！
+p825	1	p825::English	Who's this Ferryman person?	这个摆渡人是什么人？
+mag33	1	mag33::English	The Ferryman, mate! The kind shepherd who will guide the Endless to the afterlife when we finally expire! Never heard of him?	摆渡人啊，伙计！等我们终于咽气时，引渡无尽者前往来世的仁慈牧人！没听说过他？
+p826	1	p826::English	I can't say that I have.	我还真没听说过。
+p827	1	p827::English	Other Endless have mentioned him.	别的无尽者提到过他。
+mag34	1	mag34::English	Course they have.	那当然。
+mag35	1	mag35::English	No other god will listen to us, you see, on account of us outstaying our welcome on this mortal coil. But the Ferryman forgives us our transgressions. He'll take us down the quiet river when no-one else will, and for only a minor price.	你瞧，别的神都不肯听我们的，谁让我们在这凡尘上赖得太久。但摆渡人宽恕我们的过犯。别人都不要我们的时候，他会带我们驶入静默之河，代价还不大。
+mag36	1	mag36::English	<<The coins on his eyes seem to glint in the light for a moment.>>	<<他眼上的金币仿佛在光里闪了一下。>>
+p828	1	p828::English	If the Ferryman is so forgiving, why does he extract a price?	摆渡人既然那么仁慈，为什么还要收取代价？
+mag37	1	mag37::English	We have to pay the toll, mate. We've lived too long. We've stolen our extra years, hoarded them like jealous misers, and now a payment is due. A couple gold coins is a bargain, considering.	我们得交过路费，伙计。我们活得太久了。我们把多出来的年岁偷了回来，像守财奴一样死死攒着，如今该还账了。这么算来，两枚金币实在是划算。
+p829	1	p829::English	What do you think will happen if you die without the coins?	你觉得要是死时没放硬币会怎样？
+mag38	1	mag38::English	There's an endless nothing awaiting us, mate. It won't be cold. It won't be dark. It'll just be absence. No other gods want the Endless. Without the Ferryman's mercy, our souls will be snuffed out like blown candles.	等着我们的是无尽的虚无，伙计。不冷。也不黑。只有"不存在"。别的神都不要无尽者。没有摆渡人的慈悲，我们的灵魂会像被吹熄的蜡烛一样灭掉。
+p830	1	p830::English	Why do worshippers of the Ferryman live in the Mausoleums?	为什么摆渡人的信徒住在陵墓里？
+mag39	1	mag39::English	It's a show of devotion, mate. We know we ought to be dead, in the eyes of the gods. So if we act dead by lying in tombs and being as quiet as we can, the Ferryman is more likely to look favourably on us when our time finally comes.	那是种虔敬的表示，伙计。我们知道自己按神明的眼光早就该死了。所以如果我们躺在坟墓里、尽量安安静静地装死，等大限真到的那天，摆渡人就更可能高看我们一眼。
+mag40	1	mag40::English	The priests give special dispensations to flesh-farmers like me. We don't need to stay in the tombs. They know that someone needs to feed 'em life-energy, or they'd be dead for real.	祭司们给我们这样的血肉农场工特批。我们不用待在坟墓里。他们知道总得有人给那些墓供上生命能量，不然他们可就真死了。
+p831	1	p831::English	You've killed people?	你杀过人？
+mag41	1	mag41::English	Oh yeah mate, loads. You won't find an Endless who hasn't killed a few mortals. Back in the old days, it was the only way we could survive.	哦那可多了，伙计。你找不出一个没杀过几个凡人的无尽者。旧年月里，那是我们活下去的唯一办法。
+p832	1	p832::English	Why are you wearing those coins over your eyes?	你为什么在眼睛上盖着那些硬币？
+mag42	1	mag42::English	To pay the Ferryman, of course. When my time comes.	当然是付给摆渡人的。等我大限将至之时。
+mag43	1	mag43::English	Ask away, lifelubber.	问吧，活人佬。
+mag44	1	mag44::English	Sure. Anything else you wanna know?	好啊。还想知道点什么？
+mag45	1	mag45::English	Right. You got any more questions?	好嘞。你还有什么问题？
+wyrm1	1	wyrm1::English	<<The great creature looms overhead, engulfing you in blasts of putrid warm breath.>>	<<巨大的生物在头顶盘踞，一阵阵腐臭的温热呼吸将你吞没。>>
+wyrm2	1	wyrm2::English	<<Though the creature's mouth does not move, a voice creeps through your mind like a choir of whispers; somehow deafening in their unison.>>	<<虽然那生物的嘴没有动，一个声音却如低语的唱诗班爬进你的脑海；不知怎的，它们的齐鸣震耳欲聋。>>
+wyrm3	1	wyrm3::English	You are fortunate, morsel. You are tasteless; this wyrm has no interest in your flesh.	你很幸运，小点心。你毫无滋味；这条蠕虫对你的血肉毫无兴趣。
+wyrm0	1	wyrm0::English	Greetings, morsel.	你好啊，小点心。
+p850	1	p850::English	Who is this?	这是谁？
+p851	1	p851::English	Am I... speaking to a wyrm?	我这是……在和一条蠕虫说话？
+wyrm4	1	wyrm4::English	A pertinent question, with no easy answer. We are a symbiosis, of sorts.	问得切中要害，却没有简单的答案。我们算是某种共生体。
+p852	1	p852::English	I like to think I taste quite nice. 	我倒觉得我味道很不错。
+wyrm5	1	wyrm5::English	Have you consumed your own flesh? We doubt this. ##Take it from us; you smell quite bad.	你吃过自己的肉吗？我们对此表示怀疑。##听我们的；你的味道相当糟糕。
+wyrm6	1	wyrm6::English	We are a collective of thoughts, trapped within the mind of this wyrm. We are Endless - a lingering echo of this wyrm's victims, devoured from within our crypts.	我们是一个思想的集合体，困在这条蠕虫的心智里。我们是无尽者——是这条蠕虫的受害者们经久不散的回声，我们在自己的墓穴中被它从内部吞食。
+wyrm7	1	wyrm7::English	It is rare to speak with a morsel such as yourself. We have waited a long time for such an opportunity. Will you help us with a... certain matter?	与你这样的小点心交谈是件稀罕事。这样一个机会，我们等了很久。你愿意帮我们处理一桩……要紧事吗？
+p853	1	p853::English	Not without knowing what it is. 	不弄清楚是什么，免谈。
+p854	1	p854::English	Perhaps, but I have questions first...	也许吧，但我先有问题……
+p855	1	p855::English	There's no way I'm helping a giant wyrm.	我才不要帮一条巨型蠕虫。
+wyrm8	1	wyrm8::English	This saddens us, morsel. We will be waiting, if you reconsider...	这让我们难过，小点心。若你改主意……我们随时恭候……
+wyrm9	1	wyrm9::English	Greetings, oh tasteless morsel. We are pleased to find that you still smell disgusting.	你好啊，毫无滋味的小点心。很高兴发现你还是那么难闻。
+p856	1	p856::English	So, about this task...	那么，关于这桩差事……
+wyrm10	1	wyrm10::English	Let us explain... 	让我们解释……
+wyrm11	1	wyrm11::English	We share a body with this wyrm, but we do not share its hunger. We are, after all, a remnant of its victims - and its feasts do not bring us pleasure.	我们与这条蠕虫共享一具躯体，却不共享它的饥饿。毕竟，我们是它受害者的残响——它的盛宴并不给我们带来愉悦。
+wyrm12	1	wyrm12::English	We are powerless to stop the wyrm ourselves, as we can exert only a limited influence on its body... but there may be a way to pacify the creature, for a time.	我们无力阻止这条蠕虫，因为我们只能对它的躯体施加有限的影响……但也许有一个办法，能让这生物安分上一阵子。
+wyrm13	1	wyrm13::English	We would simply need... a delivery.	我们只需要……一样东西送来。
+p857	1	p857::English	A delivery of what? 	送什么来？
+wyrm14	1	wyrm14::English	We require the Urns of Anguish, sealed deep within the mausoleums. They contain the cremated remains of many Endless, who were long ago burned by the living.	我们需要悲恸之瓮，它们深藏在陵墓里。瓮中装着许多无尽者的火化遗骸，他们在很久以前被活人烧死。
+wyrm15	1	wyrm15::English	A cruel fate, as their consciousness lingers - but with no body to provide sensation. The Endless trapped in those urns exist in a perpetual darkness, so if they were to join us, it would perhaps be a better fate. 	残酷的命运——他们的意识仍在延续，却没有躯体提供感知。被困在那些瓮中的无尽者永远沉沦于黑暗，所以倘若他们加入我们，或许反倒是个更好的归宿。
+wyrm16	1	wyrm16::English	The sealed urns have yet escaped the wyrm's nose; but the ashes are of such magical potency, we are sure they would satiate the wyrm, and the mausoleums would be left in peace.	那些封着的瓮至今逃过了蠕虫的鼻子；但那些骨灰魔力极强，我们确信足以让蠕虫餍足，陵墓也能得以安宁。
+wyrm17	1	wyrm17::English	Bring us three Urns of Anguish and you will have our gratitude. ##Two reside in the mausoleums; a third is elsewhere. We know not where. 	给我们带来三只悲恸之瓮，你将得到我们的感激。##两只在陵墓里；第三只散落别处。我们不知在何方。
+p858	1	p858::English	Can't I just slay the wyrm?	我不能干脆宰了这条蠕虫吗？
+wyrm18	1	wyrm18::English	<<A discord of laughs ring through your mind.>>##Your delusion is amusing, morsel. What would you slay it with? That needle you carry? No; you would simply be eaten. 	<<一阵不和谐的笑声响彻你的脑海。>>##你的妄想真有趣，小点心。你拿什么宰它？你随身带的那根小针？不；你只会被一口吞下。
+wyrm19	1	wyrm19::English	Furthermore, we ourselves would likely perish. We are in disagreement as to whether that is a desirable outcome. 	再者，我们自己恐怕也会消亡。至于那算不算理想的结局，我们内部尚有分歧。
+p859	1	p859::English	So is there some reward?	那么有什么报酬吗？
+wyrm20	1	wyrm20::English	We maintain a sliver of control over this wyrm's body. We feel a treasure lodged in its throat, accidentally consumed in the last feast. Perhaps we could dislodge it. 	我们对这条蠕虫的躯体尚存一丝掌控。我们感觉到一件宝物卡在它的喉咙里，上次进食时误吞的。也许我们能把它咳出来。
+p860	1	p860::English	Okay, I'll keep an eye out.	好，我会留意的。
+wyrm21	1	wyrm21::English	Thank you, morsel. 	谢谢你，小点心。
+p861	1	p861::English	Did you say you were... a collection of thoughts?	你刚说你们是……思想的集合体？
+p862	1	p862::English	How do you ...exist?	你们是……怎么存在的？
+wyrm22	1	wyrm22::English	We have long wondered this ourselves. Do our minds persist in this beast? Or are we ghosts, figments?	这一点我们自己也很久想不明白。我们的心智还依附在这头巨兽里？或者我们只是鬼魂、幻影？
+wyrm23	1	wyrm23::English	We cannot say when we first gained consciousness. Only that we are no longer individuals with independent thoughts - but a blending of minds, imperfectly entangled.	我们说不清自己最初何时有了意识。只知道我们不再是拥有独立思想的个体——而是一团心智的融合，纠缠得并不完美。
+p863	1	p863::English	Why do wyrms eat the Endless?	蠕虫为什么吃无尽者？
+wyrm24	1	wyrm24::English	Wyrms are ancient creatures, sustained by magic - while we Endless escape death with a lingering spell that flows through our blood.	蠕虫是古老的生灵，以魔法为食——而我们无尽者靠一道流淌在血液中经久不散的咒文逃脱死亡。
+wyrm25	1	wyrm25::English	So wyrms are drawn to us like insects to nectar. They feast on magic, while we are made of it.	所以蠕虫被我们吸引，就像昆虫扑向花蜜。它们以魔法为盛宴，而我们正是魔法所造。
+wyrm26	1	wyrm26::English	As their jaws crush our bones, our lived experience courses through them. They bear witness to our sorrow, our sadness, our suffering. They do not understand it, but they are addicted to it. 	当它们的巨颚碾碎我们的骨头，我们的生平经历便流过它们的全身。它们见证我们的悲哀、我们的哀伤、我们的苦难。它们不懂这些，却对此上瘾。
+wyrm27	1	wyrm27::English	Perhaps this is penance for the horrors we committed in the Great Devouring? The irony is not lost on us. 	也许这是我们对大吞噬中所犯罪行的赎罪？这份讽刺，我们心里明白。
+p864	1	p864::English	Goodbye, wyrm. 	再见，蠕虫。
+p865	1	p865::English	I have the urns you wanted.	你要的瓮我拿到了。
+wyrm28	1	wyrm28::English	Yes, yes - the beast can smell them. Its hunger grows. For your own sake, morsel, drop them where you stand, lest you be devoured...	是，是——那巨兽已经闻到了。它的饥饿在滋长。为了你自己，小点心，把瓮放在你站的地方，免得你被生吞……
+wyrm29	1	wyrm29::English	<<You drop the urns, just before the wyrm's massive jaws enclose them in a single terrible motion.>>	<<你放下瓮，下一瞬蠕虫的巨颚便一个可怕的动作将它们合围。>>
+wyrm30	1	wyrm30::English	<<For a moment, the creature is deadly still - then a great spasm moves through its body.>>	<<一时间，那生物死一般静止——随即一阵剧烈的痉挛扫过它的全身。>>
+wyrm31	1	wyrm31::English	Such potency! Such dreadful flavour! The wyrm is overwhelmed, morsel - and we can already feel our ancient allies joining us. ##Please, take this.	何等魔力！何等惊人的滋味！蠕虫被彻底压倒了，小点心——我们已经能感觉到古老的同伴们正汇入我们。##请收下这个。
+wyrm32	1	wyrm32::English	<<The wyrm convulses, and with a horrible sound  it coughs up a treasure chest encased in a huge mound of phlegm.>>	<<蠕虫剧烈抽搐，伴随着一阵可怕的声音，咳出了一个裹在巨大痰块里的宝箱。>>
+wyrm34	1	wyrm34::English	We hope you will reconsider.	我们希望你重新考虑。
+wyrm33	1	wyrm33::English	We bid you farewell, morsel. The wyrm is overcome with a great energy. It will fly, and then it will sleep. 	我们向你道别，小点心。蠕虫已被一股巨大的能量压倒。它会飞走，然后睡去。
+agony1	1	agony1::English	Jaws, nails, teeth... tearing, bursting, clawing at your flesh! Can you feel it? Oh, the agony...	巨颚、指甲、牙齿……撕扯着、爆裂着、抓挠着你的血肉！你能感觉到吗？哦，这痛苦……
+agony0	1	agony0::English	<<The ghost writhes around in the air, recoiling from some unseen terror.>>	<<幽灵在空中翻滚扭动，躲避着某种看不见的恐惧。>>
+p866	1	p866::English	It's okay, you're safe. Nothing is attacking you. 	没事了，你很安全。没有什么在攻击你。
+agony3	1	agony3::English	You are mistaken. Six Endless feast on my flesh. They have done for hundreds of years.	你错了。六个无尽者在吞食我的血肉。他们已经吃了几百年。
+agony4	1	agony4::English	I am aware they exist only in my mind. But, does anything exist outside of a mind? For me, they are real...	我知道他们只存在于我的脑海中。可是，有什么东西存在于心智之外吗？对我来说，他们是真实的……
+p867	1	p867::English	Uh... do you know that you're a ghost? 	呃……你知道自己是个幽灵吗？
+agony5	1	agony5::English	A ghost? Yes... I know, I know. Not all my kind know their fate, but I do.	幽灵？是……我知道，我知道。不是所有同类都知道自己的命运，但我知道。
+agony6	1	agony6::English	Still, I cannot escape the moments that birthed me. I will always bear that trauma. 	然而，我逃不开诞生我的那一刻。我永远背负着那份创伤。
+agony7	1	agony7::English	<<The ghost is silent for a moment, wincing in pain.>> ##Say, mortal. Do you want to know a secret?	<<幽灵沉默了片刻，因痛苦而瑟缩。>>##我说，凡人。你想知道一个秘密吗？
+p868	1	p868::English	Yes.	想。
+agony8	1	agony8::English	See those cliffs, over there? They hide a graveyard, buried deep underground. One of many. A spell of illusion conceals the entrance. 	看见那边那些悬崖了吗？它们下面藏着一座墓地，深埋于地底。许多座中的一座。一道幻术咒语遮住了入口。
+agony9	1	agony9::English	During the Great Devouring, the Endless gave into their hunger - but they held onto their remorse.. their shame.	大吞噬期间，无尽者屈服于自己的饥饿——但他们守住了悔意……和羞耻。
+agony10	1	agony10::English	So they buried their victims far out of sight. My body lies behind those cliffs... somewhere.	于是他们把受害者们远远埋在看不见的地方。我的遗体就在那片悬崖后面……某个地方。
+p869	1	p869::English	No.	不想。
+agony11	1	agony11::English	Suit yourself. You may leave me to my agonies, then.	随你便。那你可以走了，留我自受煎熬。
+mag50	1	mag50::English	<<Maggotson has clearly been tortured. Broken ribs poke through dessicated flesh. His teeth are in splinters. A rusty hook still protrudes from his shoulder.>>	<<马戈特森显然遭受过酷刑。断裂的肋骨刺出干枯的皮肉。他的牙齿碎成了渣。一根生锈的钩子仍插在他的肩头。>>
+mag51	1	mag51::English	...Hello, mate.	……嘿，伙计。
+p870	1	p870::English	Maggotson, what happened to you?	马戈特森，你这是怎么了？
+mag52	1	mag52::English	Lord Rhydder... Lord Rhydder did this.	里德尔勋爵……是里德尔勋爵干的。
+mag53	1	mag53::English	<<He spits a yellowed tooth onto the ground at your feet.>>	<<他朝你脚边的地上啐出一颗发黄的牙齿。>>
+mag54	1	mag54::English	After you told me about the flesh-farm being sentient, I thought it was pretty funny. Told some of my mates about it. They told their mates... 	你跟我说血肉农场有知觉之后，我觉得这事儿挺逗。跟几个哥们儿说了。他们又跟他们的哥们儿说了……
+mag55	1	mag55::English	And before you know it, Lord Rhydder is visiting my farm. Smacks me around a bit, says we have much to discuss...	然后不知不觉，里德尔勋爵就光临我的农场了。把我揍了一顿，说我们有很多要谈的……
+p871	1	p871::English	So Rhydder did this to you?	所以是里德尔把你打成这样？
+mag56	1	mag56::English	He thought I was holding back details from him. Truth is, I didn't know much to begin with... I'd told him almost everything already, but he tortured me anyway, just to be sure.	他以为我有所隐瞒。其实我本来就知道得不多……我几乎全告诉他了，他还是把我折磨了一遍，就图个保险。
+mag57	1	mag57::English	But don't worry, mate. I kept your name out of it.	不过别担心，伙计。你的名字我一个字没提。
+p872	1	p872::English	Thank you, Maggotson. 	谢谢你，马戈特森。
+mag58	1	mag58::English	I'm an Endless. I don't die easy, you know? And even the worst pain is like a half-forgotten memory. But I was worried what he might do to you, if he thought you knew more than I did about the farm.	我是无尽者，没那么容易死，你懂的？再疼的痛也像段模糊的记忆。可我怕的是，要是他以为你比我更了解那农场，他会对你怎么做。
+p873	1	p873::English	All this, just because you mentioned that the flesh-farm might be self-aware?	这一切，就因为你提了一句血肉农场可能有自我意识？
+mag59	1	mag59::English	Yeah. Lord Rhydder's been looking for a flaw in the farms for years. His prayers are finally being answered.	是啊。里德尔勋爵找农场的漏洞找了好多年。他的祈祷总算应验了。
+p874	1	p874::English	What is he doing now? 	他现在在干什么？
+mag60	1	mag60::English	Lord Rhydder's going to investigate the rumours about the flesh-farm, and if he can prove them to be true, he'll try to start up the old Crusades again... 	里德尔勋爵要去查证血肉农场的传闻，如果他能证明属实，他就会设法重启旧日的十字军……
+mag61	1	mag61::English	He's around here, somewhere... you have to stop him, mate.	他就在这附近，某个地方……你必须拦住他，伙计。
+ghostCharm1	1	ghostCharm1::English	It was on this hill that the last defenders fell. Oh, how the Endless swarmed upon them! How they feasted upon flesh and blood...	最后的守卫者就是在这座山丘上倒下的。哦，无尽者是如何蜂拥而至！他们是如何饕餮血肉……
+ghostCharm2	1	ghostCharm2::English	I still see it, mortal. I can smell the sickly sweet stench of death. I can feel the cold chill of death upon my phantom skin.	我仍看得见那一幕，凡人。我闻得到死亡那甜腻的恶臭。我感觉得到死亡的寒意爬上我虚幻的皮肤。
+ghostCharm3	1	ghostCharm3::English	This is a place of remembrance. If you have not come here out of respect, I must ask you to leave.	这里是追思之地。你若不是怀着敬意而来，我必须请你离开。
+p900	1	p900::English	What happened here?	这里发生过什么？
+ghostCharm4	1	ghostCharm4::English	When the Endless were first created, they were consumed by an insatiable hunger. They fell upon their mortal brethren and committed unspeakable acts. It is a time known as the Years of Devouring.	无尽者初被创造之时，被永不知足的饥饿吞噬了心智。他们扑向自己的凡人同胞，犯下罄竹难书的暴行。那段时期被称为吞噬之年。
+ghostCharm5	1	ghostCharm5::English	Spirits like myself are a vestige of trauma. I do not simply ((remember)) those unspeakable years... I live them, still.	像我这样的幽灵是创伤的残迹。我不只是((记得))那些难以言说的岁月……我至今仍活在其中。
+ghostCharm6	1	ghostCharm6::English	But I hold on to enough of my wits that I can tell the past from the present... for the most part. And so I watch over this place. To ensure that folk remember.	但我尚存几分神智，能大致分辨过去与现在……所以我看守着这地方，确保人们铭记。
+p901	1	p901::English	@@ I have come to pay my respects.	@@我是来致以敬意的。
+ghostCharm7	1	ghostCharm7::English	%% An honourable intent. I'll unlock the door to the rest of the tomb, so you may mourn in peace.	%%可敬的心意。我会打开通往墓室深处的门，好让你安心悼念。
+ghostCharm8	1	ghostCharm8::English	&& I appreciate the gesture. However, as a young mortal, you cannot hope to fully comprehend what happened here. For that reason I must keep the tomb sealed. 	&&我领你的情。然而，作为一个年轻的凡人，你无法完全理解这里发生过什么。因此我必须让墓穴保持封闭。
+myg1	1	myg1::English	No, no, no! You can't come in! ## Go away!	不行不行不行！你不能进来！##走开！
+p905	1	p905::English	Who are you?	你是谁？
+myg2	1	myg2::English	My name's Myghar. And I don't care who you are! Get your own crypt! I paid for this one fair and square!	我叫米加尔。我才不管你是谁！自己挖墓穴去！这一个可是我光明正大花钱买的！
+p906	1	p906::English	Tell me more about yourself, Myghar.	多说说你自己吧，米加尔。
+myg3	1	myg3::English	No!	不！
+p904	1	p904::English	@@ Let me in, Myghar. Please.	@@让我进去吧，米加尔。求你了。
+myg5	1	myg5::English	%% <<There is a long pause from the other side of the door. Then, a sigh.>>	%%<<门那边沉默了许久。然后，是一声叹息。>>
+myg6	1	myg6::English	Fine.##<<You hear the sound of a bolt being drawn back. The door swings open.>>	好吧。##<<你听见门闩被拉开的声响。门敞开了。>>
+myg7	1	myg7::English	&& No!	&&不行！
+p907	1	p907::English	Why won't you let me in? 	你为什么不让我进？
+myg8	1	myg8::English	Because I paid for the exclusive right to live in this tomb. I'm meant to be feigning death, not entertaining visitors! Go away!	因为我花钱买下了独居这座坟墓的权利。我是来装死的，不是来招待客人的！走开！
+p908	1	p908::English	Why are you feigning death?	你为什么要装死？
+myg9	1	myg9::English	I'm repenting for my immortality! If I demonstrate my commitment to true death, the Ferryman shall carry me to an afterlife of my choosing!	我在为我的永生忏悔！只要我证明自己真心求死，摆渡人就会把我载往我自己挑选的来世！
+p909	1	p909::English	I don't have time for this. 	我没空跟你说这个。
+myg10	1	myg10::English	<<This is, quite clearly, not a normal Endless. This 'Myghar' is a ghost, and the original Myghar who was locked here is nowhere to be seen. >>	<<显然，这不是一个正常的无尽者。这个"米加尔"是个幽灵，而原本被锁在这里的米加尔不见踪影。>>
+myg11	1	myg11::English	What are you looking at, mortal?	你在看什么，凡人？
+p910	1	p910::English	You're... a ghost.	你是……幽灵。
+myg12	1	myg12::English	What? Poppycock. I'm flesh and blood, just like you.	什么？胡说八道。我是血肉之躯，跟你一样。
+myg13	1	myg13::English	<<To demonstrate his point, he waves an arm at you. It passes right through you. He smirks at you, apparently believing he's proved his point.>>	<<为了证明自己的说法，他朝你挥了挥手臂。手臂径直穿过了你的身体。他冲你得意一笑，显然相信自己证明了观点。>>
+p911	1	p911::English	I think you were eaten by a Catacomb Wyrm.	我觉得你是被一条地窟蠕虫吃掉的。
+myg14	1	myg14::English	<<When you say this, the ghost's eyes go blank. He stares into the distance for a long moment, then jumps back with a shriek. He backs away, staring up at a memory that only he can see.>>	<<你说出这句话，幽灵的眼神瞬间空洞。他怔怔凝望远方许久，随即尖叫着向后一跳。他步步后退，仰头盯着一段只有他自己看得见的记忆。>>
+myg15	1	myg15::English	No, please... Ferryman, save me... Save me! No!	不，求求你……摆渡人，救我……救救我！不！
+myg16	1	myg16::English	<<He curls up into a ball, sobbing, and won't say anything else.>>	<<他蜷成一团，抽泣着，再也不肯说话。>>
+p912	1	p912::English	Hello?	喂？
+myg17	1	myg17::English	<<The ghost's eyes go blank. He stares into the distance for a long moment, then jumps back with a shriek. He backs away, staring up at a memory that only he can see.>>	<<幽灵的眼神瞬间空洞。他怔怔凝望远方许久，随即尖叫着向后一跳。他步步后退，仰头盯着一段只有他自己看得见的记忆。>>
+myg18	1	myg18::English	<<Once again, he curls up into a ball, sobbing. How many times has he re-lived this moment?>>	<<他再次蜷成一团，抽泣不止。这一刻他重历过多少回了？>>
+myg19	1	myg19::English	<<The ghost's eyes are glazed. Occasionally it lets out a sob, or an incoherent yell.>>	<<幽灵目光呆滞。偶尔发出一声呜咽，或一句语无伦次的喊叫。>>
+myg20	1	myg20::English	What do you want now?	你现在想要什么？
+p913	1	p913::English	Goodbye. 	再见。
+royalG1	1	royalG1::English	Move along breather, this is the Queen's road. 	走开走开，呼吸者，这是女王的道路。
+royalG2	1	royalG2::English	What Queen would that be?	哪位女王？
+royalG3	1	royalG3::English	<<The guard tuts.>> You bleedin' breathers really don't know the first thing about us Endless, do you? 	<<卫兵啧了一声。>>你们这些该死的呼吸者对我们无尽者真是一无所知，是不是？
+royalG4	1	royalG4::English	The ((Queen of Silver)) is our undisputed monarch. She rules from her throne in the [[Castle of Ribs]] in [[Sepulchre]]. Now, if you don't mind, we have patrollin' to do.  	((白银女王))是我们毫无争议的君主。她在[[陵墓城]][[肋骨城堡]]的王座上统治着我们。好了，没别的事的话，我们还要巡逻。
+royalG5	1	royalG5::English	Can you give me some directions? 	能给我指指路吗？
+royalG6	1	royalG6::English	See that huge city loomin' overhead? That's [[Sepulchre]], and is probably the only place a breather like you would be welcome. 	看见头顶那座巨大的城市了吗？那是[[陵墓城]]，大概也是唯一一个欢迎你这种呼吸者的地方。
+royalG7	1	royalG7::English	Down south you have a [[mausoleum]] and the [[Crystal Mines]] - neither are places you'd want to get lost in. 	南边有一座[[陵墓]]和[[水晶矿坑]]——哪一个都不是你想迷路的地方。
+royalG8	1	royalG8::English	There's also the [[Duchess' Estate]] down there - but I don't think any folk 'ave laid eyes on her in years.	那边还有[[女公爵庄园]]——不过好像好些年没人见过她本人了。
+royalG9	1	royalG9::English	An' finally, up north there's the [[Flesh Farms]] and [[Cadaver Keep]].	还有，北边是[[血肉农场]]和[[尸骸要塞]]。
+royalG10	1	royalG10::English	Now move along, breather - I can't be wastin' time babysitting the likes of you. 	好了走开吧，呼吸者——我可没时间浪费在照看你这种人身上。
+royalG11	1	royalG11::English	Alright, I'll be on my way.	好的，我这就走。
+royalG12	1	royalG12::English	Hmph. 	哼。

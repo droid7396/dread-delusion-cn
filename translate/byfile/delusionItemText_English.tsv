@@ -1,0 +1,649 @@
+ID	Col	CellKey	English	Chinese
+unknown	1	unknown::1: Poor Name	Unknown Item	未知物品
+unknown	2	unknown::2: Poor Description	This item is unknown. Who knows what you could get?	这件物品不明。天知道你能开出什么？
+noItems	1	noItems::1: Poor Name	No Items	无物品
+noItems	2	noItems::2: Poor Description	There are no relevant items.	没有相关物品。
+lockpick	1	lockpick::1: Poor Name	Lockpick	开锁器
+lockpick	2	lockpick::2: Poor Description	A tool for picking locks. Will break if a lockpick attempt fails.	撬锁的工具。开锁失败时会折断。
+ammo	1	ammo::1: Poor Name	Ammunition	弹药
+ammo	2	ammo::2: Poor Description	An assortment of ammunition for ranged weapons. Required to fire bows and the like.	远程武器的各式弹药。射箭等需要用到。
+ore	1	ore::1: Poor Name	Iron Ore	铁矿
+ore	2	ore::2: Poor Description	A decent quality ore that can be used to upgrade rusty weapons. #Most of the Isles' mines were abandoned after the God War, but the ore remains there for the taking.	品质尚可的矿石，可用于升级锈蚀武器。#神之战后，群岛的大多数矿坑都被废弃，但矿石仍在那里等着人去采。
+ore	3	ore::3: Common Name	Fine Ore	精矿
+ore	4	ore::4: Common Description	A dazzling ore of perfect quality that can be used to upgrade steel weapons. #Found especially in the mines of the Endless, this ore sparkles with veins of a curious crystal.	品质完美、令人目眩的矿石，可用于升级钢制武器。#尤其常见于无尽者的矿坑，矿石闪烁着奇异水晶的脉络。
+ore	5	ore::5: Fine Name	Emberian Ore	余烬矿
+ore	6	ore::6: Fine Description	An incredibly rare metal, often found in Emberian ruins. #The Emberians, through some long-lost process, fabricated metals far stronger than any naturally occurring ore.	极其罕见的金属，常见于余烬遗迹。#余烬人凭借某种早已失传的工艺，制造出远比任何天然矿石强韧的金属。
+ore	7	ore::7: Shroom Name	Shroomweave Ore	菌织矿
+ore	8	ore::8: Shroom Description	A shimmering stone sprouting with fungi. Will upgrade an Emberian weapon to shroomweave.	一块长出真菌的微光矿石。可将余烬武器升级为菌织。
+ore	9	ore::9: Clockwork Name	Clockwork Ore	发条矿
+ore	10	ore::10: Clockwork Description	An amalgam of clockwork machinery, this strange stuff can be used to upgrade an Emberian weapon to clockwork. #It ticks and whirrs in your hands, a mechanism in search of its machine.	一团发条机械的混合物，这种奇怪的东西可将余烬武器升级为发条。#它在手中滴答作响、嗡嗡转动，一台正在寻找宿主机器的机构。
+ore	11	ore::11: Void Name	Void Ore	虚空矿
+ore	12	ore::12: Void Description	This unsettling stone will upgrade an Emberian weapon to Voidsteel. #Its surface is blacker than black, seeming to absorb all light. It was voidsteel that made the God War possible (and, arguably, inevitable).	这块令人不安的石头可将余烬武器升级为虚空钢。#它的表面黑得比黑更黑，仿佛吸尽一切光线。正是虚空钢让神之战成为可能（也可以说，成为必然）。
+thread	1	thread::1: Poor Name	Silk Thread	丝线
+thread	2	thread::2: Poor Description	A sturdy silk produced by the ubiquitous silkslug. Can be used to upgrade a variety of clothing. #Despite being soft to the touch, the thread is remarkably durable.	无处不在的丝蛞蝓产出的坚韧蚕丝。可用于升级多种衣物。#虽然摸上去柔软，这丝线却异常耐用。
+thread	3	thread::3: Common Name	Glorious Silk	华丽丝绸
+thread	4	thread::4: Common Description	A magnificent silk produced by the bosilwok worm, the silkslug's larger and uglier cousin. Can be used to upgrade a variety of clothing.#Despite being soft to the touch, the thread is remarkably durable.	由博西沃克虫——丝蛞蝓更大更丑的表亲——产出的华丽丝绸。可用于升级多种衣物。#虽然摸上去柔软，这丝线却异常耐用。
+aqua	1	aqua::1: Poor Name	Weak Spirit	稀薄酒精
+aqua	2	aqua::2: Poor Description	The remnants of a failed alchemy experiment. #Although useless by itself, a remnant of magical potential still lingers in the liquid, giving it some utility in crude transmutations - and the brewing of cheap booze.	一次失败炼金实验的残余物。#虽然本身没什么用，液体中仍残留着一点魔力潜能，在粗糙的嬗变实验和廉价烈酒的酿造中勉强派得上用场。
+aqua	3	aqua::3: Common Name	Strong Spirit	浓烈酒精
+aqua	4	aqua::4: Common Description	The remnants of an alchemy experiment. #Though useless by itself, this is a spirit of reasonable quality that could be used in transmutations, or to magically accelerate the fermentation of alcohol.	一次炼金实验的残余物。#虽然本身没什么用，这种酒精品质尚可，可用于嬗变实验，或用魔法加速酒的发酵。
+aqua	5	aqua::5: Fine Name	Exceptional Spirit	极纯酒精
+aqua	6	aqua::6: Fine Description	A liquid shining with alchemical potential. #A substance of this quality could produce spectacular results, if it were used in the right manner. 	一泓闪耀着炼金潜能的液体。#这种品质的物质，若运用得当，能产生惊人的效果。
+herbRed	1	herbRed::1: Poor Name	Eye of Paeguth	帕古斯之眼
+herbRed	2	herbRed::2: Poor Description	A flower shaped oddly like an eyeball. Can be used as an alchemy ingredient. #Named after the legendary god Paeguth, this herb is well known for its healing properties and is used in medicine across the Apostatic Union. 	一朵形状古怪、酷似眼球的花。可作炼金材料。#以传奇神明帕古斯命名，这种草药以疗伤功效闻名，在叛教联盟各地都被用于制药。
+herbBlue	1	herbBlue::1: Poor Name	Paradoxicus	悖论花
+herbBlue	2	herbBlue::2: Poor Description	An impossible flower that seems to shift between different shapes. Can be used as an alchemy ingredient. #This herb seems to defy the very principles of reality, often appearing differently depending on how it is observed.	一朵不可能存在的花，似乎在不同的形状间变换。可作炼金材料。#这种草药仿佛在违抗现实的法则，观察方式不同，它呈现的样子便不同。
+herbYellow	1	herbYellow::1: Poor Name	Jitterseed	颤籽
+herbYellow	2	herbYellow::2: Poor Description	A potent seed that vibrates in one's hand. Can be used as an alchemy ingredient. #The volatile nature of this herb makes it ideal for restorative potions and poisons alike, and so is prized in the criminal gangs of Slev. 	一种在掌中震颤的强烈药籽。可作炼金材料。#这种草药的暴烈性情让它既适合调制药剂，也适合配制成毒药，因此在斯列夫的犯罪团伙中备受珍视。
+herbShroom	1	herbShroom::1: Poor Name	Death's Veil	死亡之幕
+herbShroom	2	herbShroom::2: Poor Description	A legendary mushroom with potent alchemical potential. #If a traveller becomes cursed in the underlands, their corpse may become host to this fungi. It is said the properties of this herb can change, based on the personality of the deceased host. 	一种具有强大炼金潜能的传奇蘑菇。#若有旅人在地下之地诅咒缠身，其尸体可能会成为这种真菌的宿主。据说这种草药的药性会随死者生前的性格而变化。
+treasure	1	treasure::1: Poor Name	Modest Treasure	简朴宝藏
+treasure	2	treasure::2: Poor Description	Trinkets from a bygone age. #Could perhaps fetch a pretty penny, if sold to those with a nostalgic cast of mind.	逝去年代的小玩意儿。#若卖给怀旧之人，说不定能卖个好价钱。
+treasure	3	treasure::3: Common Name	Remarkable Treasure	出众宝藏
+treasure	4	treasure::4: Common Description	A treasure of unmistakable value, apparently wrought into the form of a silkslug. #Could make its owner a considerable sum.	价值显而易见的宝物，被铸成了丝蛞蝓的模样。#能为主人换回一大笔钱。
+treasure	5	treasure::5: Fine Name	Glorious Treasure	华美宝藏
+treasure	6	treasure::6: Fine Description	A sublime antique that would make any collector perspire at the sight of it. #Could be sold for a small fortune.	一件绝世古董，任何收藏家见了都会激动得冒汗。#能卖出一大笔钱。
+beer	1	beer::1: Poor Name	Beer	啤酒
+beer	2	beer::2: Poor Description	A mug-full of frothy beer. #Beer is cheap in the skylands. Mostly derived from fermented mushroom pulp, it's exported to the far corners of the Apostatic Union.	一大杯泛着泡沫的啤酒。#天空诸陆上啤酒很便宜。它多以发酵的蘑菇浆酿成，出口到叛教联盟的天涯海角。
+scryshroomTea	1	scryshroomTea::1: Poor Name	Scryshroom Tea	窥菇茶
+scryshroomTea	2	scryshroomTea::2: Poor Description	A mug of scryshroom tea, the curls of steam rising from it twisting into strange and suggestive patterns. #Drinking this tea, brewed from scryshrooms, boosts your Lore for a time; granting glimpses of knowledge and sudden insights. 	一杯窥菇茶，升起的热气打着卷，扭出古怪而意味深长的图案。#喝下这杯用窥菇冲泡的茶，可在短时间内提升博识；让你窥见知识的一角，涌现灵光乍现的顿悟。
+cwkTea	1	cwkTea::1: Poor Name	Clockwork Tea	发条茶
+cwkTea	2	cwkTea::2: Poor Description	This tea is brewed to the tastes of the Clockwork Kingdom's denizens: stewed until it's the exact colour of rust and laced with just a dash of bottled visions. #Drunk hot, it loosens the tongue, frees the mind, and raises Charm for a little while.	这茶是照发条王国居民的口味冲泡的：熬到颜色与铁锈分毫不差，再掺上一小勺瓶装幻象。#趁热喝下，它能松开你的舌头、放飞你的心智，并在短时间内提升魅惑。
+wine	1	wine::1: Poor Name	Foul Booze	劣质浊酒
+wine	2	wine::2: Poor Description	A disgusting wine of terrible quality. #Though you would have thought few would drink such stuff, the tangled alleys of Riova are proof to the contrary. When that flying city sways, a dozen drunks empty their stomachs.	一杯令人作呕、品质低劣的酒。#你本以为没几个人会喝这种东西，但里奥瓦纵横交错的窄巷便是反证。每当那座飞城摇晃起来，十几名醉汉便一齐吐了个精光。
+wine	3	wine::3: Common Name	Herb Wine	草药酒
+wine	4	wine::4: Common Description	A wine made from fermented herbs. #What with the Apostatic Union's insatiable thirst for the stuff - and the limited farmland available in the skyrealms - most alcohol is fermented through alchemical means.	一种用发酵草药酿成的酒。#叛教联盟对酒的需求永不餍足，而天空领域的农田又有限——因此大多数酒都是用炼金手段发酵的。
+wine	5	wine::5: Fine Name	Fine Wine	精良美酒
+wine	6	wine::6: Fine Description	A superb wine of unparalleled quality. #A drink such as this would be prized in the glittering sky-halls of Riova. It should fetch a pretty penny on the marketplace.	一等一的品质，无与伦比的美酒。#这样的佳酿在里奥瓦金碧辉煌的天上大厅里也会被奉为珍品。在市场上应该能卖个好价钱。
+wine	7	wine::7: Shroom Name	Shroom Wine	菇酒
+wine	8	wine::8: Shroom Description	A wine fermented from fungal spores. Very Valuable. # Said to be prized by Paeguth cultists for its strange qualities, while many Union territories have banned its sale. 	一种用真菌孢子发酵的酒。价值不菲。#据说因其奇异的品质而深受帕古斯邪教徒青睐，许多联盟领地已禁止售卖。
+wine	9	wine::9: Clockwork Name	Magic Wine	魔法酒
+wine	10	wine::10: Clockwork Description	A wine imbued with magical potency. Quite valuable. # The intoxication of this drink is notoriously unpredictable; some people have been known to teleport when they hiccup.	一种灌注了魔力的酒。相当值钱。#这酒的醉意出了名的难以预料；据传有人打了个嗝就把自己传送走了。
+wine	11	wine::11: Void Name	Ghost Wine	幽魂酒
+wine	12	wine::12: Void Description	An ethereal wine with the quality of mist. Very valuable. # Has little effect on the living, but can make spirits and the undead rather drunk. 	一种雾气般的虚体之酒。非常值钱。#对活人没什么效果，却能把幽灵和亡灵灌得烂醉。
+potionHealth	1	potionHealth::1: Poor Name	Health Potion	生命药水
+potionHealth	2	potionHealth::2: Poor Description	Restores your health. # This potion is brewed from the Eye of Paeguth herb and hastens the body's restorative functions. It is prescribed by most doctors; one of their few treatments that does more good than harm. 	恢复你的生命值。#这种药水以帕古斯之眼草药酿成，能加速身体的自我修复。大多数医生都会开它——这可是他们少数利大于弊的处方。
+potionMana	1	potionMana::1: Poor Name	Mana Potion	法力药水
+potionMana	2	potionMana::2: Poor Description	Revitalises Mana. # Created from the Paradoxicus herb, this potion stimulates the mind and increases the user's magical potency. It has become quite a habit for many university scholars. 	恢复法力值。#这种药水以悖论花制成，能激发心智、提升使用者的魔力。许多大学学者已然离它不可。
+potionStamina	1	potionStamina::1: Poor Name	Stamina Potion	体力药水
+potionStamina	2	potionStamina::2: Poor Description	Restores Stamina and a portion of Stamina Threshold. # Derived from the Jitterseed, this potion imbues the user with an unnatural energy. 	恢复体力及部分体力上限。#这种药水从颤籽提炼而来，能为使用者注入一股超自然的精力。
+potionTruth	1	potionTruth::1: Poor Name	Truth Potion	真言药水
+potionTruth	2	potionTruth::2: Poor Description	Dispels illusions and reveals the truth of things. # The Union has banned the use of this potion, for it interferes with many of their officially sanctioned spells. 	驱散幻象，揭示事物真相。#联盟已禁用这种药水，因为它会干扰许多官方认可的法术。
+potionPoison	1	potionPoison::1: Poor Name	Poison	毒药
+potionPoison	2	potionPoison::2: Poor Description	A deadly poison that can be applied to weapons. #After coating your equipment with this noxious substance, all attacks will poison enemies for a limited time.	一种可涂抹于武器的致命毒药。#给装备涂上这种有毒物质后，你的所有攻击都会在一段时间内使敌人中毒。
+potionLuck	1	potionLuck::1: Poor Name	Elixir of Luck	幸运灵药
+potionLuck	2	potionLuck::2: Poor Description	A concoction that makes the user slightly better at everything, by boosting their Attributes for a limited time. #Used heavily by the criminal gangs of Slev, they call this elixir 'lucky' - despite it being more of a magical stimulant.	一种让使用者样样都略胜一筹的调制剂，可在短时间内提升各项属性。#斯列夫的犯罪团伙用得极多，他们管这灵药叫"幸运儿"——虽然它更像是魔法兴奋剂。
+potionElixir	1	potionElixir::1: Poor Name	Elixir of Restoration	复原灵药
+potionElixir	2	potionElixir::2: Poor Description	Restores Health and Mana to maximum. #This legendary elixir has long been used by Wikkan cults, but is banned in the apothecaries of the Apostatic Union for its use of illegal ingredients.	将生命值与法力值恢复至最大。#这种传奇灵药长期以来为维坎教团所用，但因使用非法原料，已被叛教联盟的药房列为禁品。
+potionCast	1	potionCast::1: Poor Name	Elixir of Spellcast	施法灵药
+potionCast	2	potionCast::2: Poor Description	Improves the potency of spells. #Spells draw energy from the neural connections of the user's mind, in a poorly understood transference of power. This drink enhances spells by accelerating that process.	提升法术的效力。#法术从使用者大脑的神经连接中汲取能量，这种力量转移的原理至今未被充分理解。这剂饮品能加速该过程，从而强化法术。
+potionRegen	1	potionRegen::1: Poor Name	Elixir of Regen	回复灵药
+potionRegen	2	potionRegen::2: Poor Description	Temporarily boosts stamina regen. #This potion enhances the body's natural functions, accelerating natural recovery. Should be used with care, as it unintentionally accelerates ageing as well.	短时间内提升体力回复。#这种药水能强化身体的自然机能，加速自然恢复。须谨慎使用——它也会顺带加速衰老。
+potionDef	1	potionDef::1: Poor Name	Shielding Potion	护盾药水
+potionDef	2	potionDef::2: Poor Description	Temporarily boosts Armour. #This potion floods the bloodstream with a simple spell that can deflect attacks, although it deflects hugs and handshakes all the same.	短时间内提升护甲。#这种药水让一道简朴的咒语涌入血液，能偏转攻击——只不过拥抱和握手也会被一并弹开。
+compass	1	compass::1: Poor Name	Compass	指南针
+compass	2	compass::2: Poor Description	A sturdy compass to orient oneself.#Allows its bearer to [[see their position]] on a [[map]], if they have one. #Since magnetised lodestone is rare in the skyrealms, compasses often rely on a simple magic cipher instead.	一枚用于辨明方向的坚固指南针。#让持有者能在[[地图]]上[[查看自己的位置]]（如果有的话）。#由于磁化磁石在天空领域十分罕见，指南针通常改用简单的密文魔法。
+scope	1	scope::1: Poor Name	Telescope	望远镜
+scope	2	scope::2: Poor Description	A fine invention; allows the user to see long distances. #The magnification has been further enhanced by cipher inscriptions within the device.	一项绝妙的发明，能让使用者看清远方。#装置内部的密文铭刻进一步增强了放大效果。
+sword	1	sword::1: Poor Name	Rusty Sword	锈蚀之剑
+sword	2	sword::2: Poor Description	Swords are reliable all-rounder weapons, rewarding both speed and aggression. #Chipped and corroded, this one that has seen better days: and may yet see them again, if some of the rust could be cleaned off.	剑是可靠的全能武器，速度与攻势皆有回报。#这把剑缺口遍布、锈迹斑斑，昔日风光不再——不过若能把锈迹除掉些，或许还能再战江湖。
+sword	3	sword::3: Common Name	Steel Sword	钢制之剑
+sword	4	sword::4: Common Description	Swords are reliable all-rounder weapons, rewarding both speed and aggression. #The sword: a classic. Can't go wrong with a sword. Unless you're on the wrong end of it, of course.	剑是可靠的全能武器，速度与攻势皆有回报。#剑：经典之选。选剑准没错——当然，除非你站在剑尖那一头。
+sword	5	sword::5: Fine Name	Fine Sword	精良之剑
+sword	6	sword::6: Fine Description	Swords are reliable all-rounder weapons, rewarding both speed and aggression. #This one has been sharpened and polished to a shine, its edge keen and ready for battle.	剑是可靠的全能武器，速度与攻势皆有回报。#这把剑已磨砺抛光得熠熠生辉，锋刃锐利，随时准备迎战。
+sword	7	sword::7: Shroom Name	Shroomweave Sword	菌织之剑
+sword	8	sword::8: Shroom Description	An ethereal sword of shroomweave; a substance long sought after by spellcasters. #When gripped in one's hand, it is said that a shroomweave weapon makes casting spells quicker and less taxing on the mind. 	一把菌织打造的虚灵之剑；施法者渴求已久的材质。#据说握在手中时，菌织武器能让施法更快、更省心神。
+sword	9	sword::9: Clockwork Name	Clockwork Sword	发条之剑
+sword	10	sword::10: Clockwork Description	This sword's hilt is inlaid with ingenious hidden mechanisms which can reconfigure the single blade into two at the flick of a switch, wrongfooting the enemy.	这把剑的剑柄里暗藏着精巧的机关，一按开关便可将单刃变形为双刃，打得敌人措手不及。
+sword	11	sword::11: Void Name	Void Sword	虚空之剑
+sword	12	sword::12: Void Description	A masterwork forged from void ore, the legendary metal that absorbs light and nullifies the effects of magic. #A fearsome weapon indeed, although staring at the blade for too long is said to be dangerous.	一件以虚空矿锻造的杰作——那种吞光灭魔的传奇金属。#确是一把可怕的神兵，只是据说凝视剑刃太久会很危险。
+sword	13	sword::13: Emberian Name	Emberian Sword	余烬之剑
+sword	14	sword::14: Emberian Description	A weapon forged from Emberian ore, recovered from the long-lost civilisation that shares its name. The metal is razor sharp and nigh-impossible to shatter.	一把以余烬矿锻造的武器，出自与其同名的失落古文明。金属锋利如剃刀，几乎不可能折断。
+dagger	1	dagger::1: Poor Name	Rusty Dagger	锈蚀匕首
+dagger	2	dagger::2: Poor Description	Daggers are swift and subtle, and will do well in the hands of those who possess the same qualities. #This one, though, has been around a bit too long: the blade feels like it's one good stab away from flaking away completely.	匕首迅捷而阴柔，掌握同样特质的人用起来才顺手。#不过这一把实在是服役太久了：感觉再狠狠一刺，它就要碎成渣了。
+dagger	3	dagger::3: Common Name	Steel Dagger	钢制匕首
+dagger	4	dagger::4: Common Description	Daggers are swift and subtle, and will do well in the hands of those who possess the same qualities. #This one is ideal for sliding into the gaps in plate armour.	匕首迅捷而阴柔，掌握同样特质的人用起来才顺手。#这一把最适合滑入板甲的缝隙。
+dagger	5	dagger::5: Fine Name	Fine Dagger	精良匕首
+dagger	6	dagger::6: Fine Description	Daggers are swift and subtle, and will do well in the hands of those who possess the same qualities. #This is a well-wrought example, aching to find its place between some unfortunate's ribs.	匕首迅捷而阴柔，掌握同样特质的人用起来才顺手。#这是一件精工之作，正急不可耐地想找一个倒霉蛋的肋缝安家。
+dagger	7	dagger::7: Shroom Name	Shroomweave Dagger	菌织匕首
+dagger	8	dagger::8: Shroom Description	A glowing dagger of shroomweave; a substance found only in the bowels of a cephalok. #When gripped in one's hand, it is said that a shroomweave weapon makes casting spells quicker and less taxing on the mind. 	一把泛着微光的菌织匕首；这种材质只在头颅兽的腹中才能找到。#据说握在手中时，菌织武器能让施法更快、更省心神。
+dagger	9	dagger::9: Clockwork Name	Clockwork Dagger	发条匕首
+dagger	10	dagger::10: Clockwork Description	A curious contrivance from the Clockwork Kingdom, this dagger can be modified into a small projectile weapon called a "pistol", making it lethal at range as well as up close. #A clever enough trick, but surely they'll never catch one with the masses.	一件来自发条王国的古怪发明，这把匕首可变形为一种名为"手枪"的小型投射武器，远程近身皆可致命。#花招确实聪明，但这种东西想必永远流行不起来。
+dagger	11	dagger::11: Void Name	Void Dagger	虚空匕首
+dagger	12	dagger::12: Void Description	A dagger forged from voidstone: the subtlest weapon in the subtlest form. #This unsettling masterpiece is like a sliver of shadow, glimpsed in the corner of your eye before it's suddenly at your throat.	一把虚空岩锻造的匕首：以最隐蔽之形铸就的最隐蔽之器。#这件令人不安的杰作如同一片暗影的碎屑，你眼角刚刚瞥见，它已抵上你的咽喉。
+dagger	13	dagger::13: Emberian Name	Emberian Dagger	余烬匕首
+dagger	14	dagger::14: Emberian Description	Small though it is, any weapon from long-lost Emberia is a marvel. #This one moves like lightning, the blade unerringly keen and accurate.	虽然小巧，但出自失落余烬国的武器无一不是奇迹。#这一把出手如闪电，剑刃精准锐利，从无偏差。
+greatsword	1	greatsword::1: Poor Name	Rusty Greatsword	锈蚀巨剑
+greatsword	2	greatsword::2: Poor Description	Greatswords are slow, brutal weapons that can cleave and smash through anything they connect with. This one, mind you, seems to be more rust than sword at this point.	巨剑沉重而残暴，凡被它劈中砸中的都会被开膛碎骨。不过说句实话，这一把如今恐怕锈的成分比剑还多。
+greatsword	3	greatsword::3: Common Name	Steel Greatsword	钢制巨剑
+greatsword	4	greatsword::4: Common Description	Greatswords are slow, brutal weapons that can cleave and smash through anything they connect with. #This one exhibits a flat tip, characteristic of executioner's blades.	巨剑沉重而残暴，凡被它劈中砸中的都会被开膛碎骨。#这一把的剑尖是平的，正是刽子手之刃的标志。
+greatsword	5	greatsword::5: Fine Name	Fine Greatsword	精良巨剑
+greatsword	6	greatsword::6: Fine Description	Greatswords are slow, brutal weapons that can cleave and smash through anything they connect with. #This one is finely balanced, the ornate handle providing a counterweight to the blade that makes it easy to swing in wide, lethal arcs.	巨剑沉重而残暴，凡被它劈中砸中的都会被开膛碎骨。#这一把配重精妙，华丽的剑柄恰好平衡剑身，挥动起来可以轻松划出宽阔而致命的弧线。
+greatsword	7	greatsword::7: Shroom Name	Shroomweave Greatsword	菌织巨剑
+greatsword	8	greatsword::8: Shroom Description	A shimmering greatsword of shroomweave; a weapon long coveted by Wikkan covens. #When gripped in one's hand, it is said that a shroomweave weapon makes casting spells quicker and less taxing on the mind. 	一把微微发光的菌织巨剑；维坎女巫团觊觎已久的武器。#据说握在手中时，菌织武器能让施法更快、更省心神。
+greatsword	9	greatsword::9: Clockwork Name	Clockwork Greatsword	发条巨剑
+greatsword	10	greatsword::10: Clockwork Description	A contrivance from the Clockwork Kingdom, this greatsword can be reconfigured into a large gun - practically a portable cannon. #Bombard your foes from afar and feel like a skyship captain, even with both feet still on the ground.	一件发条王国的机关造物，这把巨剑可重组为一杆大枪——简直是一门便携火炮。#隔着老远轰炸敌人，感受一把天舰舰长的威风——双脚甚至不用离地。
+greatsword	11	greatsword::11: Void Name	Void Greatsword	虚空巨剑
+greatsword	12	greatsword::12: Void Description	A great shard of inky blackness, this blade must have taken an enormous amount of extremely rare voidstone to forge. #In battle it sunders everything before it, seemingly hungry to rip through reality itself.	一大片墨黑碎片，这剑刃必定耗费了海量极罕见的虚空岩才能铸成。#战场上它斩碎眼前的一切，仿佛饥渴地想把现实本身也撕开。
+greatsword	13	greatsword::13: Emberian Name	Emberian Greatsword	余烬巨剑
+greatsword	14	greatsword::14: Emberian Description	A true Emberian greatsword, of the kind that was wielded by the knights and paladins of that long-ago empire. #To carry this is almost to walk through the age of myths again: but as a hero, or a villain?	一把货真价实的余烬巨剑，正是那个远古帝国的骑士与圣战士所挥舞的类型。#带上它，几乎等于重走一遍神话时代——只是，你会当英雄，还是当恶徒？
+bow	1	bow::1: Poor Name	Rusty Bow	锈蚀之弓
+bow	2	bow::2: Poor Description	Bows allow you to fight from afar, balancing speed and martial ability to dictate the flow of combat from a distance. #This one has seen better days, though: one good twang and the string might break for good.	弓让你得以远程作战，兼顾速度与武艺，在远处掌控战斗的节奏。#不过这一把已经风光不再：弦一绷紧，说不定就永久断掉了。
+bow	3	bow::3: Common Name	Steel Bow	钢制之弓
+bow	4	bow::4: Common Description	Bows allow you to fight from afar, balancing speed and martial ability to dictate the flow of combat from a distance. #Many a battle has ended before it truly began thanks to a single arrow.	弓让你得以远程作战，兼顾速度与武艺，在远处掌控战斗的节奏。#多少战斗尚未真正开始，便终结于一支箭。
+bow	5	bow::5: Fine Name	Fine Bow	精良之弓
+bow	6	bow::6: Fine Description	Bows allow you to fight from afar, balancing speed and martial ability to dictate the flow of combat from a distance. #Few things are more satisfying than the thunk of a well-aimed arrow, fired from a well-made bow such as this, finding its target.	弓让你得以远程作战，兼顾速度与武艺，在远处掌控战斗的节奏。#没什么比一支瞄准精准的箭——从这样一把良弓中射出——正中目标时那声闷响更让人满足了。
+bow	7	bow::7: Shroom Name	Shroomweave Bow	菌织之弓
+bow	8	bow::8: Shroom Description	A bow made from shroomweave; a substance that shimmers with potent cipher magic. #When gripped in one's hand, it is said that a shroomweave weapon makes casting spells quicker and less taxing on the mind.	一把菌织制成的弓；这种材质闪烁着强大的密文魔力。#据说握在手中时，菌织武器能让施法更快、更省心神。
+bow	9	bow::9: Clockwork Name	Clockwork Bow	发条之弓
+bow	10	bow::10: Clockwork Description	A spectacularly strange bow from - where else? - the Clockwork Kingdom, this contraption can be instantly transformed into a broad cutting blade, in case the enemy has managed to get close. #Someone's in for a big surprise.	一把离奇古怪的弓，来自——还能有哪儿？——发条王国。这机关造物可瞬间变形为一柄宽阔的砍削大刃，以防敌人近身。#总有人要大吃一惊的。
+bow	11	bow::11: Void Name	Void Bow	虚空之弓
+bow	12	bow::12: Void Description	A bow forged from night-black voidstone, this unsettling weapon seems to spit deadly shadows at its targets. #The string is eerily silent, releasing its arrows with only the ghost of a whisper.	一把以夜黑虚空岩锻造的弓，这令人不安的武器似乎在向目标吐出致命的暗影。#弓弦静得诡异，放箭时只有一丝幽灵般的低语。
+bow	13	bow::13: Emberian Name	Emberian Bow	余烬之弓
+bow	14	bow::14: Emberian Description	A war-bow from the ancient Emberian empire is an object of lethal beauty, its curved body tense with potential. #This example has somehow survived to the present day, every bit as deadly now as it was then.	出自古余烬帝国的战弓是一件致命的艺术品，弯曲的弓身紧绷着蓄势待发的力量。#这一把不知怎的保存至今，如今依然一如既往地致命。
+plateArmour	1	plateArmour::1: Poor Name	Chainmail Armour	锁子甲
+plateArmour	2	plateArmour::2: Poor Description	An old piece of chainmail armour that has seen much use. 	一件久经使用的旧锁子甲。
+plateArmour	3	plateArmour::3: Common Name	Plate Armour	板甲
+plateArmour	4	plateArmour::4: Common Description	Sturdy metal plates encase a suit of reinforced chainmail. #Though reminiscent of the ancient armour of the middle ages, modern armour incorporates magical cypher wards for unparalleled protection.	坚固的金属板包裹着一套强化的锁子甲。#虽让人想起中世纪的古老铠甲，现代护甲融入了魔法密文护符，防护无出其右。
+plateHelm	1	plateHelm::1: Poor Name	Chainmail Hood	锁甲头罩
+plateHelm	2	plateHelm::2: Poor Description	A chainmail hood.	一顶锁子甲头罩。
+plateHelm	3	plateHelm::3: Common Name	Plate Helmet	板甲头盔
+plateHelm	4	plateHelm::4: Common Description	A gleaming helmet.	一顶光亮的头盔。
+clothesMight	1	clothesMight::1: Poor Name	Rusty Armour	锈蚀护甲
+clothesMight	2	clothesMight::2: Poor Description	A rusted suit of armour. #Though this equipment has seen better days, it will still stop a sword strike in a pinch. Many of the brigands and rogues of the skyrealms loot questionable equipment from old God War battlefields.	一套锈蚀的铠甲。#这身装备虽然风光不再，关键时刻仍能挡下一记剑击。天空诸陆的许多匪徒和盗贼都从古神战战场上搜刮这种可疑的装备。
+clothesMight	3	clothesMight::3: Common Name	Outlaw Armour	法外之徒护甲
+clothesMight	4	clothesMight::4: Common Description	A studded suit of armour. #Outlaws in the skyrealms will often enhance their equipment with crude studs and spikes, so that even their bodies can serve as brutal weapons. 	一套镶钉的铠甲。#天空诸陆的法外之徒常以粗糙的铆钉和尖刺强化装备，好让自己的身体也成为残暴的武器。
+hatMight	1	hatMight::1: Poor Name	Rusty Helm	锈蚀头盔
+hatMight	2	hatMight::2: Poor Description	A rusted helmet, likely to be found on many battlefields. #Since the God War, the sykrealms has seen a sharp rise in dogs of war, who sell their swords to the highest bidder. They are often ill-equipped with armour like this. 	一顶锈蚀的头盔，许多战场上都能找到。#自神之战以来，天空诸陆的雇佣兵数量激增，他们把剑卖给出价最高的人。这些战争之犬的装备往往就是这种劣质铠甲。
+hatMight	3	hatMight::3: Common Name	Outlaw Helm	法外之徒头盔
+hatMight	4	hatMight::4: Common Description	A studded helmet, modified in the outlaw style. #The skyrealms are vast, with many uncharted islands that shelter ne'er-do-wells. This helmet has been modified with studs, possibly to facilitate a nasty headbutt. 	一顶镶钉头盔，以法外之徒风格改装。#天空诸陆广袤无垠，许多未经勘测的岛屿庇护着不三不四之徒。这顶头盔加装了铆钉，八成是为了来一下狠的头槌。
+clothesDef	1	clothesDef::1: Poor Name	Chainmail Armour	锁子甲
+clothesDef	2	clothesDef::2: Poor Description	An old chainmail hauberk that has seen much use. #Rusted in places, with some of the rings deformed by blows from long-ago battles, it still provides a decent measure of protection.	一件久经使用的旧锁甲胸衣。#多处生锈，一些环扣早已被久远战场的击打砸得变形，但仍能提供不错的防护。
+clothesDef	3	clothesDef::3: Common Name	Plate Armour	板甲
+clothesDef	4	clothesDef::4: Common Description	Sturdy metal plates encase a suit of reinforced chainmail. #Though reminiscent of the ancient armour of the middle ages, modern armour incorporates magical cypher wards for unparalleled protection.	坚固的金属板包裹着一套强化的锁子甲。#虽让人想起中世纪的古老铠甲，现代护甲融入了魔法密文护符，防护无出其右。
+hatDef	1	hatDef::1: Poor Name	Chainmail Coif	锁子甲头巾
+hatDef	2	hatDef::2: Poor Description	A chainmail hood that fits snugly over the head and shoulders. #The gentle clink of the rings fills the wearer's ears whenever they move.	一顶紧贴头部与肩膀的锁子甲兜帽。#每当穿戴者移动，环扣相击的轻响便在耳边作响。
+hatDef	3	hatDef::3: Common Name	Closed Helm	全罩盔
+hatDef	4	hatDef::4: Common Description	A gleaming plate armour helmet. #Heavy, but strong enough to ward off many a would-be fatal blow.	一顶光亮的板甲头盔。#沉重，但足以挡下许多本会致命的攻击。
+clothesPersona	1	clothesPersona::1: Poor Name	Scruffy Attire	邋遢衣着
+clothesPersona	2	clothesPersona::2: Poor Description	Simple clothing of the Apostatic Union. #While such garments are unlikely to impress, they bear the undeniable charm of a hard-working labourer. 	叛教联盟的简朴衣着。#这样的衣服虽难令人刮目相看，却带着一股勤劳劳工不可否认的魅力。
+clothesPersona	3	clothesPersona::3: Common Name	Modest Attire	朴素衣着
+clothesPersona	4	clothesPersona::4: Common Description	Finely woven garments that lend their wearer an air of respectability. #The denizens of the Apostatic Union place a high value on appearances, so shopkeepers should look upon you more favourably.	织工精细的衣物，为穿戴者添几分体面。#叛教联盟的居民非常看重外表，店主们应该会更给你好脸色。
+clothesPersona	5	clothesPersona::5: Fine Name	Resplendent Attire	华丽衣着
+clothesPersona	6	clothesPersona::6: Fine Description	A splendid garment, woven in the latest Riovan fashion. #Someone with such exquisite taste is sure to be taken seriously.	一件华美的衣裳，以里奥瓦最新风尚织就。#品味如此考究的人，必然会被认真对待。
+hatPersona	1	hatPersona::1: Poor Name	Scruffy Cap	邋遢软帽
+hatPersona	2	hatPersona::2: Poor Description	A humble cap, the likes of which are seen all over the Apostatic Union. #Though hardly the pinnacle of fashion, it has a simple charm. 	一顶朴素的软帽，叛教联盟遍地可见。#虽算不上时尚巅峰，倒有几分朴实的魅力。
+hatPersona	3	hatPersona::3: Common Name	Modest Cap 	朴素软帽
+hatPersona	4	hatPersona::4: Common Description	An elongated hat that is quite popular among the Apostatic Union's merchant classes. #Taking pride in one's appearance is sure to make a good impression. 	一顶长条形的帽子，在叛教联盟的商人阶层中颇受欢迎。#注重仪表定能给人留下好印象。
+hatPersona	5	hatPersona::5: Fine Name	Extravagant Hat	浮华帽子
+hatPersona	6	hatPersona::6: Fine Description	An elaborate cap, woven in the latest Riovan fashion. #Though many in the Apostatic Union think themselves above petty superficiality, they will still be wooed by a person in a fancy hat.	一顶考究的软帽，以里奥瓦最新风尚织就。#尽管许多联盟人士自诩超脱于浅薄的表面功夫，一顶漂亮的帽子照样能把他们迷得服服帖帖。
+clothesWisdom	1	clothesWisdom::1: Poor Name	Vagrant's Robe	流浪者长袍
+clothesWisdom	2	clothesWisdom::2: Poor Description	Threadbare garments, probably worn by a cipher scribe who had fallen on hard times. #Though it is not uncommon to see scribes living the lowly life of a vagrant, one should not underestimate them; for their very attire may crackle with magical potential. 	衣衫褴褛，大概是一位落魄潦倒的密文誊写者穿过的。#誊写者沦落为流浪汉并不罕见，但可别小瞧他们；因为他们这身行头说不定正噼啪作响地蕴藏着魔力。
+clothesWisdom	3	clothesWisdom::3: Common Name	Scholar's Robes	学者长袍
+clothesWisdom	4	clothesWisdom::4: Common Description	A scholarly robe that has seen much use. #In the universities of the Apostatic Union, a scholar's robe is the mark of one's status. The owner is expected to weave cipher-enchantments into the lining, to augment one's duties.	一件久经使用的学者袍。#在叛教联盟的大学里，学者袍是身份的标志。按照惯例，袍主人须将密文附魔织进衬里，以辅助自己的职守。
+clothesWisdom	5	clothesWisdom::5: Fine Name	Wizard's Robes	法师长袍
+clothesWisdom	6	clothesWisdom::6: Fine Description	A magnificent wizard's robe; not only fashionable, but brimming with magical energies. #A wizard is a high-ranking academic, and requires attire to match their station. The finest garments will have cipher-spells woven in beautiful and elaborate patterns. 	一件华美的法师袍；不仅时髦，还满盈魔力。#法师是学界的高阶人士，衣着须与身份相称。最上等的法袍会将密文咒语织成美丽繁复的图样。
+hatWisdom	1	hatWisdom::1: Poor Name	Thinking Cap	思考帽
+hatWisdom	2	hatWisdom::2: Poor Description	Hats of this kind are valued by wizards and other wielders of the arcane. #Cipher, stitched into the lining, stimulates thoughts and access to magical powers.	这类帽子深受法师与其他奥术运用者的珍视。#缝入衬里的密文能激发思维、沟通魔力。
+hatWisdom	3	hatWisdom::3: Common Name	Modest Arcanist Hat	朴素奥术师帽
+hatWisdom	4	hatWisdom::4: Common Description	A more advanced thinking cap, this hat fairly hums with cipher, as if bursting with ideas: all it needs is a brain to supply them to. #It's more fashionable, too.	一顶更高级的思考帽，密文嗡嗡作响，仿佛满脑子点子呼之欲出：只欠一个大脑来接收。#而且更时髦了。
+hatWisdom	5	hatWisdom::5: Fine Name	Arcanist Hat	奥术师帽
+hatWisdom	6	hatWisdom::6: Fine Description	A veritable thinking crown: practically an entire arcane education can be had just by popping this on your head. #It's also devastatingly stylish.	一顶名副其实的思考王冠：往脑袋上一扣，几乎等于受完了整套奥术教育。#而且时髦得惊天动地。
+clothesGuile	1	clothesGuile::1: Poor Name	Tatty Leathers	破旧皮甲
+clothesGuile	2	clothesGuile::2: Poor Description	An old set of leather armour that has seen much use. #Though of questionable protection and smelling faintly of sweat, this armour has been modified to let its wearer move freely.	一套久经使用的旧皮甲。#防护力可疑，还隐约散发着汗味，但经过改装，穿戴者可以行动自如。
+clothesGuile	3	clothesGuile::3: Common Name	Thief Armour	盗贼皮甲
+clothesGuile	4	clothesGuile::4: Common Description	A decent set of leathers, perfect for a seasoned thief. #The sturdiness of its construction grants good protection, but this armour has also been modified to let its wearer move freely.	一套像样的皮甲，老练盗贼的标配。#结实的结构提供良好防护，同时经过改装，穿戴者可以行动自如。
+clothesGuile	5	clothesGuile::5: Fine Name	Assassin's Brigandine 	刺客布面甲
+clothesGuile	6	clothesGuile::6: Fine Description	A sublime set of armour that balances manoeuvrability and defence. #Much like the garb of a Slevian assassin, this armour is covered in pouches and instruments - and has been inscribed with cipher magic to increase mobility.	一套绝妙的护甲，兼顾机动与防御。#与斯列夫刺客的装束如出一辙，甲上挂满袋囊与工具——并刻有密文魔法以提升机动性。
+hatGuile	1	hatGuile::1: Poor Name	Rogue Hood	盗匪兜帽
+hatGuile	2	hatGuile::2: Poor Description	A threadbare hood, often worn by lowly rogues. #Though it offers scant protection, it conceals the wearer's identity; perfect for tasks that require an element of espionage.	一顶破旧的兜帽，常见于下等盗匪头上。#虽防护寥寥，却能遮住穿戴者的身份；最适合需要一点谍报性质的活计。
+hatGuile	3	hatGuile::3: Common Name	Thief Cowl	盗贼头巾
+hatGuile	4	hatGuile::4: Common Description	An expertly crafted mask that disguises its wearer completely. #Such attire is worn by only the most accomplished thieves, who appear as nothing but a shadow in the night.	一具工艺精湛的面具，能将穿戴者彻底伪装。#只有最有本事的盗贼才穿这样的行头，他们宛如夜色中的一道暗影。
+hatGuile	5	hatGuile::5: Fine Name	Assassin's Cowl 	刺客头巾
+hatGuile	6	hatGuile::6: Fine Description	A gleaming skull mask wrapped in a dark cowl. #Though it is well known to be the chosen garb of Slevian assassins, few have seen such attire - and lived to tell the tale.	一具泛着幽光的白骨面具，裹在暗色头巾之中。#众所周知，这是斯列夫刺客的标志性装束——但见过它的人，鲜少活着讲出故事。
+clothesEmberian	1	clothesEmberian::1: Poor Name	Damaged Emberian Armour	破损的余烬护甲
+clothesEmberian	2	clothesEmberian::2: Poor Description	Much-battered in the long-ago wars of Emberian conquest, this armour is nevertheless still a marvel. Sounds of its ancient machineries are still audible to the wearer, like whispers of the distant past. #Boosts Maximum [[Health, Mana]] and [[Stamina]] slightly.	在遥远的余烬征服战争中饱经摧残，这件护甲却依然是个奇迹。穿戴者仍能听见古老机械的声响，宛如遥远过往的低语。#略微提升最大[[生命值、法力值]]与[[体力]]。
+clothesEmberian	3	clothesEmberian::3: Common Name	Damaged Emberian Armour	破损的余烬护甲
+clothesEmberian	4	clothesEmberian::4: Common Description	Much-battered in the long-ago wars of Emberian conquest, this armour is nevertheless still a marvel. Sounds of its ancient machineries are still audible to the wearer, like whispers of the distant past. #Boosts Maximum [[Health, Mana]] and [[Stamina]] slightly.	在遥远的余烬征服战争中饱经摧残，这件护甲却依然是个奇迹。穿戴者仍能听见古老机械的声响，宛如遥远过往的低语。#略微提升最大[[生命值、法力值]]与[[体力]]。
+clothesEmberian	5	clothesEmberian::5: Fine Name	Damaged Emberian Armour	破损的余烬护甲
+clothesEmberian	6	clothesEmberian::6: Fine Description	Much-battered in the long-ago wars of Emberian conquest, this armour is nevertheless still a marvel. Sounds of its ancient machineries are still audible to the wearer, like whispers of the distant past. #Boosts Maximum [[Health, Mana]] and [[Stamina]] slightly.	在遥远的余烬征服战争中饱经摧残，这件护甲却依然是个奇迹。穿戴者仍能听见古老机械的声响，宛如遥远过往的低语。#略微提升最大[[生命值、法力值]]与[[体力]]。
+clothesEmberian	7	clothesEmberian::7: Shroom Name	null	null
+clothesEmberian	8	clothesEmberian::8: Shroom Description	null	null
+clothesEmberian	9	clothesEmberian::9: Clockwork Name	null	null
+clothesEmberian	10	clothesEmberian::10: Clockwork Description	null	null
+clothesEmberian	11	clothesEmberian::11: Void Name	null	null
+clothesEmberian	12	clothesEmberian::12: Void Description	null	null
+clothesEmberian	13	clothesEmberian::13: Emberian Name	Emberian Armour	余烬护甲
+clothesEmberian	14	clothesEmberian::14: Emberian Description	Once again fully functional, the Emberian Armour encloses its wearer like a second skin, shrouding mortal flesh in immortal might. #Boosts Maximum [[Health, Mana]] and [[Stamina]] significantly.	功能全面恢复的余烬护甲如第二层皮肤般包裹穿戴者，以不朽伟力笼罩凡人血肉。#大幅提升最大[[生命值、法力值]]与[[体力]]。
+hatEmberian	1	hatEmberian::1: Poor Name	Damaged Emberian Helm	破损的余烬头盔
+hatEmberian	2	hatEmberian::2: Poor Description	Cracked and incomplete it may be, but you can tell at once that this helm is Emberian, part of the legendary panoplies worn by those long-dead warriors during their conquest of the world and its 'inferior' civilizations. #Boosts all [[Skills]] slightly.	虽有裂痕且残缺不全，但你一眼就能认出这是余烬头盔——那些早已死去的战士征服世界及其"劣等"文明时，所穿的传奇全套铠甲的一部分。#略微提升所有[[技能]]。
+hatEmberian	3	hatEmberian::3: Common Name	Damaged Emberian Helm	破损的余烬头盔
+hatEmberian	4	hatEmberian::4: Common Description	Cracked and incomplete it may be, but you can tell at once that this helm is Emberian, part of the legendary panoplies worn by those long-dead warriors during their conquest of the world and its 'inferior' civilizations. #Boosts all [[Skills]] slightly.	虽有裂痕且残缺不全，但你一眼就能认出这是余烬头盔——那些早已死去的战士征服世界及其"劣等"文明时，所穿的传奇全套铠甲的一部分。#略微提升所有[[技能]]。
+hatEmberian	5	hatEmberian::5: Fine Name	Damaged Emberian Helm	破损的余烬头盔
+hatEmberian	6	hatEmberian::6: Fine Description	Cracked and incomplete it may be, but you can tell at once that this helm is Emberian, part of the legendary panoplies worn by those long-dead warriors during their conquest of the world and its 'inferior' civilizations. #Boosts all [[Skills]] slightly.	虽有裂痕且残缺不全，但你一眼就能认出这是余烬头盔——那些早已死去的战士征服世界及其"劣等"文明时，所穿的传奇全套铠甲的一部分。#略微提升所有[[技能]]。
+hatEmberian	7	hatEmberian::7: Shroom Name	null	null
+hatEmberian	8	hatEmberian::8: Shroom Description	null	null
+hatEmberian	9	hatEmberian::9: Clockwork Name	null	null
+hatEmberian	10	hatEmberian::10: Clockwork Description	null	null
+hatEmberian	11	hatEmberian::11: Void Name	null	null
+hatEmberian	12	hatEmberian::12: Void Description	null	null
+hatEmberian	13	hatEmberian::13: Emberian Name	Emberian Helm	余烬头盔
+hatEmberian	14	hatEmberian::14: Emberian Description	Fully restored, the Emberian Helm is a masterwork from a distant age. To wear it is to be crowned again with the power that swept aside whole civilizations. #It boosts all [[Skills]] significantly.	修复完整的余烬头盔是遥远年代的杰作。戴上它，便是再度加冕那份扫平整个文明的力量。#大幅提升所有[[技能]]。
+goblinMask	1	goblinMask::1: Poor Name	Goblin Mask	哥布林面具
+goblinMask	2	goblinMask::2: Poor Description	A chunk of wood shoddily carved to resemble a face, that allows one to [[Entice]] more powerful foes. #The goblins of Hallowshire can be seen wearing these crude things. When placed on one's face, a strange feeling comes over you; as if you were someone else...	一块粗制滥刻成人脸的木头，让人得以[[诱惑]]更强的敌人。#哈洛郡的哥布林常戴着这种粗糙玩意儿。戴上的那一刻，一种奇怪的感觉涌上心头；仿佛你变成了另一个人……
+cultistHood	1	cultistHood::1: Poor Name	Cultist Hood	邪教徒兜帽
+cultistHood	2	cultistHood::2: Poor Description	A ragged piece of cloth that can obscure one's face. #It feels very peculiar to touch, and when wrapped around one's head, you have the strangest sensation that you are being watched. 	一块能遮住脸的破布。#摸起来感觉非常怪异，裹在头上时，你会有一种最诡异的错觉——有人在盯着你。
+crusadeHelm	1	crusadeHelm::1: Poor Name	Crusader Helm	十字军头盔
+crusadeHelm	2	crusadeHelm::2: Poor Description	An ancient helm of thick red metal. #This is a relic of the Cadaver Crusades, when the Endless still hunted mortals for their life essence. Even after all these years, it still smells faintly of blood.	一顶厚红金属打造的古盔。#这是尸骸十字军的遗物——那时无尽者还会猎食凡人以攫取生命精华。纵然岁月流转，它仍隐约散发着血腥气。
+rogueHood	1	rogueHood::1: Poor Name	Rogue Hood	盗匪兜帽
+rogueHood	2	rogueHood::2: Poor Description	A tatty hood that somewhat obscures the user's face, allowing them to focus on their misdeeds. 	一顶破烂的兜帽，多少能遮住使用者的脸，好让他们专心干些见不得人的勾当。
+rogueHood	3	rogueHood::3: Common Name	Thief Hood	盗贼兜帽
+rogueHood	4	rogueHood::4: Common Description	A sturdy hood that conceals the user's identity, allowing them to focus on their misdeeds. 	一顶结实的兜帽，能遮住使用者的身份，好让他们专心干些见不得人的勾当。
+spellSpeed	1	spellSpeed::1: Poor Name	Agility's Addendum	敏捷补遗
+spellSpeed	2	spellSpeed::2: Poor Description	Gives a massive boost of Agility and prevents death from falling. #Nevertheless this must be used with care, for while this spell protects from great falls, it does not prevent tumbling down to the Underlands: a fate often considered worse than death.	大幅提升敏捷，并防止坠落致死。#但仍须谨慎使用——此咒虽能抵挡高空坠落，却拦不住你一路滚落地下之地：那样的命运常被认为比死还糟。
+spellHeal	1	spellHeal::1: Poor Name	Reknit Flesh   	重织血肉
+spellHeal	2	spellHeal::2: Poor Description	Gradually restores Health over time. #The advancement of healing cipher has revolutionised medical treatment in the Apostatic Union, though it is not without its dangers; in the wrong hands, veins and arteries can be sewn shut along with flesh.	随时间逐渐恢复生命值。#治疗密文的进步革新了叛教联盟的医疗，但也并非没有危险；落入外行之手，血管会连同血肉一起被缝合起来。
+spellTime	1	spellTime::1: Poor Name	Advance Time	跨越时间
+spellTime	2	spellTime::2: Poor Description	Advances time to a new stage of the day. #To any observers, the caster simply vanishes for the duration of this spell. Some scholars, in their desire to witness distant eras, have simply disappeared without a trace. 	将时间推进到一天的下个阶段。#在旁人眼中，施法者只是在此期间凭空消失。一些学者渴望目睹遥远的时代，就这样消失得无影无踪。
+spellSlow	1	spellSlow::1: Poor Name	Slow	迟缓
+spellSlow	2	spellSlow::2: Poor Description	Slows the movement speed of nearby enemies. #Variants of this spell were banned by the Inquisition, after the inhabitants of an entire Byonne university were slowed to a snail's pace for a year. 	减慢附近敌人的移动速度。#此咒的变体已被宗教裁判所禁用——拜昂一所大学的全体师生曾被减速成蜗牛爬行，整整一年。
+spellTeleport	1	spellTeleport::1: Poor Name	Teleport	传送
+spellTeleport	2	spellTeleport::2: Poor Description	Warps the user to a nearby Emberian crystal. Must be looking at the crystal to cast. #All teleportation cipher-spells derive from the ancient Emberians, who used huge crystal relays for mass transportation. 	将使用者传送到附近的余烬水晶。施法时必须注视水晶。#一切传送类密文咒语都源自古余烬人——他们曾用巨大的水晶中继网络进行大规模运输。
+spellDispel	1	spellDispel::1: Poor Name	Dispel	驱散
+spellDispel	2	spellDispel::2: Poor Description	Removes all summons and status effects from the caster - good and bad. #An essential component of any caster's spellbook. Spells can be as dangerous as they are potent, so the ability to silence all cipher logic could save one's life.	移除施法者身上的所有召唤物与状态效果——无论好坏。#任何施法者的法术书都少不了它。法术有多强大就有多危险，能一键静默所有密文逻辑的本事，关键时能救命。
+spellFade	1	spellFade::1: Poor Name	Fade	隐没
+spellFade	2	spellFade::2: Poor Description	Renders the caster invisible, greatly reducing the range at which they can be detected. #Such spells are widely used by the criminal gangs of Lundel and Slev; forcing many shopkeepers to invest in wards of dispel. 	使施法者隐形，大幅缩短被发现距离。#伦德尔和斯列夫的犯罪团伙把这类法术用得很溜；逼得许多店主不得不掏钱购置驱散护符。
+spellSummon	1	spellSummon::1: Poor Name	Summon Skeleton	召唤骷髅
+spellSummon	2	spellSummon::2: Poor Description	Summons a skeletal minion to protect the caster. #The spell is one of the most elaborate known to the Union, for the bones are controlled by a complex array of cipher-logic. It is unknown from where the skeletons are summoned; Some bear the tattered attire of civilisations long forgotten.	召唤一名骷髅仆从保护施法者。#此咒是联盟已知最繁复的法术之一，骨骼由一套复杂的密文逻辑阵列控制。没人知道这些骷髅从何处被召来；有些还穿着早已湮灭的文明的破烂衣装。
+spellSummonRanged	1	spellSummonRanged::1: Poor Name	Summon Skeleton Archer	召唤骷髅弓手
+spellSummonRanged	2	spellSummonRanged::2: Poor Description	Summons a skeletal archer to attack the caster's foes at range. #Watching a skeleton aim and loose an arrow with empty eyesockets and fleshless fingerbones is a deeply unnerving experience.	召唤一名骷髅弓手远程攻击施法者的敌人。#看着一副骷髅用空洞的眼窝瞄准、用没有血肉的手指骨放箭，实在让人心里发毛。
+spellSummonCaster	1	spellSummonCaster::1: Poor Name	Summon Skeleton Mage	召唤骷髅法师
+spellSummonCaster	2	spellSummonCaster::2: Poor Description	Summons a skeleton mage who will heal and protect the caster. #Scholars are alarmed by the implications of wizards being able to summon other wizards: is an infinite chain of magic a possibility?	召唤一名骷髅法师，为施法者治疗并提供保护。#法师竟能召唤别的法师——学者们为此深感不安：一条无限的魔法链是否可能出现？
+spellSummonShield	1	spellSummonShield::1: Poor Name	Summon Skeleton Guard	召唤骷髅卫兵
+spellSummonShield	2	spellSummonShield::2: Poor Description	Summons a skeleton bearing a hefty shield to act as a bodyguard for the caster. #At least one wizard has been seen commanding the skeleton to use his shield as a macabre umbrella for the caster.	召唤一名持巨盾的骷髅，担任施法者的贴身保镖。#至少有一位法师曾被看到命令骷髅举起盾牌，给自己当一把阴森森的伞。
+spellBurn	1	spellBurn::1: Poor Name	Immolation Incantation	自燃咒
+spellBurn	2	spellBurn::2: Poor Description	Shoots a fireball at enemies, damaging them and causing burn damage over time. #The ability to immolate the air itself is cause for concern. Some scholars speculate that a powerful miscast could spread through the air, setting the whole skyrealms ablaze.	向敌人发射火球，造成伤害并附加持续灼烧。#让空气自燃的能力令人忧心。一些学者推测，一次强力失误施法可能顺着空气蔓延，把整个天空领域烧成一片火海。
+spellMissile	1	spellMissile::1: Poor Name	Cipher Spear	密文长矛
+spellMissile	2	spellMissile::2: Poor Description	Shoots a bolt of magical energy to damage a single foe. #Though the Apostatic Union heavily regulates the use of offensive magic, its navy donates huge sums to universities - to ensure the refinement of such spells.	发射一道魔法能量束，伤害单个敌人。#尽管叛教联盟对攻击性魔法管控严格，其海军却向大学捐出巨款——以确保这类法术精益求精。
+spellFlechette	1	spellFlechette::1: Poor Name	Ethereal Flechette	虚体镖
+spellFlechette	2	spellFlechette::2: Poor Description	Shoots a tightly coiled bolt of magical energy to damage a single foe. #This spell makes a particularly versatile weapon because of its unusually quick incantation.	发射一道紧束的魔法能量镖，伤害单个敌人。#此咒咏唱异常迅捷，因而成为特别百搭的武器。
+spellPoisonFlech	1	spellPoisonFlech::1: Poor Name	Plague Flechette	疫病镖
+spellPoisonFlech	2	spellPoisonFlech::2: Poor Description	Shoots a tightly coiled bolt of accursed magic energy, causing poison.#The sublime power of Paeguth's curse has warped this spell far beyond its humble origins	发射一道紧束的诅咒魔力镖，造成中毒。#帕古斯诅咒的崇高之力，已将这道法术扭曲得远远超出了它卑微的出身
+spellHome	1	spellHome::1: Poor Name	Return Home	归乡
+spellHome	2	spellHome::2: Poor Description	A teleportation spell that transports the caster to the last crystal point touched. #Though widely used by scholars, some still prefer to walk; they claim the chance of being incorrectly teleported off a cliff is not negligible.	一道传送法术，将施法者送回最后触碰的水晶锚点。#虽然学者们用得很多，仍有人宁愿步行；他们声称被错误传送下悬崖的概率不可忽视。
+spellShield	1	spellShield::1: Poor Name	Spectral Shield	幽灵之盾
+spellShield	2	spellShield::2: Poor Description	This spell generates an arcane shield that is impervious to damage - while the caster has mana to maintain it. #Draining to cast and sustain, this spell has nevertheless saved many a mage from otherwise certain death.	此咒生成一面刀枪不入的奥术护盾——前提是施法者有足够法力维持。#施放与维持都极为耗蓝，但它已把无数法师从必死之局中救了出来。
+speedShoes	1	speedShoes::1: Poor Name	Speed Shoes	疾行之靴
+speedShoes	2	speedShoes::2: Poor Description	Natty-looking boots, but more than just fashionable: the silver toe-caps are inscribed with cipher magic that quickens the wearer's footsteps, increasing movement speed by 40%. #Popular with messengers, rangers, and anyone trying to get the weekly shop done quickly.	一双神气的靴子，但可不只是好看：银质包头刻着密文魔法，能加快穿戴者的步伐，移动速度提高 40%。#深受信使、游侠，以及任何想快点买完一周口粮的人的欢迎。
+superPick	1	superPick::1: Poor Name	Mechanical Lockpick	机械开锁器
+superPick	2	superPick::2: Poor Description	An ingenious device for the handling of lockpicks. Will prevent lockpicks from breaking if the attempt nearly succeeds. #This device bears the stamp of the Clockwork Kingdom, and was likely produced in one of their vast factories. 	一件操作撬锁工具的精巧装置。当开锁即将成功时，可防止开锁器折断。#此装置印有发条王国的印记，多半出自其某座巨型工厂。
+lockbug	1	lockbug::1: Poor Name	Lockbug	锁虫
+lockbug	2	lockbug::2: Poor Description	This lockbug will weaken a lock's mechanism, making locks easier to Pick. #While the lockbug species is known for its love of intricate environments, this one has had cipher etched into its carapace; to make it a thief's best friend. 	这只锁虫能削弱锁具的机关，让锁更容易撬开。#锁虫一族素来喜爱精巧的环境，而这只的甲壳上还蚀刻着密文——让它成了贼的最爱。
+portalLocket	1	portalLocket::1: Poor Name	Invigorating Locket	健力吊坠
+portalLocket	2	portalLocket::2: Poor Description	A locket that increases its wearer's Stamina threshold, which makes long-term fatigue less severe. #When open, this locket shows a peculiar forest that appears to move, as if alive. There is no glass; invigorating vapours spill through.	一枚能提高穿戴者体力上限的吊坠，让长期疲劳不再那么难受。#打开时，吊坠里映出一座仿佛在移动的奇异森林，宛如活物。里面没有玻璃，只有令人振奋的雾气不断涌出。
+parryBuckler	1	parryBuckler::1: Poor Name	Parrying Buckler	格挡小盾
+parryBuckler	2	parryBuckler::2: Poor Description	A tiny shield designed to skillfully deflect attacks rather than absorb them. Makes [[Parry]] timing more forgiving.#Such bucklers are seldom seen on the Isles. This one seems to have been hand-made for a warrior of great finesse.	一面小巧的盾，设计目的是灵巧地拨开攻击而非硬接。让[[格挡]]时机更宽容。#群岛上很少见到这种小盾。这一面似乎是为某位身手不凡的战士手工打造的。
+gemGlove	1	gemGlove::1: Poor Name	Weightless Glove	失重手套
+gemGlove	2	gemGlove::2: Poor Description	A glove imbued with a gravity-defying gem, that helps negate fatigue during combat. #The damage penalty from attacking with low stamina is less severe when worn, as it makes a weapon feel light as a feather. 	一只嵌有抗重力宝石的手套，有助于消除战斗中的疲劳。#穿戴时，低体力攻击的伤害惩罚会减轻，因为它能让武器轻如鸿毛。
+specs	1	specs::1: Poor Name	Emberian Spectacles	余烬眼镜
+specs	2	specs::2: Poor Description	Ancient spectacles that highlight Lore objects. #These Emberian eyeglasses are remarkably well preserved. Cipher-magic has been engraved into their intricate mechanisms, to reveal magical objects that could be manipulated.	能高亮显示博识互动物的古董眼镜。#这副余烬眼镜保存得异常完好。繁复的机械结构中蚀刻着密文魔法，用于显现可被操纵的魔法物品。
+familiar	1	familiar::1: Poor Name	Caged Familiar 	笼中使魔
+familiar	2	familiar::2: Poor Description	Shrivelled familiar that negates Mana drain when using Lore. #This Endless familiar acts as a conduit for tests of magical ability, negating the strain on its owner's neural system. It sometimes chuckles to itself, as if privy to some private jest.	一只干瘪的使魔，使用博识时不消耗法力。#这只无尽者使魔充当魔法能力测试的导管，替主人承受神经系统的负担。它偶尔会自己咯咯发笑，仿佛知晓什么私密笑话。
+vampiricAmulet	1	vampiricAmulet::1: Poor Name	Vampiric Amulet	吸血护符
+vampiricAmulet	2	vampiricAmulet::2: Poor Description	An amulet that leeches Health when attacking an enemy. #This jewelry looks very old, and a tiny creature appears to be trapped within its stone. It is said that in the Middle Ages, before cipher magic was fully understood, nobles would oft enslave minor deities in jewelry.	一枚攻击敌人时汲取生命的护符。#这首饰看起来非常古老，宝石里似乎困着一只微小的生物。据说在中世纪，密文魔法尚未被完全理解的年代，贵族常把小神明奴役在首饰里。
+guildMask	1	guildMask::1: Poor Name	Trade Guild Mask	商会面具
+guildMask	2	guildMask::2: Poor Description	A mask that grants a chance of a discount when buying goods. #The Order of Three and One, though shrouded in mystery, is known to every trader in the Apostatic Union - and even some outside it. Shopkeepers will often try to curry favour with such a legendary guild. 	一副购物时有几率获得折扣的面具。#三一商会虽然笼罩在神秘之中，却为叛教联盟每一位商人所知——甚至包括一些联盟之外的。店主们常常争相讨好这位传奇商会。
+perfume	1	perfume::1: Poor Name	Alluring Perfume	迷情香水
+perfume	2	perfume::2: Poor Description	A perfume bottle inscribed with cipher, useful when persuading others with Charm. #Enchanted vapours can be powerful, but unreliable. This item grants a small chance to pass a Charm test that the user would otherwise fail.	一瓶刻有密文的香水，用魅惑说服他人时很有用。#附魔的香气威力可观，却不稳定。此物让你有较小几率通过本会失败的魅惑考验。
+summonAccessory	1	summonAccessory::1: Poor Name	Summoner's Earring	召魂耳环
+summonAccessory	2	summonAccessory::2: Poor Description	A dangling earring in the shape of a skull, carved from a piece of real bone. #This macabre accessory grants power over the dead, allowing its wearer to summon an additional skeleton in battle.	一只骷髅形状的垂坠耳环，用一块真骨雕成。#这阴森的饰品赋予支配亡者的力量，让穿戴者在战斗中额外召唤一名骷髅。
+charmDeadGod	1	charmDeadGod::1: Poor Name	Charm of the Dead God	亡神护符
+charmDeadGod	2	charmDeadGod::2: Poor Description	Through unspeakable ritual, this charm has been infused with the remnant psyche of a dead god, providing its wearer with a boost to [[Health]], [[Mana]] and [[Stamina]]#Since the God War, this rogue Wikkan sect has quietly prepared its retribution.	通过不可名状的仪式，这枚护符被灌入了一位死去神明的残存心智，为穿戴者提供[[生命值]]、[[法力值]]与[[体力]]加成#自神之战以来，这个离经叛道的维坎教派一直在悄悄筹备复仇。
+punishmentGlove	1	punishmentGlove::1: Poor Name	Sadist's Glove	虐待狂手套
+punishmentGlove	2	punishmentGlove::2: Poor Description	A sadistic glove, designed to make physical attacks more painful.#After the sectarian schism and their defeat in the God War, the radical Wikkan denomination adopted increasingly brutal attitudes toward discipline.	一只虐待狂手套，专为让物理攻击更痛苦而设计。#在教派分裂与神之战败北之后，激进的维坎教派对惩戒采取了愈发残酷的态度。
+summonRing	1	summonRing::1: Poor Name	Summoner's Ring  	召魂戒指
+summonRing	2	summonRing::2: Poor Description	A tarnished ring with a tiny skull, carved from real bone, where the gem ought to be. #This macabre accessory grants power over the dead, allowing its wearer to summon an additional skeleton in battle.	一枚黯淡的戒指，本该镶宝石的位置雕着一颗真骨刻成的小骷髅。#这阴森的饰品赋予支配亡者的力量，让穿戴者在战斗中额外召唤一名骷髅。
+ringAmber	1	ringAmber::1: Poor Name	Ring of Health	生命之戒
+ringAmber	2	ringAmber::2: Poor Description	Increases Health.	提升生命值。
+ringGreen	1	ringGreen::1: Poor Name	Ring of Stamina	体力之戒
+ringGreen	2	ringGreen::2: Poor Description	Increases Stamina.	提升体力。
+ringBlue	1	ringBlue::1: Poor Name	Ring of Mana	法力之戒
+ringBlue	2	ringBlue::2: Poor Description	Increases Mana.	提升法力值。
+ringHealth	1	ringHealth::1: Poor Name	Common Ring of Health	普通生命之戒
+ringHealth	2	ringHealth::2: Poor Description	Boosts the [[Health]] of its wearer. #A mass-produced replica of an ancient design, which predates even the World Rend.#The power of its enchantment is marred by mediocre craftsmanship.	提升穿戴者的[[生命值]]。#古代设计的量产仿品，其历史甚至早于世界撕裂。#平庸的工艺削弱了附魔的威力。
+ringHealthPlus	1	ringHealthPlus::1: Poor Name	Rare Ring of Health	稀有生命之戒
+ringHealthPlus	2	ringHealthPlus::2: Poor Description	Boosts the [[Health]] of its wearer [[significantly]]. #A genuine health ring from ancient Thwyf. Expertly restored by a master jewler. Despite its age, the potency of its enchantment is a testament to the advanced magic of the surface kingdoms.	[[大幅]]提升穿戴者的[[生命值]]。#一枚来自古斯威夫的真品生命之戒，由珠宝大师精心修复。尽管年代久远，其附魔的效力足以证明地表诸王国的魔法何等先进。
+ringMana	1	ringMana::1: Poor Name	Ring of Mana	法力之戒
+ringMana	2	ringMana::2: Poor Description	Boosts the [[Mana]] of its wearer. #Such rings of vitality are widely used in the Apostatic Union. Trapped within the gem is an endless spell, which bonds with the wearer's neural system. 	提升穿戴者的[[法力值]]。#这类活力之戒在叛教联盟应用广泛。宝石中封存着一道无尽咒语，与穿戴者的神经系统相连。
+ringManaPlus	1	ringManaPlus::1: Poor Name	Great Ring of Mana	强效法力之戒
+ringManaPlus	2	ringManaPlus::2: Poor Description	Boosts the [[Mana]] of its wearer [[significantly]].#This ring was hand-crafted long ago by a sorcerer who sought to challenge the great Pentinent Thaw.	[[大幅]]提升穿戴者的[[法力值]]。#这枚戒指是古时一位术士的手工之作，他曾想向伟大的忏悔者·索发起挑战。
+ringStamina	1	ringStamina::1: Poor Name	Ring of Stamina	体力之戒
+ringStamina	2	ringStamina::2: Poor Description	Boosts the [[Stamina]] of its wearer. #Trapped within the gem is a spell which bonds with the wearer's nervous system. Although once mass-produced, antique rings like this have become a rarity. 	提升穿戴者的[[体力]]。#宝石中封存着一道与穿戴者神经系统相连的咒语。虽曾大量生产，这样的古董戒指如今已成稀罕物。
+ringStaminaPlus	1	ringStaminaPlus::1: Poor Name	Beloved Ring of Stamina	挚爱体力之戒
+ringStaminaPlus	2	ringStaminaPlus::2: Poor Description	Boosts the [[Stamina]] of its wearer [[significantly]].#A mass-produced ring which was well-loved by a certain mighty owner. This bond has given the ring a heightened accuity, binding to its wearers' nervous systems more deeply.	[[大幅]]提升穿戴者的[[体力]]。#一枚量产戒指，曾深受某位强者喜爱。这份羁绊赋予了戒指敏锐的灵性，与穿戴者的神经系统结合得更加紧密。
+ringRobust	1	ringRobust::1: Poor Name	Ring of The Robust	强健之戒
+ringRobust	2	ringRobust::2: Poor Description	An adaptable ring offering a minor boost to [[Health]], [[Mana]] and [[Stamina]].#Long ago, a royal matriarch wore this enchanted ring to war. Over the generations, the stories and meaning faded from this heirloom.	一枚全能的戒指，为[[生命值]]、[[法力值]]与[[体力]]提供小幅加成。#很久以前，一位王室女族长曾戴着这枚附魔之戒出征。世代流传间，这传家宝的故事与意义已渐渐湮没。
+ringRejuvinate	1	ringRejuvinate::1: Poor Name	Band of Rejuvenation	回春之环
+ringRejuvinate	2	ringRejuvinate::2: Poor Description	This ring allows [[Health]] to [[regenerate]], based on the wearer's Regen stat. #A rare trinket indeed, that fundamentally changes the physiology of its wearer. 	这枚戒指能让[[生命值]]随穿戴者的回复属性[[再生]]。#确是罕见的小玩意，能从根本上改变穿戴者的生理机能。
+ringRejuvinateWeak	1	ringRejuvinateWeak::1: Poor Name	Faded Band of Rejuvenation	褪色的回春之环
+ringRejuvinateWeak	2	ringRejuvinateWeak::2: Poor Description	This ring allows [[Health]] to [[regenerate]] slowly, based on the wearer's Regen stat. #A rare trinket indeed, damage from centuries of use has dulled the once-potent enchantment.	这枚戒指能让[[生命值]]随穿戴者的回复属性缓慢[[再生]]。#确是罕见的小玩意，但数百年的使用损耗已让曾经强效的附魔变得黯淡。
+ringStimulus	1	ringStimulus::1: Poor Name	Band of Stimulus	激励之环
+ringStimulus	2	ringStimulus::2: Poor Description	This ring allows [[Mana]] to [[regenerate]], based on the wearer's Regen stat. #A rare trinket indeed, that fundamentally changes the physiology of its wearer. 	这枚戒指能让[[法力值]]随穿戴者的回复属性[[再生]]。#确是罕见的小玩意，能从根本上改变穿戴者的生理机能。
+ringSpellcraft	1	ringSpellcraft::1: Poor Name	Ring of Spellcraft	咒艺之戒
+ringSpellcraft	2	ringSpellcraft::2: Poor Description	This ring grants a chance of a [[critical cast]]; momentarily boosting the user's Spellcast. #Though an unreliable trinket, sudden surges in magical potential can make all the difference.	这枚戒指有几率触发[[施法暴击]]，瞬间提升使用者的施法。#虽是不可靠的小玩意，但魔力潜能的突然迸发往往能扭转乾坤。
+ringStoneskin	1	ringStoneskin::1: Poor Name	Ring of Stoneskin	石肤之戒
+ringStoneskin	2	ringStoneskin::2: Poor Description	This ring increases the wearer's [[Defence]]. #Such protective charms work by hardening the skin of the wearer; though extended use can stiffen joints and - in more disturbing cases - cause petrification. 	这枚戒指提升穿戴者的[[防御]]。#此类护身咒术以硬化穿戴者的皮肤生效；但长期使用会导致关节僵硬——更骇人的情况下，甚至会引发石化。
+ringStoneskinPlus	1	ringStoneskinPlus::1: Poor Name	Ring of Ironskin	铁肤之戒
+ringStoneskinPlus	2	ringStoneskinPlus::2: Poor Description	This enhanced ring greatly increases the wearer's [[Defence]] by hardening their skin. #Intricate details of pure emberian ore seem to have been added to this ring by some long-forgotten craftsman.	这枚强化戒指以硬化皮肤的方式大幅提升穿戴者的[[防御]]。#某位早已被遗忘的匠人，似乎用纯余烬矿在这枚戒指上添了繁复的纹饰。
+ringFeather	1	ringFeather::1: Poor Name	Ring of Featherfoot	羽足之戒
+ringFeather	2	ringFeather::2: Poor Description	This ring [[prevents damage from falling]]. #Oft used by acrobats and burglars alike, no fall is too great for the wearer of such a charm; though it is always advisable to make sure one can return from whence they plunge.	这枚戒指[[免疫坠落伤害]]。#杂技演员与飞贼都爱用它，对佩戴这种护符的人来说，再高的坠落也不在话下；不过最好还是确认一下，跳下去之后有没有路能回来。
+ringBargain	1	ringBargain::1: Poor Name	Ring of Bargain	议价之戒
+ringBargain	2	ringBargain::2: Poor Description	This ring increases the wearer's [[Barter]]. #Such charms are frowned upon in the marketplaces of Vena, though this does not stop merchants themselves from lining their fingers with similar trinkets. 	这枚戒指提升穿戴者的[[交易]]。#维纳的集市上并不待见此类护符，但这并不妨碍商人们自己在手指上套满类似的小玩意。
+ringBargainPlus	1	ringBargainPlus::1: Poor Name	Swindler's Ring	骗徒之戒
+ringBargainPlus	2	ringBargainPlus::2: Poor Description	This ring greatly increases the wearer's [[Barter]]. #The modified enticement spell in this ring is tantamount to theft. For this reason, it is sometimes called 'the ring of lost fingers'.	这枚戒指大幅提升穿戴者的[[交易]]。#其中改造过的诱惑法术与偷窃无异。因此，它有时也被称为"断指之戒"。
+ringPotion	1	ringPotion::1: Poor Name	Ring of Potency	药效之戒
+ringPotion	2	ringPotion::2: Poor Description	This ring increases the [[potency of potions]]. #Many alchemists utilise magical items such as these, to savour every drop of utility from their concoctions.	这枚戒指提升[[药水的效力]]。#许多炼金师会使用这类魔法物品，好从调配物中榨出每一滴效用。
+ringPoisonResist	1	ringPoisonResist::1: Poor Name	Ring of the Snake	蛇纹之戒
+ringPoisonResist	2	ringPoisonResist::2: Poor Description	Renders the wearer immune to poison. #These useful trinkets are much prized by Riovan politicians, especially around election time.	使穿戴者免疫毒素。#这类实用的小玩意深受里奥瓦政客青睐，尤其在选举前后。
+ringSturdy	1	ringSturdy::1: Poor Name	Ring of Sturdiness	坚固之戒
+ringSturdy	2	ringSturdy::2: Poor Description	This ring greatly reduces the [[damage]] taken while [[blocking]]. #Forged long before the arrival of the Clockwork Kingdom, in an era when the Kardovan phalanx were nigh unmatched in the battlefield.	这枚戒指大幅减少[[格挡]]时受到的[[伤害]]。#锻造于发条王国崛起之前——在那个年代，卡尔多瓦方阵在战场上几乎难逢敌手。
+paeguthKey	1	paeguthKey::1: Poor Name	Paeguth's Key	帕古斯之钥
+paeguthKey	2	paeguthKey::2: Poor Description	A key bestowed to loyal followers of Paeguth. The god's lair is said to be nestled under an old castle; though few have claimed to have met the dread creature in person.	帕古斯忠诚信徒所获的钥匙。据说这位神的巢穴藏在一座古堡之下；但鲜少有人声称亲眼见过那头可怕的存在。
+paeguthArtifact	1	paeguthArtifact::1: Poor Name	Artifact of Paeguth	帕古斯圣物
+paeguthArtifact	2	paeguthArtifact::2: Poor Description	This statue is soft to the touch and seems to shift slowly, as if breathing...#The flying merchant's guild will surely pay handsomely for such a relic.	这尊雕像触手柔软，似乎在缓缓蠕动，仿佛正在呼吸……#飞翼商会一定会为这样的圣物出个大价钱。
+paeguthAspect	1	paeguthAspect::1: Poor Name	Aspect of Paeguth	帕古斯面相
+paeguthAspect	2	paeguthAspect::2: Poor Description	An aspect of Paeguth itself. Being directly of the god's body, this can help spread his influence. Or perhaps, in the right hands, it could be used to deal the god a crippling blow...	帕古斯本体的一面。它直接取自神的躯体，可以帮助扩张祂的影响。又或者，在合适的人手里，它也能用来给这位神明一记致命重创……
+paeguthDgnKey	1	paeguthDgnKey::1: Poor Name	Old Ruin Key	古遗迹钥匙
+paeguthDgnKey	2	paeguthDgnKey::2: Poor Description	A rusty old key, found deep in a ruin. #Paeguth is an old god, with followers stretching back throughout the ages. Many of the ancient temples are said to still hold undisturbed treasures. 	一把锈蚀的旧钥匙，在遗迹深处发现。#帕古斯是位古老的神明，历代信徒绵延不绝。据说许多古神殿里仍有无人染指的宝藏。
+innogenCrate	1	innogenCrate::1: Poor Name	Crate of 'Silks'	一箱"丝绸"
+innogenCrate	2	innogenCrate::2: Poor Description	A girl asked you to carry this crate of 'Byonne Silks' over to Bardolf in the Wobbly Noggin's side room. #It seems to shift as you carry it, and a strange stench emanates from within.	一个姑娘请你把这箱"拜昂丝绸"搬到摇晃酒馆侧屋的巴道夫那里。#搬运时箱子似乎在动，里面还散发着一股怪异的恶臭。
+merchantLoot	1	merchantLoot::1: Poor Name	Merchant's Artifact	商人的圣物
+merchantLoot	2	merchantLoot::2: Poor Description	An artifact stolen from the esteemed merchant, Vernon Berwig. The right buyer might be interested in this.	从德高望重的商人弗农·伯维格那里偷来的圣物。找对买主的话，说不定有人感兴趣。
+passport	1	passport::1: Poor Name	Apostatic Union Passport	叛教联盟护照
+passport	2	passport::2: Poor Description	This document grants safe passage over a Union gatebridge. Each passport can only be used on one bridge, after which it is rendered void. #The Apostatic Union keeps a close eye on travellers - always suspicious of god worshippers and cultists.	此文件可让你安全通过一座联盟关卡桥。每本护照只能用于一座桥，用后作废。#叛教联盟对旅客盯得很紧——总怀疑他们是神明崇拜者或邪教徒。
+journal	1	journal::1: Poor Name	Inquisition Journal	宗教裁判所日志
+journal	2	journal::2: Poor Description	An Inquisition journal, standard issue for its agents. #The device is a marriage of clockwork technology and magical cipher. Though its pages appear to be paper, the writing changes based on the user's intent.	宗教裁判所日志，其探员的标配。#这件装置是发条技术与密文魔法的结晶。它的书页看似纸张，字迹却会随使用者的心意而变化。
+dreamJournal	1	dreamJournal::1: Poor Name	Dream Journal	梦境日记
+dreamJournal	2	dreamJournal::2: Poor Description	An old journal with yellowing pages. Flicking through, there are handwritten descriptions of strange events. A wedding in an ancient castle; an empire with impossible machines; a cataclysm, barely escaped.	一本页面泛黄的旧日记。随手翻阅，全是手写的怪事记述：古堡中的婚礼；坐拥匪夷所思机械的帝国；一场九死一生的浩劫。
+dreamersJournal	1	dreamersJournal::1: Poor Name	Dream Journal	梦境日记
+dreamersJournal	2	dreamersJournal::2: Poor Description	An old journal with yellowing pages. Flicking through, there are handwritten descriptions of strange events. A wedding in an ancient castle; an empire with impossible machines; a cataclysm, barely escaped.	一本页面泛黄的旧日记。随手翻阅，全是手写的怪事记述：古堡中的婚礼；坐拥匪夷所思机械的帝国；一场九死一生的浩劫。
+castlePoison	1	castlePoison::1: Poor Name	Sacrificial Poison	献祭之毒
+castlePoison	2	castlePoison::2: Poor Description	This bottle of crimson liquid is labelled 'Sacrificial Poison'. #It was found in a secret room of [[Castle Hallowshire]] - perhaps the castle's Wikkan priest can explain its purpose.	这瓶深红色的液体上标着"献祭之毒"。#它是在[[哈洛城堡]]的一间密室里发现的——或许城堡里的维坎祭司能解释它的用途。
+queenNecklace	1	queenNecklace::1: Poor Name	Necklace of Sacrifice	献祭项链
+queenNecklace	2	queenNecklace::2: Poor Description	A simple necklace studded with topaz. The sigil translates, roughly, to 'Sacrifice' - or perhaps 'Martyrdom.' #This necklace was worn by the [[Queen of the Endless]] when she was just a princess, dutifully laying down her life for her kingdom as her father commanded.	一条镶着黄玉的朴素项链。上面的徽记大致可译作"献祭"——或者"殉道"。#[[无尽女王]]尚为公主时便戴着这条项链，谨遵父命，为王国献出了自己的生命。
+thawMemoryPotion	1	thawMemoryPotion::1: Poor Name	Vial of Happiest Memories	至乐记忆瓶
+thawMemoryPotion	2	thawMemoryPotion::2: Poor Description	A potion brewed by [[Penitent Thaw]] from the happiest memories harvested of the mind-slurry.#It smells like freshly-cut grass and freshly-baked bread; a lover's perfume; a thunderous rain that has ended a decades-long drought, stirring the dead soil at last.	由[[忏悔者·索]]用从精神浆液中收割的最快乐记忆酿成的药剂。#它闻起来像刚割的青草和刚出炉的面包；像恋人的香水；像一场结束数十年大旱的雷雨，终于搅动了死寂的土壤。
+loyalBlood	1	loyalBlood::1: Poor Name	Blood of a Loyal Servant	忠仆之血
+loyalBlood	2	loyalBlood::2: Poor Description	A bottle of blood, supposedly of someone loyal to the [[Hooded King]]. #It is black and sluggish. When you hold the bottle upside-down, the blood clings stubbornly to the side of the glass and drips as slowly as magma.	一瓶血液，据说来自[[兜帽王]]的一位忠仆。#血色漆黑，流动滞缓。把瓶子倒过来时，血顽固地粘着瓶壁，像岩浆一样缓缓滴落。
+ribsCryptKey	1	ribsCryptKey::1: Poor Name	Castle of Ribs Crypt Key	肋骨城堡地宫钥匙
+ribsCryptKey	2	ribsCryptKey::2: Poor Description	The key to the [[crypts]] beneath the [[Castle of Ribs]]. It is ancient, spotted with rust, and heavy enough to crush a rat.	[[肋骨城堡]]下[[地宫]]的钥匙。它年代久远、锈迹斑斑，沉得能砸死一只老鼠。
+penitentKey	1	penitentKey::1: Poor Name	Penitent's Key	忏悔者的钥匙
+penitentKey	2	penitentKey::2: Poor Description	[[Maggotson]] called this a key, though it more closely resembles an orb of murky glass. If you were to approach [[Penitent's Sanctum]] holding this, you are assured, the doors will open.	[[马戈特森]]管这东西叫钥匙，虽然它更像一颗浑浊的玻璃球。据其保证，只要拿着它走近[[忏悔者圣所]]，大门自会开启。
+phageEggs	1	phageEggs::1: Poor Name	Cluster of Phage-Spider Eggs	一簇噬疫蛛卵
+phageEggs	2	phageEggs::2: Poor Description	A cluster of slimy, pulsating eggs, each the size of your fist.#Occasionally something sharp will prod against the membrane, like a needle pressing at a bedsheet. It looks like they could hatch at any minute.	一簇黏糊糊、搏动不停的卵，每颗都有拳头大小。#偶尔有什么尖锐的东西会顶一下卵膜，像针尖顶着床单。看上去随时都会孵化。
+urnAnguish	1	urnAnguish::1: Poor Name	Urn of Anguish	悲恸之瓮
+urnAnguish	2	urnAnguish::2: Poor Description	This urn is deathly cold to touch. It's sealed tight. #An inscription reads: 'Here are the ashes of untold numbers of Endless, who were burned by the living in the Years of Devouring. May the gods have mercy on us all.'	这只瓮摸上去死一般冰冷，封得严严实实。#铭文写着："此处是无尽数无尽者的骨灰，他们在吞噬之年被活人焚化。愿诸神垂怜我们所有人。"
+gasMask	1	gasMask::1: Poor Name	Filtration Mask	过滤面罩
+gasMask	2	gasMask::2: Poor Description	Ribbed leather tubes protrude from an alien snout, like the proboscis of some highly specialised insect. #Protects its wearer from the cursed air of the [[Underlands]], at the expense of fashion.	一条怪异的鼻状凸起上伸出的棱纹皮革管，活像某种高度特化昆虫的口器。#保护穿戴者免受[[地下之地]]受诅咒空气的侵害——代价是毫无时尚可言。
+tramKey	1	tramKey::1: Poor Name	Autocoach Key	自动车厢钥匙
+tramKey	2	tramKey::2: Poor Description	A key found on an [[Emberian]] conductor. Will open the doors of an [[autocoach]].	从[[余烬人]]列车员身上找到的钥匙。能打开[[自动车厢]]的门。
+underlandsKey	1	underlandsKey::1: Poor Name	Emberian Key	余烬钥匙
+underlandsKey	2	underlandsKey::2: Poor Description	An ancient key found in the [[Underlands]]. It might unlock one of the houses down there.	在[[地下之地]]发现的一把古钥匙。也许能打开那里某栋房子的门。
+curseWard	1	curseWard::1: Poor Name	Curse Ward	防咒护符
+curseWard	2	curseWard::2: Poor Description	A ring to ward off curses. Prevents one from contracting a curse. 	一枚抵御诅咒的戒指。使人免受诅咒。
+portalKey	1	portalKey::1: Poor Name	Portal Key	传送门钥匙
+portalKey	2	portalKey::2: Poor Description	A crystal key that will allow its bearer to activate and utilise [[Academy portals]]. #The transportation of humans through magical means is frowned upon by the Inquisition for its inherent danger, though the Erudite Academy is above scrutiny.	一把水晶钥匙，持有者可激活并使用[[学院传送门]]。#以魔法手段传送人类因固有危险而遭宗教裁判所非议，不过博识学院不受此等审查约束。
+academyProof	1	academyProof::1: Poor Name	Incriminating Notebook	罪证笔记
+academyProof	2	academyProof::2: Poor Description	A notebook belonging to Jerome Verrier, the Head Aetherist of the Erudite Academy. #It details the illegal experiments he has been performing on a captive god. [[The Inquisition would surely want to see this]]...	博识学院首席乙太师杰罗姆·维里耶的笔记。#里面详细记录了他对一名被囚神明进行的非法实验。[[宗教裁判所肯定想看看这个]]……
+map	1	map::1: Poor Name	Cartography Notebook	制图笔记
+map	2	map::2: Poor Description	A book stuffed full of charts and diagrams.#When equipped, it can be used to [[mark key landmarks]] and expand the map in your journal. #This notebook is enchanted with cipher, so that its charts will magically update even if the landscape changes.	一本塞满海图与图解的书。#装备后，可用来[[标记关键地标]]、扩展日志中的地图。#这本笔记以密文附魔，即便地貌改变，图上内容也会自动更新。
+mapChart	1	mapChart::1: Poor Name	Cartography Cipher-Chart	制图密文海图
+mapChart	2	mapChart::2: Poor Description	A chart you created in your Cartography Notebook. #This chart is enchanted with cipher, to magically update even if the landscape changes. You can give it to an [[Academy scholar]] to gain a reward.	你在制图笔记中绘制的海图。#这张海图以密文附魔，即便地貌改变也会自动更新。把它交给[[学院学者]]可获得奖励。
+mapChartSpecial	1	mapChartSpecial::1: Poor Name	Cartography Cipher-Chart	制图密文海图
+mapChartSpecial	2	mapChartSpecial::2: Poor Description	A sketch of a landmark you made in your Cartography Notebook. #On its own it is but a trifling detail, but it will help flesh out the Academy's map of the region. You can give it to an [[Academy scholar]] to gain a small reward.	你在制图笔记中为某处地标画的素描。#单看不过是细微之处，但能帮助充实学院的区域地图。把它交给[[学院学者]]可获得小额奖励。
+mapLandmark	1	mapLandmark::1: Poor Name	Cartography Landmark	制图地标
+mapLandmark	2	mapLandmark::2: Poor Description	A sketch of a landmark you made in your Cartography Notebook. #On its own it is but a trifling detail, but it will help flesh out the Academy's map of the region. You can give it to an [[Academy scholar]] to gain a small reward.	你在制图笔记中为某处地标画的素描。#单看不过是细微之处，但能帮助充实学院的区域地图。把它交给[[学院学者]]可获得小额奖励。
+academyLetter	1	academyLetter::1: Poor Name	Academy Recommendation	学院推荐信
+academyLetter	2	academyLetter::2: Poor Description	A letter of recommendation, that will allow access to the [[Erudite Academy]]. #The Academy itself flies all over the Apostatic Union, but it is currently hovering nearby. The [[entrance lift]] is on the ground somewhere in [[northern Hallowshire]]; this letter will grant access. 	一封推荐信，可让你进入[[博识学院]]。#学院本身漂移于叛教联盟各地，目前正好悬停在附近。[[入口升降机]]位于[[哈洛郡北部]]某处地面上；这封信便是通行凭证。
+collectibleHallow	1	collectibleHallow::1: Poor Name	Squirming Godlet	蠕动的稚神
+collectibleHallow	2	collectibleHallow::2: Poor Description	A squirming, writhing creature that looks at you with wet beady eyes, and occasionally squeals with some unknown intent. #The various factions in [[Hallowshire]] might be interested in such a specimin; perhaps the Apostatic Union or the Wikkans.	一只扭动挣扎的生物，用湿漉漉的小眼睛盯着你，偶尔发出不知何意的尖叫。#[[哈洛郡]]的各派系也许会对这样的标本感兴趣——比如叛教联盟，或者维坎教团。
+collectibleEndless	1	collectibleEndless::1: Poor Name	Faction Item Endless	Faction Item Endless
+collectibleEndless	2	collectibleEndless::2: Poor Description	text	text
+collectibleClockwork	1	collectibleClockwork::1: Poor Name	Faction Item CWK	Faction Item CWK
+collectibleClockwork	2	collectibleClockwork::2: Poor Description	text	text
+keyBone	1	keyBone::1: Poor Name	Bone Key	骨钥匙
+keyBone	2	keyBone::2: Poor Description	A key made of chiselled-down bone. #When placed to the ear, a very quiet voice can be heard: #<<''Seek the swamp,''>> it seems to say. <<''Seek the shell that points to the sky.''>>	一把用雕凿过的骨头制成的钥匙。#贴在耳边，能听到一个极轻的声音：#<<''去找沼泽，''>>它似乎在说。<<''去找那指向天空的壳。''>>
+bottledVisions	1	bottledVisions::1: Poor Name	Bottled Visions	瓶装幻象
+bottledVisions	2	bottledVisions::2: Poor Description	Youssef's Bottled Visions.	优素福的瓶装幻象。
+deedManor	1	deedManor::1: Poor Name	Thornwood Manor Deed	荆棘木庄园地契
+deedManor	2	deedManor::2: Poor Description	A deed stamped with the wax seal of the Apostatic Union, granting ownership of [[Thornwood Manor]] and its surrounding grounds. #The island is accessible by a wooden lift at the [[southern edge of Hallowshire]].	盖有叛教联盟火漆印的地契，将[[荆棘木庄园]]及其周围土地的所有权授予你。#可乘[[哈洛郡南缘]]的木质升降机前往该岛。
+deedSepulchre	1	deedSepulchre::1: Poor Name	Sepulchre House Deed	陵墓屋地契
+deedSepulchre	2	deedSepulchre::2: Poor Description	A deed stamped with the wax seal of the Endless Realm, granting ownership of a house in [[Sepulchre]].	盖有无尽领域火漆印的地契，将[[陵墓城]]一栋房屋的所有权授予你。
+deedFerropolis	1	deedFerropolis::1: Poor Name	Ferropolis House Deed	铁城房屋地契
+deedFerropolis	2	deedFerropolis::2: Poor Description	A deed stamped with the wax seal of the Clockwork Kingdom, granting ownership of a house outside [[Ferropolis]].	盖有发条王国火漆印的地契，将[[铁城]]城外一栋房屋的所有权授予你。
+manorKey	1	manorKey::1: Poor Name	Thornwood Manor Master Key	荆棘木庄园万能钥匙
+manorKey	2	manorKey::2: Poor Description	A heavy key, found squirrelled away within [[Thornwood Manor]]. #There are many locked doors throughout the Thornwood Estate; perhaps this key will unlock them.	一把沉重的钥匙，藏在[[荆棘木庄园]]内。#荆棘木庄园里有许多上锁的门；或许这把钥匙能把它们统统打开。
+manorStatueArm1	1	manorStatueArm1::1: Poor Name	Hourglass Statue Arm	沙漏雕像之臂
+manorStatueArm1	2	manorStatueArm1::2: Poor Description	A stone arm which holds an hourglass. #At the base of the arm is a bronze mechanism; it looks as though this arm could be attached to something.	一只托着沙漏的石臂。#臂根处有青铜机械结构；看起来这只手臂可以安装到什么东西上。
+manorStatueArm2	1	manorStatueArm2::1: Poor Name	Serpent Statue Arm	巨蛇雕像之臂
+manorStatueArm2	2	manorStatueArm2::2: Poor Description	A stone arm with a serpent wrapped around it. #At the base of the arm is a bronze mechanism; it looks as though this arm could be attached to something.	一条盘绕着巨蛇的石臂。#臂根处有青铜机械结构；看起来这只手臂可以安装到什么东西上。
+manorStatueHead	1	manorStatueHead::1: Poor Name	Statue Head	雕像头颅
+manorStatueHead	2	manorStatueHead::2: Poor Description	A stone head of an old and wizened face. #At the base of the neck is a bronze mechanism; it looks as though this head could be attached to something.	一颗苍老干枯面孔的石雕头颅。#颈根处有青铜机械结构；看起来这颗头颅可以安装到什么东西上。
+manorSpellbookKey	1	manorSpellbookKey::1: Poor Name	Manor Annex Key	庄园附楼钥匙
+manorSpellbookKey	2	manorSpellbookKey::2: Poor Description	A rusted key that is said to open a [[dilapidated manor house]], somewhere in Hallowshire's [[western forest]]. #This key was given to you by the vierme in the basement of Thornwood Manor, who asked you to retrieve an old spellbook...	一把锈蚀的钥匙，据说能打开哈洛郡[[西部森林]]某处一座[[破败的庄园宅邸]]。#这把钥匙是荆棘木庄园地下室的维尔姆给你的，它请你找回一本古老的法术书……
+manorSpellbook	1	manorSpellbook::1: Poor Name	Old Spellbook	古旧法术书
+manorSpellbook	2	manorSpellbook::2: Poor Description	A well worn and dusty spellbook, found in a dilapidated manor. #The pages detail an elaborate spell which binds a creature to a place. Is this the book that the vierme in the basement of [[Thornwood Manor]] asked you to retrieve? 	一本破旧蒙尘的法术书，在一座破败的庄园里发现。#书页详述了一道将生物束缚于一地的精妙法术。这就是[[荆棘木庄园]]地下室的维尔姆请你找回的那本书吗？
+furnishUnion	1	furnishUnion::1: Poor Name	Union Furnishings	联盟家具
+furnishUnion	2	furnishUnion::2: Poor Description	This contract grants access to Apostatic Union furnishings when redecorating a property. #It is signed by the owner of Glorious Garments in Hallow Town, who will provide the items. Note that redecorating any property usually costs a small fee. 	这份契约让你在重新装修房产时可选用叛教联盟风格的家具。#由哈洛镇华服店的店主签署，家具将由其提供。注意：重新装修房产通常需要一笔小费用。
+furnishEndless	1	furnishEndless::1: Poor Name	Endless Furnishings	无尽者家具
+furnishEndless	2	furnishEndless::2: Poor Description	This contract grants access to Endless Realm furnishings when redecorating a property. #It is signed by the owner of the Mouldy Cauldron in Sepulcre, who will provide the items. Note that redecorating any property usually costs a small fee. 	这份契约让你在重新装修房产时可选用无尽领域风格的家具。#由陵墓城霉锅店的店主签署，家具将由其提供。注意：重新装修房产通常需要一笔小费用。
+furnishClockwork	1	furnishClockwork::1: Poor Name	Clockwork Furnishings	发条家具
+furnishClockwork	2	furnishClockwork::2: Poor Description	This contract grants access to Clockwork Kingdom furnishings when redecorating a property. #It is signed by the owner of a Ferropolis shop, who will provide the items. Note that redecorating any property usually costs a small fee. 	这份契约让你在重新装修房产时可选用发条王国风格的家具。#由铁城某商店的店主签署，家具将由其提供。注意：重新装修房产通常需要一笔小费用。
+furnishOutlaw	1	furnishOutlaw::1: Poor Name	Outlaw Furnishings	法外之徒家具
+furnishOutlaw	2	furnishOutlaw::2: Poor Description	This contract grants access to Outlaw furnishings when redecorating a property. #It is signed by the owner of the Lost Purse shop, who will provide the items. Note that redecorating any property usually costs a small fee. 	这份契约让你在重新装修房产时可选用法外之徒风格的家具。#由失包黑店的店主签署，家具将由其提供。注意：重新装修房产通常需要一笔小费用。
+throwableKnife	1	throwableKnife::1: Poor Name	Throwing Knife	飞刀
+throwableKnife	2	throwableKnife::2: Poor Description	A well-balanced steel knife, designed to be thrown. #In Slev, thieves and thugs like to coat the blade with jitterseed extract for an additional sting.	一把配重精良的钢制飞刀，专为投掷而设计。#在斯列夫，小偷和打手喜欢在刀刃上涂颤籽提取液，平添一分刺痛。
+throwableKnife	3	throwableKnife::3: Common Name	Poison Throwing Knife	淬毒飞刀
+throwableKnife	4	throwableKnife::4: Common Description	A well-balanced steel knife dipped in jitterseed poison.	一把配重精良、浸过颤籽毒液的钢制飞刀。
+throwableStar	1	throwableStar::1: Poor Name	Shuriken	手里剑
+throwableStar	2	throwableStar::2: Poor Description	A deadly thrown weapon, the shuriken is both more dangerous and more difficult to manufacture than a simple throwing knife.	一种致命的投掷武器。比起简单的飞刀，手里剑更危险，也更难打造。
+throwableStar	3	throwableStar::3: Common Name	Poison Shuriken	淬毒手里剑
+throwableStar	4	throwableStar::4: Common Description	A deadly thrown weapon, the shuriken is both more dangerous and more difficult to manufacture than a simple throwing knife. #This one has had its razor-like blades dipped in jitterseed poison.	一种致命的投掷武器。比起简单的飞刀，手里剑更危险，也更难打造。#这一枚的锋利刃尖浸过颤籽毒液。
+rustburgKey	1	rustburgKey::1: Poor Name	Emberian Key	余烬钥匙
+rustburgKey	2	rustburgKey::2: Poor Description	An antique key, cut long ago. Unlocks the ancient Emberian structure above [[Rustburg]], past the Hallow farmlands #Emberian keys were said to be a mark of status in Emberian society, and kept the rabble from places of import.	一把古董钥匙，早已开好齿。可打开哈洛农田尽头、[[锈堡]]上方的古代余烬建筑#据说余烬钥匙是余烬社会身份的象征，将下等之辈挡在要地之外。
+endlessMinesKey	1	endlessMinesKey::1: Poor Name	Hymnal Key	圣咏钥匙
+endlessMinesKey	2	endlessMinesKey::2: Poor Description	A key received from the keybearer of the [[Crystal Children]], who in turn received it from the sculptor below.#Unlocks the doors leading to the [[Hymnal Chamber]], in the upper section of the caverns.	从[[水晶之子]]的持钥人手中接过的钥匙，而其又是从下面的圣雕师那里得来的。#可打开洞穴上层通往[[圣咏厅]]的门。
+terminusPrism	1	terminusPrism::1: Poor Name	Terminus Prism	终末棱镜
+terminusPrism	2	terminusPrism::2: Poor Description	A rare device created by scholars of the apostatic union. Only inquisitors of a certain calibre would be entrusted with such an expensive, specialized tool. #Capable of [[killing a nascent god]] in its earliest stages.	叛教联盟学者造出的稀世装置。只有达到一定资历的审判官才会被托付如此昂贵而专门的工具。#能够[[杀死尚处最早期形态的初生神明]]。
+cadaverKey	1	cadaverKey::1: Poor Name	Cadaver Keep Key	尸骸要塞钥匙
+cadaverKey	2	cadaverKey::2: Poor Description	A rusty old key, caked in blood. Said to operate an elevator somewhere deep in [[Cadaver Keep]]. #It is well known that the Cadavers indulge in deviant desires, which may explain this key's particular grime.  	一把锈迹斑斑的旧钥匙，结满血垢。据说可启动[[尸骸要塞]]深处某处的电梯。#众所周知，尸骸派沉溺于种种变态欲望——这把钥匙上特别的污垢或许就是明证。
+missingFinger	1	missingFinger::1: Poor Name	Bloody Stump	血淋淋的断指
+missingFinger	2	missingFinger::2: Poor Description	Your finger has been [[sliced off]], leaving only bloody stump. #With every heartbeat your hand throbs with pain; [[your abilities]] will be [[hindered]] until you can do something about this.	你的手指被[[切掉了]]，只剩血淋淋的残根。#每一次心跳，手掌都抽痛不已；在你设法处理之前，[[你的能力]]将受[[阻碍]]。
+duchessDaughter	1	duchessDaughter::1: Poor Name	Ellyn's Hand	艾琳的手
+duchessDaughter	2	duchessDaughter::2: Poor Description	The severed hand of Ellyn, the Duchess' daughter.#You should return it to her mother with haste. 	女公爵之女艾琳被切断的手。#你应该尽快把它送还给她母亲。
+spectralFinger	1	spectralFinger::1: Poor Name	Spectral Finger	幽灵手指
+spectralFinger	2	spectralFinger::2: Poor Description	Your finger has been replaced with a cipher facsimile. #This new digit pulses with magical energy and is unnaturally dexterous. It should prove useful when [[picking locks]]... 	你的手指被一具密文复制品取代了。#这根新手指涌动着魔力，灵活得不正常。在[[开锁]]时应该很好用……
+triangleKey	1	triangleKey::1: Poor Name	Triangle Key	三角钥匙
+triangleKey	2	triangleKey::2: Poor Description	A heavy key with a triangular pin.#Found in the corrupted city of Progress, in the Clockwork Kingdom.	一把带三角形齿的沉重钥匙。#在发条王国遭腐化的进步城中发现。
+squareKey	1	squareKey::1: Poor Name	Square Key	方孔钥匙
+squareKey	2	squareKey::2: Poor Description	A heavy key with a square-shaped pin..#Found in the corrupted city of Progress, in the Clockwork Kingdom.	一把带方形齿的沉重钥匙。#在发条王国遭腐化的进步城中发现。
+redKey	1	redKey::1: Poor Name	Red Key	红钥匙
+redKey	2	redKey::2: Poor Description	An old metal key, red from from oxidation.#Unlocks the [[dilpidated manor]] at the foot of the great [[castle]] in Hallowshire.	一把老旧的金属钥匙，因氧化而泛红。#可打开哈洛郡大[[城堡]]脚下那座[[破败庄园]]的门。
+factoryKey	1	factoryKey::1: Poor Name	Factory Keyring	工厂钥匙圈
+factoryKey	2	factoryKey::2: Poor Description	A keyring found inside the roaming factory in the northern farmlands of the Clockwork Kingdom.#Unlocks its [[sister-factory]] to the [[south-east]]. Lost to the Corruption, the second factory now sits abandoned...	在发条王国北部农田那座游走工厂里找到的钥匙圈。#可打开位于[[东南方]]的[[姊妹工厂]]。第二座工厂已被腐化吞噬，如今废弃无人……
+musicBoxCylinder	1	musicBoxCylinder::1: Poor Name	Music Box Cylinder	音乐盒圆筒
+musicBoxCylinder	2	musicBoxCylinder::2: Poor Description	A slender brass cylinder bristling with tiny needles, designed to fit a clockwork music box. [[Horace Metcalfe]] might know more. #The early Machinists imagined a new kind of everyday luxury; ''bread for all, but roses too''.	一根细长的黄铜圆筒，密布细小的尖针，专为发条音乐盒设计。[[霍勒斯·梅特卡夫]]或许知道更多。#早期机械师们畅想着一种新的日常奢华：''人人有面包，也要有玫瑰''。
+cwkGraveyardKey	1	cwkGraveyardKey::1: Poor Name	Object Graveyard Key	物件墓场钥匙
+cwkGraveyardKey	2	cwkGraveyardKey::2: Poor Description	An angular key crafted with eerie precision, which opens the gate to the [[Object Graveyard]] in the Clockwork Kingdom. #Its Majesty has ordered all royal institutions to install punchcard locks by the end of Century 0, but many are behind schedule.	一把棱角分明、以诡异精度打造的钥匙，可打开发条王国[[物件墓场]]的大门。#它陛下已下令所有王室机构须在零世纪结束前换装打孔卡锁，但许多单位进度滞后。
+travelPermit	1	travelPermit::1: Poor Name	Clockwork Travel Permit	发条通行许可
+travelPermit	2	travelPermit::2: Poor Description	A sought-after document allowing passage through the [[gatebridges]] at the borders of the Clockwork Kingdom. #It is stamped with a royal monogram, and carries the warning: 'NO TAMPERING ON PAIN OF ANNIHILATION, BY ORDER OF MACHINUS REX.'	一份炙手可热的文件，可让你通过发条王国边境的[[关卡桥]]。#上面盖着王室花押印，并附警告："擅动者，抹除无赦——机械王勒令。"
+mikhailPassport	1	mikhailPassport::1: Poor Name	Mikhail's Passport	米哈伊尔的护照
+mikhailPassport	2	mikhailPassport::2: Poor Description	A crudely-drawn parody of an Apostatic Union passport, complete with a caricature of your face. The cover reads: 'Safe passage with Misha, guaranteed!' #Entitles the bearer to fly between Hallowshire and the Clockwork Kingdom with Mikhail the sky sailor.	一本画风粗糙的叛教联盟护照戏仿版，还画着一张你的漫画头像。封面写着："米沙随行，安全保证！"#持此照者可搭乘天空水手米哈伊尔的飞艇，往返于哈洛郡与发条王国之间。
+visionsYoussef	1	visionsYoussef::1: Poor Name	Youssef's Bottled Message	优素福的瓶中信
+visionsYoussef	2	visionsYoussef::2: Poor Description	A glass bottle wrapped in cheap sackcloth, with the name 'Yasmeen' inked on it in careful, curling script. #Bottled visions are a subject of feverish moral debate in capitals of the Union, with some scholars claiming that long-term use causes disconnection from reality.	一只用粗麻布包裹的玻璃瓶，上面用工整的花体墨迹写着"亚斯敏"的名字。#瓶装幻象在联盟各国首都是狂热道德争论的焦点，一些学者声称长期使用会导致与现实脱节。
+visionsFrost	1	visionsFrost::1: Poor Name	Metcalfe's Vision	梅特卡夫的幻象
+visionsFrost	2	visionsFrost::2: Poor Description	A bottled vision from the private stash of [[Horace Metcalfe]] containing a [[clue]] to his missing past.#To see what it contains, you'll have to [[consume]] the bottle yourself.	一瓶[[霍勒斯·梅特卡夫]]私藏的瓶装幻象，藏着关于他失落的过去的[[线索]]。#想看看里面有什么，你得亲自[[饮用]]这瓶幻象。
+visionsA	1	visionsA::1: Poor Name	Ominous Bottled Vision	不祥瓶装幻象
+visionsA	2	visionsA::2: Poor Description	A perfect copy of a single vivid dream. #These lurid fantasies are a subject of feverish moral debate in the Union. This one is by 'B. Morozov', and contains scenes of surreal divinity and moderate dread.	一场鲜活梦境的完美复刻。#这类煽情幻象在联盟内部引发了狂热的道德争论。这一瓶出自"B. 莫罗佐夫"之手，内容包括超现实的神性景象与中度惊惧。
+visionsB	1	visionsB::1: Poor Name	Bittersweet Bottled Vision	苦乐参半的瓶装幻象
+visionsB	2	visionsB::2: Poor Description	A perfect copy of a single vivid dream. #These lurid fantasies are a subject of feverish moral debate in the Union. This one is by 'Anonymous', and contains scenes of tenderness and devastating heartbreak.	一场鲜活梦境的完美复刻。#这类煽情幻象在联盟内部引发了狂热的道德争论。这一瓶出自"佚名"之手，内容包括温柔场景与令人心碎的诀别。
+visionsC	1	visionsC::1: Poor Name	Terrifying Bottled Vision	惊魂瓶装幻象
+visionsC	2	visionsC::2: Poor Description	A perfect copy of a single vivid dream. #These lurid fantasies are a subject of feverish moral debate in the Union. This one is by 'A. Quarshie', and contains scenes of academia and severe paranoia.	一场鲜活梦境的完美复刻。#这类煽情幻象在联盟内部引发了狂热的道德争论。这一瓶出自"A. 夸希"之手，内容包括学术场景与严重的偏执妄想。
+visionsD	1	visionsD::1: Poor Name	Passionate Bottled Vision	炽情瓶装幻象
+visionsD	2	visionsD::2: Poor Description	A perfect copy of a single vivid dream. #These lurid fantasies are a subject of feverish moral debate in the Union. This one is by 'B. Morozov', containing aristocratic nostalgia and scenes of an erotic nature.	一场鲜活梦境的完美复刻。#这类煽情幻象在联盟内部引发了狂热的道德争论。这一瓶出自"B. 莫罗佐夫"之手，带有贵族式的怀旧情调与情色内容。
+visionsE	1	visionsE::1: Poor Name	Quizzical Bottled Vision	离奇瓶装幻象
+visionsE	2	visionsE::2: Poor Description	A perfect copy of a single vivid dream.#These lurid fantasies are a subject of feverish moral debate in the Union. This one is by 'Carl von Pripp', and contains scenes of mild anxiety and spiders.	一场鲜活梦境的完美复刻。#这类煽情幻象在联盟内部引发了狂热的道德争论。这一瓶出自"卡尔·冯·普里普"之手，内容包括轻微焦虑与蜘蛛。
+visionsF	1	visionsF::1: Poor Name	Thrilling Bottled Vision	惊险瓶装幻象
+visionsF	2	visionsF::2: Poor Description	A perfect copy of a single vivid dream.#These lurid fantasies are a subject of feverish moral debate in the Union. This one is by 'Horace Metcalfe', and contains scenes of moderate peril and frequent daredevilry.	一场鲜活梦境的完美复刻。#这类煽情幻象在联盟内部引发了狂热的道德争论。这一瓶出自"霍勒斯·梅特卡夫"之手，内容包括中度危险与大量玩命壮举。
+loreBoost	1	loreBoost::1: Poor Name	Emberian Calculator	余烬计算器
+loreBoost	2	loreBoost::2: Poor Description	A device from long-ago Emberia that permanently increases your Lore. #The mechanism ticks and taps with the sound of thousands of secret calculations per second, working to the rhythm of a civilization long since silenced.	一件远古余烬国的装置，可永久提升你的博识。#机构发出滴答轻响，仿佛每秒都在进行成千上万次隐秘计算，应和一个早已沉寂的文明的节拍。
+charmBoost	1	charmBoost::1: Poor Name	Charisma Augment	魅力增幅器
+charmBoost	2	charmBoost::2: Poor Description	Spectacularly useful, if a little intrusive, this device permanently increases your Charm. #After all, who isn't more charismatic with a cipher-ensorcelled metal spike inserted through their ear canal and into their cerebellum?	这件装置效果拔群——虽然有点侵入性——可永久提升你的魅惑。#毕竟，一根密文附魔的金属尖刺穿过耳道直插入小脑，谁能不魅力四射呢？
+barterBoost	1	barterBoost::1: Poor Name	Canine of Commerce	商务犬齿
+barterBoost	2	barterBoost::2: Poor Description	A gold tooth, inscribed with cipher-spells of luck and money, which will boost your Barter skills permanently. #Of course, you'll need to have - or make - a suitable empty tooth-socket in your jaw, but imagine the savings!	一颗金牙，刻有幸运与金钱的密文咒语，可永久提升你的交易技能。#当然，你得先有一颗——或者自己"腾出"一颗——合适的空牙窝，但想想能省下多少钱吧！
+agilityBoost	1	agilityBoost::1: Poor Name	Quickstep Socks	疾步袜
+agilityBoost	2	agilityBoost::2: Poor Description	These much-repaired socks provide a permanent boost to your Agility. #Hugging your toes warmly, these socks seem to know better than you do where to put your feet. 	这几双缝补多次的袜子可永久提升你的敏捷。#它们温暖地裹住你的脚趾，似乎比你更清楚下一步该往哪儿踩。
+spellcastBoost	1	spellcastBoost::1: Poor Name	Arcane Accumulator	奥术蓄能器
+spellcastBoost	2	spellcastBoost::2: Poor Description	An intricate piece of enciphered machinery that permanently boosts your spellcasting ability. #The scribing of metacipher - cipher that enhances other cipher - is perhaps the most abstruse and elevated of the magical arts.	一件精密复杂的密文机械，可永久增强你的施法能力。#元密文的誊写——即强化其他密文的密文——或许是魔法技艺中最晦涩高深的一门。
+crystalBoost	1	crystalBoost::1: Poor Name	Epoch Crystal Shard	纪元水晶碎片
+crystalBoost	2	crystalBoost::2: Poor Description	A silver of genuine epoch crystal, this treasure harmonises your body with the islands' network of crystals, ensuring that when you use a crystal point your health is restored. 	一片货真价实的纪元水晶，这件宝物能让你的身体与群岛的水晶网络同调，确保你每次使用水晶锚点时生命都会回复。
+bedBoost	1	bedBoost::1: Poor Name	Sleeper Mask	安眠面具
+bedBoost	2	bedBoost::2: Poor Description	A crude wooden mask of the kind the Endless wear to hide their faces. This one is worn when sleeping and eliminates the possibility of being attacked in an unsafe bed. #The sleep of the dead, it is said, is infinitely peaceful.	一副粗陋的木面具，无尽者常戴这类面具遮住脸。睡觉时戴上它，睡在不安全的床上也不会遭袭。#据说死者的睡眠无限安宁。
+ringBloodSyphon	1	ringBloodSyphon::1: Poor Name	Blood Syphon Ring	汲血戒指
+ringBloodSyphon	2	ringBloodSyphon::2: Poor Description	This ring fits snugly around your finger and prickles in battle, drawing on your health to increase your attack damage. #Putting it on is unnervingly like putting your finger into a snake's mouth and waiting for it to bite down.	这枚戒指紧贴手指，战斗中隐隐刺痛，以你的生命为代价提升攻击伤害。#戴上它的感觉令人不安，就像把手指伸进蛇嘴里，等它咬合下来。
+ringMindSyphon	1	ringMindSyphon::1: Poor Name	Mind Syphon Ring	汲心戒指
+ringMindSyphon	2	ringMindSyphon::2: Poor Description	This ring draws on the powers of the mind and converts them into something more kinetic, trading mana for increased damage in battle. #The ring hungers: whenever you think hard, your fingers twist and flutter violently, as if around unseen throats.	这枚戒指汲取精神之力，将其转化为更具动能的东西，以法力换取战斗中更高的伤害。#这枚戒指渴求着什么：每当你深入思考，手指便会剧烈扭动抽搐，仿佛正掐着看不见的喉咙。
+paeguthParasite	1	paeguthParasite::1: Poor Name	Leech of Truth	真理之蛭
+paeguthParasite	2	paeguthParasite::2: Poor Description	Bonding with this squirming leech opens your eyes to the mysteries of the unseen and the illusionary, at a small ongoing cost to your mana.#The glistening mouthparts of this creature at the base of your skull feel like a lover's lingering kiss.	与这条蠕动的蛭子缔结契约，你便能看穿无形与幻象之谜，代价是法力持续小幅流失。#这生物闪亮的口器贴在你颅底的感觉，宛如恋人缠绵不舍的一吻。
+unionCharm	1	unionCharm::1: Poor Name	Apostatic Amulet	叛教护符
+unionCharm	2	unionCharm::2: Poor Description	Wearing this emblem of the Apostatic Union, you can feel your stamina restoring, even as you also sense your mana ebbing away from you. #The most zealous soldiers of the God War, eager to show their disdain for the supernatural, wore these prominently.	佩戴这枚叛教联盟的徽记，你能感到体力在回复，同时也能察觉法力在缓缓流逝。#神之战中最狂热的士兵们急于表露对超自然之物的蔑视，总是高高佩戴着它。
+summonSpider	1	summonSpider::1: Poor Name	Rapid Myrmidon Petition	迅捷斯堤兵征召令
+summonSpider	2	summonSpider::2: Poor Description	A formal plea for [[assistance]] from the Clockwork King, pre-approved but requiring a hefty vouchsafe of [[blood]]. #Given the ongoing shortage of non-schismatic Myrmidons, the issuance of this device bespeaks considerable favour with Its Majesty.	一份向发条王请求[[协助]]的正式呈文，已预先批准，但需要以大量[[鲜血]]作保。#鉴于正统斯堤兵持续短缺，能获发此物足见你深得它陛下器重。
+aphraNote	1	aphraNote::1: Poor Name	Enigmatic Note	神秘字条
+aphraNote	2	aphraNote::2: Poor Description	A handwritten note: #''We must speak, but hostile eyes are watching. Meet me after [[nightfall]] in the [[park]] in [[Upper Ferropolis]]. I'll be waiting under the [[gazebo]].#Come alone. TRUST NO ONE. - A Friend''	一张手写字条：#''我们必须谈谈，但敌意在暗中窥伺。[[夜幕降临]]后到[[上铁城]]的[[公园]]见我。我在[[凉亭]]下等你。#独自前来。别信任何人。—— 一位朋友''
+aphraHouseKey	1	aphraHouseKey::1: Poor Name	Aphra's House Key	阿芙拉的家门钥匙
+aphraHouseKey	2	aphraHouseKey::2: Poor Description	A thin, flat strip of metal with dozens of tiny holes bored through it. Not exactly your run-of-the-mill key. #Unlocks a door in the Conduits - the lower section of Ferropolis.	一条薄薄的金属片，上面钻着几十个小孔，可不是寻常钥匙。#可打开导管区——铁城下城区——的一扇门。
+aphraPunchcard	1	aphraPunchcard::1: Poor Name	Aphra's Punchcard	阿芙拉的打孔卡
+aphraPunchcard	2	aphraPunchcard::2: Poor Description	The thin metal sheet shimmers like spilled oil, and is dotted with hundreds of tiny holes. #This mechanical punchcard encodes a spell of reform, which Chief Interpreter [[Aphra]] asked you to insert into the [[Clockwork King]].	这张薄金属片泛着如泼洒油膜般的光泽，上面布满数百个小孔。#这张机械打孔卡记录着一道改革咒，首席释经官[[阿芙拉]]请你将它插入[[发条王]]体内。
+saboteurPunchcard	1	saboteurPunchcard::1: Poor Name	Saboteur's Punchcard	破坏者打孔卡
+saboteurPunchcard	2	saboteurPunchcard::2: Poor Description	The metal is dull and faintly corroded, wrapped in a protective layer of colourful rags. #This mechanical 'punchcard' encodes a spell of self-destruction, which [[Reza]] the Saboteur wants you to insert into the [[Clockwork King]].	金属黯淡无光，略有锈蚀，外面裹着一层彩色破布作保护。#这张机械"打孔卡"记录着一道自毁咒，破坏者[[雷扎]]要你将它插入[[发条王]]体内。
+morozovParcel	1	morozovParcel::1: Poor Name	Morozov's Parcel	莫罗佐夫的包裹
+morozovParcel	2	morozovParcel::2: Poor Description	A bulky parcel, stained with blood and addressed to B. Morozov.	一个鼓鼓囊囊的包裹，沾着血迹，收件人为 B. 莫罗佐夫。
+cranialModerator	1	cranialModerator::1: Poor Name	Cranial Moderator	颅腔调节器
+cranialModerator	2	cranialModerator::2: Poor Description	Within your skull, its tiny cogwheels tick and churn. Sometimes their motion keeps you awake at night. #The courtiers of the Clockwork King use these mechanical implants to understand the language of their liege.	在你的颅骨之内，它的小齿轮滴答转动不休。有时这动静会让你彻夜难眠。#发条王的朝臣们用这种机械植入体来听懂他们君主的言语。
+machinistInsignia	1	machinistInsignia::1: Poor Name	Machinists' Guild Insignia	机械师公会徽记
+machinistInsignia	2	machinistInsignia::2: Poor Description	A jagged brooch of dull alloy, worn by the Clockwork Kingdom's all-powerful Machinists' Guild. #This one marks its bearer as a member of the Order of Interpreters. Chief Interpreter Aphra implored you not to misuse its authority.	一枚黯淡合金制的锯齿胸针，由发条王国权势滔天的机械师公会配发。#这一枚代表佩戴者是释经官会的成员。首席释经官阿芙拉恳请你切勿滥用其权威。
+aphraMusic	1	aphraMusic::1: Poor Name	Metal Machine Music	金属机器音乐
+aphraMusic	2	aphraMusic::2: Poor Description	A mechanical 'punchcard' used by servants of the Clockwork King, encoding a suite of otherworldly music. #Chief Interpreter Aphra wants you to insert this into the apparatus at the top of the old royal beacon in the Corrupted Lands.	发条王的仆役使用的一种机械"打孔卡"，记录着一组超凡脱俗的乐曲。#首席释经官阿芙拉要你把它插入腐化之地那座旧皇家信标顶端的装置。
+aphraTranscript	1	aphraTranscript::1: Poor Name	Graveyard Noise Transcript	墓场噪音抄本
+aphraTranscript	2	aphraTranscript::2: Poor Description	A hastily-scribbled transcript of numbers and words that echoed out of a strange yellow box in the Clockwork Kingdom's object graveyard. #Chief Interpreter Aphra will want to see this.	一份仓促写就的记录，抄下了发条王国物件墓场里一只奇怪黄匣子中传出的数字与语句。#首席释经官阿芙拉会想看看这个。
+olegCandle	1	olegCandle::1: Poor Name	Oleg's Candle	奥列格的蜡烛
+olegCandle	2	olegCandle::2: Poor Description	A hexagonal column of green-dyed beeswax, with the name 'Aphra Olegovna Myshkin' inscribed into the base. #Its sharp, unnaturally perfect edges betray its machine-produced nature.	一根绿染蜂蜡制成的六棱柱，底部刻着"阿芙拉·奥列格芙娜·米什金"之名。#它那锐利得不自然的棱边，暴露了机器制造的出身。
+smugglerKey	1	smugglerKey::1: Poor Name	Clockwork Smuggler's Key	发条走私者的钥匙
+smugglerKey	2	smugglerKey::2: Poor Description	A mechanical 'punchcard' given to you by Oleg the border guard.#Supposedly unlocks a [[freight capsule]] on one of the Clockwork Kingdom's outlying atolls.#However, the islet is likely [[inaccessible]] without an [[airship]] of your own...	边防兵奥列格送你的一张机械"打孔卡"。#据说能打开发条王国边远环礁上的一个[[货运舱]]。#不过，没有自己的[[飞艇]]，那座小岛恐怕[[无法抵达]]……
+olegLocket	1	olegLocket::1: Poor Name	Oleg's Locket	奥列格的吊坠
+olegLocket	2	olegLocket::2: Poor Description	A cheap gilt locket with a green stone in it, or perhaps only green glass. On the back are inscribed the letters: 'To my father'. #Oleg the border guard gave you this locket to help you find his missing child.	一枚廉价的镀金吊坠，镶着绿宝石——也许只是绿玻璃。背面刻着几个字："赠我父"。#边防兵奥列格把这枚吊坠交给你，盼你帮他找到失踪的孩子。
+pickledHead	1	pickledHead::1: Poor Name	Pickled Head	腌渍头颅
+pickledHead	2	pickledHead::2: Poor Description	His withered face is frozen in a look of igneous vexation, while his eyes - rolled back fully into their sockets, gazing into some eternal brinescape of the mind - resemble hard-boiled eggs.	他干枯的面孔凝固成一副火成岩般的怒容，双眼完全翻进眼窝深处，凝视着脑海中某片永恒的盐水风景——活像两颗煮老的鸡蛋。
+prippContract	1	prippContract::1: Poor Name	Vision Works Welcome Pack	幻象工坊迎新礼包
+prippContract	2	prippContract::2: Poor Description	A piece of parchment from the Royal Vision Works containing everything you need to sign yourself or your loved one over to a life of endless sleep.	一份来自皇家幻象工坊的羊皮纸文件，凭它便能把你自己或心爱之人签入无尽沉睡的人生。
+VelaChambersKey	1	VelaChambersKey::1: Poor Name	Key to Vela's Chambers	薇拉房间的钥匙
+VelaChambersKey	2	VelaChambersKey::2: Poor Description	A key which opens the chambers of Vela Callose.	能打开薇拉·卡洛斯房间的钥匙。
+cwkGodKeyA	1	cwkGodKeyA::1: Poor Name	Key of the Moon Twin	月神之钥
+cwkGodKeyA	2	cwkGodKeyA::2: Poor Description	The moon goddess and her twin sister were gradually erased from human memory by the King's cipher magic. They perished, forgotten even to eachother.#Together, the twins' keys grant entry to the underground tomb of the mother goddess.	月之女神和她的孪生姐妹被国王的密文魔法从人类记忆中渐渐抹去。她们死去了，连彼此也全然相忘。#双子之钥合璧，可开启大地母神的地底陵墓。
+cwkGodKeyB	1	cwkGodKeyB::1: Poor Name	Key of the Sun Twin	日神之钥
+cwkGodKeyB	2	cwkGodKeyB::2: Poor Description	After the burial of their mother, the sun goddess and her twin sister fled into hiding. For them, there would be no such lavish burial.#Together, the twins' keys grant entry to the underground tomb of the mother goddess.	母亲下葬之后，日之女神和她的孪生姐妹四散躲藏。她们自己则无缘如此隆重的葬礼。#双子之钥合璧，可开启大地母神的地底陵墓。
+pwyllSacredKey	1	pwyllSacredKey::1: Poor Name	Sacred Shroom Key	神圣蘑菇钥匙
+pwyllSacredKey	2	pwyllSacredKey::2: Poor Description	An ancient key that should unlock the topmost chamber of Pwyll's Sacred Shroom, located in the north-east of the island. #Legend says that, in ages past, countless villagers were sacrificed there, to satisfy the tyrant-god Anguin. 	一把古旧钥匙，应能打开普威尔神圣蘑菇最高处的密室，它位于岛屿东北方。#传说远古时代，曾有无数村民在此献祭，以满足暴君神安圭因。
+pwyllLedgerItem	1	pwyllLedgerItem::1: Poor Name	Mayor Olwen's Ledger	奥尔温镇长的账本
+pwyllLedgerItem	2	pwyllLedgerItem::2: Poor Description	The business ledger of Olwen, the mayor of Pwyll Village. #The last entry recounts the business expense of hiring the Rotten Onion mercenary band. Scrawled underneath are the words: 'laughably awful. Never hire again.'	普威尔村镇长奥尔温的营业账本。#最后一笔记下了雇佣烂洋葱佣兵团的开支。下面潦草地写着几个字："烂得可笑。永不续雇。"
+pwyllSmugglerKey	1	pwyllSmugglerKey::1: Poor Name	Smuggler's Key	走私者的钥匙
+pwyllSmugglerKey	2	pwyllSmugglerKey::2: Poor Description	A nondescript key, given to you by Dwynn in Pwyll Village. #Apparently it unlocks a hidden room in the basement of the windmill, where smugglers conduct their illicit trade. 	一把毫不起眼的钥匙，普威尔村的德温所赠。#据说能打开磨坊地下室的一间密室，走私者在那儿干着非法勾当。
+desertKey	1	desertKey::1: Poor Name	Desert Key	荒漠钥匙
+desertKey	2	desertKey::2: Poor Description	A worn-looking key that seems to have been beaten into shape from a piece of scrap metal, found on a distant island.	一把破旧的钥匙，像是用一块废金属敲打成形，在遥远的岛屿上发现。
+godWarKey	1	godWarKey::1: Poor Name	God War Key	神战钥匙
+godWarKey	2	godWarKey::2: Poor Description	A rusty key with a scrap of cloth, torn from a God War-era banner, still tied around it.	一把锈蚀的钥匙，上面还系着一小片布，是从神之战时代的旗帜上撕下来的。
+rasSphere	1	rasSphere::1: Poor Name	Rasmussen Sphere	拉斯穆森球体
+rasSphere	2	rasSphere::2: Poor Description	Liberated from its housing, the Rasmussen sphere no longer crackles with energy, but when touched a faint vibration runs down your fingertips and through your body, an echo of the immense force contained within.	被从底座中取出后，拉斯穆森球体不再噼啪作响地迸发能量，但一经触碰，指尖仍会传来一丝微颤，传遍全身——那是其内蕴巨力的回响。
+creatrDungeonKeyA	1	creatrDungeonKeyA::1: Poor Name	Torturer's Tooth Key	刑吏之牙钥匙
+creatrDungeonKeyA	2	creatrDungeonKeyA::2: Poor Description	A heavy iron key with the emblem of a tooth scratched into the metal. #It is said that beneath the castle of the Coven of the Mollusc is a terrifying dungeon, where all manner of foul deeds have been performed. 	一把沉重的铁钥匙，金属上刻着一颗牙齿的徽记。#据说软体魔团城堡之下有一座可怕的地牢，各种污秽行径都曾在那里上演。
+creatrDungeonKeyB	1	creatrDungeonKeyB::1: Poor Name	Torturer's Finger Key	刑吏之指钥匙
+creatrDungeonKeyB	2	creatrDungeonKeyB::2: Poor Description	A slender key with the emblem of a finger etched into the metal. #The miners of Dredgetown speak in hushed tones of the Coven of the Mollusc castle dungeon; for their wikkan masters punish insubordination with the harshest of measures. 	一把细长的钥匙，金属上蚀刻着一根手指的徽记。#挖掘镇的矿工们谈起软体魔团城堡的地牢都压低声音；他们的维坎主子会用最严酷的手段惩罚不驯之徒。
+decrepitSails	1	decrepitSails::1: Poor Name	Sloop Sails	单桅帆船船帆
+decrepitSails	2	decrepitSails::2: Poor Description	Sails of the finest silkslug thread to catch the winds that whistle endlessly between the islands.	以最上等的丝蛞蝓丝线织成，能兜住群岛间永不停歇的呼啸长风。
+decrepitHull	1	decrepitHull::1: Poor Name	Sloop Hull	单桅帆船船体
+decrepitHull	2	decrepitHull::2: Poor Description	In a world of mushroom forests, good real timber is rare, but this smoothly finished hull is the real deal.	在蘑菇森林的世界里，上好的真木料十分稀有，而这具打磨光滑的船体可是真材实料。
+decrepitCabin	1	decrepitCabin::1: Poor Name	Sloop Cabin	单桅帆船船舱
+decrepitCabin	2	decrepitCabin::2: Poor Description	Space is at a premium on skyships, but this cabin will give you precious privacy and room to swing - if not a cat - then at least a good-sized rat.	天空船上的空间寸土寸金，但这间船舱能给你宝贵的私密——地方虽说甩不开猫，至少也容得下一只大个儿的老鼠撒欢。
+endlessSails	1	endlessSails::1: Poor Name	Endless Sails	无尽者船帆
+endlessSails	2	endlessSails::2: Poor Description	These patched and ragged sails - once black, now faded to a dingy grey - inspire little confidence: until the wind fills them and glimmers of cipher show in the gaps. Powerful enchantments hold together these fragile threads.	这些缝缝补补、破烂不堪的船帆——从前是黑色，如今褪成了灰暗色——起初让人信心全无：直到风将其鼓满，缝隙间闪现出密文的微光。强大的附魔将这些脆弱的丝线紧紧维系。
+endlessHull	1	endlessHull::1: Poor Name	Endless Hull	无尽者船体
+endlessHull	2	endlessHull::2: Poor Description	Scarred and pitted from long-ago battles and cruel storms, the dark wood of this hull still cuts through the sky like an executioner's axe.	船身布满久远战事与狂暴风暴留下的伤痕疮痂，这深色木质的船体依旧如刽子手的利斧，劈开长空。
+endlessCabin	1	endlessCabin::1: Poor Name	Endless Cabin	无尽者船舱
+endlessCabin	2	endlessCabin::2: Poor Description	Light barely penetrates the gloomy confines of this cabin, leaving its spacious interior a mess of shadows and ornately carved fittings.	光线几乎透不进这间阴郁的船舱，宽敞的内部只剩一片阴影，夹杂着雕饰华丽的陈设。
+deedAirship	1	deedAirship::1: Poor Name	Airship Deed	飞艇契约
+deedAirship	2	deedAirship::2: Poor Description	Stamped with the official insignia of the Winged Merchant Guild, this deed certifies your legitimate ownership of the specified airship.	盖有飞翼商会正式徽记的契约，证明你合法拥有指定飞艇。
+writAirship	1	writAirship::1: Poor Name	Writ of Aerial Permission	飞行许可状
+writAirship	2	writAirship::2: Poor Description	Per Riovan law, you need a writ to allow you to purchase an airship: a writ just like this one, as it happens. Now you'll just need to find the money to actually buy one with.	按里奥瓦法律，购买飞艇需要一纸许可状——巧了，正是这种。现在你只需凑够真正买下一艘的钱。
+throwableBomb	1	throwableBomb::1: Poor Name	Leucosic Bomb   	白啸弹
+throwableBomb	2	throwableBomb::2: Poor Description	A vial of fine white powder, distilled through alchemical processes. #Extremely volatile, the flask will explode on impact when thrown.	一小瓶精制白色粉末，经炼金工序提纯而成。#极不稳定，掷出后药瓶撞击即会爆炸。
+throwableBomb	3	throwableBomb::3: Common Name	Xanthosic Bomb	黄啸弹
+throwableBomb	4	throwableBomb::4: Common Description	Enhanced further through the mysteries of alchemy, the yellow powder in this flask will explode with considerable force when agitated or thrown.	经炼金奥秘进一步强化，瓶中的黄色粉末一经扰动或投掷便会猛烈爆炸，威力可观。
+throwableBomb	5	throwableBomb::5: Fine Name	Iosic Bomb   	紫啸弹
+throwableBomb	6	throwableBomb::6: Fine Description	The deepest profundities of alchemy allow access to powers beyond most mortal imaginations. #Alternatively, such powers can be used to make really big explosions.	炼金术最深的奥义能触及超越凡人想象的力量。#当然，这些力量也可以用来制造特别大的爆炸。
+clothesWizard	1	clothesWizard::1: Poor Name	Wizard Robe	法师长袍
+clothesWizard	2	clothesWizard::2: Poor Description	Get wizard power	获得法师之力
+hatWizard	1	hatWizard::1: Poor Name	Vagrant's Hat	流浪者帽
+hatWizard	2	hatWizard::2: Poor Description	A rather tatty conical hat, such as those worn by cipher scribes. #Though threadbare, wearing it seems to excite your thoughts; as if there is some lingering enchantment in the cloth. 	一顶相当破烂的尖顶帽，密文誊写者常戴这种帽子。#虽已磨得起了毛边，戴上它思绪却似乎变得活跃，仿佛布料里还残留着某种附魔。
+hatWizard	3	hatWizard::3: Common Name	Scholar's Hat	学者帽
+hatWizard	4	hatWizard::4: Common Description	A well-worn scholar's hat, perfect for an aspiring cipher-scribe. #Such a hat is not merely for fashion; even the lowliest academic headwear will have small charms and spells woven into its fabric, to stimulate the mind of its wearer. 	一顶磨损的学者帽，正配有志于密文誊写的学子。#这种帽子可不只是为了时髦；哪怕最低阶的学院帽饰，织物里也织入了小小的咒符与法术，用以激发佩戴者的心智。
+hatWizard	5	hatWizard::5: Fine Name	Wizard's Hat	法师帽
+hatWizard	6	hatWizard::6: Fine Description	A magnificent wizard's hat; not only fashionable, but brimming with magical energies. #A wizard is rarely seen without their hat; for the various charms and spells it confers helps to keep their intellects keen and their wits sharp.	一顶华美的法师帽；不仅时髦，还满盈魔力。#法师几乎从不离帽；帽上的诸般咒符法术能让人保持才思敏锐、头脑清醒。
+manaSyphon	1	manaSyphon::1: Poor Name	Mana Syphon	法力虹吸
+manaSyphon	2	manaSyphon::2: Poor Description	A mysterious amulet that absorb mana with physical attacks.	一件神秘护符，能以物理攻击汲取法力。
+accessoryWizardLeft	1	accessoryWizardLeft::1: Poor Name	Magical Manacles	魔法镣铐
+accessoryWizardLeft	2	accessoryWizardLeft::2: Poor Description	These heavy bracelets - a relic of some dark bargain, made of dark iron and shot through with cipher - fill your hands with magical power while weighing them down. #The wearer attacks sluggishly, but will find their spellcasting much empowered.	这对沉重的手环——某场黑暗交易的遗物，以黑铁铸成、密文贯通——将魔力灌满你的双手，同时也压得它们发沉。#佩戴者出手迟缓，但施法威力大增。
+accessoryWizardRight	1	accessoryWizardRight::1: Poor Name	Eldritch Focus	邪异法器
+accessoryWizardRight	2	accessoryWizardRight::2: Poor Description	An Emberian amulet, imbued with all the power and arrogance of that ancient empire: when worn, it empowers your spellcasting while reducing your defensive capabilities. #The truly powerful forget what it is to feel vulnerable: until it is too late.	一件余烬护符，浸透着那个古老帝国的全部力量与傲慢：戴上它，施法更强，防御更弱。#真正的强者早忘了软弱为何物——直到为时已晚。
+godWarPendant	1	godWarPendant::1: Poor Name	God War Pendant	神战吊坠
+godWarPendant	2	godWarPendant::2: Poor Description	A little silver pendant, marked with one of the Union's early symbols. It seems to have belonged to Cornelius of the Graseguards#The fastener is broken, so it cannot be worn. It surely has sentimental value to someone...	一枚小小的银吊坠，刻着联盟早期的某种徽记。它似乎属于格拉塞卫队的科尼利厄斯#搭扣已坏，无法佩戴。但对某人而言，它想必承载着深情厚意……
+spellUltima	1	spellUltima::1: Poor Name	Cypher Star	密文星
+spellUltima	2	spellUltima::2: Poor Description	Summons an immense blast of cipher energy centred on the caster. #Not sanctioned by the Erudite Academy, the use of this spell is often a last resort for the caster, and almost always the last thing anyone in the vicinity sees.	以施法者为中心召唤一场庞大的密文能量爆发。#此咒未获博识学院认可，施展它往往是施法者的孤注一掷，也几乎总是周围所有人看到的最后一幕。
+spellAirship	1	spellAirship::1: Poor Name	Emergency Airship Reembarkation	紧急重返飞艇
+spellAirship	2	spellAirship::2: Poor Description	Returns you instantly to your airship. Since the inclusion of this spell on airships was mandated by law, deaths from falling overboard have fallen by two-thirds.	让你瞬间返回自己的飞艇。自从法律强制规定飞艇必须搭载此咒以来，坠海身亡的人数下降了三分之二。
+spellCharm	1	spellCharm::1: Poor Name	Entice	诱惑
+spellCharm	2	spellCharm::2: Poor Description	This oddity of a spell draws upon the caster's force of personality, rather than their arcane knowledge, to sway erstwhile enemies to their side. #Much-studied by academic wizards, the nature of this spell remains something of a mystery, but its power is not in doubt.	这道奇特的法术依靠的是施法者的人格力量，而非奥术学识，来策反昔日的敌人。#学院派法师对此已有大量研究，其原理至今仍是个谜，但威力毋庸置疑。
+clothesEntice	1	clothesEntice::1: Poor Name	Tatty Attire	破旧华服
+clothesEntice	2	clothesEntice::2: Poor Description	Clothes make the man and these, manufactured long ago in Emberia, make the man resplendent, enabling the wearer to [[Entice]] more powerful foes. #Faded and tattered though they are, the threads of cipher running through these ornate robes retain their power to mesmerise.	人靠衣装，而这套远古余烬国出品的衣服能让人光彩照人，使穿戴者得以[[诱惑]]更强的敌人。#虽然褪色破旧，织入这些华美长袍的密文丝线依然保有摄人心魄的力量。
+clothesEntice	3	clothesEntice::3: Common Name	Enticing Attire	诱人华服
+clothesEntice	4	clothesEntice::4: Common Description	Restored to a measure of their former glory, redyed and stitched up, these clothes allow the wearer to [[Entice]] still more powerful enemies over to their side. #These clothes now project even more authority and charisma, instantly making their wearer the centre of attention.	重新染色、缝补完好，这套衣服已恢复几分昔日的荣光，让穿戴者能把更强大的敌人[[诱惑]]到自己这边。#如今的它更能彰显威严与魅力，让穿戴者瞬间成为全场焦点。
+clothesEntice	5	clothesEntice::5: Fine Name	Enguiling Attire	迷魅华服
+clothesEntice	6	clothesEntice::6: Fine Description	The perfect outfit requires a little accessorising, and here it is: full Emberian splendour, the cipher-rich robes set off with a few finishing touches. #Wearing this, you are almost irresistibly interesting, and able to [[Entice]] truly mighty enemies.	完美的行头还需些许配饰点缀，这便是了：全套余烬式的辉煌，密文充盈的长袍再添几处点睛之笔。#穿上它，你的魅力几乎无人能挡，能[[诱惑]]真正强大的敌人。
+ringEntice	1	ringEntice::1: Poor Name	Goblin Mask	哥布林面具
+ringEntice	2	ringEntice::2: Poor Description	A chunk of wood shoddily carved to resemble a face, that allows one to [[Entice]] more powerful foes. #The goblins of Hallowshire can be seen wearing these crude things. When placed on one's face, a strange feeling comes over you; as if you were someone else...	一块粗制滥刻成人脸的木头，让人得以[[诱惑]]更强的敌人。#哈洛郡的哥布林常戴着这种粗糙玩意儿。戴上的那一刻，一种奇怪的感觉涌上心头；仿佛你变成了另一个人……
+hypnoticBrooch	1	hypnoticBrooch::1: Poor Name	Hypnotic Brooch	催眠胸针
+hypnoticBrooch	2	hypnoticBrooch::2: Poor Description	This seems to just be a little knot of twigs and faded flowers - until you find you can't look away from it, entranced by its appearance. #Others find it enticing too, and will fall under your [[Entice]] spell for longer than usual.	这看起来只是几根树枝和褪色小花扎成的小结——直到你发现自己竟无法移开视线，被它的模样迷住了。#别人也会被它吸引，受你的[[诱惑]]法术支配的时间会比平时更长。
+enticeAmp	1	enticeAmp::1: Poor Name	False Monstrance	伪圣物匣
+enticeAmp	2	enticeAmp::2: Poor Description	This perverse tangle of cheap silver wire is formed into a strange rune that fills the [[Enticed]] with deeper fervour and ferocity for their false cause, driving them to fight with increased [[Attack Power.]]	这团廉价银丝拧成的古怪符文，会让被[[诱惑]]者为其虚假的事业燃起更深的狂热与凶性，驱使他们以更强的[[攻击力]]战斗。
+godletDagger	1	godletDagger::1: Poor Name	Void Scalpel	虚空手术刀
+godletDagger	2	godletDagger::2: Poor Description	Manufactured during the God War, when void weaponry was desperately needed and quality was a secondary concern, these wafer-like shards of void metal will shatter after a single use. But, as many gods discovered, a single use is often enough.	神之战期间的产物——虚空兵器告急、品质无暇顾及的年代——这些薄如纸片的虚空金属碎片用过一次便会碎裂。但正如许多神明所发现的那样，一次往往就够了。
+stealthCloak	1	stealthCloak::1: Poor Name	Cosmos Cloak	星海斗篷
+stealthCloak	2	stealthCloak::2: Poor Description	A dark, star-dappled cloak that envelops the wearer in shadow, making you harder to spot. #Woven from the thread of silkslugs raised in special shrouded enclosures which only allow them to look up at the wheeling cosmos overhead.	一袭缀满星点的暗色斗篷，让穿戴者隐入阴影，更难被发现。#以特殊遮蔽圈舍中饲养的丝蛞蝓的丝线织成，那些丝蛞蝓唯一能看见的，便是头顶旋转的浩瀚星空。
+vaultKey	1	vaultKey::1: Poor Name	Emberian Vault Key	余烬金库钥匙
+vaultKey	2	vaultKey::2: Poor Description	An ornate, heavy key with a note wrapped around it. #The note is hastily scrawled in Old Emberian. You can make out a single word: Skyrealms.	一把华丽的沉重钥匙，缠着一张字条。#字条以古余烬文潦草写成。你只认出一个词：天空领域。
+temporalPickaxe	1	temporalPickaxe::1: Poor Name	Temporal Pickaxe	时序镐
+temporalPickaxe	2	temporalPickaxe::2: Poor Description	Mining, really, is a form of time travel: you descend into the earlier layers of the earth and extract them. #This curious pickaxe just makes the process a little more direct, allowing the mining of what was once there, as well as what still is.	说到底，采矿也是一种时间旅行：你深入地层更古老的年代，将其挖出。#这把奇特的镐子只是让过程更直接了些——不仅采得出还在的东西，连曾经存在过的也能采出来。
+bugSails	1	bugSails::1: Poor Name	Skysnail Sails	天蜗牛帆
+bugSails	2	bugSails::2: Poor Description	The dangling limbs of a skysnail, enchanted with cipher magic to operate independently of their body. #Though lacking the potential speed of traditional sails, these steadying limbs help any craft achieve greater handling. 	一只天蜗牛垂下的肢体，经密文魔法附魔，可脱离躯体独立活动。#虽然没有传统船帆的极限速度，这些稳稳的肢体能让任何船的操控性更上一层。
+bugHull	1	bugHull::1: Poor Name	Skysnail Hull	天蜗牛船体
+bugHull	2	bugHull::2: Poor Description	A mature skysnail fitted with an enormous saddle-hull. #While skysnails have often been bred as beasts of burden due to their arial buoyancy, few grow to a size such as this. Though not as aerodynamic as other hulls, a well-trained snail can be manoeuvred with ease.	一只成年天蜗牛，配有巨大的鞍式船体。#凭借在空中的浮力，天蜗牛常被驯养作驮兽，但能长到这般体型的寥寥无几。虽然不如其他船体符合空气动力学，训练有素的蜗牛操纵起来仍轻而易举。
+bugCabin	1	bugCabin::1: Poor Name	Skysnail Cabin	天蜗牛舱室
+bugCabin	2	bugCabin::2: Poor Description	This majestic shell has been renovated for use as a ship's cabin. #Even before the World Rend, It had long been a custom of the skyrealms to hollow-out skysnail shells for use as shelters.	这枚威严的螺壳已经过翻修，用作船舱。#早在世界撕裂之前，掏空天蜗牛壳作居所便是天空领域由来已久的风俗。
+cwkSails	1	cwkSails::1: Poor Name	Clockwork Sails	发条船帆
+cwkSails	2	cwkSails::2: Poor Description	These ingenious 'sails' are, in fact, nothing of the sort. A complex cipher engine fires an incomprehensible number of small spells per second; a reaction that propels the craft forward while generating an immense amount of heat and waste energy. 	这些精妙的"船帆"其实根本不是帆。一台复杂的密文引擎每秒发射难以计数的小型法术，其反作用力推动船只前进，同时产生巨量的热与废能量。
+cwkHull	1	cwkHull::1: Poor Name	Clockwork Hull	发条船体
+cwkHull	2	cwkHull::2: Poor Description	Hulls produced in the Clockwork Kingdom come fitted with all manner of useful additional apparatus for steering, docking, stowage and the like - if you can figure out what all the buttons do.	发条王国出品的船体自带各式实用附加装置：操舵、泊船、储物，一应俱全——前提是你能搞明白那一排排按钮都是干嘛的。
+cwkCabin	1	cwkCabin::1: Poor Name	Clockwork Cabin	发条船舱
+cwkCabin	2	cwkCabin::2: Poor Description	A cabin with the peculiar dual-dome window design which was commonly seen on Kardovan craft in the God War. Certain vessels of the Clockwork Kingdom still utilise such a layout to this day. 	一间带有独特双穹顶窗设计的船舱，神之战时期的卡尔多瓦船只上很常见。时至今日，发条王国的某些船只仍在沿用这种布局。
+superCabin	1	superCabin::1: Poor Name	Splendid Cabin	华丽船舱
+superCabin	2	superCabin::2: Poor Description	A truly magnificent cabin, surely the envy of any self-respecting skycaptain. #Outfitted with the latest decorative trends from Riova, such luxury is unparalleled. It even comes fitted with its own library. 	一间真正气派的船舱，任何有头有脸的船长见了都要眼红。#配备了里奥瓦最时髦的装潢，奢华无出其右。甚至还自带一间图书室。

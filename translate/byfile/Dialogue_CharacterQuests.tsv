@@ -1,0 +1,882 @@
+ID	Col	CellKey	English	Chinese
+p0	1	p0::English	Farewell.	告辞。
+pq1	1	pq1::English	Can I ask you some questions?	我能问你几个问题吗？
+pq2	1	pq2::English	Okay, I think I get it.	好吧，我明白了。
+pq3	1	pq3::English	Got it.	明白了。
+pq4	1	pq4::English	Actually, I had other questions.	其实，我还有别的问题。
+pq5	1	pq5::English	That's all I wanted to know.	我想知道的就是这些。
+pq6	1	pq6::English	I'm looking for someone.	我在找一个人。
+pq7	1	pq7::English	Have you heard of the Emberian?	听说过余烬人吗？
+pq8	1	pq8::English	What do you know of Vela Callose? 	关于薇拉·卡洛斯，你知道些什么？
+pq9	1	pq9::English	Thanks for your help. 	多谢帮忙。
+mentor1	1	mentor1::English	Ah, the [[Blinding Light.]] I remember when we captured this place from its Union ((caretakers.)) ##<<He smirks.>> Back when we thought we could get away with ((anything.))	啊，[[炫光要塞]]。还记得当年我们把它从联盟那帮((看门人))手里夺下来。##<<他坏笑。>>那时我们还以为天下没有((干不成))的事。
+mentor2	1	mentor2::English	Was there summin' else?	还有什么事？
+mentor3	1	mentor3::English	<<The man drums his fingers on the table as his eyes dart around. He does not look at you as he speaks.>>	<<那人手指敲着桌面，眼珠乱转。说话时也不看你。>>
+mentor4	1	mentor4::English	B'gone with you. I'm waiting for someone.	走吧走吧。我在等人。
+p1	1	p1::English	That person is me. I'm with the Inquisition. 	等的人就是我。我是宗教裁判所的。
+p2	1	p2::English	You're Vela's Quartermaster? I've been looking for you.	你是薇拉的军需官？我正到处找你。
+p3	1	p3::English	I'll be going, then. 	那我先走了。
+mentor5	1	mentor5::English	<<His eyes snap towards you.>> Hmm. So ((you're)) the agent? Must admit, I expected someone a little more... <<He spits.>> ((Inquisitorial.))	<<他猛地看向你。>>嗯。所以((你))就是那个探员？不得不承认，我还以为会来个更……<<他啐了一口。>>((有宗教裁判所派头))的。
+p4	1	p4::English	Looks can be deceiving. 	人不可貌相。
+mentor6	1	mentor6::English	<<He squints.>> Squidshit. I can see the marks on your wrists from the shackles. You're a ((Confessor)), aren't you? Little more than a prisoner.	<<他眯起眼。>>放鲸屁吧。你手腕上的镣铐印我看得一清二楚。你是个((忏悔者))，对吧？跟囚犯没两样。
+p5	1	p5::English	I'm a Confessor. More of a ((prisoner)) than an agent.	我确实是忏悔者。与其说是探员，不如说是((囚犯))。
+mentor7	1	mentor7::English	<<He laughs, but his eyes stay on you.>> ##Ah, so you're with the ((Confessor Division.)) That explains it.	<<他笑了，目光却没有离开你。>>##啊，原来你隶属((忏悔者部门))。那就说得通了。
+p6	1	p6::English	I could say the same to you, old man. 	这话送你也合适，老头。
+mentor8	1	mentor8::English	<<A thin smile betrays itself.>> It's true, these old bones ache. But at least I'm a ((free man,)) eh? I can see the shackle marks on your wrists - you're not an agent. You're a ((Confessor)).	<<一丝浅笑泄露了心思。>>没错，这把老骨头是酸疼。但至少我是个((自由人))，嗯？你手腕上的镣痕可瞒不了我——你不是什么探员。你是个((忏悔者))。
+mentor9	1	mentor9::English	Those bastards - they mean to ((insult)) me, by sending one of their ((expendable rabble)). They've hunted me for years, and now they don't even deign to send an agent. ##<<He looks around.>> At least, not to my face.	那帮混蛋——派个((随时可弃的杂兵))来，就是想((羞辱))我。他们追了我这么多年，如今连派个正牌探员都不屑了。##<<他环顾四周。>>至少，不当着我的面派。
+mentor10	1	mentor10::English	<<He hisses, teeth gritted.>> So, out with it, Confessor. Has she found it yet? Is it... ((alive?))	<<他咬牙嘶声。>>说吧，忏悔者。她找到了吗？那东西……((还活着？))
+p7	1	p7::English	Has ((who)) found it?	((谁))找到了？
+mentor11	1	mentor11::English	((Vela)), you inebriated ((fool!)) Who else would I be speaking of?	((薇拉))，你个醉醺醺的((蠢货))！我还能说谁？
+p8	1	p8::English	What are you talking about?	你在说什么？
+mentor12	1	mentor12::English	<<For a moment, he simply stares at you, brow furrowed.>>	<<有那么一瞬，他只是皱着眉盯你。>>
+mentor13	1	mentor13::English	Ach, they really haven't told you ((anything)), have they? I may as well be speaking to a silkslug. ##Do you at least know where Vela ((is))?	唉，他们真是什么都((没))告诉你，对吧？我还不如对着丝蛞蝓说话。##那你至少知道薇拉((在哪))吧？
+p9	1	p9::English	She escaped on a sloop. 	她乘一条单桅帆船跑了。
+mentor14	1	mentor14::English	<<He nods.>> Sounds about right. 	<<他点头。>>八成是这样。
+p10	1	p10::English	I tried to apprehend her, but... I failed.	我试图逮捕她，可是……我失败了。
+mentor15	1	mentor15::English	Well of ((course)) you failed. Vela Callose, fearsome leader of the Dark Star mercenaries, against... ((you.)) Not much of a contest, eh? 	你((当然))会失败。薇拉·卡洛斯，黑星佣兵令人胆寒的首领，对阵……((你))。这算哪门子较量，嗯？
+mentor16	1	mentor16::English	She'll have gone to the [[underlands]], to rendezvous with any Dark Stars that are still loyal. ##<<He gazes out the windowpane.>> Of course, the question is ((where)). The underlands are far larger than the skyrealms; she could be anywhere...	她八成去了[[地下之地]]，去和她还忠心的黑星残部会合。##<<他望向窗外。>>当然，问题在((哪里))。地下之地比天空领域大得多；她可能在任何地方……
+p11	1	p11::English	What are the underlands?	地下之地是什么？
+mentor17	1	mentor17::English	<<He frowns at you.>> Surely, you jest. What are the ((underlands?)) Will you ask me about the neuron stars, next?	<<他皱眉看你。>>你在开玩笑吧。地下之地((是什么？))你接下来是不是要问神经元星是什么？
+p12	1	p12::English	No really, what are the underlands?	不是，真的，地下之地是什么？
+mentor18	1	mentor18::English	<<His frown deepens.>> They are the lands. That are ((under.)) The skyrealms. Did they extract your mind with a hook, in that cell?	<<他的眉头拧得更深。>>就是那些在天空领域((下面))的土地。难道他们在牢房里用钩子把你的脑子勾走了？
+mentor19	1	mentor19::English	<<Seeing your blank expression, he sighs.>> When the world was destroyed in the World Rend - over four hundred years ago, now - its surface was turned into an inhospitable hellscape. ((Those)) lands are the underlands.	<<看见你一脸茫然，他叹了口气。>>四百多年前，世界撕裂毁了整个世界——地表从此变成一片不宜栖居的炼狱。((那))片土地就是地下之地。
+p13	1	p13::English	Uh, what's a neuron star? 	呃，神经元星是什么？
+mentor20	1	mentor20::English	So the Inquisition seek to mock me by sending an imbecile, is that right? Well, I won't lower myself to your foolishness. 	所以宗教裁判所派个白痴来是要羞辱我，是这意思吧？哼，我才不陪你犯蠢。
+p14	1	p14::English	Yes, a... fine jest. Let's move on. 	对，是个……好笑话。我们继续吧。
+mentor21	1	mentor21::English	<<He nods, still frowning.>>	<<他点头，眉头仍锁着。>>
+p15	1	p15::English	How do you know Vela's gone there?	你怎么知道薇拉去了那里？
+mentor22	1	mentor22::English	She hunts something there - she has done, for years. Something... of terrible power. 	她在那里猎取一样东西——很多年了。一样……力量骇人的东西。
+mentor23	1	mentor23::English	I can't tell you ((exactly)) what it is. Only that she plans to use it to meddle with ((reality itself)), which could be the doom of us all. 	我没法((确切))告诉你那是什么。只知道她打算用它摆弄((现实本身))，而那可能给我们所有人带来灭顶之灾。
+p16	1	p16::English	So, you'll help me find Vela? 	所以，你会帮我找薇拉？
+mentor24	1	mentor24::English	That's the deal that I've struck with your ((Inquisition)), isn't it? Hunt my former comrade - and my Dark Star crewmates - for the Polymath's Pardon. After this, I'll be a traitor to ((everyone)). 	这不就是我和你们((宗教裁判所))谈好的交易嘛？去追捕我的旧战友——还有我的黑星船员们——换一纸博学家赦令。此事过后，我就成了((所有人))的叛徒。
+mentor25	1	mentor25::English	<<He sighs, leaning back.>> Well then, Confessor. We may as well get to know each other. What did you... <<He waves his hand around. >> ((do)), before rotting in a cell?	<<他往后一靠，叹了口气。>>那么，忏悔者，咱们不妨互相认识认识。你在牢里发霉之前……<<他挥了挥手。>>是((干))什么的？
+p17	1	p17::English	I was a soldier.	我当过兵。
+mentor26	1	mentor26::English	Hmph, a regular grunt of the battlefield, eh? No doubt you've seen your fair share of spilled blood, all in the service of some foppish Union lord.	哼，战场上的一介小兵，嗯？为了某个花天酒地的联盟老爷，血你肯定没少洒。
+p18	1	p18::English	I was a mercenary.	我当过佣兵。
+mentor27	1	mentor27::English	Ah, a cutthroat after my own heart. The nobles in Riova can preach their drivel of ((honour)) and ((unity)), but we both know that in the end, it's the coin in one's purse that gets you through.	啊，跟我一路的杀手。里奥瓦的贵族尽管去宣讲他们的((荣誉))与((团结))的鬼话，但你我都知道，到最后能保命的，是钱袋里的硬币。
+p19	1	p19::English	I was an inquisitor.	我当过审判官。
+mentor28	1	mentor28::English	<<He squints at you.>> So you really ((were)) an agent, eh? Hah! Betrayed and brought low by your masters. Tell me: did you savour, in that damp cell, the ((irony)) of your entrapment?	<<他眯眼打量你。>>这么说你((真))当过探员，嗯？哈！被自己的主子出卖、打落尘埃。告诉我：在那间阴湿的牢房里，你可曾细品过自己这番遭遇的((讽刺))？
+p20	1	p20::English	I was an assassin.	我当过刺客。
+mentor29	1	mentor29::English	<<He squints at you.>> So you're one to keep an eye on, eh? I'll admit, even when we've been forced to use your kind, I've had no love for ((that)) profession. To kill a man while he sleeps - there's no decency in that. 	<<他眯眼打量你。>>这么说你这种人得留神提防，嗯？不得不承认，就算被逼无奈雇过你们这类人，我也从没喜欢过((那一))行。趁人睡觉时下杀手——那不是正经人干的事。
+p21	1	p21::English	I was hired muscle.	我当过打手。
+mentor30	1	mentor30::English	I see. Probably running drugs and potions for the cartels, correct? Or cracking some skulls when money's due? Not that I can judge; we had plenty of contacts in your line of work. 	明白了。多半是替卡特尔跑毒品和药水，对吧？或者到了收账的日子就去砸人脑袋？不是我要评判你；你这一行里我们的老相识多着呢。
+p22	1	p22::English	I was a thief.	我当过小偷。
+mentor31	1	mentor31::English	Not an easy life, eh? Of course, we hear tales of those who lift treasures with ease and disappear into the night - but more often it's broken teeth and a month in the cells, correct? Yes, you know that all too well, I can see. 	不好过的营生，嗯？当然，我们也听过那些妙手空空、消失于夜色的传说——但更常见的是磕掉牙、蹲一个月大牢，对吧？没错，你太清楚了，我看得出来。
+p23	1	p23::English	I was a lore broker.	我当过秘闻掮客。
+mentor32	1	mentor32::English	A keeper of secrets? Interesting. When work was scarce, we'd often go plundering ancient and dark places -and we'd always be sure to bring one of ((your kind)) along.	守护秘密的人？有意思。活计不顺的时候，我们常去劫掠古老幽暗之地——而且总会带上一个((你这种))人。
+p24	1	p24::English	I was a fixer.	我当过中间人。
+mentor33	1	mentor33::English	Knowledge is ((power)), indeed. You're a good person to know, that's for sure. There's been many a time when a whisper here, or a tip-off there, has been more useful than a galleon full of cannons. 	知识就是((力量))，诚然。结识你这种人准没错。多少回，这里一句耳语、那里一条线报，比一整船大炮都管用。
+p25	1	p25::English	I was an adventurer. 	我当过冒险家。
+mentor34	1	mentor34::English	Ah, a free spirit - how ((delightful.)) It must be nice to set off alone, going where the wind takes you, eh? Of course, I've known plenty who've done just that, and ended up clutching their spilled guts in a ditch somewhere. I reckon you should count yourself lucky.	啊，自由之魂——真((令人羡慕。))独自上路、随遇而安，想必很惬意，嗯？当然，这么干的人我见得多了，最后都在哪条沟里抱着自己流出来的肠子咽气。我看你还是该庆幸自己命大。
+p26	1	p26::English	I was an aetherist.	我当过乙太师。
+mentor35	1	mentor35::English	A scholar of the cosmos? I must admit, your kind has always fascinated me. That someone would strap together a bunch of wood, weave it with a spell, and let it carry them into the endless void? What bravado! What ((stupidity!))	研究宇宙的学者？不得不承认，你们这类人一直让我着迷。把一堆木板捆起来、织上法术，就敢让它载着自己冲进无尽虚空？好大的胆魄！好大的((蠢劲！))
+p27	1	p27::English	I was a scholar.	我当过学者。
+mentor36	1	mentor36::English	Ah, happier behind a desk than wielding a sword, are you? There's no shame in that. And I suppose those books are quite heavy; if you find yourself in a scrape, you can always bludgeon someone to death with one, no?	啊，比起舞刀弄剑，还是伏案更自在，是吧？这没什么可丢人的。再说那些书想必挺沉；万一遇上麻烦，随手抄一本就能把人砸死，不是吗？
+p28	1	p28::English	I was a politician.	我当过政客。
+mentor37	1	mentor37::English	I must say, I've no love for those who hide behind petty arguments and legal nonsense. I've been to Riova more times than I care for, and each time I'd rather have been in a den of drunken brigands. 	不瞒你说，我就看不上那些躲在鸡毛蒜皮的争辩和法律废话后面的人。里奥瓦我去过太多不想再数的次数，每一回都宁愿自己在醉醺醺的匪窝里待着。
+p29	1	p29::English	I was a battle-councillor.	我当过战议员。
+mentor38	1	mentor38::English	Ah, so you fought in election campaigns? More gruelling than any of the military sort, I'd wager. Saw one in Byonne, once; the losing party was cut into bloody pieces. All they wanted was better tax levies. 	啊，所以你打过选战？我敢说，那比任何真刀真枪的仗都熬人。在拜昂见过一回；落选一方被剁成了血块。他们图的不过是减点税。
+p30	1	p30::English	I was a noble, then... a thief.	我当过贵族，后来……当了小偷。
+mentor39	1	mentor39::English	Ah, fell on hard times, did we? Privilege can crumble into poverty without a moment's notice. At least you had the wits to make the best of it. 	啊，家道中落了，是吧？荣华富贵说塌就塌。至少你还有脑子随机应变。
+p31	1	p31::English	I was an occultist.	我当过秘术师。
+mentor40	1	mentor40::English	<<He grins.>> An occultist, under Inquisition employ? Now I really ((have)) heard it all. I'm surprised they didn't gouge out your eyes for exchanging niceties with a garden spirit. 	<<他咧嘴笑。>>秘术师，还受宗教裁判所雇用？这下我可真是((闻所未闻))了。他们没因为你跟个园圃精灵寒暄就把你眼珠挖出来，算你运气好。
+p32	1	p32::English	I was a socialite.	我当过社交名流。
+mentor41	1	mentor41::English	Ah, a hard day's work was ((beneath)) you, was it? Well, looks like the tables have certainly turned. Bet that silver tongue didn't serve much good in that damp cell now, did it?	啊，一天到晚干力气活有((失))你的身份，是吧？哼，如今风水轮流转了吧。我打赌你那条三寸不烂之舌，在那间阴湿牢房里没帮上什么忙，对吧？
+mentor42	1	mentor42::English	Anyway, it doesn't matter now, eh? You've lost it all. Hit rock bottom. ((That's)) something I can respect. <<He smirks, and raises his drink to you.>>	算了，如今都无所谓了，嗯？你失去了一切。跌到了谷底。((这))倒让我敬佩。<<他坏笑着朝你举杯。>>
+p33	1	p33::English	I'd rather not say.	我不想说。
+mentor43	1	mentor43::English	Like to keep your cards close to your chest, eh? I can respect that. Shows you've got some wits, at least.	喜欢把底牌捂在胸口，嗯？这个我敬重。至少说明你有点脑子。
+mentor44	1	mentor44::English	As for myself, my name is Jack Basalt. I suppose you've heard of me. <<He takes a sip from his tankard.>>	至于我，我叫杰克·巴索特。你应该听说过我。<<他端起酒杯抿了一口。>>
+p34	1	p34::English	I've not heard of you, no.	还真没听说过你。
+mentor45	1	mentor45::English	<<He chokes on his drink, sputtering.>>##Well, I... I guess not ((everyone)) has heard the stories, eh?	<<他被酒呛住，咳了半天。>>##呃，我……我猜不是((人人))都听过那些故事，嗯？
+p35	1	p35::English	Captain Basalt? The shame of the Union Navy...	巴索特船长？联盟海军之耻……
+mentor46	1	mentor46::English	Aye, the one and same. 	正是，如假包换。
+p36	1	p36::English	Does it matter? 	这重要吗？
+mentor47	1	mentor47::English	The name? I suppose not. ##But if we're going to tracking down Vela, you should know a thing or two. 	名字？大概不重要。##不过既然要一起追查薇拉，你该了解点底细。
+mentor48	1	mentor48::English	For a time, I was the most respected captain in the Union Navy. I took orders directly from [[Admiral Callose]] - ((Vela's father.)) ##And for five years, I trained Vela aboard my ship.	曾几何时，我是联盟海军最负盛名的船长。我直接听命于[[卡洛斯将军]]——((薇拉的父亲。))##有五年之久，我在自己的船上训练薇拉。
+mentor49	1	mentor49::English	When Vela defied her father and fled to become a mercenary - I followed. I gave up my rank, my station, my ((ship)), to spend my years cavorting with Wikkans and pirates. ((Shame)) of the Union Navy, they branded me... 	薇拉违逆父亲、出逃当了佣兵——我追随而去。我抛下军衔、职位、((战舰))，此后多年与维坎教团和海盗厮混。他们给我扣上了联盟海军((之耻))的帽子……
+mentor50	1	mentor50::English	<<He stares down, into his drink.>>##But I kept her ((safe)). Was that not ((also)) my duty?	<<他低头盯着酒杯。>>##可我把她((护))住了。那难道不((也))是我的职责吗？
+p37	1	p37::English	So you ((trained)) Vela? 	所以薇拉是你((训练))的？
+mentor51	1	mentor51::English	Aye, Vela and...the Emberian. Though they'd been schooled at the Academy, their father wanted 'em to sling their hammocks and tie their knots like regular sea dogs.	是啊，薇拉还有……余烬人。虽然她们在学院受过教育，她们父亲偏要她们像普通水手一样吊吊床、打绳结。
+mentor52	1	mentor52::English	And so they did; through blizzards, cipher storms and cannon volleys. Those sisters thrived, until... ##until the ((Dyshaan massacre.))	她们也确实做到了；熬过暴风雪、密文风暴和炮火齐射。这对姐妹出落得愈发优秀，直到……##直到((迪尚屠杀))。
+mentor53	1	mentor53::English	<<He thumbs the rim of his drink.>> I won't speak of that here. Not here. But that was the day Vela decided to leave the navy, an' her father. That was the day we became mercenaries. 	<<他摩挲着杯沿。>>这事我不在这儿讲。不在这儿。但那一天，薇拉决意离开海军，离开她父亲。那一天，我们成了佣兵。
+p38	1	p38::English	So why are you hunting her? 	那你为什么要追捕她？
+mentor54	1	mentor54::English	You have to understand, I love that girl like she's my own. I've seen her grow from a headstrong child into a fierce captain, and there was a time - when we were sailing together as Dark Stars - when I thought she might be the ((greatest)) of 'em all.	你要明白，我爱那个女孩如亲生的。我看着她从倔强的孩子成长为凶悍的船长，曾几何时——我们还在黑星旗下并肩航行时——我以为她会是所有人里((最了不起))的那一个。
+mentor55	1	mentor55::English	So, to see her fall into barbarism and villainy... has been ((hard)). I can't abide by what she's done, or by what she ((will do)). She seeks to save us, but she'll likely ((doom)) us.	所以，眼看她堕入野蛮与邪恶……实在((煎熬))。她做过的事，她((将做))的事，我都无法容忍。她自认为在拯救我们，可她多半会((葬送))我们。
+mentor56	1	mentor56::English	So I have to stop her, you see? For her ((own)) sake. 	所以我必须拦住她，明白吗？为了她((自己))好。
+p39	1	p39::English	Right, so how will we find Vela?	好，那我们怎么找到薇拉？
+mentor57	1	mentor57::English	Hah, you're asking ((me))? As I said to your masters, I can provide naught but shreds of information. You'll have to do the rest. 	哈，你问((我))？跟你主子们说的一样，我能给的只有零星情报。剩下的得靠你自己。
+mentor58	1	mentor58::English	What I have for you are [[three names]]. Names of former Dark Star mercenaries, who left Vela's crew after [[the mutiny]]. Together, maybe the lot of us can track her down.	我能给你的，是[[三个名字]]。都是前黑星佣兵，在[[哗变]]之后离开了薇拉的船队。我们几个联手，也许能追到她。
+p40	1	p40::English	What's this about a mutiny?	哗变是怎么回事？
+mentor59	1	mentor59::English	Few years back, Vela found a map. A map that pointed to something... ((impossible)).	几年前，薇拉找到一张地图。一张指向……((不可能之物))的地图。
+mentor60	1	mentor60::English	She'd use it to make a ((heaven)) of the skyrealms, she said. Change the fabric of reality, so folk don't know poverty, or injustice - or even ((death.))	她说，她要用它把天空领域变成((天堂))。改写现实的肌理，让人间不再有贫穷、不公——甚至不再有((死亡。))
+mentor61	1	mentor61::English	I'm sure she believed it. Believes it ((still)). But for a lot of us Dark Stars, it scared us witless. You just don't go ((meddling)) with things like that - 'less you wanna die screaming.	我确信她信了。((现在))也信。但对我们许多黑星来说，这把我们吓得魂飞魄散。那种东西((碰))不得——除非你想死得惨叫连连。
+mentor62	1	mentor62::English	We tried to convince her - to make her see reason. But she took us down into the underlands anyway, on that mad pursuit... ##So we mutinied, and the Dark Stars spilled their own blood on those skyships. 	我们试着劝她——让她讲点道理。可她还是带着我们一头扎进地下之地，踏上那场疯狂的追逐……##于是我们哗变了，黑星的血洒在了自己的飞艇甲板上。
+mentor63	1	mentor63::English	In the end, Vela escaped with those loyal to her; and the rest of us scattered to lick our wounds. A wicked time, that was. 	最后，薇拉带着忠于她的人逃了；我们其余人四散而去，各自舔舐伤口。那是一段邪性的岁月。
+p41	1	p41::English	Okay, tell me about these mercenaries.	好，给我讲讲这几个佣兵。
+mentor64	1	mentor64::English	First, there's the [[Emberian]]. Called that, 'cos folk say she's the ((last)) of their kind. Of course, that's pure squidshit - if she was Emberian she'd be four hundred years old. I've heard talk she's somewhere in [[Hallowshire.]]	头一个，[[余烬人]]。这么叫她，是因为人们说她是那个族群((最后))的血脉。当然，纯属鲸屁——她真是余烬人的话就四百岁了。听说她就在[[哈洛郡]]某处。
+mentor65	1	mentor65::English	Next there's the [[Endless Duchess]], a powerful cipher wizard. She went back to her ancestral home in the [[Endless Realm]] - and like all those you'll find there, she's cursed to never truly die. ##<<He smirks.>> Which means ((she)) really ((is)) hundreds of years old.	其次是[[无尽女公爵]]，一位强大的密文法师。她回了[[无尽领域]]的祖宅——和那里的所有同类一样，她受着永不真死的诅咒。##<<他坏笑。>>也就是说，((她))((真的))有好几百岁了。
+mentor66	1	mentor66::English	Finally, there's [[Caxton Frost]]. A genius of the [[Clockwork Kingdom]]; that man could engineer a skyship from a sack of junk. Last I heard, he'd returned to his homeland. 	最后是[[卡克斯顿·弗罗斯特]]。[[发条王国]]的天才；那家伙能用一麻袋破烂造出一艘飞艇。据我上次听说，他回了老家。
+p42	1	p42::English	And you're sure they'll help us?	你确定他们会帮我们？
+mentor67	1	mentor67::English	Am I ((sure)) they'll follow you to their certain deaths? Of course not, you fool! They'll probably try and cut your head off.	我((确定))他们会跟着你去送死？当然不确定，你这蠢货！他们八成会想砍下你的脑袋。
+mentor68	1	mentor68::English	But if you want to find Vela, you're just going to have to ((ask nicely.))	但你既然要找薇拉，就只好((好声好气地求))了。
+p43	1	p43::English	And if they ((do)) agree?	那要是他们((真))答应了呢？
+p44	1	p44::English	Got it.	明白了。
+mentor69	1	mentor69::English	You lot must have captured Vela's Fortress, the [[Blinding Light]] - correct? I heard the cannon fire from here. ##Tell you what, I'll head there myself, after this little chat. And if you find any of those Dark Stars? Send 'em there and all.	你们应该已经拿下了薇拉的堡垒，[[炫光要塞]]——对吧？炮声我在这儿都听见了。##这么着，聊完这点事我就自己过去。要是你找到了那些黑星，也都往那儿送。
+mentor70	1	mentor70::English	<<He affixes you with a grim stare.>> And that ((thing)) Vela's looking for? 	<<他阴沉地瞪着你。>>还有薇拉在找的那((东西))呢？
+mentor71	1	mentor71::English	She mustn't use it. Nobody must ((ever)) use it. You hear me? If you've any sense, you'll make sure it stays ((buried)) down there.	她不能用它。谁都((永远))不能用它。听见没？你但凡还有点脑子，就该确保它永远((埋))在下面。
+mentor72	1	mentor72::English	<<He shifts, suddenly nervous.>> Right. Well I think we're done here.	<<他扭了扭身子，突然紧张起来。>>行了。我看就到这儿吧。
+p45	1	p45::English	Can I ask you about something?	我能问你点事吗？
+mentor73	1	mentor73::English	And what might that be? 	什么事？
+p46	1	p46::English	About the Dark Stars I'm looking for...	关于我要找的那些黑星……
+mentor74	1	mentor74::English	Right. You want to hear some more info?	行。想再听点情报？
+p47	1	p47::English	Tell me more about the Emberian.	再多讲讲余烬人。
+mentor75	1	mentor75::English	The Emberian - that's what people call her, but I knew her as [[Orlaith]]. She's been close to Vela for years, and is one of the few who can match her with a blade.	余烬人——人们这么叫她，而我认识她时她叫[[奥莱丝]]。她与薇拉相交多年，是寥寥几个能用刀剑跟她过上几招的人之一。
+mentor76	1	mentor76::English	She was one of the first of the Dark Stars. Time was, it was just me, Vela and Orlaith, setting out on a wobbly sloop. By the end, Orlaith was captain of the [[SHIP]], and second only to Vela.	她是最早一批黑星。想当年，船上就我、薇拉和奥莱丝三个人，开一条晃晃悠悠的单桅帆船闯天下。到后来，奥莱丝已是[[SHIP]]的船长，地位仅次于薇拉。
+mentor77	1	mentor77::English	She wears an ancient suit o' Emberian armour, and on account of that, folk like to say ((she's)) four hundred years old, too. Of course, that's a load of nonsense...	她穿着一套古余烬铠甲，因此人们爱说她((也))有四百岁。当然，纯属一派胡言……
+mentor78	1	mentor78::English	After the mutiny, she set out on her own. I heard whispers she set up camp somewhere in [[Hallowshire]], but I can't tell you any more than that. 	哗变之后，她就单飞了。有风声说她把营地扎在了[[哈洛郡]]某处，但我也只知道这么多。
+p48	1	p48::English	Tell me more about the Endless Duchess.	再多讲讲无尽女公爵。
+mentor79	1	mentor79::English	The [[Endless Duchess]] - she's a powerful cipher wizard. She went back to her ancestral home in the [[Endless Realm]] - and like all those you'll find there, she's cursed to never truly die. 	[[无尽女公爵]]——一位强大的密文法师。她回了[[无尽领域]]的祖宅——和那里的所有同类一样，她受着永不真死的诅咒。
+p49	1	p49::English	Tell me more about Caxton Frost.	再多讲讲卡克斯顿·弗罗斯特。
+mentor80	1	mentor80::English	Frost called himself a 'techno-archaeologist' - and if you laughed at that, he'd teach you a brutal lesson. That's why we dubbed him the Professor.	弗罗斯特自称"科技考古学家"——你要是笑出声，他能给你上一堂惨痛的课。所以我们给他起了个绰号，叫教授。
+mentor80b	1	mentor80b::English	The man always was an odd fish. Distant, melancholy. You never could quite tell what he was thinking. But no one knew more than him about ancient Emberian machines - or modern ones, for that matter.	那人向来是个怪家伙。疏离，阴郁。你永远猜不透他在想什么。但论古余烬机械的学问——现代机械也一样——没人比得上他。
+mentor80c	1	mentor80c::English	As for how to find him... well, he talks like a posh prat, but swears like a sailor. Doesn't suffer fools gladly, or at all. Has [[trouble walking]].##Oh, and he has a [[moth tattoo]] on his left arse cheek.	至于怎么认出他……这么说吧，他说话像个上流蠢货，骂起人来却像水手。最见不得蠢人，压根见不得。走路[[不利索]]。##哦对了，他左边屁股蛋上有个[[飞蛾刺青]]。
+mentor80d	1	mentor80d::English	Now, word on the Dark Star grapevine is that Frost is dead. Two crewmates saw him jump overboard one night, in open sky. Afterward they found a note. He sided with Vela in the mutiny, see, and couldn't get over what he'd done.	眼下黑星小道消息说，弗罗斯特死了。两个船员看见他某天夜里在茫茫天空中跳下了船。事后他们找到一张字条。哗变时他站在薇拉那边，你明白吧，他过不去自己那道坎。
+mentor80e	1	mentor80e::English	But me? Nah. I won't believe it until I've stubbed out my own cigar in his cold dead eye. ##Frost always was a patriot at heart. If he's alive, odds are he's back in the [[Clockwork Kingdom]].	但我信吗？不信。除非我能把雪茄摁灭在他冰冷的死鱼眼里，否则我不信。##弗罗斯特骨子里一直是个爱国者。他要是还活着，八成回了[[发条王国]]。
+p49b	1	p49b::English	How do you know about his tattoo?	他的刺青你怎么知道的？
+mentor80f	1	mentor80f::English	<<Basalt smirks.>> I'll leave that to your imagination, Confessor.	<<巴索特坏笑。>>这就留给你自己想象了，忏悔者。
+p49c	1	p49c::English	Thanks for the intelligence.	多谢情报。
+p50	1	p50::English	That's all.	就这些。
+mentor81	1	mentor81::English	Alright, then.	好嘞。
+p51	1	p51::English	About your past...	关于你的过去……
+mentor82	1	mentor82::English	Hmph, dredging that up, are we?	哼，要翻旧账了是吧？
+p52	1	p52::English	Tell me of your time as a Captain.	讲讲你当船长的那段日子。
+p53	1	p53::English	Tell me of the Dark Star mutiny.    	讲讲黑星哗变。
+p54	1	p54::English	About Vela Callose...	关于薇拉·卡洛斯……
+mentor83	1	mentor83::English	What about her?	她怎么了？
+p55	1	p55::English	So you ((trained)) Vela? 	所以薇拉是你((训练))的？
+p56	1	p56::English	Why are you hunting her? 	你为什么要追捕她？
+p57	1	p57::English	What's she looking for, in the underlands?	她在地下之地找什么？
+p58	1	p58::English	About something else...	关于别的……
+mentor84	1	mentor84::English	And what's that, now?	又是什么事？
+p59	1	p59::English	Okay, that's all. I'll get going.	好，就这些。我先走了。
+mentor85	1	mentor85::English	Right. I'll be at the [[Blinding Light]].	好。我会在[[炫光要塞]]。
+mentor86	1	mentor86::English	Only... something tells me you won't be able to find them just yet. Call it a hunch.	只是……我有个直觉，你现在还找不齐他们。就叫直觉吧。
+mentor87	1	mentor87::English	Ah, the [[Blinding Light.]] I remember when we captured this place from its Union ((caretakers.)) ##<<He smirks.>> Back when we thought we could get away with ((anything.))	啊，[[炫光要塞]]。还记得当年我们把它从联盟那帮((看门人))手里夺下来。##<<他坏笑。>>那时我们还以为天下没有((干不成))的事。
+mentor88	1	mentor88::English	Alright. I'll be 'ere if you need me.	好嘞。有事就来这儿找我。
+mentor89	1	mentor89::English	Right y'are. Anythin' else?	好嘞。还有别的事吗？
+mentor90	1	mentor90::English	<<He nods.>> Confessor.  ##What can I do for you?	<<他点头。>>忏悔者。##有何贵干？
+p101	1	p101::English	What do you know of Vela Callose? 	关于薇拉·卡洛斯，你知道些什么？
+innkeep0	1	innkeep0::English	Oh. An' who might that be?	哦。那是何方神圣？
+innkeep1	1	innkeep1::English	<<He chuckles.>> What kind o' innkeep do you take me for? I've heard more stories 'bout Vela than I can recount...	<<他轻笑。>>你当我是哪种掌柜的？薇拉的故事我听过的多得数不过来……
+innkeep2	1	innkeep2::English	Her Dark Star mercenaries fought in the Slevian Mutiny, the Battle of Weeping Wizards, an' on ((both sides)) of the Wikkan uprising of Hawkney. They've taken coin from Riovan councillors and occultist villages alike..	她手下的黑星佣兵打过斯列夫兵变、泣泪法师会战，霍克尼维坎起义时((两边))都收过他们的钱。里奥瓦议员的钱他们收过，秘术师村落的钱他们也收过……
+innkeep3	1	innkeep3::English	<<He leans on the bar.>>##And when folk ain't been spilling each other's blood, they've gone a' plundering; Emberian ruins, Wikkan shrines... An' you know the tomb of the Deathless Dynast King? That was ((them)) that stole his face. 	<<他倚在吧台上。>>##不流人人相残的血时，他们就出门劫掠；余烬遗迹、维坎神龛……你知道不朽王朝王的陵墓吗？把他脸偷走的就是((他们))。
+innkeep4	1	innkeep4::English	<<He leans in so close, you can smell his breath.>>##Some folk say she's a saint, who's gonna right the wrongs of the Union. Others say she's a ((devil)), who leaves a path of chaos in her wake. But you know what?	<<他凑得极近，你都能闻到他嘴里的酒气。>>##有人说她是圣徒，要来匡正联盟的种种不义。也有人说她是((恶魔))，走到哪儿就祸乱到哪儿。可你知道吗？
+innkeep5	1	innkeep5::English	<<He jabs the table, eyes wide.>>##She were 'ere, once. Two years ago, her and a load of her crew. They kicked everyone else out; must'a been ((fifty)) of the sods, getting pissed as skyfish. 	<<他戳着桌子，眼睛瞪圆。>>##她来过这儿。两年前，她带着一大帮船员。他们把旁人全轰了出去；足有((五十))号混账东西，一个个醉得像天上的鱼。
+innkeep6	1	innkeep6::English	An' I saw that she weren't no saint. She weren't no devil. She were...	我算是看清了，她不是圣徒。也不是恶魔。她是……
+innkeep7	1	innkeep7::English	((Completely shitfaced.))	((烂醉如泥。))
+innkeep8	1	innkeep8::English	<<He guffaws, wiping a tear from his face.>> I ((did)) warn her about that typhos rum. We made more coin that night than most weeks, I reckon. 	<<他放声大笑，抹掉眼角的泪。>>那提福斯朗姆酒我((可))提醒过她。那晚我们挣的硬币，比平常几个星期都多，我估摸着。
+p102	1	p102::English	Thanks for your help. 	多谢帮忙。
+innkeep9	1	innkeep9::English	Don't be mentionin' it. 	别客气。
+p103	1	p103::English	I'm looking for someone. Goes by the ((Emberian))...	我在找一个人。外号叫((余烬人))……
+innkeep10	1	innkeep10::English	<<He furrows his brow.>> Oh, aye? And who's askin'?	<<他皱起眉头。>>哦，是吗？哪位在打听？
+p104	1	p104::English	I'm with the Inquisition. 	我是宗教裁判所的人。
+innkeep11	1	innkeep11::English	<<His frown contorts further.>> Listen, stranger. Folk round 'ere don't take too ((kindly)) to the mention of... ((those)) lot. 	<<他的眉头拧得更紧。>>听着，外乡人。这一带的人听到有人提起……((那帮人))，心里可((痛快))不了。
+innkeep12	1	innkeep12::English	Usually, when the Union's lapdogs come a'callin', it happens quick and it happens brutal. Spilled drinks, broken noses - and someone gets dragged out screaming. 	通常联盟的走狗一登门，事情就来得又快又狠。酒水泼洒、鼻梁打断——总有人被拖出去时一路惨叫。
+innkeep13	1	innkeep13::English	And you sure don't ((look)) like one o' their agents. So I'll say again - ((who's asking?))	再说你看上去也((不像))他们的探员。所以我再问一遍——((你哪位？))
+p105	1	p105::English	I'm serious. I'm with the inquisition.	我是认真的。我真的属于宗教裁判所。
+innkeep14	1	innkeep14::English	<<He stares at you for a good few moments.>> Well. I'm not saying I believe you. But...	<<他盯着你看了好一阵。>>嗯。我不是说信了你。不过……
+p106	1	p106::English	I'm just curious whether the stories are true.	我只是好奇那些故事是不是真的。
+innkeep15	1	innkeep15::English	Humph. Folk sure do like to wag their chins around here...	哼。这一带的人还真爱嚼舌头……
+innkeep16	1	innkeep16::English	Every now an' then, for the past year or so, we've had a lass in huge rusty armour stop by. 	过去一年左右，时不时有个穿着一身大锈甲的姑娘来店里歇脚。
+innkeep17	1	innkeep17::English	Soon as she slams open that door, folk go quiet. Perhaps it's her moody stare, or perhaps it's that greatsword that's bigger than ((her))...	她一踹开那扇门，满堂立马鸦雀无声。也许是她阴沉的注视，也许是那把比她((人))还大的巨剑……
+innkeep18	1	innkeep18::English	Or perhaps it's the stories. Y'see, people say that she used to run with Vela's crew - the ((Dark Stars)). ##They say she was a captain of one 'o their ships, and wore a full suit of ancient Emberian armour...	又或者，是那些传闻。你想，人们说她从前跟过薇拉的船队——((黑星))。##据说她当过他们一条船的船长，还穿着一整套古老的余烬铠甲……
+innkeep19	1	innkeep19::English	But folk say it's not just the ((armour)) that's Emberian. They say that ((she's)) been walking the skyrealms ever since the World Rend, wandering for ((hundreds of years...))	可人们说，不光那身((铠甲))是余烬的。他们说((她本人))从世界撕裂起就在天空领域行走，游荡了((几百年……))
+innkeep20	1	innkeep20::English	<<He chuckles.>> But, folk say a lot of things, don't they?	<<他轻笑。>>不过，人们嘴上什么都说，不是吗？
+p107	1	p107::English	Do you know where to find her?	你知道去哪找她吗？
+innkeep21	1	innkeep21::English	Some say she lives in a castle. Others, a dank cave. But I don't think anyone's ever actually gone an' ((asked)) her...	有人说她住城堡，有人说她住阴湿的洞穴。但我想还真没人上去((问过))她本人……
+innkeep22	1	innkeep22::English	But y'know what? She often comes in all muddy an' smelling of thornweed. So, I'd wager it'd be somewhere in the [[forest to the west...]]	不过你知道吗？她每次来都是一身泥、带着荆棘草味。所以我赌她窝在[[西边的森林里……]]
+p108	1	p108::English	Thanks for the info.	多谢指点。
+innkeep23	1	innkeep23::English	Well, just keep it between us, y'hear? Don't want that lass on my bad side...	嗯，这些话别外传，听见没？可不想惹那位姑娘记恨……
+innkeep24	1	innkeep24::English	O' course. What ye be wantin'?	好嘞。你想要点什么？
+innkeep25	1	innkeep25::English	Now, will there be anythin' else?	那么，还要点别的吗？
+p121	1	p121::English	I'm looking for someone.	我在找一个人。
+odd1	1	odd1::English	Oh? Well I can certainly try and be of assistance. 	哦？那我一定尽力效劳。
+p122	1	p122::English	Have you heard of the Emberian?	听说过余烬人吗？
+odd2	1	odd2::English	Ah, why yes, I have. She's quite the talk of the town; many people have seen her striding around in that antique armour. 	啊，没错，听说过。她可是镇上的热门话题；好些人都见过她穿着那身古董铠甲昂首阔步。
+odd3	1	odd3::English	In fact, she came by this shop, not too long ago. I tried to determine where she obtained that Emberian equipment of hers, but she was very tight-lipped about it. 	其实不久前她还来过本店。我想打听她那身余烬装备的来路，但她对此守口如瓶。
+p123	1	p123::English	Do you know where I can find her?	你知道去哪找她吗？
+odd4	1	odd4::English	Well, I ((did)) ask her where she was staying - I must admit, I'm just quite nosy like that - and she confessed that the luxuries of the town were not to her liking, though she wouldn't say more on the matter. 	嗯，我((确实))问过她住在哪——不得不承认，我就是这么爱管闲事——她说镇上的奢华不合她心意，再多的就不肯讲了。
+odd5	1	odd5::English	But after she left, I could see her out of my window, making her way back. She strode into the [[forest]], to the [[west]] of Hallowshire. 	不过她离开后，我从窗口望见她往回走。她大步走进了哈洛郡[[西边]]的[[森林]]。
+odd6	1	odd6::English	Of course, with her interest in all things Emberian, I'd wager she'd have taken an interest in that small ruin in the forest. The one with the [[old rusty turbine]], that you can see rising from the trees...	当然啦，以她对余烬事物的痴迷，我敢打赌森林里那座小遗迹她会感兴趣。就是树梢间露出的那台[[生锈的老涡轮]]……
+odd7	1	odd7::English	Oh, but I really shouldn't be telling you all this, should I? Customer confidentiality, and all that. Maybe keep it between us, hmm?	哦，不过这些话我本不该说的，对吧？什么客户保密之类的。就你知我知，嗯？
+p124	1	p124::English	Thanks for the information.	多谢指点。
+odd8	1	odd8::English	That's quite alright. Now, was there anything else? 	不客气。还有别的事吗？
+p125	1	p125::English	I'm looking for an Emberian key.	我在找一把余烬钥匙。
+odd9	1	odd9::English	Looking for Emberian antiques, are we? Well, you've certainly come to the right place.##I have a small collection of bits and pieces, from the relatively modest... <<he holds up a rusty piece of junk,>> to the downright ((exquisite.)) <<He holds up another piece of junk.>>	找余烬古董，是吧？那你可算来对地方了。##我这儿收着一些零零碎碎，从相对朴素……<<他举起一件生锈的破烂>>……到极其((精美))的都有。<<他又举起另一件破烂。>>
+p126	1	p126::English	What's with all the rusty junk?	这一堆生锈的破烂是怎么回事？
+odd10	1	odd10::English	<<He stammers, affronted.>> Why... I'll have you know that these are ((priceless artefacts)), created by legendary Emberian blacksmith-factories before the World Rend. We will never see the likes of such craftsmanship again!	<<他结结巴巴，一脸被冒犯。>>你……你可要知道，这些是((无价之宝))，出自世界撕裂前传奇的余烬锻匠工厂。这般工艺，我们再也见不到了！
+p127	1	p127::English	Yes, but what actually ((are they?)) 	是是是，可它们((到底是什么？))
+odd11	1	odd11::English	Well, this one is... some type of... component? And this here, well this was clearly an elaborate type of metal... rod! As I said - ((priceless!))	呃，这个是……某种……零件？而这个呢，显然是一根做工精巧的金属……杆！我说过了——((无价之宝！))
+p128	1	p128::English	Oh, I see now. Yes, exquisite indeed. 	哦，我懂了。是，确实精美。
+odd12	1	odd12::English	I'm glad you recognize quality when you see it!	很高兴你识货！
+p129	1	p129::English	I need a key, to open a nearby ruin. 	我需要一把钥匙，开附近的一处遗迹。
+odd13	1	odd13::English	Ah, yes - I often get requests for keys.##There are plenty of old Emberian ruins that - despite being hundreds of years old - have proved impervious to spelunkers and scavengers. So, would-be treasure seekers pin their hopes on a key...	啊，有——常有人来求钥匙。##不少古老的余烬遗迹——虽历经数百年——探险者和拾荒者都奈何不得。于是跃跃欲试的寻宝人就把希望寄托在一把钥匙上……
+odd14	1	odd14::English	...but there are innumerable old keys, and innumerable old doors. As I tell most budding tomb raiders, actually opening one would be a matter of astounding luck! ##Although...	……可是古钥匙数不胜数，古门也数不胜数。就像我对每个初出茅庐的盗墓人说的：真能对上一把，那得是逆天的运气！##不过……
+odd15	1	odd15::English	There was a woman that came by, not long ago, who seemed to know ((exactly)) what she was looking for. 	不久前有位女士来过，她似乎((清楚))自己要找什么。
+p130	1	p130::English	This woman - who was she?	那位女士——是谁？
+odd16	1	odd16::English	About town, she seems to be known as the [[Emberian]]. People seem to think that she's a relic of that time ((herself)) - which, of course, is pure tattle. 	镇上都叫她[[余烬人]]。人们似乎觉得她本人就是那个时代的((活化石))——当然，纯属瞎扯。
+odd17	1	odd17::English	She does seem to be an avid collector, though.##The suit of armour she wears? I've never seen such a well-preserved relic. It outshines anything in my humble collection, that's for certain.	不过她确实像位狂热的收藏家。##她那身铠甲？保存如此完好的遗物我从未见过。肯定比我这寒酸收藏里的任何东西都耀眼。
+p131	1	p131::English	What did she buy?	她买了什么？
+odd18	1	odd18::English	She bought a key. She described its kind in very specific detail.	她买了一把钥匙。她把钥匙的样子描述得非常具体。
+p132	1	p132::English	Do you know what that key unlocks? 	你知道那把钥匙开什么吗？
+odd19	1	odd19::English	Hah! If I did, I would have closed shop and gone off to use it, long ago!	哈！我要是知道，早关店拿它发财去了！
+odd20	1	odd20::English	Though, in all honesty, I have often wished to test my collection of keys on that [[Emberian structure]] to the [[east]] of Hallowshire; if only the surrounding [[town]] wasn't teeming with bandits.	不过说实话，我一直想拿我收藏的钥匙去试试哈洛郡[[东边]]那座[[余烬建筑]]；只可惜周围的[[镇子]]满是土匪。
+p133	1	p133::English	Can you tell me about this Emberian ruin?	能给我讲讲那处余烬遗迹吗？
+odd21	1	odd21::English	Well, it's been sitting there since before the World Rend, of course. As far as I'm aware, the town of [[Rustburg]] grew up around it, as people tried to prise it open and plunder its treasures...	嗯，它当然早在世界撕裂前就立在那儿了。据我所知，[[锈堡]]镇就是在它周围兴起的，人们都想撬开它、掠夺里面的宝藏……
+odd22	1	odd22::English	...but they never succeeded. Emberian metal is inscribed with cipher, after all - to make it nearly impenetrable.	……但他们从未得手。余烬金属上錾刻着密文——几乎坚不可摧。
+odd23	1	odd23::English	Eventually the town was destroyed in the God War, for harbouring Wikkans. It's been home to all sorts of scoundrels and ruffians ever since, but I sincerely doubt they've had better luck with the Emberian ruins. 	后来神之战中，那镇子因为窝藏维坎教团被夷平了。此后各种无赖恶棍都拿它当过老巢，但我严重怀疑他们撬余烬遗迹的手气能好到哪去。
+p134	1	p134::English	Do you have another key? I want to buy one. 	你还有别的钥匙吗？我想买一把。
+odd24	1	odd24::English	<<He rummages around in a box of assorted metal parts.>> Ah-ha! You are in luck, my friend. This [[Emberian Key]] seems remarkably similar to the one I sold not long ago. 	<<他在一盒杂七杂八的金属件里翻找。>>啊哈！你运气真好，我的朋友。这把[[余烬钥匙]]和我不久前卖掉的那把像得出奇。
+p135	1	p135::English	About that Emberian key...	关于那把余烬钥匙……
+odd25	1	odd25::English	Ah, yes - this [[Emberian Key]] seems remarkably similar to the one I sold not long ago, to that woman in Emberian armour.	啊，对——这把[[余烬钥匙]]和我不久前卖给那个穿余烬铠甲的女人的那把，像得出奇。
+odd26	1	odd26::English	Of course, what with this one being so ((high in demand)), I couldn't let it go for less than [[twenty coins.]]	当然啦，这把钥匙如今((行情紧俏))，低于[[二十枚硬币]]我可不卖。
+p136	1	p136::English	Okay, here's the coin.	好，钱给你。
+odd27	1	odd27::English	Splendid, splendid! Here you are; in remarkable condition, I'm sure you'll agree.	好极了，好极了！拿好了；品相出众，你不会不同意吧。
+odd28	1	odd28::English	Personally, I always wanted to test it in those [[Emberian ruins]] in [[Rustburg,]] to the east.##I have a hunch my ((previous)) customer had the same idea... 	就我个人而言，我一直想拿它去东边[[锈堡]]的[[余烬遗迹]]试试。##我有预感，我那位((上一位))顾客也是这么想的……
+p137	1	p137::English	@@ Twenty? You said yourself, it probably won't work...	@@ 二十枚？你自己都说了，它多半开不了……
+odd29	1	odd29::English	%% Hmph, I suppose you're right. Tell you what; just this once, you can have it free of charge. ##But if, by some ((miracle)) you do find some treasure with it, let me take it off your hands... for a ((fair price)), of course.	%% 哼，你说得也在理。这样吧；就这一回，白送你。##不过，若你真凭它((奇迹般))找到了宝藏，记得让我接手……当然，得给个((公道价))。
+odd30	1	odd30::English	Personally, I always wanted to test it in those [[Emberian ruins]] up past [[Rustburg.]] I have a hunch my ((previous)) customer had the same idea... 	就我个人而言，我一直想拿它去[[锈堡]]上头那片[[余烬遗迹]]试试。我有预感，我那位((上一位))顾客也是这么想的……
+odd31	1	odd31::English	&& Nonetheless, though possibly useless, these keys are irreplaceable relics. Twenty coins, it is.	&& 话虽如此，就算可能没用，这种钥匙也是不可替代的文物。就二十枚，不还价。
+p138	1	p138::English	I'll think about it. 	我再想想。
+odd32	1	odd32::English	By all means. Now, was there anything else? 	请便。还有别的事吗？
+p139	1	p139::English	Thanks for the information.	多谢指点。
+odd33	1	odd33::English	That's quite alright. 	不客气。
+odd34	1	odd34::English	Ah... terribly sorry, but it seems you don't have enough, there.	啊……非常抱歉，你的钱好像不够。
+odd35	1	odd35::English	Now, was there anything else? 	还有别的事吗？
+p151	1	p151::English	Have you heard of the Emberian?	听说过余烬人吗？
+alch1	1	alch1::English	Oh, I saw her once, striding through town like she owned the place. Now, I'm not saying all the stories are true, but there's certainly summin' ((strange)) about that woman...	哦，我见过她一回，大步流星穿过镇子，像这地方是她家开的。我不是说那些传闻都属实，但那女人身上肯定有点((邪门))……
+alch2	1	alch2::English	She's never come in here, but I've heard she bought summin' from the [[Emporium of Oddities]], up by the end of the street. The one with the crystal spire.	她从没进过我这个门，但听说她在街尾的[[奇物商场]]买过东西。就是有座水晶尖塔的那家。
+tailor1	1	tailor1::English	Ah, that Dark Star mercenary? I've not spoken with her myself, but I saw her stride past the shopfront, once. 	啊，那个黑星佣兵？我没跟她本人说过话，但见过她从店门前大步走过，就一回。
+tailor2	1	tailor2::English	I swear, everyone in the street froze in their place - even the guards. Something about her ((stride)), and that ((armour.)) I'd not like to bump into her after dark, let me tell you!	我发誓，整条街的人都僵在原地——连卫兵都是。她那((步态))，还有那身((铠甲))，就是有股慑人的气势。天黑后撞见她可就不是好玩的事了，我跟你说！
+poly1	1	poly1::English	<<She releases an exaggerated sigh.>> Unfortunately, I ((have)) heard of this nonsense. Some four-hundred-year-old warrior, yes? Who survived the World Rend and has been wandering about ever since, hitting things with her sword? 	<<她夸张地叹了口气。>>不巧，这种无稽之谈我((确实))听过。某个四百岁的老战士，对吧？世界撕裂中活了下来，从此四处游荡，逢人就一剑？
+poly2	1	poly2::English	Please don't bother me with such idle chatter; I really don't have the time. 	请别拿这种闲话烦我；我真没那个工夫。
+wpn1	1	wpn1::English	((Heard)) of her? She's come into this 'ere shop, more than once!	((听说))她？她可不止一次进过我这家店！
+wpn2	1	wpn2::English	Scared me witless, I'll say. That stare - and that ((armour)). There's something about it. I've been servicing equipment since I was a tyke, but I've never seen ((anything)) of that craftsmanship. 	吓得我魂都没了，真的。那眼神——还有那身((铠甲))。就是有股说不出的名堂。我从毛头小子起就干装备修理，那种工艺我从没((见过))。
+wpn3	1	wpn3::English	She asked to use the workbench, last time. I saw her take off one of those pauldrons and tinker with it. It was full of the most intricate machinery - and she knew ((exactly)) what she was doing.	上回她借用了工作台。我看见她卸下一块肩甲摆弄。里面满满都是最精密的机括——而她((门儿清))自己在干什么。
+wpn4	1	wpn4::English	If you ask me, the stories are true, and she really ((is)) four hundred years old. After all, those Endless live forever, right? Who's to say the Emberians didn't figure it out, too?	要我说，传闻是真的，她((真))有四百岁。毕竟那些无尽者不就永生嘛，对吧？谁能断定余烬人没琢磨出同样的门道？
+rustburg1	1	rustburg1::English	Now look 'ere. This is ((my)) tree, and that's ((my)) loot. So get lost, y'hear?	喂，看着点。这是((我))的树，那是((我))的战利品。滚吧，听见没？
+rustburg0	1	rustburg0::English	You again?	又是你？
+p201	1	p201::English	Uh, do you live here?	呃，你住这儿？
+rustburg2	1	rustburg2::English	Aye, I've been 'ere for ((sixty years,)) since before the damned ((apostates)) blasted the place to smithereens. 	啊，我在这儿住了((六十年，))早在那帮该死的((叛教者))把镇子轰成渣之前就住下了。
+p202	1	p202::English	What is this town?	这镇子是什么来历？
+rustburg3	1	rustburg3::English	Time was, this town was called [[Rustburg]], on account of all the merchants selling Emberian junk.	想当年，这镇子叫[[锈堡]]，因为满街商人都在卖余烬破烂。
+rustburg4	1	rustburg4::English	Y'see, there's an old [[Emberian ruin]] up there; an' plenty of detritus. Though, in all the time the town's been 'ere, they never ((did)) crack open the big ol' doors. Some o' that magic metal still holds tight, no matter how many cannons you blast at it. 	你瞧，上头有座古[[余烬遗迹]]；碎铜烂铁遍地都是。可镇子存在这么久，那些大老爷门愣是((没人))撬开过。那种魔法金属结实得很，轰多少炮都不带松口的。
+p203	1	p203::English	Why is this place such a wreck?	这地方怎么破败成这样？
+rustburg5	1	rustburg5::English	Well, 'bout forty years ago was the God War. The apostates - ((I guess we call 'em the)) Union ((now)) - they caught wind of some Wikkan holdouts, an' blasted the whole town with a fortress ship. 	唉，约四十年前是神之战。那些叛教者——((我想如今都管他们叫))联盟((了))——听说有维坎残党藏着，就用一艘要塞舰把整座镇子轰平了。
+rustburg6	1	rustburg6::English	Hallow Town was fine, so most folk just moved there. Nobody ever rebuilt Rustburg. 	哈洛镇完好无损，大多数人就搬过去了。锈堡从此没人重建。
+p204	1	p204::English	Thanks for the story.	多谢你讲这些。
+rustburg7	1	rustburg7::English	S'alright.	没事。
+p205	1	p205::English	Do you know a way into the town?	你知道进镇的路子吗？
+rustburg8	1	rustburg8::English	Y'need to get into that big stone tower, there. But there's two ways round, see. You can go the long way - with all the goblins an' moths, or you can go the ((special)) way. 	你得进那座大石塔。不过路有两条，瞧好了。你可以走远路——满路的哥布林和飞蛾——也可以走((特别的))路。
+p206	1	p206::English	@@Can you tell me the ((special)) way in?	@@ ((特别的))路是什么，能说说吗？
+rustburg9	1	rustburg9::English	%%Well, I guess you seem like an alright sort.	%% 嗯，看你小子还算顺眼。
+rustburg10	1	rustburg10::English	When there were Wikkans living 'ere, they hid the nearby [[bridge]] with magic. It's right there, but you can use a [[Truth Potion]] to see it. Lets you sneak past all those gobbos real good. 	当年维坎教团住在这儿时，用魔法把附近的[[桥]]藏了起来。桥就在那儿，用一瓶[[真言药水]]就能看见。能让你神不知鬼不觉绕过那帮哥布林。
+rustburg11	1	rustburg11::English	&&Well, if I went telling every damn fool about it, it wouldn't be ((special)) no more, would it? So you can sod off. 	&& 要是我见个蠢货就告诉一遍，那还叫什么((特别的))路，你说是不是？滚吧你。
+p207	1	p207::English	Okay, thanks. 	好，多谢。
+rustburg12	1	rustburg12::English	<<He grunts.>>	<<他哼了一声。>>
+p208	1	p208::English	I'll leave you be. 	不打扰你了。
+EmbCamp0	1	EmbCamp0::English	I thought I told you to get lost?	我不是让你滚了吗？
+EmbCamp1	1	EmbCamp1::English	<<The woman stands in full armour as she tinkers with an assortment of junk. Her head snaps around as you approach.>>	<<那女人全副武装，正摆弄一堆破烂。你走近时，她的头猛地转了过来。>>
+EmbCamp2	1	EmbCamp2::English	Looks like you're ((lost)), wanderer. If you value your neck, I'd be lost someplace ((else.))	看来你((迷路))了，流浪汉。要是还想保住脑袋，就换个地方((迷。))
+p251	1	p251::English	Wait - you're the Emberian, right? 	等等——你就是余烬人，对吧？
+p252	1	p252::English	I'm looking for a Dark Star mercenary.	我在找一个黑星佣兵。
+p253	1	p253::English	I'll make myself scarce, then. 	那我这就消失。
+EmbCamp3	1	EmbCamp3::English	<<She turns to you, grimacing, and shoulders her greatsword with a clang.>> ##Hmph. Another bounty hunter? 	<<她转过身来，龇着牙，铿的一声把巨剑扛上肩。>>##哼。又一个赏金猎人？
+EmbCamp4	1	EmbCamp4::English	As I told the last of you sods, I don't sail with the Dark Stars no more - but I can cleave you in two all the same.	跟你们这帮家伙上回那位说的一样，我早不给黑星卖命了——但把你劈成两半的本事还在。
+p254	1	p254::English	Basalt sent me. We're on the same side. 	巴索特派我来的。我们是一条道上的人。
+EmbCamp5	1	EmbCamp5::English	Basalt? So that old bastard put you on my trail, eh? The old sod never ((could)) keep his mouth shut. 	巴索特？合着那个老混蛋让你来追我，嗯？那老东西的嘴就((没))严实过。
+p255	1	p255::English	Woah - I want your help, not your head. 	哇——我要的是你帮忙，不是你的脑袋。
+p256	1	p256::English	It's Vela I'm after.	我要找的是薇拉。
+EmbCamp6	1	EmbCamp6::English	<<You feel her gaze as she grips her sword.>>	<<她握剑的手一紧，你能感到她的目光。>>
+EmbCamp7	1	EmbCamp7::English	Oh yeah? And why, exactly, would you need little ol' ((me?))	哦是吗？你到底为什么需要((小小的我))呢？
+p257	1	p257::English	I'm looking for Vela. We've got to stop her.	我在找薇拉。我们得拦住她。
+EmbCamp8	1	EmbCamp8::English	<<Hearing Vela's name, she flinches.>> ##((Vela?)) I'm ((done)) with that devil, you hear? 	<<听见薇拉的名字，她缩了一下。>>##((薇拉？))那个恶魔我((受够了))，听见没？
+EmbCamp9	1	EmbCamp9::English	If you want to stop her, be my guest. Cut her to pieces - sail a skyship into her corpse! Do it with my blessing, but I'll have no part in it. 	你想拦她，请自便。把她剁成碎块——开着飞艇碾过她的尸体！全当我祝福你了，但我绝不掺和。
+p258	1	p258::English	I'm looking for Vela. I want to help her. 	我在找薇拉。我想帮她。
+EmbCamp10	1	EmbCamp10::English	And if you want to assist with her madcap plan, you're worse than the wretched bounty hunters - but following her into oblivion will kill you surer than I ever could. 	你要是想帮着她那个疯计划，那你比那些可怜的赏金猎人还不如——不过跟着她奔向湮灭，死得可比我动手利索多了。
+p259	1	p259::English	If I don't find Vela, I'm dead. 	找不到薇拉，我就是死路一条。
+EmbCamp11	1	EmbCamp11::English	And if you think I'll track her down just to save your sorry neck, you're ((dead)) wrong. 	你要是觉得我会为了救你那可怜的小命去追查她，那你就((错))到家了。
+p260	1	p260::English	But I thought you and Vela were comrades?	可你们和薇拉不是同伴吗？
+EmbCamp12	1	EmbCamp12::English	((Comrades?)) Hah! Vela was more than a comrade. ##<<She slams her blade upright.>> She was a ((sister)) to me. I owe my ((life)) to that girl.	((同伴？))哈！薇拉何止是((同伴))。##<<她把剑拄在地上。>>她是我((姐妹))。那条命都是她给的。
+p261	1	p261::English	Seems to me like you're ((scared)) of her.	我看你是((怕))她吧。
+EmbCamp13	1	EmbCamp13::English	Pah! ((Scared!?)) ##<<She leans towards you, sword scraping against armour.>>	呸！((怕！？))##<<她朝你倾身，剑刃刮着铠甲作响。>>
+EmbCamp14	1	EmbCamp14::English	Damn right I'm scared. And you should be too.	怕，我怕得一点没错。你也该怕。
+EmbCamp15	1	EmbCamp15::English	Do you think she got her reputation with ((stern words))? I've seen her best a tavernful of ruffians with her good arm behind her back. I've seen her slice off the head of a voidbeast without breaking a sweat. I've seen her square up to a ((god)).	你以为她的凶名是靠((说狠话))挣来的？我见过她单手背后、放倒一酒馆的恶棍。我见过她面不改色削掉虚空兽的脑袋。我见过她跟((神))对面刚。
+EmbCamp16	1	EmbCamp16::English	But... she was also ((more)) than all that. She was a sister to me. I owe my ((life)) to that girl.	可……她((不止))是这些。她是我((姐妹))。那条命都是她给的。
+p262	1	p262::English	If she's such a devil, why did you idolise her?	她既然这么恶魔，你以前为什么崇拜她？
+EmbCamp17	1	EmbCamp17::English	<<She shifts, and looks away.>> ##Time was, I thought she really could make the world better. Little by little, with blood and sweat and grit, I thought we were ((doing)) it...	<<她挪了挪身子，望向别处。>>##曾几何时，我真以为她能让世界变好。一点一点，用血汗和骨头，我以为我们((真在))做到……
+EmbCamp18	1	EmbCamp18::English	<<She inhales. >> ##But then she found it. 	<<她吸了口气。>>##直到她找到了那样东西。
+p263	1	p263::English	What happened between you?	你们之间发生了什么？
+EmbCamp19	1	EmbCamp19::English	<<She sighs.>> She found something. Before then, I thought... maybe we really ((could)) make the world a better place. But then... we found it, untouched for hundreds of years...	<<她叹了口气。>>她找到了一样东西。在那之前，我以为……也许我们((真能))让世界变好。可后来……我们找到了它，沉睡了几百年无人惊扰……
+EmbCamp20	1	EmbCamp20::English	A map. Buried in some Emberian tomb, that pointed to something impossible. I told her to ((leave)) it. To not put her faith in ancient, cursed things. ##She ((promised me)).	一张地图。埋在某座余烬古墓里，指向一样不可能存在的东西。我让她((收手))。别把信念押在古老受诅咒的东西上。##她((答应过我))。
+EmbCamp21	1	EmbCamp21::English	But she led us to our doom, anyway. Vela plunged the Dark Stars beneath the clouds with our best ships - our flagship and galleon both - In pursuit of an Emberian artefact that was more likely to ((end)) the world than save it. 	可她照样把我们带向了灭亡。薇拉带着黑星一头扎进云海之下，用的是我们最好的两条船——旗舰和盖伦帆船——就为追一件与其说((拯救))世界、不如说会终结世界的余烬造物。
+EmbCamp22	1	EmbCamp22::English	On that day she was not my sister. 	那一天，她不是我姐妹。
+EmbCamp23	1	EmbCamp23::English	As captain of the ((Black Goblin)), I told my crew to fire upon their comrades. We splintered the hull of Vela's ship with our cannons, before we boarded and clashed swords.##It was mutiny. ((Fratricide))...	作为((黑妖精号))的船长，我下令向昔日的战友开火。我们的炮撕碎了薇拉的船壳，然后接舷厮杀。##那是哗变。是((手足相残))……
+EmbCamp24	1	EmbCamp24::English	<<Her fists are clenched tight, trembling.>> But while I stalled her plans that day, I couldn't stop her. ##<<She twists her mouth into a grim smile.>> I never could. 	<<她的拳头攥得死紧，微微发颤。>>那天我拖住了她的计划，却终究没能拦住她。##<<她嘴角扭曲成苦笑。>>从来都拦不住。
+p264	1	p264::English	What is Vela trying to find? 	薇拉到底在找什么？
+EmbCamp25	1	EmbCamp25::English	Something called the [[Cradle]], buried deep in the underlands. What it actually ((is)), we don't know - but If Vela's right, it could be used to alter the very ((language)) of the cosmos. That means she could end poverty, suffering, even ((death)) itself...	一样叫[[摇篮]]的东西，深埋在地下之地。它((究竟))是什么，没人知道——但如果薇拉没说错，它能改写宇宙的((语言))本身。也就是说，她可以终结贫困、苦难，甚至((死亡))本身……
+EmbCamp26	1	EmbCamp26::English	...but she's more likely to end the ((world.)) The Emberians were known to meddle with forces they couldn't control. She is a damn fool for chasing their accursed dreams. 	……但她更可能终结的是((世界。))余烬人玩弄自己驾驭不了的力量，那可是出了名的。追着他们那些该死的梦跑，她是个天大的傻子。
+p265	1	p265::English	You have to finish what you started. 	你必须做完你起头的事。
+EmbCamp27	1	EmbCamp27::English	<<She laughs.>> I could not defeat her with a galleon of hardened mercenaries. What makes you think I would try again now? With naught but ((you?))	<<她大笑。>>当年一整艘盖伦船的老兵我都没能打赢她。你觉得我现在凭什么再试？就凭((你))？
+p266	1	p266::English	If you care for her, you have to find her. 	你要是在乎她，就得找到她。
+EmbCamp28	1	EmbCamp28::English	((Do)) I? And what would you know of the matter? I sailed with Vela for years, while I've known you mere moments; what could you possibly know of our camaraderie?	((我))在乎？这事你又懂什么？我和薇拉同船多年，认识你才几分钟；我们的交情，你哪只眼睛看得懂？
+p267	1	p267::English	You're just running away.	你只是在逃避。
+EmbCamp29	1	EmbCamp29::English	<<She is silent a moment.>> Is there shame in running, when you have naught else to do but lick your wounds? 	<<她沉默片刻。>>除了舔舐伤口别无他事可做时，逃开又有什么可耻？
+EmbCamp30	1	EmbCamp30::English	No, that chapter of my life is over. I will not chase that woman's dream any more, not to help nor hinder. I have a pilgrimage of my own to tread; my ((own)) answers to find.	不，我人生的那一章已经翻篇。我不会再去追那个女人的梦，既不相帮，也不阻拦。我有自己的朝圣路要走；有((自己))的答案要找。
+EmbCamp31	1	EmbCamp31::English	If you've come to seek help in finding Vela, my answer is still no. I have a pilgrimage of my own to tread; my ((own)) answers to find.	你要是为找薇拉的事来求助，我的答案还是不行。我有自己的朝圣路要走；有((自己))的答案要找。
+p268	1	p268::English	Maybe I can help you.	也许我能帮你。
+EmbCamp32	1	EmbCamp32::English	Hah! And what makes you think I'd need your help? I can handle myself just fine. 	哈！你哪来的自信觉得我需要你帮？我自己应付得来。
+p269	1	p269::English	Will you at least answer my questions?	那你至少肯回答我的问题吧？
+EmbCamp33	1	EmbCamp33::English	I'll hear them. I can't promise to give them an answer. 	说说看。我可不保证答。
+p270	1	p270::English	What are you looking for?	你在找什么？
+EmbCamp34	1	EmbCamp34::English	<<She chuckles to herself.>> For a long time, I've had the strangest dreams. Of impossible cities that no mason could build, which twinkle with a thousand tiny stars...	<<她自顾自轻笑。>>很长时间以来，我总做些最古怪的梦。梦见不可能存在的城市，任何石匠都造不出来，闪烁着千万颗细小的星……
+EmbCamp35	1	EmbCamp35::English	I want to know if my dreams are ((real.))	我想知道我的梦是不是((真的。))
+p271	1	p271::English	I don't understand. 	我不明白。
+EmbCamp36	1	EmbCamp36::English	<<She smirks.>> You wouldn't.	<<她坏笑。>>你当然不明白。
+p272	1	p272::English	And where would you find your answer?	那你打算去哪找答案？
+EmbCamp37	1	EmbCamp37::English	There's another Emberian ruin here, in the Oneiric Isles - even bigger than this one. But without the right key, it's sealed shut.	梦幻群岛这儿还有另一处余烬遗迹——比这处还大。但没有对的钥匙，它封得死死的。
+p273	1	p273::English	@@And... where would you get such a key?	@@ 那……你从哪弄到的钥匙？
+EmbCamp38a	1	EmbCamp38a::English	%%This type of key is rare - I paid a good sum of money for mine at that shop with the [[crystal spire,]] in Hallow Town.	%% 这种钥匙很稀有——我那把是花大价钱在哈洛镇那家有[[水晶尖塔]]的店里买的。
+EmbCamp38b	1	EmbCamp38b::English	But if you're thinkin' of following in my tracks, I'd think twice. That old Emberian ruin up by [[Rustford]] is likely full of perils. You'd only get yourself killed. 	不过你要是想踩着我的脚印跟来，我劝你三思。[[锈堡]]上头那座老余烬遗迹多半步步凶险。你只会把自己送命。
+EmbCamp38c	1	EmbCamp38c::English	&&I'm not falling for that. If you plan on following in my tracks, you'll only get yourself killed. 	&& 我才不上这个当。你要是打算踩着我的脚印跟来，只会把自己送命。
+p274	1	p274::English	Never mind, I had other questions...	算了，我还有别的问题……
+EmbCamp39	1	EmbCamp39::English	<<She grunts.>> So be it. 	<<她哼了一声。>>随便。
+p275	1	p275::English	Is it true you're a real Emberian?	你是真余烬人吗，是真的吗？
+EmbCamp40	1	EmbCamp40::English	<<She flashes a cynical smile.>> ##If you're asking if I'm a four hundred year old immortal who's been lugging my sword around the skyrealms, I'll have to disappoint you.	<<她露出讥诮的笑。>>##你要是问我，是不是个扛着剑在天空领域晃了四百年的不死老怪物，那可要让你失望了。
+EmbCamp41	1	EmbCamp41::English	But there is some truth to those rumours. I know my way around those old Emberian ruins; some even feel like ((home.))	但那些传闻也有几分是真的。我熟悉那些古余烬遗迹的门道；有些地方甚至让我觉得像((家))。
+EmbCamp42	1	EmbCamp42::English	And yes, this ((is)) authentic Emberian armour, pneumatics intact. This suit stopped a direct cannonball in the siege of Molavia... even if I ((did)) shit blood for a week.	没错，这((确实))是正宗的余烬铠甲，气动系统完好无损。莫拉维亚围城战里，这套甲硬抗过一发直射的炮弹……代价是我((拉了))一星期的血。
+p276	1	p276::English	I've met with Basalt. He's helping me find Vela.	我见过巴索特了。他在帮我找薇拉。
+EmbCamp43	1	EmbCamp43::English	The old sea dog's still going, eh? I half thought he'd drowned himself with mushroom grog. 	那老海盗还活着呢，嗯？我还以为他早醉死在蘑菇酒里了。
+EmbCamp44	1	EmbCamp44::English	To tell the truth, I always respected the man. He was with us from the beginning, and I don't think the Dark Stars would have got far without him. 	说实话，我一直敬重那个人。他从一开始就和我们同船，要没有他，黑星走不了多远。
+p277	1	p277::English	Okay, that's all. 	好，就这些。
+EmbCamp45	1	EmbCamp45::English	<<She nods.>>	<<她点头。>>
+p278	1	p278::English	Okay, I'll leave you be... for now. 	好吧，先不打扰你了……暂时。
+EmbCamp46	1	EmbCamp46::English	<<She smirks.>> Something makes me think you won't give up easily - but I won't be staying here long.	<<她坏笑。>>不知怎么，我觉得你不会轻易放弃——不过我也不会在这儿久留。
+EmbCamp47	1	EmbCamp47::English	And for your own sake, don't bother following me. The place I'm headed isn't for the faint of heart, and if you try and track me down, I'd only have another foolish death on my conscience.	听劝，别费劲跟着我。我要去的地方可不是胆小鬼待的，你若执意追踪，我良心上又得多背一条蠢死的命。
+EmbCamp48	1	EmbCamp48::English	Besides, without one of ((these...)) <<She holds up an ancient Emberian key>> ...you won't be getting very far.	再说，没有一把((这个……))<<她举起一把古老的余烬钥匙>>……你走不了多远。
+EmbCamp49	1	EmbCamp49::English	So, sod off and leave me in peace. 	所以，滚吧，让我清净清净。
+EmbBattle1	1	EmbBattle1::English	<<The Emberian breathes heavily, leaning on her sword.>>	<<余烬人拄着剑，粗重地喘息。>>
+EmbBattle2	1	EmbBattle2::English	I could tell you were a persistent one. Though I have to admit, I didn't think you'd make it in here. 	我早看出来你是个死缠烂打的主。不过得承认，我没想到你能打进这里。
+EmbBattle3	1	EmbBattle3::English	Still, you're lucky I got here first. These synthetics would have torn you limb from limb. <<She grins.>>	不过你运气好，我抢先一步。这些合成人本来会把你撕成碎块的。<<她咧嘴一笑。>>
+p291	1	p291::English	I came to help you. 	我是来帮你的。
+EmbBattle4	1	EmbBattle4::English	<<She chuckles.>> I don't need your help, and I know you're only after mine. So, the answer's still ((no.))	<<她轻笑。>>我不需要你帮，我也知道你图的只是我的帮忙。所以，答案还是((不行。))
+p292	1	p292::English	I won't give up until you help me.	你不答应我就不走。
+EmbBattle5	1	EmbBattle5::English	Hah! Then your persistence will be the death of you. 	哈！那你这份执着迟早害死你。
+p293	1	p293::English	What a surprise! This is ((pure)) coincidence. 	真巧啊！这是((纯粹))的巧合。
+EmbBattle6	1	EmbBattle6::English	Oh, I'm ((sure.)) This place has been sealed up for hundreds of years, and suddenly two keyholders open it up at the ((same time?))	哦，你((肯定是。))这地方封了几百年，突然两个持钥人((同时))把它打开了？
+EmbBattle7	1	EmbBattle7::English	Now, stay out of my way. Behind that door are the answers I seek - I've just got to catch my breath... 	现在，别挡我的路。那扇门后面有我追寻的答案——我只是得先喘口气……
+EmbVats1	1	EmbVats1::English	<<The Emberian kneels, head bowed, sagging beneath the weight of her armour. Her body convulses. After a moment, you realise she's quietly sobbing.>>	<<余烬人跪着，低着头，整个人在铠甲的重压下垮塌。她的身体在抽动。片刻后你才意识到，她在无声地啜泣。>>
+EmbVats2	1	EmbVats2::English	<<Hearing you approach, she falls silent.>>	<<听见你走近，她安静了下来。>>
+p301	1	p301::English	What is this place?	这地方是什么？
+EmbVats3	1	EmbVats3::English	<<She looks around her, as the glass coffins and the bodies within.>> ##A good question. I've... searched for the answer... all my life. 	<<她环顾四周，看着那些玻璃棺，和棺中的躯体。>>##好问题。我……用一生……寻找这个答案。
+p302	1	p302::English	Is that... a corpse?	那是……一具尸体？
+EmbVats4	1	EmbVats4::English	<<She sighs.>> It is. Whether they were once ((alive)), breathing the same air as us, I cannot say. 	<<她叹了口气。>>是的。他们是否曾经((活过))、是否呼吸过和我们一样的空气，我说不清。
+p303	1	p303::English	Uh, are you okay? 	呃，你还好吗？
+EmbVats5	1	EmbVats5::English	<<You catch a faint smile.>> Not really. 	<<你瞥见一丝淡淡的笑。>>不太好。
+EmbVats6	1	EmbVats6::English	You know... she ((found)) me in one of these places. In one of those... coffins.	你知道吗……她就是在这样一个地方((找到))我的。在其中一个……棺材里。
+EmbVats7	1	EmbVats7::English	It was Vela. She was eight years old.##When she pulled me out of that machine, coughing up ancient fluids, I couldn't have been much older.	是薇拉。那年她八岁。##她把我从那台机器里拖出来，我咳着古老的液体——那时我也大不了多少。
+EmbVats7b	1	EmbVats7b::English	Nothing to explain who I was. How I got there. Just an inscription on the vat which read 'Orlaith'; so that's what they called me.	没有任何东西说明我是谁、怎么到的这里。只有缸体上一块铭牌，写着"奥莱丝"；他们便这么叫我。
+EmbVats8	1	EmbVats8::English	And so I was born into this world. I was lucky - Vela's father took me in, and schooled me like his daughter. But I never found anyone who could explain my strange birth. I never found anyone... like ((me.))	就这样，我降生于这个世界。我算幸运——薇拉的父亲收留了我，像教导女儿一样教导我。但我从未找到一个能解释我奇异出身的人。也从未找到一个……((和我一样))的人。
+EmbVats9	1	EmbVats9::English	I thought this place might be different from the others - I thought it might ((explain)) something. But it's just another dead end. 	我以为这里会和别处不同——我以为它也许能((解释))点什么。结果又是条死路。
+p304	1	p304::English	You were born from one of... ((those)) things?	你是从……((那种))东西里生出来的？
+p305	1	p305::English	So you really ((are)) an Emberian. 	这么说你((真的))是余烬人。
+EmbVats10	1	EmbVats10::English	Who can say? ##Perhaps, before the World Rend, I was raised by a loving family who thought I'd be safe here. Or maybe I'm just a child of machines and magic?	谁说得清呢？##也许在世界撕裂之前，某个疼爱我的家庭以为把我放在这里会安全。又或许，我只是机器与魔法的造物？
+p306	1	p306::English	You didn't remember anything... from ((before))? 	你完全不记得……((以前))的事？
+EmbVats11	1	EmbVats11::English	I have ((dreams)) of long-lost places, but no recollection of a... family. Maybe I had one, once? Or maybe I was... ((made)), not born. 	我会((梦见))失落的久远之地，却对……家人毫无记忆。也许我曾经有过？又或许我是被((制造))出来的，而不是生出来的。
+EmbVats12	1	EmbVats12::English	I'll never know for sure; I understand that now. But though none of these rusted tombs have given me answers, each one has fuelled my ((anger)).	我永远不会确切知道了；如今我明白这一点。虽然这些锈蚀的坟墓从没给过我答案，但每一座都在给我的((怒火))添柴。
+EmbVats13	1	EmbVats13::English	The Emberians threaded their needle through the world, altering its tapestry to their whims. And for what? The more I learn, the more I see their greed, their self interest - their lust for ((power)). 	余烬人把他们的针脚缝满世界，随心所欲地改织它的锦缎。图什么？我知道得越多，就越看清他们的贪婪、他们的私利——他们对((权柄))的欲望。
+EmbVats14	1	EmbVats14::English	And in the end, it destroyed them. It destroyed ((our world.)) Scholars can debate over scant evidence for an age, but who doesn't feel the truth in their guts? Four hundred years ago, the Emberians caused the [[World Rend]] with their feckless ambition. 	而到头来，这毁灭了他们。毁灭了((我们的世界。))学者们能为贫瘠的证据争论一个时代，可谁的内脏感受不到真相？四百年前，是余烬人用他们不负责任的野心酿成了[[世界撕裂]]。
+EmbVats15	1	EmbVats15::English	((That)) is their legacy, and I feel the weight of their sins. 	((那))就是他们的遗产，而我感受着他们罪孽的重量。
+p307	1	p307::English	But how could ((you)) change that? 	可((你))又能怎么改变它呢？
+EmbVats16	1	EmbVats16::English	What can anyone do about ages past, but try to banish their lingering phantoms?	对逝去的时代，除了驱散它徘徊不去的幽灵，谁还能做什么？
+EmbVats17	1	EmbVats17::English	For the Emberian age haunts us still. The Apostatic Union, the Inquisition, the Clockwork Kingdom... they all seek to harness that ancient evil. ##We can't repeat those mistakes. I thought Vela ((understood)) that...	余烬时代至今仍纠缠着我们。叛教联盟、宗教裁判所、发条王国……它们都想驾驭那份古老的邪恶。##我们不能重蹈覆辙。我以为薇拉((明白))这一点……
+p308	1	p308::English	So, Vela betrayed your beliefs.	所以，薇拉背叛了你的信念。
+p309	1	p309::English	So, you turned on your own crewmates. 	所以，你对自家船员倒戈相向。
+p310	1	p310::English	The Emberians are long gone; their guilt is not yours to bear. 	余烬人早已消亡；他们的罪不必由你来背。
+EmbVats18	1	EmbVats18::English	You are right. It should not be ((my)) guilt alone; it should burden us ((all)). For we can see, plainly as by starlight, the injustice that was wrought upon the world. When such putrid histories repeat, do we not have a ((duty)) to act? 	你说得对。那不该是((我))一个人的罪责；它该压在((我们所有人))身上。因为那桩加诸世界的不义，我们看得清清楚楚，如同星光下的白昼。当如此腐臭的历史重演时，我们难道没有((责任))行动吗？
+EmbVats19	1	EmbVats19::English	All of this I said to Vela, time and time again. 	这些话我对薇拉说了一遍又一遍。
+p311	1	p311::English	So ((this)) is why you turned on Vela. 	所以((这就是))你倒戈薇拉的原因。
+EmbVats20	1	EmbVats20::English	You're right.	你说得对。
+EmbVats21	1	EmbVats21::English	<<She sighs.>> At first, I thought Vela would simply ((listen)) to me. We had often plundered harmless Emberian relics, while leaving that which seemed unstable or dangerous. Why should this be any different? 	<<她叹了口气。>>起初，我以为薇拉会((听))我一句。我们没少打捞无害的余烬遗物，而对那些看起来不稳定、危险的，我们向来绕道。这次会有什么不同？
+EmbVats22	1	EmbVats22::English	But the map we found, and the artefact it promised - they rekindled something in her. A passion, an ((ambition)) that could not be quelled. She was determined to change the world, even if it meant ((dooming)) it. 	可我们找到的那张地图，和它许诺的造物——重新点燃了她心中的什么。一种无法平息的狂热，一种((野心))。她执意要改变世界，哪怕这意味着((葬送))世界。
+EmbVats23	1	EmbVats23::English	<<She unfurls her hands, staring at them.>> So what options did I have left, other than my sword? I spilled the blood of my friends. My ((family.)) 	<<她摊开双手，怔怔盯着。>>那么除了拔剑，我还剩什么选择？我洒了朋友的血。我((家人))的血。
+EmbVats24	1	EmbVats24::English	And still, I failed. 	即便如此，我失败了。
+p312	1	p312::English	You've not failed, not yet. Together we'll finish what you started.  	你还没失败，还没有。我们一起把你没做完的事做完。
+EmbVats25	1	EmbVats25::English	<<She sighs. For a moment she is still.>>	<<她叹了口气。有一瞬，她静止不动。>>
+EmbVats26	1	EmbVats26::English	<<But then she looks at you, a fire in her eyes. >> You're right.	<<但随即她看向你，眼中燃着火。>>你说得对。
+EmbVats27	1	EmbVats27::English	For too long I've clung to the past. Felt like I ((owed)) Vela something. But this is bigger than the two of us. Bigger than ((anything)) else...	太久以来我一直抓着过去不放。总觉得我((欠))薇拉什么。可这件事比我们两个都大。比((一切))都大……
+EmbVats28	1	EmbVats28::English	If I have to kill my sister to save the world, so be it. 	如果必须杀死我的姐妹才能拯救世界，那就来吧。
+EmbVats29	1	EmbVats29::English	Just promise me one thing: ##If, against the odds, we manage to fight our way to Vela - leave her to ((me)), okay?	只求你答应我一件事：##倘若我们真有奇迹，一路杀到薇拉面前——把她((留给))我，好吗？
+p313	1	p313::English	Perhaps we can stop Vela without more bloodshed.	也许我们不用再流血就能拦住薇拉。
+EmbVats30	1	EmbVats30::English	So what, you want to sail over to the most notorious cutthroat in the skyrealms and ((ask her nicely?))	那又如何，你想飞到全天空领域最凶名昭著的杀人狂面前，((好声好气地求她？))
+EmbVats31	1	EmbVats31::English	<<She chuckles.>> I like it.	<<她轻笑。>>我喜欢。
+EmbVats32	1	EmbVats32::English	I've survived more foolish plans - and I'm done sifting through rusty tombs, anyway.	比这蠢的计划我都活下来了——反正我也受够了在生锈的坟墓里翻拣。
+EmbVats33	1	EmbVats33::English	Maybe... maybe if we really ((can)) stop her, this won't all have been for nothing.	也许……也许如果我们真能((拦住))她，这一切就不算白费。
+p314	1	p314::English	Vela is trying to ((save)) the world. Let's help her, together. 	薇拉是想((拯救))世界的。我们一起帮她。
+EmbVats34	1	EmbVats34::English	<<She looks at you with determination, fists clenched.>> ##No. I ((won't)) help her...	<<她双拳紧握，决然看向你。>>##不。我((不会))帮她……
+EmbVats35	1	EmbVats35::English	<<She inhales.>> ...but I'm done running. 	<<她吸了口气。>>……但我不逃了。
+EmbVats36	1	EmbVats36::English	It seems we're in a predicament. I'm the only other person in the skyrealms who saw the map she's following. I ((know)) where she's gone, but I can't get there on my own. Not without the right ship, and a pilot..	看来我们处境相仿。全天空领域见过她那张地图的，除她之外只有我。我((知道))她去了哪，但我一个人到不了。没有合适的船，没有舵手……
+EmbVats37	1	EmbVats37::English	So perhaps we can help each other, for now. I'll tag along with your little expedition, until we find her. But after that? Well, I guess we'll have to see...	所以眼下我们不妨互相搭把手。你那点小小远征，我捎带同行，直到找到她为止。至于之后？嘿嘿，走着瞧……
+p315	1	p315::English	It's settled, then.	那就这么说定了。
+EmbVats38	1	EmbVats38::English	<<She nods.>> I'll help you. ##I'm the only other person in the skyrealms who saw the map Vela's following, so I know where to find her. But we'll need others.	<<她点头。>>我帮你。##全天空领域见过薇拉那张地图的，除她之外只有我，所以我知道去哪找她。但我们还需要更多人。
+EmbVats39	1	EmbVats39::English	Oh, and... ## ...thank you. 	对了，还有……##……谢谢你。
+EmbVats40	1	EmbVats40::English	I heard you captured Vela's old fortress, the [[Blinding Light]]. I'll make my way there.	听说你拿下了薇拉的旧要塞，[[炫光要塞]]。我会自行前往。
+EmbFort1	1	EmbFort1::English	Ah, the [[Blinding Light.]] You know, I thought I'd never see this place again.	啊，[[炫光要塞]]。你知道吗，我原以为这辈子再也见不到这地方了。
+p351	1	p351::English	How are you settling in? 	你住得还习惯吗？
+EmbFort2	1	EmbFort2::English	Makes my skin crawl, seeing Inquisition agents scurrying around. Keep thinking they're gonna grab me an' throw me in a cell...	看着宗教裁判所探员跑来跑去，我浑身起鸡皮疙瘩。总觉得他们随时会一把揪住我，扔进牢房……
+EmbFort3	1	EmbFort3::English	But if siding with this lot is the only way to get to Vela, I suppose I'll have to get used to it. 	但如果投靠这帮人是接近薇拉的唯一办法，我想我也只好慢慢习惯。
+p352	1	p352::English	I wanted to ask you something.	我想请教你些事。
+EmbFort4	1	EmbFort4::English	I'll oblige. 	悉听尊便。
+p353	1	p353::English	About the task at hand...	关于眼下的事……
+EmbFort5	1	EmbFort5::English	I hear you're gathering a bunch of former Dark Stars, right? Well, I'll help you best I can.	听说你在招拢一批前黑星，对吧？行，我尽力帮你。
+EmbFort6	1	EmbFort6::English	First of all, you'd better find Vela's old quartermaster; Jack Basalt. If he's in town, he'll surely be in the [[Wobbly Noggin]] pub. He always ((did)) have a weakness for the strong stuff, after all. 	首先，你最好找到薇拉的老军需官：杰克·巴索特。他若在镇上，肯定泡在[[摇晃酒馆]]。毕竟他向来((就好))烈酒这口。
+EmbFort7	1	EmbFort7::English	If you're looking for the Duchess, she'll probably be back at her family manor in the [[Endless Realm.]] Can't say for sure where it is, though.	找女公爵的话，她多半回了[[无尽领域]]的家族庄园。不过具体在哪，我说不准。
+EmbFort8	1	EmbFort8::English	Now, Caxton Frost - he always struck me as a little odd. Though, I suppose the feeling was probably mutual. Maybe he returned to the [[Clockwork Kingdom?]]	至于卡克斯顿·弗罗斯特——他总让我觉得有点怪。当然，估计我看他也一样。也许他回[[发条王国]]了？
+p354	1	p354::English	About your past...	关于你的过去……
+EmbFort9	1	EmbFort9::English	<<She says nothing.>>	<<她一言不发。>>
+p355	1	p355::English	So you were really found in an Emberian vat?	所以你真是从余烬人培养槽里被找到的？
+EmbFort10	1	EmbFort10::English	That's what I said, didn't I? ##Vela found me in a vat of liquid in some Emberian ruin, back when we were children.	我是这么说的，不是吗？##我们还是孩子的时候，薇拉在某个余烬遗迹的一缸液体里发现了我。
+EmbFort11	1	EmbFort11::English	There was no clue who I was, or how long I'd been there; save for a metal plaque that read 'Orlaith'. So, that's what they called me.	没有丝毫线索表明我是谁、在那儿躺了多久；只有一块金属铭牌，写着"奥莱丝"。于是他们就这么叫我。
+EmbFort12	1	EmbFort12::English	I awoke with a head full of knowledge: how to speak Old Emberian, how to ((fight)), how to use ancient, useless machines... ##But I didn't have any ((memories)) of my own. Just faded dreams of sparkling cities.	我醒来时满脑子都是知识：怎么讲古余烬语，怎么((搏杀))，怎么操作那些古老而无用的机器……##可我没有任何((属于自己的记忆))。只有几段流光城市褪色的梦。
+EmbFort13	1	EmbFort13::English	Vela's father was furious with her, of course - for sneaking off into ruins by herself. He threw Vela in the brig along with me. <<She smiles.>> Not that Vela cared. She was so excited. Her very own ((Emberian)) friend...	薇拉的父亲当然大发雷霆——因为她自己偷偷溜进遗迹。他把薇拉和我一起关了禁闭。<<她微笑。>>薇拉压根不在乎。她兴奋极了。她有了一个((专属的))余烬人朋友……
+p356	1	p356::English	You said Vela was like a sister to you. 	你说过薇拉情同你的姐妹。
+EmbFort14	1	EmbFort14::English	After she found me, Vela eventually convinced her father to... ((adopt)) me. Of course, he had me stay with the servants - but it was better than being pawned off to the Erudite Academy as some ((curiosity)).	她找到我之后，薇拉最终说服她父亲……((收养))了我。当然，他让我和仆人住在一起——但这总比被当件((稀罕玩意))送给博识学院强。
+EmbFort15	1	EmbFort15::English	And he gave me an education, just like his daughter. When we weren't studying, we played all over the manor. It was ((huge)) - but back then, I thought ((everyone)) in the skyrealms lived like kings. 	他还让我和他女儿受同样的教育。不读书的时候，我们就在庄园里四处疯玩。那庄园((大得))没边——那时我还以为天空领域里((人人))都过着帝王般的日子。
+EmbFort16	1	EmbFort16::English	Vela's father was an admiral in the Apostatic Union navy, y'see. And when we were ready, he had Vela groomed for command. We served on the same navy ship with Captain Basalt - though ((my)) hammock swung with the deckhands. ##<<She sighs.>> That's when I saw the skyrealms for what they truly were.	要知道，薇拉的父亲是叛教联盟海军的将军。等我们成年，他安排薇拉受训掌兵。我们和巴索特船长同在一条军舰上服役——不过((我的))吊床是和水手们挂在一处的。##<<她叹了口气。>>就是在那时，我看清了天空领域的真面目。
+EmbFort17	1	EmbFort17::English	And then... there was the ((Dyshaan massacre)). That was the day... that Isabet died. 	然后……发生了((迪尚屠杀))。那一天……伊莎贝特死了。
+EmbFort18	1	EmbFort18::English	Something snapped in Vela, that day. She could no longer trust the Union - or her father. So she resolved to ((leave)). We stowed away, as deserters - but at the last moment Captain Basalt himself caught us.	那一天，薇拉心里有什么东西断了。她再也无法信任联盟——也无法信任她父亲。于是她决意((离开))。我们偷渡出逃，当了逃兵——可在最后一刻，巴索特船长亲自抓到了我们。
+EmbFort19	1	EmbFort19::English	I thought we were done for - that we'd be thrown in some dungeon to rot. ##But Basalt? I think he was as shaken as us. He took the rudder without a word, and we all left together. I suppose the Dark Stars were born that day. 	我以为我们完蛋了——要被扔进哪个地牢里烂掉。##可巴索特呢？我想他和我们一样动摇了。他一言不发地握住船舵，我们一同离开了。我想，黑星就是那天诞生的。
+p357	1	p357::English	Tell me of your time as a Dark Star merc. 	讲讲你当黑星佣兵的那段日子吧。
+EmbFort20	1	EmbFort20::English	Y'know, a few years back - if you'd caught us in a tavern, with bellies full of grog, we'd have sung you songs that would've made you laugh. And cry. And regurgitate your supper. 	要知道，几年前——你要是在酒馆里碰上喝得肚圆的我们，我们会给你唱些歌，让你笑，让你哭，让你把晚饭都吐出来。
+EmbFort21	1	EmbFort21::English	But... I 'aint got the heart to sing 'em now. 	可如今……我没那个心情唱了。
+EmbFort22	1	EmbFort22::English	I've been sailing with Vela for years. Me, Vela and Basalt - in the beginning it was just ((us)), but by the end I couldn't keep count of our number. 	我和薇拉同船航行了很多年。我、薇拉和巴索特——起初只有((我们几个))，到最后人数多得我都数不过来。
+EmbFort23	1	EmbFort23::English	Vela always had a way with people, y'know? There was this glint in her eye. She'd give you this thin smile, and stare right at you. Like she really ((knew)) you. And she'd tell you exactly - ((exactly)) what you needed to hear.	薇拉天生懂人心，你知道吗？她眼里有光。她会给你一个浅浅的笑，直直望着你。仿佛她真的((懂))你。而且她总能一字不差——((一字不差))——说出你最想听的话。
+EmbFort24	1	EmbFort24::English	<<She smiles to herself.>> She had the whole company believing they were gonna change the skyrealms. Make a ((difference)) - or at least, get filthy rich tryin'. 	<<她自己笑了。>>她让整个佣兵团都相信他们将改变天空领域。干出一番((名堂))——至少，也能在尝试中大捞一笔。
+EmbFort25	1	EmbFort25::English	But sometimes I wonder if she even believed it herself. Most couldn't see it, but I could tell she was hurting. When we heard of the Cradle, she latched onto it like... like it could fix that ((broken)) thing inside her. 	但有时我怀疑她自己信不信。大多数人看不出来，可我看得出她在受煎熬。听说摇篮的消息后，她一下就扑了上去，仿佛……仿佛它能修好她心里那件((破碎))的东西。
+EmbFort26	1	EmbFort26::English	I just hope I did the right thing, in trying to stop her. 'Cos gods know, I still... I still think of the people we lost in that mutiny. 	我只求当年试图拦她是对的。因为天知道，我至今……至今还想着哗变里失去的那些人。
+p358	1	p358::English	Okay, that's all I wanted to know.	好，我想知道的就是这些。
+EmbFort27	1	EmbFort27::English	Alright.	好吧。
+p359	1	p359::English	That sure is a big suit of armour. 	这身铠甲可真够大的。
+EmbFort28	1	EmbFort28::English	Hah, this old thing? ##<<She raises an arm. As the armour plates clink and shift, you notice intricate mechanisms moving beneath.>>	哈，这老古董？##<<她抬起手臂。甲片铿锵错动间，你看见下面精密的机括在运转。>>
+EmbFort29	1	EmbFort29::English	Yeah, they don't make 'em like this anymore. The Emberians would inscribe their metal with cipher, too intricate to see with the naked eye; but it makes the stuff stronger than it has any right to be.	是啊，现在没人做得出这种东西了。余烬人会在金属上錾刻密文，精细到肉眼难辨；却能让材料硬得离谱。
+EmbFort30	1	EmbFort30::English	In the early days, we'd raid Emberian ruins - often just Vela and me. A lot of 'em were already cleared out by raiders, or so you'd ((think)), but... I somehow ((knew)) there were things still hidden. A lever there, a switch here, a few taps on a keypad... 	早年间，我们常去光顾余烬遗迹——常常只有薇拉和我。很多地方早被盗掘者扫荡一空，至少你((会这么以为))，但……我总能莫名((知道))还有什么藏着。那边有个拉杆，这边有个开关，在键盘上敲几下……
+EmbFort31	1	EmbFort31::English	Folk often wondered how we'd scored such big hauls. Used to say we were lucky, or using forbidden Wikkan charms, or something. ##<<She shrugs.>> Suppose there's ((some)) good things about being born from a tube.	人们总琢磨我们怎么捞到这么大的油水。有人说是运气，有人说我们用维坎的禁咒，什么的。##<<她耸耸肩。>>大概从管子里生出来也有((那么点))好处吧。
+p360	1	p360::English	Actually, never mind. 	其实，算了。
+EmbFort32	1	EmbFort32::English	Not a problem.	没事。
+EnGate1	1	EnGate1::English	<<The Endless is cleaning a handful of teeth with a dirty rag.>> ##((Howth ith goin')), bweather?	<<那个无尽者正用一块脏抹布擦着一把牙齿。>>##((咋、咋样啊))，喘、喘气儿的？
+p371	1	p371::English	Uh, excuse me?	呃，打扰一下？
+p372	1	p372::English	What are you doing with those teeth?	你拿那些牙齿干什么？
+EnGate2	1	EnGate2::English	<<The man picks up the teeth, one-by-one, and slots them into his gums with a squelch.>> ##Ah, sorry breather - I was cleanin' my teeth. 	<<那人把牙齿一颗颗捡起，吧唧吧唧地按回牙床。>>##啊，抱歉啊呼吸者——我刚才在刷牙。
+EnGate3	1	EnGate3::English	<<He smiles at you. Despite his efforts, his teeth don't look very clean.>>	<<他朝你微笑。虽然费了半天劲，他的牙看上去也不怎么干净。>>
+EnGate4	1	EnGate4::English	Not often we get one o' your kind snooping around [[Cadaver Keep.]] What can I do ye for?	你们这路人来[[尸骸要塞]]转悠的可不多见。有什么能为你效劳的？
+p373	1	p373::English	What is this place?	这地方是什么？
+EnGate5	1	EnGate5::English	Why, this is the stronghold of the [[Cadavers]], breather! ##Y'see, years ago - when the [[Cadaver Crusades]] were in full swing - we used this fortress to launch our assaults on the living. 	嘿，这里是[[尸骸派]]的老巢，呼吸者！##你瞧，很多年前——[[尸骸十字军]]打得热火朝天的时候——我们就是从这座堡垒出动，去讨伐活人的。
+EnGate6	1	EnGate6::English	Our knights would haul in wagons of mortals - squirming and writhing together in their own filth. In those days, we'd have banquets of flesh every night - our goblets running with warm blood!	我们的骑士一车车地拖运凡人——让他们在自己污物里扭作一团。那时候，我们夜夜开血肉宴席——高脚杯里淌满温热的鲜血！
+EnGate7	1	EnGate7::English	<<He smiles at you, seemingly unaware that this might make you uncomfortable.>>	<<他朝你微笑，似乎全然没意识到这可能让你不舒服。>>
+p374	1	p374::English	But... you don't eat mortals ((anymore))... right?	但……你们现在((不吃))凡人了……对吧？
+EnGate8	1	EnGate8::English	Oh of ((course)) not, breather. By decree of the Queen, we eat only the mindless meat from Penitent Thaw's [[Flesh Farms.]]	哦((当然))不吃了，呼吸者。奉女王法令，我们只吃忏悔者·索[[血肉农场]]产的无意识血肉。
+EnGate9	1	EnGate9::English	Now - if you hear an Endless boastin' about how he's been eatin' the ((thinkin' stuff)) - they didn't get it from ((us)), y'hear? No siree - we've nothin' to do with them black market shenanigans... 	还有——你要是听见哪个无尽者吹嘘自己吃过((会思考的玩意儿))——那可不是从((我们这儿))弄的，听见没？绝对不是——黑市那些勾当我们半点关系都没有……
+p375	1	p375::English	Where does that black market meat come from?	那黑市血肉是从哪来的？
+EnGate10	1	EnGate10::English	The thinkin' stuff? Now, not that ((I'd)) know, breather - but if I were to take a ((wild guess)) - I'd say you could get livin' flesh from all sortsa places these days.	会思考的玩意儿？咳，我((可))不知道，呼吸者——不过要我((瞎猜))的话——如今弄到活人血肉的路子多得是。
+EnGate11	1	EnGate11::English	A ((smart)) Endless would broker deals with all sorts of unscrupulous mortal types. Trade with smugglers an' ruffians for corpses - or with morticians who have a... ((surplus)) of clients.	一个((精明))的无尽者会跟各种没底线的凡人做买卖。跟走私犯和匪徒换尸体——或者跟那些……((客源过剩))的殡葬商打交道。
+EnGate12	1	EnGate12::English	Of course, what with the Queen 'avin outlawed all such flesh trade - Flesh Farms notwithstandin' - I wouldn't really know anythin' about any of this. ((Naturally.))	当然了，女王把这类血肉买卖全禁了——血肉农场除外——这些事我真是一概不知情。((自然而然的。))
+p376	1	p376::English	Let me ask you something else.	我问点别的。
+EnGate13	1	EnGate13::English	Sure thing, breather. 	尽管问，呼吸者。
+p377	1	p377::English	Can you lower the drawbridge for me?	能帮我放下吊桥吗？
+EnGate14	1	EnGate14::English	The drawbridge is already down, breather. 	吊桥已经放下来了，呼吸者。
+EnGate15	1	EnGate15::English	<<He shifts, suddenly nervous.>> Ah, and why'd ye be lookin' to go ((in there)), breather? Nothing for mortals behind that drawbridge, I assure you!	<<他扭动了一下，突然紧张起来。>>啊，你想去((那里面))做什么，呼吸者？吊桥后面可没有凡人能享用的东西，我向你保证！
+p378	1	p378::English	@@You think just because I'm mortal, I can't share your... interests?	@@你以为凡人就体会不了你们的……爱好？
+EnGate16	1	EnGate16::English	%% <<The Endless eyes you up and down.>> Hmph, well I'll be. A mortal with... ((deviant)) tastes. Now I've seen it all...	%% <<无尽者上下打量你。>>嚯，真是开了眼了。一个品味如此……((猎奇))的凡人。这下什么怪事都见全了……
+EnGate17	1	EnGate17::English	Very well - we've no reason to turn away y'er coin. I'll call for 'em to lower the bridge.	很好——钱没有拒收的道理。我叫人放桥。
+EnGate18	1	EnGate18::English	&& Sorry, breather, I jes' can't go letting in mortals like yerself into the Keep. Would go against all sort'a traditions.	&& 抱歉了呼吸者，放你这样的凡人进出要塞，这事我真干不了。坏了多少老规矩啊。
+p379	1	p379::English	Okay, I'll take your word for it. 	好吧，就信你的话。
+EnGate19	1	EnGate19::English	That's smart, breather. 	这就对了，呼吸者。
+p380	1	p380::English	I'll leave you to your... business. 	不打扰你的……营生了。
+EnDung1	1	EnDung1::English	<<The brutish endless blinks at you.>> ##Stop right there. I'm not allowed to let anyone down into [[meat processing.]] An' I'm not allowed to tell anyone it's called [[meat processing]].	<<那个粗壮的无尽者朝你眨眨眼。>>##站住。谁都不许进[[肉类加工区]]。而且谁问我我都不许说这里叫[[肉类加工区]]。
+p381	1	p381::English	Uh... you're doing a real good job there. 	呃……你这岗站得是真尽责。
+EnDung2	1	EnDung2::English	<<The endless grins, shamelessly.>>	<<无尽者毫不害臊地咧嘴笑。>>
+p382	1	p382::English	I'd like to enter the door, please.	我想进这扇门。
+EnDung3	1	EnDung3::English	<<The brute shakes his head.>> Nu-uh. Only [[meat]] is allowed down there. 	<<壮汉摇头。>>不行。下面只许[[肉]]进。
+p383	1	p383::English	@@I ((am)) the meat. Look at me! Nice an' fleshy...	@@我((就是))肉。看看我！多新鲜多水灵……
+EnDung4	1	EnDung4::English	%% Never met such ((friendly)) meat before. But okay then, you can go down. 	%% 从没见过这么((热情))的肉。行吧，你可以下去。
+EnDung5	1	EnDung5::English	&& <<The brute squints at you.>> If you're ((meat)), why are you talkin' and smilin'? Nu-uh, this don't seem right. 	&& <<壮汉眯眼打量你。>>你要是((肉))，怎么会说话还会笑？不行，这事不对劲。
+p384	1	p384::English	I'm going down whether you like it or not. 	不管你乐不乐意，我都要下去。
+EnDung6	1	EnDung6::English	<<The brute draws his sword.>>	<<壮汉拔出了剑。>>
+p385	1	p385::English	I'll leave you to it. 	不打扰你了。
+EnDung7	1	EnDung7::English	You can go down, then. 	那你下去吧。
+EnGroundkp1	1	EnGroundkp1::English	<<The Endless sweeps the ground with his rake, though he just seems to be moving around the dirt.>>	<<无尽者用耙子扫着地，虽然他看起来只是把土挪来挪去。>>
+EnGroundkp2	1	EnGroundkp2::English	<<As you approach, he looks startled.>> Ah, breather, didn't notice you there. Not often I see yer kind around.	<<你走近时，他吓了一跳。>>啊，呼吸者，没看见你在那儿。你们这类人可不常来。
+p391	1	p391::English	Who are you?	你是谁？
+EnGroundkp3	1	EnGroundkp3::English	Who am I? Well, that's a good question. I've been wonderin' myself, lately. I seem to 'ave forgotten my name a few decades back...	我是谁？嗯，好问题。最近我自己也在琢磨。几十年前我好像把自己的名字给忘了……
+EnGroundkp4	1	EnGroundkp4::English	Was it Yhem? Or Gluppus, perhaps? Ah, it's all a jumble...	是伊赫姆？还是格鲁普斯？唉，全搅成一团了……
+EnGroundkp5	1	EnGroundkp5::English	Anyways, I'm the groundskeeper for the [[Duchess]]. At least, I ((think)) I am. Not seen the girl for a good century or so, an' I'm starting to wonder if I made the whole thing up...	反正，我是[[女公爵]]的园丁。至少我((觉得))是。这姑娘足有一个世纪没露面了，我都开始怀疑这差事是不是我瞎编的……
+p392	1	p392::English	What is this place?	这地方是什么？
+EnGroundkp6	1	EnGroundkp6::English	Time ago, before we lot called ourselves Endless, these islands were known as [[Verdant.]] Our houses were made from beautiful wood - not those huge stone tombs you see today.	好久以前，还没轮到我们这帮人自称无尽者的时候，这些岛屿叫做[[蔓绿]]。那时的房子是漂亮木头盖的——不像你今天看到的那些大石头坟。
+EnGroundkp7	1	EnGroundkp7::English	This part o' the island is the only place left where you can see a remnant of how things used to be. The rest of it has all rotted away.	岛的这一角是仅剩还能看出旧时光模样的地方。其余的全烂没了。
+EnGroundkp8	1	EnGroundkp8::English	It's also where the [[Duchess]] lives, but she never leaves her manor. 	[[女公爵]]也住这一带，但她从不离开庄园。
+p393	1	p393::English	Can I visit the Duchess?	我能去拜访女公爵吗？
+EnGroundkp9	1	EnGroundkp9::English	You can sure ((try.)) Her [[family manor]] is over yonder, but it's mostly just a ruin, now - and she's hidden the entrance with a spell. You'll have to figure out how to get across, somehow... 	你可以((试试。))她的[[家族庄园]]就在那边，不过现在基本就是片废墟——而且她用咒语把入口藏起来了。怎么过去，你得自己想法子……
+EnGroundkp10	1	EnGroundkp10::English	She's also enchanted a bunch of [[skeletons]] to patrol the place, so watch yer step. They can't really ((think)) - it's just a spell holding 'em together - so they won't hesitate to swipe at ya. 	她还附魔了一群[[骷髅]]在四处巡逻，脚下留神。它们其实((不会思考))——只是咒语把骨头拼在一块儿——砍你可不带犹豫的。
+p394	1	p394::English	Thanks. I'll be going.	谢了。我先走了。
+Duchess1	1	Duchess1::English	<<Hanging in the gloom, the Endless woman is engrossed in ritual. She hisses violent, unfamiliar words while her hands trace sparks of light through the air, illuminating the books and the dust around her.>>	<<晦暗中，那位无尽者女子正沉浸于仪式。她嘶声念着暴烈而陌生的词句，双手在空中划出点点光屑，照亮周身的书卷与尘埃。>>
+p401	1	p401::English	Uh, hello?	呃，你好？
+p402	1	p402::English	((Bow politely.))	((礼貌地鞠躬。))
+p403	1	p403::English	((Take your leave.))	((告辞离开。))
+Duchess2	1	Duchess2::English	<<The woman seems oblivious to your presence, her face inscrutable behind her mask. She continues to mutter esoteric phrases while sculpting glyphs of light.>>	<<那女人似乎没有察觉你的存在，面具后的脸庞高深莫测。她继续低声念诵着玄奥的词句，指尖雕琢着光的符文。>>
+p404	1	p404::English	What are you doing?	你在做什么？
+p405	1	p405::English	You're, uh... clearly busy, but...	你，呃……看起来很忙，不过……
+Duchess3	1	Duchess3::English	<<She screams, her voice seething with a wave of magical energy that sends the books crashing to the floor.>>	<<她尖啸一声，声音里翻涌的魔法能量激荡开来，把书震得满地乱滚。>>
+Duchess4	1	Duchess4::English	Do you know how ((difficult)) it is to weave parallel cipher syntax while some ((idiot)) is talking in your ear?	你知道一边编((并行))密文语法、一边有个((白痴))在耳边说话有多难吗？
+Duchess5	1	Duchess5::English	<<She groans in frustration.>> ##I'm sorry. I'm in the middle of a... [[family crisis]], and you caught me trying to conjugate a pair of superlatives. Sometimes I just ((hate)) cipher semiotics. 	<<她懊恼地呻吟。>>##抱歉。我正陷在一场……[[家庭危机]]里，又被你撞见我在给两个最高级变位。有时候我真((恨))密文符号学。
+Duchess6	1	Duchess6::English	Well, I suppose if you bypassed my security measures, you must have come here for a ((reason.)) <<She studies you a moment.>> ##You're not a Cadaver assassin, are you? Sent by that infernal Rhydder to try and lop off my head, or somesuch?	唔，我想，既然你能绕过我的安防措施，你上门总归有((什么目的。))<<她端详了你片刻。>>##你不是尸骸派刺客吧？是不是那个可恶的里德尔派你来取我人头的？
+p406	1	p406::English	No, I'm not an assassin. 	不，我不是刺客。
+Duchess7	1	Duchess7::English	<<She studies you a moment.>> Well, that's exactly what an assassin would say. I have to be ((sure...))	<<她端详了你片刻。>>嗯，刺客恰恰就会这么说。我必须((确认……))
+p407	1	p407::English	<Lie> Yes, I'm an assassin. 	<撒谎>对，我就是刺客。
+Duchess8	1	Duchess8::English	<<She studies you a moment.>> A ((mortal)) Cadaver? I've seen stranger things... ##But, I have to be sure.	<<她端详了你片刻。>>一个((凡人))尸骸派？更奇怪的事我也见过……##不过，我必须确认。
+p408	1	p408::English	Uh... what's a Cadaver?	呃……尸骸派是什么？
+Duchess9	1	Duchess9::English	<<She studies you a moment.>> Well, your ignorance ((seems)) convincing... ##But, I have to be sure. 	<<她端详了你片刻。>>唔，你这份无知((倒像))是真的……##不过，我必须确认。
+Duchess10	1	Duchess10::English	I'm just going to have a poke around in your mind. You may feel some... ((tingling)) in your brain, but don't worry - this rarely leads to ((permanent)) damage.	我就在你脑子里随便翻翻。你可能会觉得脑子里有点……((发麻))，但别担心——很少会造成((永久))损伤。
+p409	1	p409::English	Wait, don't you da--	等等，你可别——
+p410	1	p410::English	Did you say ((perma))--	你刚才是说((永久))——
+Duchess11	1	Duchess11::English	<<A pain slices through your head, followed by a plethora of discomforting feelings. Your senses are jumbled; you hear smells, taste sights, breathe sounds. Everything warps, and you feel nauseous. >>	<<一阵剧痛劈开你的头颅，随之而来的是铺天盖地的错乱感受。你的感官搅成了一团：你听见气味，尝到景象，呼吸着声音。万物扭曲，你一阵反胃。>>
+Duchess12	1	Duchess12::English	<<But then, you find yourself under the sharp light of your home star. Your hand grips a bloodied branch. A child cowers before you, weeping in the mud.>>	<<紧接着，你发现自己站在家乡恒星刺目的光芒下。你手里攥着一根染血的树枝。一个孩子缩在你面前，在泥地里哭泣。>>
+Duchess13	1	Duchess13::English	<<Yes, you remember - this was the first real fight you ever won, when you were six years young...>>	<<是的，你想起来了——这是你人生第一场真正打赢的架，那年你六岁……>>
+Duchess14	1	Duchess14::English	<<Her voice cuts through your dream.>> ##So, you were always the ((violent)) sort, eh mortal? 	<<她的声音刺破你的梦境。>>##原来你向来是((崇尚暴力))的那种人，嗯，凡人？
+Duchess15	1	Duchess15::English	<<But then, you find yourself back in your family home; the warm light of your neuron star filtering through tall windows, making the ornaments glint. You sit, playing with toys, as your nanny smiles.>>	<<紧接着，你发现自己回到了童年的家；神经元星温暖的光透过高窗洒进来，照得摆饰闪闪发亮。你坐在那里玩玩具，保姆在一旁微笑。>>
+Duchess16	1	Duchess16::English	<<Yes, you remember - the comfort of home, before you knew of the world's terrors...>> 	<<是的，你想起来了——家的温暖，那时你还不知道世界的恐怖……>>
+Duchess17	1	Duchess17::English	<<Her voice cuts through your dream.>> ##Ah, mortal - you were born a noble? I understand that gilded cage all too well.	<<她的声音刺破你的梦境。>>##啊，凡人——你生来就是贵族？那种镀金的鸟笼，我再懂不过了。
+Duchess18	1	Duchess18::English	<<But then, you find yourself cowering in the filth of an alleyway, small and frightened. A man leers over you, raising his sword. You have but a moment to clasp the shard of broken glass and lunge at his belly...>>	<<紧接着，你发现自己蜷缩在肮脏的小巷里，渺小而惊恐。一个男人俯视着你，举起了剑。你只有一瞬间的工夫抓起碎玻璃片，刺向他的腹部……>>
+Duchess19	1	Duchess19::English	<<Yes, you remember - you were six years young. Just another worthless urchin in the city sprawl. The things you did to survive... >> 	<<是的，你想起来了——那年你六岁。不过是城市泥沼里又一个不值钱的野孩子。为了活下去，你做过什么……>>
+Duchess20	1	Duchess20::English	<<Her voice cuts through your dream.>> ##You've had a tough life, mortal. I'm... sorry.	<<她的声音刺破你的梦境。>>##你活得不容易，凡人。我……很抱歉。
+Duchess21	1	Duchess21::English	<<But then, you find yourself hunched over a huge book in the candlelight, praying that your master won't find you with this forbidden tome. You run your hand over the ink, and utter a few words. Your throat crackles with magical energy, and you are suddenly very afraid...>>	<<紧接着，你发现自己借着烛光伏在一本巨著上，祈祷主人别发现你翻看这部禁书。你抚过墨迹，念出几个词。你的喉咙噼啪爆出魔法能量，你突然害怕极了……>>
+Duchess22	1	Duchess22::English	<<Yes, you remember - you were six years young. A child-scholar, taking your first tentative steps into the arcane.>>	<<是的，你想起来了——那年你六岁。一个小小学者，怯生生地迈出踏入奥秘的第一步。>>
+Duchess23	1	Duchess23::English	<<Her voice cuts through your dream.>> ##A youth of study, mortal? We are kindred spirits, you and I.	<<她的声音刺破你的梦境。>>##在书堆里度过的童年，凡人？你我是同类人。
+Duchess24	1	Duchess24::English	But this isn't enough. I need ((more)).	但这还不够。我需要((更多))。
+Duchess25	1	Duchess25::English	<<Another wave of nausea. Reality churns around you, until you wake in an Inquisition prison cell; the smell of rust and shit filling your nostrils.>>	<<又是一阵反胃。现实在你周围翻搅，直到你在一间宗教裁判所的牢房里醒来；铁锈和粪便的气味灌满鼻腔。>>
+Duchess26	1	Duchess26::English	So that's it, eh? You're with those Inquisition bastards. But you're not a player; just some pawn in their scheming, blackmailed with the threat of oblivion. How ((pitiful.))	原来是这么回事，嗯？你是那些宗教裁判所混蛋的人。可惜你算不上棋手，只是他们阴谋里的一枚小卒，被抹除的威胁拿捏着。真((可怜。))
+Duchess27	1	Duchess27::English	<<Once more you're submerged in memory. You see Vela's ship drifting away from you; and with it, your only hope of salvation.>>	<<你再度沉入记忆。你看见薇拉的船缓缓离你而去；连同你唯一的得救希望一起。>>
+Duchess28	1	Duchess28::English	Ah, so it's ((Vela)) you're after. I sailed with her for ten years - even called myself a Dark Star. But I assume you knew that?	啊，原来你追的是((薇拉))。我和她并肩航行了十年——还自称过黑星呢。不过，你应该早就知道了吧？
+p411	1	p411::English	((Cough.)) Basalt... sent me. 	((咳。))是巴索特……派我来的。
+Duchess29	1	Duchess29::English	Ah, so that old seaslug's still with us? I must admit, I always thought the drink would kill him. ##But to hear he's working with the ((Inquisition,)) after all we've been through...?	啊，那头老海蛞蝓还活着呢？不得不承认，我一直以为酒会先要了他的命。##可听说他居然给((宗教裁判所))办事，毕竟我们也算共过患难……？
+p412	1	p412::English	((Cough.)) I had... a hunch.	((咳。))我只是……有预感。
+p413	1	p413::English	((Cough.)) I had... no idea. 	((咳。))我……完全不知情。
+Duchess30	1	Duchess30::English	Well, this only deepens my suspicions. ##So tell me, do you ((kill)) for your masters? Do you take the lives of others, to preserve your own?	哼，这只会加深我的疑心。##告诉我，你替你的主子们((杀过人))吗？你可曾为了保全自己，夺走他人的性命？
+p414	1	p414::English	I'll kill anyone... who stands in my way.	谁挡我的路……我就杀谁。
+Duchess31	1	Duchess31::English	Oh, of ((course.)) I'm sure you're extremely tough, and I should cower in fear, and all the rest. But let's see the truth, shall we? 	哦，((当然。))我相信你勇武非凡，我理应吓得瑟瑟发抖，诸如此类。不过，还是看看真相吧，如何？
+p415	1	p415::English	Only in self defence... do I draw my sword.	唯有自卫……我才会拔剑。
+Duchess32	1	Duchess32::English	Oh, how noble! How valiant! I'm ((humbled)) by your chivalry, excetera. But let's see the truth, shall we?	哦，多么高尚！多么英勇！你的骑士风度令我((自愧不如))，等等等等。不过，还是看看真相吧，如何？
+p416	1	p416::English	I avoid conflict... wherever I can.	只要有可能……我都会避开冲突。
+Duchess33	1	Duchess33::English	So you're either a pacifist, a coward - or a liar. Let's see the truth, shall we?	这么说，你要么是和平主义者，要么是懦夫——要么是骗子。还是看看真相吧，如何？
+Duchess34	1	Duchess34::English	<<Your mind reels once more. You see the men and monsters who've stood in your way; and how you've slipped past, sword sheathed, every single time.>>	<<你的心智再度翻腾。你看见那些拦路的人和怪物；也看见自己每一次都全身而退，剑未出鞘。>>
+Duchess35	1	Duchess35::English	Hm, so you spoke the truth, mortal? You really ((haven't)) taken a single life. I must admit, I'm impressed. 	嗯，你说的竟是实话，凡人？你还真的一条命都((没))取过。不得不承认，我有点佩服。
+Duchess36	1	Duchess36::English	Hah, so you lied! You're not a killer at all. In fact you haven't taken a ((single)) life. I must admit, to come all this way? I'm impressed. 	哈，原来你撒谎了！你根本不是杀手。事实上你一条命都((没))取过。不得不承认，千里迢迢走到这一步？我有点佩服。
+Duchess37	1	Duchess37::English	<<Your mind reels once more. You see the men and monsters who've stood in your way; and how you've slipped past, wherever possible. ##The few times when your hand has been forced, you remember the feeling of your blade sinking into flesh; and those final, agonising death cries...>>	<<你的心智再度翻腾。你看见那些拦路的人和怪物；也看见自己尽可能地绕道而行。##少数几次被逼出手时，你记得剑刃没入血肉的触感；还有那临死前痛苦的哀嚎……>>
+Duchess38	1	Duchess38::English	Hm, so you're the honest sort, mortal. The lives you've taken have been few; you seem to only draw your blade when strictly necessary. I must admit, I respect you for that.	嗯，你倒是个诚实人，凡人。你取过的命寥寥无几；似乎只有万不得已时才肯拔剑。不得不承认，就冲这个我敬你几分。
+Duchess39	1	Duchess39::English	Aha, so you're not as bloodthirsty as you make out! It's just an ((act.)) You've taken very few lives. ##I must admit, I respect you for that. 	啊哈，原来你没装得那么嗜血！那不过是((演的。))你取过的命极少。##不得不承认，就冲这个我敬你几分。
+Duchess40	1	Duchess40::English	<<Your mind reels once more. You see the men and monsters who've stood in your way; and how you've clashed swords, evaded their blows; buried your steel into their flesh. You've tasted blood more times than you care to remember, your hands forever stained.>>	<<你的心智再度翻腾。你看见那些拦路的人和怪物；也看见自己与他们刀剑相向、闪避他们的攻击、把钢铁送进他们的血肉。你染血次数多得不愿回想，双手永远洗不干净。>>
+Duchess41	1	Duchess41::English	You lied, mortal. You're a ((killer)) through and through. The blood you've spilled seeps through these isles, even now.	你撒谎了，凡人。你是个彻头彻尾的((杀手))。你洒下的血至今仍渗在这些群岛的泥土里。
+Duchess42	1	Duchess42::English	So you're honest, at least. You're a ((killer)) through and through. The blood you've spilled seeps through these isles, even now.	至少你还算诚实。你是个彻头彻尾的((杀手))。你洒下的血至今仍渗在这些群岛的泥土里。
+Duchess43	1	Duchess43::English	<<Your mind reels once more. You see the men and monsters who've stood in your way; and how you've clashed swords, evaded their blows; buried your steel into their flesh. You remember the chaos, the thrill; the ((bloodlust.)) The truth is, you ((enjoy)) it.>>	<<你的心智再度翻腾。你看见那些拦路的人和怪物；也看见自己与他们刀剑相向、闪避他们的攻击、把钢铁送进他们的血肉。你记得那份混乱、那份战栗；那份((嗜血欲。))事实是，你((乐在其中。))>>
+Duchess44	1	Duchess44::English	<<She seems taken aback.>> Mortal, you -- you're a ((monster.)) The blood that you've spilled? Nobody could ever atone for such wanton violence... ##Though I suppose I have no right to judge you. My conscience is... ((hardly)) clear. 	<<她似乎吓了一跳。>>凡人，你——你是个((怪物。))你洒下的那些血？这样肆意的暴行，谁都无法赎清……##不过我大概也没资格审判你。我的良心也……((不太))干净。
+Duchess45	1	Duchess45::English	Hmm, but what's this? <<Searing pain; and you see the Flesh Farm screaming in agony. You see Rhydder, his cruel gaze; and you remember the deal you made...>>	嗯，这是什么？<<灼痛袭来；你看见血肉农场在痛苦中尖啸。你看见里德尔，他残忍的目光；你想起了自己做的交易……>>
+Duchess46	1	Duchess46::English	Ah, so you ((are)) in league with the Cadavers! Your actions, whether in spite or folly, have cast a dark shadow on this island... ##...and yet, I see nothing to show that you mean ((me)) harm.	啊，原来你((真的))和尸骸派有勾结！你的所作所为，无论是恶意还是愚蠢，都给这座岛蒙上了阴影……##……不过，我没看出你有意害((我))。
+Duchess47	1	Duchess47::English	Well, after scraping through your skull - it seems there's nothing to suggest you're after my head.	嗯，把你脑壳里里外外刮了一遍——看来没有迹象表明你在打我脑袋的主意。
+Duchess48	1	Duchess48::English	And from what I've seen, there's nothing to suggest you're after my head.	而且据我所见，没有迹象表明你在打我脑袋的主意。
+Duchess49	1	Duchess49::English	<<She sighs.>> ##I'll spare you the torment of further mind probes, mortal. Any more and your brain could burst - and I don't want to clean ((that)) up.	<<她叹了口气。>>##我就不再用读心折磨你了，凡人。再来几次你的脑子可能就炸了——那种((烂摊子))我可不想收拾。
+Duchess50	1	Duchess50::English	Ah, but where are my manners? We've learned all about ((you)), but I've not introduced myself. ##((She feigns a pompous bow.)) The [[Duchess]], at your service.	啊，瞧我这礼仪。我们把你((里里外外))都摸清了，我却还没自报家门。##((她装腔作势地行了个礼。))[[女公爵]]愿为你效劳。
+Duchess51	1	Duchess51::English	Well, ((really)) I am Philomena Caveridge, Duchess of Vestalshire - but that's quite the mouthful, eh?	其实呢，((正经说))我是菲洛米娜·卡弗里奇，维斯塔尔郡女公爵——不过这名字太拗口了，对吧？
+Duchess52	1	Duchess52::English	If you'd arrived about six centuries ago, I would have greeted you into a bustling household - alive with music and merriment. My servants would have offered refreshment, I would have introduced you to my five darling children...	要是你在六百年前登门，我会把你迎进一个热闹的宅邸——音乐悠扬、笑语盈门。仆人们会奉上茶点，我还会向你引荐我五个心爱的孩子……
+Duchess53	1	Duchess53::English	<<She chuckles wearily.>> Ah, how is it that six hundred years can pass so ((quickly?)) ##Now, I drift in this cold tomb while my estate lies in decay...	<<她疲惫地轻笑。>>啊，六百年怎会过得如此((之快？))##如今，我在这冰冷的坟墓里飘荡，家业早已朽坏……
+p417	1	p417::English	It sounds like you miss your former life.	听起来你很怀念从前的生活。
+Duchess54	1	Duchess54::English	There's not an Endless around who doesn't. But for most of us, it's hard to think of our mortal lives without opening the door to our... ((demons)).	无尽者里没有谁不怀念。但对大多数人来说，一想起凡人岁月，就会打开通往自己……((心魔))的门。
+p418	1	p418::English	Such inherited wealth is abhorrent. 	这种世袭的财富令人作呕。
+Duchess55	1	Duchess55::English	I'm inclined to agree with you, mortal. In my youth I resented my birthright; as the eldest child I was expected to marry, and produce heirs; when all I really wanted to pursue was my studies.	我倒倾向于同意你，凡人。年轻时我也怨恨自己的出身；身为长女，我被指望结婚生子、延续血脉，而我真正想追求的只有学问。
+Duchess56	1	Duchess56::English	But if the privilege of those years warranted some sort of ((debt)), I paid it a thousand times over. 	不过，如果说那些年的荣华欠下了某种((债))，我早已千倍偿还。
+Duchess57	1	Duchess57::English	You see, I became Duchess the day my father died, in [[the Great Devouring.]] Do you know what that was?	要知道，我父亲死在[[大吞噬]]里的那一天，我就成了女公爵。你知道那是什么吗？
+p419	1	p419::English	Yes.	知道。
+Duchess58	1	Duchess58::English	Then you will know it is the darkest stain on my people's history. The Endless were born with an insatiable hunger. For decades we ((feasted)) upon those we once called kin.	那你就该知道，那是我族历史上最黑暗的污点。无尽者生来便怀有永不餍足的饥渴。几十年间，我们((大啖))曾称其为血亲之人。
+p420	1	p420::English	No.	不知道。
+Duchess59	1	Duchess59::English	Six hundred and thirty-five years ago, the Endless were born from the hubris and folly of our king. His wretched spell twisted half of the realm into this accursed form. We were born anew - frenzied and ((hungry)).	六百三十五年前，无尽者因我们国王的傲慢与愚蠢而诞生。他那拙劣的法术把半个王国扭曲成了这副受诅咒的模样。我们获得新生——癫狂而((饥饿))。
+Duchess60	1	Duchess60::English	So the realm of Verdant - for that is what it was called, then - ((ate)) itself. ## Friends and family, who were dining merrily together in the morn, were ((eating)) each other by the eve.	于是蔓绿王国——那时它还叫这个名字——((吞食))了它自己。##清晨还围坐欢宴的亲朋，入夜就((互相))吞食。
+Duchess61	1	Duchess61::English	And my family was no different. ##I was five and thirty years of age, when it happened. I had a husband. Five beautiful children... 	我的家人也没能幸免。##事发那年，我三十五岁。我有丈夫。五个可爱的孩子……
+Duchess62	1	Duchess62::English	You know the cruellest thing? There was a part of us that ((knew)) what was happening. As I tore into my husband's flesh, I howled not in anger -  but in sorrow. As my daughter gorged upon the bowels of her brother, I saw the tears streaming down her face...	你知道最残忍的是什么吗？我们之中仍有一部分((明白))正在发生什么。当我撕咬丈夫的血肉，我哀嚎不是因为愤怒——而是悲恸。当我女儿吞食她兄弟的内脏，我看见泪水淌了满脸……
+Duchess63	1	Duchess63::English	And as I picked up my infant son, not three months old - I wanted to hold him. To ((kiss)) him. I never meant to... ##<<Her voice croaks, and she is silent a moment.>>	当我抱起我不满三个月的小儿子——我只想抱紧他。想((亲亲))他。我从没想过要……##<<她的声音嘶哑下来，沉默了片刻。>>
+p421	1	p421::English	I'm so sorry. 	我很难过。
+Duchess64	1	Duchess64::English	Save your tears, mortal. There are some things you will ((never)) understand.	收起你的眼泪吧，凡人。有些事你永远((不会))懂。
+p422	1	p422::English	You're a monster.	你是个怪物。
+Duchess65	1	Duchess65::English	I won't deny it. 	我不否认。
+p423	1	p423::English	((Say nothing.))	((一言不发。))
+Duchess66	1	Duchess66::English	To be Endless is to live with a terrible guilt. It is the same for ((all)) of us. But while most find comfort in the rituals and traditions of old, I find them ((suffocating))...	身为无尽者，就要背负可怕的罪孽活着。我们((人人))皆然。不过，多数人能从古老的仪式与传统中寻得慰藉，我却只觉得((窒息))……
+Duchess67	1	Duchess67::English	<<She chuckles.>> Ah, but there I go again, dredging up the past. I think it's why I stopped getting invited to all those mausoleum balls.	<<她轻笑。>>唉，我又来了，翻这些陈年旧账。我猜这就是后来陵墓舞会都不请我的原因。
+Duchess68	1	Duchess68::English	So tell me, mortal - this... ((hunt)) for Vela. What do you hope to accomplish? 	那么告诉我，凡人——这场……((追捕))薇拉的行动。你想达成什么？
+p424	1	p424::English	Can't you just read my mind?	你直接读我的心不就行了？
+Duchess69	1	Duchess69::English	Well, of course I ((could)), but it's terribly impolite. And now I know you're not after my head, you can lie all you wish; it bothers me not. 	我((当然))可以，但那太不礼貌了。何况我已知道你不是来取我人头的，随你怎么撒谎，我都无所谓。
+p425	1	p425::English	I must stop her from destroying the world.	我必须阻止她毁灭世界。
+Duchess70	1	Duchess70::English	Hmm. The world is at stake, and you would save it? ##Admirable, but of course - that's not how ((she)) sees it.	唔。世界危在旦夕，而你要拯救它？##可敬。当然了——((她))可不这么看。
+p426	1	p426::English	I want to help her to save the world.	我想帮她拯救世界。
+Duchess71	1	Duchess71::English	Ah, so you've been enticed by her revolutionary zeal, have you?	啊，你被她的革命热忱蛊惑了，是吧？
+p427	1	p427::English	She dies, I get my freedom. Simple. 	她死，我自由。就这么简单。
+Duchess72	1	Duchess72::English	Ah, self preservation - no truer motivation than that. But still, when the time comes, you may have a... choice to make.	啊，明哲保身——没有比这更真实的动机了。不过，到时候，你也许要做个……抉择。
+Duchess73	1	Duchess73::English	I wonder - do you understand what's ((truly)) at stake?	我倒想问——你可明白((真正))押在上面的是什么？
+Duchess74	1	Duchess74::English	There is a hidden language to the universe, mortal. A web of signs and signifiers which establish the very rules by which we live. ##And Vela? She wants to change it. She wants to change ((reality)) itself, to create a new world. 	宇宙有一门隐秘的语言，凡人。一张由符号与能指织成的网，确立着我们生活的根本法则。##而薇拉？她想改写它。她想改变((现实))本身，创造一个新世界。
+p428	1	p428::English	How would that work?	那要怎么做到？
+p429	1	p429::English	I never was one for cipher semiotics. Can we get to the point?	我对密文符号学一向不来电。能说重点吗？
+Duchess75	1	Duchess75::English	When we cast a cipher spell, we are speaking in the hidden language of the universe.	我们施展密文法术时，就是在用宇宙的隐秘语言说话。
+Duchess76	1	Duchess76::English	But the ((rules?)) The grammar, the syntax, the signs themselves? All of us, from the humble scribe to the powerful cipher wizard, must adhere to these constraints. When we don't? There are often... ((dire)) consequences. 	可那些((法则))呢？语法、句法、符号本身？从卑微软工到强大的密文法师，人人都必须遵守这些约束。一旦违逆？后果往往……((不堪设想))。
+p430	1	p430::English	Like the Endless.	就像无尽者这样。
+Duchess77	1	Duchess77::English	<<She nods.>> Exactly. The spell cast by our king, all those years ago, was ambitious indeed. The errors were likely minor - but when applied to a whole ((kingdom?)) It was catastrophic.	<<她点头。>>正是。多年前我们的国王施展的那个法术，野心确实不小。错误也许微不足道——可一旦施加于整个((王国？))那就是灭顶之灾。
+p431	1	p431::English	Like the Clockwork Kingdom.	就像发条王国那样。
+Duchess78	1	Duchess78::English	<<She nods.>> I've seen what their monarch is doing with my own eyes. Rewriting minds, matter - whole ((swathes)) of reality. It will not end well for them.	<<她点头。>>他们的君主在干什么，我亲眼见过。改写心智、物质——((大片大片))的现实。他们不会有好下场的。
+p432	1	p432::English	Like the World Rend. 	就像世界撕裂那样。
+Duchess79	1	Duchess79::English	<<She nods.>> I don't know for ((sure)) what happened back then, but I witnessed it with my own eyes. ((Felt)) it in my mind. It was the most powerful spell I have witnessed, and it was caught in a syntax cascade. An infinite loop... 	<<她点头。>>我当时到底发生了什么，我((说不准))，但我亲眼目睹了。在脑海里((感受))过。那是我见过的最强大的法术，而且它陷入了语法级联。一个无限循环……
+Duchess80	1	Duchess80::English	But if Vela's plan works, she'd make the impossible... ((possible.)) With a click of a finger, she could raise an empire. Make anyone ((truly)) immortal... even raise someone from the dead. 	而如果薇拉的计划成功，她将让不可能……((成为可能。))打个响指，她就能崛起一个帝国。让任何人都((真正))不朽……甚至让死者复生。
+p433	1	p433::English	Sounds incredible.	听起来不可思议。
+p434	1	p434::English	Sounds dangerous. 	听起来很危险。
+Duchess81	1	Duchess81::English	Indeed. I have often weighed this dilemma in my mind. Would it be for good, or for ill?	是啊。我常在心里掂量这个两难之题。那是福，还是祸？
+Duchess81b	1	Duchess81b::English	Very well. The heart of the matter is this...	好吧。问题的关键在于……
+Duchess82	1	Duchess82::English	My people live in torment; our decaying bodies and haunted minds are prisons from which there is no escape. ##But... could Vela's plan be our salvation? Or would it subject the whole ((world)) to a similar torment? 	我的族人活在煎熬之中；我们腐朽的躯体和饱受折磨的心智就是一座座无路可逃的牢狱。##可是……薇拉的计划会不会是我们的救赎？还是说，它会把整个((世界))拖进同样的煎熬？
+Duchess83	1	Duchess83::English	I haven't yet made up my mind. But if I'm honest, I would like to be there... when the decision is made.	我还没有拿定主意。但说实话，当抉择落地之时……我想在场。
+p435	1	p435::English	Then help me find Vela. 	那就帮我找到薇拉。
+p436	1	p436::English	It seems like our interests align.	看来我们的利益是一致的。
+Duchess84	1	Duchess84::English	Alas, I'm somewhat ((engaged)) for the moment. I think I mentioned a... family crisis? ##[[My daughter]] has been stolen from me.	唉，我眼下有点((脱不开身))。我说过那场……家庭危机吧？##[[我女儿]]被人从我身边夺走了。
+Duchess85	1	Duchess85::English	<<She closes her eyes.>> Her name is Ellyn. Of all my children, she alone remains. ##I can still see her, nine years young, holding my hand in the lush grass of Verdant. Everyone in the village knew that beaming smile. 	<<她闭上眼睛。>>她叫艾琳。我所有的孩子里，只剩她一个了。##我还能看见她，九岁的小人儿，在蔓绿青翠的草地上牵着我的手。全村人都认得她那张灿烂的笑脸。
+Duchess86	1	Duchess86::English	She is nine years old, still - and the feeling of her hand in my own is all that keeps me clinging to this wretched existence. ##And now those ((damned)) [[Cadavers]] have taken her. 	她至今仍是九岁——她握在我手里的那份触感，是我苟活于这凄惨存在的唯一支柱。##而现在，那些((该死的))[[尸骸派]]把她夺走了。
+p437	1	p437::English	Can't you save her yourself?	你自己不能去救她吗？
+Duchess87	1	Duchess87::English	Oh, I am trying, but the Cadavers are obsessive in their hatred of me. I must move slowly and carefully. ##<<She thinks for a moment.>>	唉，我一直在设法，但尸骸派恨我入骨、盯得死紧。我只能小心行事、徐徐图之。##<<她想了一会儿。>>
+Duchess88	1	Duchess88::English	But ((you?)) As a stranger to the whole situation, you may very well have some advantage...	可((你呢？))你是局外人，说不定反而有几分优势……
+p438	1	p438::English	I could try and rescue your daughter.	我可以试试救回你女儿。
+Duchess89	1	Duchess89::English	You would, mortal? If you were to save her, I would truly be in your debt.	你愿意吗，凡人？若你能救她，我可就真欠你一份天大的人情了。
+Duchess90	1	Duchess90::English	The Cadavers are a secretive bunch, but I've caught wind that one of them frequents the [[Rotten Coffin]] in [[Sepulchre.]] He wears a [[full suit of armour]], and holds a [[key]] that will grant access to the upper levels of Cadaver Keep.	尸骸派行事隐秘，但我听说他们中有一人是[[陵墓城]][[烂棺材]]酒馆的常客。他穿着[[一整套盔甲]]，手里握着一把能打开尸骸要塞上层区的[[钥匙]]。
+Duchess91	1	Duchess91::English	He surely won't speak to me, nor my lackeys. But ((you?)) You're an outsider. More than that, you're a ((mortal.)) And Cadavers are ((very)) interested in mortals...	他肯定不会理会我，也不会理会我的仆从。可((你呢？))你是外人。更妙的是，你是个((凡人。))尸骸派对凡人可((非常))感兴趣……
+p439	1	p439::English	Okay, I'll try and find her.	好，我会设法找到她。
+Duchess92	1	Duchess92::English	Thank you, mortal. 	谢谢你，凡人。
+p440	1	p440::English	Wait... why are they interested in mortals?	等等……他们对凡人感兴趣是为什么？
+Duchess93	1	Duchess93::English	Oh, did I... forget to mention? 	哦，我……忘了说吗？
+Duchess94	1	Duchess94::English	While most of the Endless eat from Penitent Thaw's mindless Flesh Farms, the Cadavers still believe it's their right to feast upon sentient flesh... like ((you.)) ##But don't worry. I'm sure you'll be fine.	大多数无尽者吃的是忏悔者·索的无意识血肉农场出产，尸骸派却仍坚信享用有意识血肉是他们的权利……比如((你))这样的。##不过别担心。你肯定不会有事的。
+Duchess95	1	Duchess95::English	My daughter has a [[signet ring]] on her finger. Find her, and I'll help you track down Vela. You have my word.	我女儿手上戴着一枚[[印戒]]。找到她，我就帮你追查薇拉。我向你保证。
+Duchess96	1	Duchess96::English	Greetings, mortal. How do you fare?	你好啊，凡人。近来如何？
+p441	1	p441::English	How can I find your daughter, again?	再说一遍，我该怎么找你女儿？
+p442	1	p442::English	Where exactly is Cadaver Keep?	尸骸要塞到底在哪？
+Duchess97	1	Duchess97::English	The keep is the [[northern-most]] structure in the Endless Realm. Keep walking north, past [[Sepulchre]], and you can't miss it.	要塞是无尽领域[[最北端]]的建筑。一路向北，过了[[陵墓城]]，你不会错过的。
+Duchess98	1	Duchess98::English	The front of [[Cadaver Keep]] is heavily guarded, but the fortifications are old and weathered - so you may be able to slip in through the walls, somewhere...	[[尸骸要塞]]的正面守卫森严，但那些工事年久失修——找个地方，你也许能从墙缝里溜进去……
+Duchess99	1	Duchess99::English	But remember - certain sections of the keep require a [[key]] that I don't possess. You'll need to procure one from the [[Cadaver]] in the [[Rotten Coffin]] pub to explore the whole thing.	但记住——要塞的某些区域需要一把我没有的[[钥匙]]。想探索全部，你得从[[烂棺材]]酒馆里那个[[尸骸派]]手上弄到一把。
+p443	1	p443::English	About your daughter...	关于你女儿……
+Duchess100	1	Duchess100::English	Did you find her, mortal?	你找到她了吗，凡人？
+Duchess101	1	Duchess101::English	I must admit, I have been watching your progress with interest. <<With a flick of her wrist, she creates a small, shimmering mirror. It seems to show you entering Cadaver Keep.>>	不得不承认，我一直饶有兴致地关注着你的进展。<<她手腕一抖，变出一面微光闪烁的小镜子。镜中似乎映出你走进尸骸要塞的情形。>>
+Duchess102	1	Duchess102::English	But, my voyeurism spells couldn't penetrate the island above the keep, so I've been awaiting your return with baited breath...	不过，我的窥视法术穿不透要塞上方的那座岛，所以我一直屏息等着你回来……
+p444	1	p444::English	I'm sorry, Duchess. It's not good news.	抱歉，女公爵。不是好消息。
+Duchess103	1	Duchess103::English	<<She is suddenly deathly still.>> Was she... not there?	<<她突然僵住。>>她……不在那里？
+p444b	1	p444b::English	I have her hand. Nothing more.	我拿到了她的手。仅此而已。
+Duchess160	1	Duchess160::English	<<You present the hand to the Duchess. A beaming smile spreads across the Duchess' face.>>	<<你把那只手呈给女公爵。一抹灿烂的笑容在她脸上绽开。>>
+Duchess161	1	Duchess161::English	Ah, my Ellyn, you are returned to me at last! ##<<The Duchess tenderly presses the hand against her face. Ellyn's hand seems to respond in kind, relaxing and stroking her mothers' cheek.>>	啊，我的艾琳，你终于回到我身边了！##<<女公爵把那只手温柔地贴上自己的脸。艾琳的手似乎也温顺地回应着，舒展开来，轻抚着母亲的面颊。>>
+p444c	1	p444c::English	Uh, you were ((expecting)) this? 	呃，你((料到))会这样？
+Duchess162	1	Duchess162::English	Apologies, mortal, did I forget to mention? All that remains of my daughter is her hand.	抱歉，凡人，我没提过吗？我女儿留下的只有这只手。
+p445	1	p445::English	Where's the rest of your daughter? 	你女儿的其他部分呢？
+Duchess104	1	Duchess104::English	The rest of her was lost, many centuries ago. Where? I cannot say - but it is not an uncommon fate for my kind. 	她的其余部分，许多个世纪前就失落了。在哪？我无从知晓——但对我族人而言，这命途并不罕见。
+Duchess105	1	Duchess105::English	It is very hard to truly ((kill)) an Endless. But that does not mean our bodies can't be broken. Severed. ((Seperated.)) Many of my kind rest not in peace, but in pieces - scattered around the realm like fallen leaves.	要真正((杀死))一个无尽者非常困难。但这不代表我们的身体不会破碎。断离。((分散。))我的许多同类不得安眠，只能身首异处——像落叶一样散落王国各处。
+Duchess106	1	Duchess106::English	I lost Ellyn to this abhorrent fate some three hundred years ago. <<She touches the hand, gently.>> ##I have long accepted that I will never see her face again.	大约三百年前，艾琳就落入了这可憎的命运。<<她轻抚那只手。>>##我早已接受，此生再也见不到她的脸。
+Duchess107	1	Duchess107::English	But she is not ((dead.)) She is conscious, and she ((knows)) the touch of her mother. So what more can I do, but be there for her? 	但她没有((死。))她仍有意识，她((认得))母亲的抚摸。那我除了守着她，还能做什么呢？
+p446	1	p446::English	That's... touching.	真是……感人。
+p447	1	p447::English	That's... horrible.	真是……可怕。
+Duchess108	1	Duchess108::English	<<She sighs.>> It is, of course, not a fate I would have chosen for my daughter. I often wonder if it would be kinder for her to be... ((truly)) at peace. 	<<她叹了口气。>>当然，这不是我会为女儿选择的命运。我常常想，让她……((真正))安息，会不会更仁慈一些。
+Duchess109	1	Duchess109::English	I suppose that's why I followed Vela for so long. For good or ill, she promised ((change)).	或许正因如此，我才追随了薇拉那么久。无论福祸，她许诺了((改变))。
+p448	1	p448::English	With Vela, you could grant the Endless a true death. 	跟着薇拉，你可以让无尽者迎来真正的死亡。
+Duchess110	1	Duchess110::English	<<She strokes her daughter's hand.>> Perhaps you are right. Perhaps my kind has lingered in wretchedness for too long.	<<她轻抚女儿的手。>>也许你说得对。也许我的族人已在凄苦中滞留了太久。
+Duchess111	1	Duchess111::English	<<She closes her eyes.>> This is no life. We are but ghosts, who cling to fading dreams. I do not wish this for my daughter. 	<<她闭上眼睛。>>这算什么活着。我们不过是死抱着褪色残梦的幽魂。我不愿女儿也这样。
+p449	1	p449::English	With Vela, you could make the Endless truly immortal.	跟着薇拉，你可以让无尽者获得真正的不朽。
+Duchess112	1	Duchess112::English	<<She strokes her daughter's hand.>> Perhaps you are right. I should fight for a ((better)) life for my daughter, so she can feel the wind on her face once more... 	<<她轻抚女儿的手。>>也许你说得对。我应该为女儿争取((更好))的生活，让她能再次感受拂面的清风……
+p450	1	p450::English	Vela meddles with powers beyond her control; we must learn to accept our fate. 	薇拉在玩弄她驾驭不了的力量；我们必须学会接受命运。
+Duchess113	1	Duchess113::English	<<She strokes her daughter's hand.>> Perhaps you are right. This curse is our burden to bear. To risk utter catastrophe over some fool's hope? It would not be right. 	<<她轻抚女儿的手。>>也许你说得对。这道诅咒就是我们该背负的重担。为某个蠢货的痴念去赌一场万劫不复？那不对。
+Duchess114	1	Duchess114::English	<<She is silent a moment.>> Thank you, mortal, for returning my daughter to me. I hope the whole ordeal wasn't too... troublesome.	<<她沉默片刻。>>谢谢你，凡人，谢谢你还回我的女儿。希望这一路没有太……折腾你。
+p451	1	p451::English	No, no trouble at all. 	不，一点也不折腾。
+p452	1	p452::English	That tower was pretty tall. There were a ((lot)) of ramps.	那座塔真够高的。坡道多得((很))。
+Duchess115	1	Duchess115::English	<<She smiles.>> You're too modest, mortal. Don't think I hadn't noticed that missing finger of yours.	<<她微笑。>>你太谦虚了，凡人。别以为我没注意到你少了一根手指。
+p453	1	p453::English	Well, I ((did)) lose a finger.	呃，我((确实))丢了一根手指。
+Duchess116	1	Duchess116::English	<<She smiles.>> I noticed, mortal. 	<<她微笑。>>我注意到了，凡人。
+Duchess117	1	Duchess117::English	But, nothing a little cipher can't fix. Here, hold out your hand...	不过，再精巧的密文也治不了的东西可不多。来，把手伸出来……
+Duchess118	1	Duchess118::English	<<The Duchess utters some harsh sounding consonants, and her voice seems to suck the warmth from the air. For a moment, your hand seems to burn with an unbearable heat.>>	<<女公爵吐出一串刺耳的辅音，她的声音仿佛抽干了空气中的暖意。刹那间，你的手像是被难以忍受的灼热吞噬。>>
+Duchess119	1	Duchess119::English	<<But when you look down at it, your missing digit has been replaced with a spectral finger. It glows and shimmers with unnatural colour, but is firm to the touch.>>	<<但当你低头看去，缺失的手指已被一根幽灵手指取代。它泛着不自然的光泽、异样的色彩，摸上去却结实得很。>>
+Duchess120	1	Duchess120::English	There we are, mortal. You may even find this to be an ((improvement)). Few can match my skill with cipher facsimiles. 	好了，凡人。说不定你还会觉得这是个((升级))呢。论密文复制品的手艺，没几人比得过我。
+Duchess121	1	Duchess121::English	And now, I will honour my side of the bargain. ##When I delved into your mind, I saw that you have captured the [[Blinding Light]], correct? I will make my way there, so we can plan our next move.	现在，该我履行我这一半的约定了。##方才翻你记忆时，我看到你已经拿下了[[炫光要塞]]，对吧？我会自行前往那里，我们再从长计议。
+Duchess122	1	Duchess122::English	Farewell for now, mortal. 	暂且别过，凡人。
+Duchess123	1	Duchess123::English	Ah, it's good to be out in the skyrealms again! One can get frightfully bored spending eternity in dusty old tombs. 	啊，重回天空领域的感觉真好！在积灰的旧坟墓里耗上永生永世，人是要闷坏的。
+p454	1	p454::English	How are you settling in? 	你住得还习惯吗？
+Duchess124	1	Duchess124::English	I've just about finished transposing my collection of essential grimoires. Not a bad spot for them, eh? 	我那批要紧的魔法书差不多都搬完了。这地方放它们不赖，嗯？
+Duchess125	1	Duchess125::English	I must admit, it's exciting to see all these mortals scurrying around. There's an ((urgency)) to mortal life that's been lost to my kind. I realise now that, since giving up this life... I've missed it.	不得不承认，看着这些凡人四处奔忙，还挺让人振奋的。凡人的生命自有一种((紧迫感))，而我的族人早已失去。如今我才明白，自从舍弃那种生活……我一直很想念它。
+p455	1	p455::English	I wanted to ask you something.	我想请教你些事。
+Duchess126	1	Duchess126::English	Go ahead, mortal. 	请问吧，凡人。
+p456	1	p456::English	About the task at hand...	关于眼下的事……
+Duchess127	1	Duchess127::English	<<She nods.>> I understand you're still looking for my former comrades? 	<<她点头。>>我知道你还在找我昔日的同伴们？
+Duchess128	1	Duchess128::English	Well, you should start with [[Jack Basalt.]] You'll probably find that old seaslug in the nearest tavern - which I understand to be the [[Wobbly Noggin]] pub in [[Hallow Town.]]	嗯，你可以从[[杰克·巴索特]]入手。那头老海蛞蝓多半就泡在最近的酒馆里——据我所知是[[哈洛镇]]的[[摇晃酒馆]]。
+Duchess129	1	Duchess129::English	Now, if you're looking for Vela, you'll need to track down Orlaith - or, as most folk call her, [[The Emberian.]] If anyone knows where Vela is, it's going to be her. ##Last I heard, she was hunting for Emberian ruins in [[Hallowshire]]. 	至于薇拉，你得先找到奥莱丝——大家伙都管她叫[[余烬人]]。要说谁最清楚薇拉的行踪，非她莫属。##据我上次听到的消息，她正在[[哈洛郡]]搜寻余烬遗迹。
+Duchess130	1	Duchess130::English	If you're going to get this place up and running again, you're best bet is to find [[Caxton Frost]], one of the finest engineers I've ever known. I imagine he's back in the [[Clockwork Kingdom.]]	想让这地方重新运转起来，你最好的选择是找到[[卡克斯顿·弗罗斯特]]，我所认识的最出色的工程师之一。我猜他回[[发条王国]]了。
+p457	1	p457::English	About your past...	关于你的过去……
+Duchess131	1	Duchess131::English	There's quite a lot of it. What do you want to know?	我的过去可长着呢。你想听哪段？
+p458	1	p458::English	Tell me again about the Great Devouring. 	再给我讲讲大吞噬吧。
+p459	1	p459::English	Tell me of your time as a Dark Star merc. 	讲讲你当黑星佣兵的那段日子吧。
+Duchess132	1	Duchess132::English	Well, I've spent most of my pitiful existence trying to avoid my duties as a duchess. If you can, try to imagine ((six hundred years)) of etiquette and droll ceremony. It's enough to drive anyone to madness...	唉，我这可悲的一生大半都在躲着女公爵的职责。你可能的话，想象一下((六百年))的繁文缛节和滑稽仪式。谁受得了，非疯不可……
+Duchess133	1	Duchess133::English	So I left my seat, my realm; my duties. I wandered the skyrealms, drifting through places beyond my imagining, until I fell into the company of an ambitious young mortal called ((Vela.)) 	于是我离开了席位、离开了领地；抛下职责。我流浪于天空领域，游历过超越想象的境地，直到我遇上一伙人，领头的是个野心勃勃的年轻凡人，名叫((薇拉))。
+Duchess134	1	Duchess134::English	<<A thin smile spreads across her lips.>> ## You know, when I first joined them - I thought it would prove a trifling amusement to watch such an incongruous bunch of mortals get themselves killed...	<<她唇边浮起一丝淡笑。>>##要知道，我刚加入他们时——只想看这么一群不伦不类的凡人怎么把自己作死，聊作消遣……
+Duchess135	1	Duchess135::English	But oh, it turned out to be so much more. To be in the company of those Dark Stars was to be in the flow of constant ((change)). No longer was I rotting in a tomb, in adherence to tradition - every day we sent ripples through the world.	可呵，结果远不止于此。与那些黑星同行，就是置身于((变革))的洪流。我不再守着传统在坟墓里腐朽——我们每天都在世上掀起涟漪。
+Duchess136	1	Duchess136::English	<<She sighs.>> And I even allowed myself to get swept up in her rhetoric. To believe that there could be... ((hope)), for myself and my kind...	<<她叹了口气。>>我甚至任由自己被她的辞令卷走。去相信对我和我的族人而言，或许还有……((希望))……
+Duchess137	1	Duchess137::English	But like all mortal endeavours, it couldn't last. Vela's flame began to flicker; her optimism gave way to fear and desperation. Eventually, Orlaith led the mutiny that tore the Dark Stars apart..	但凡人的事业终究难长久。薇拉的火焰开始摇曳；她的乐观被恐惧和绝望取代。最终，奥莱丝领导了一场哗变，把黑星撕了个粉碎……
+Duchess138	1	Duchess138::English	Many of us scattered, after that. Personally I had no interest in loitering around the carcass of a once-great thing, so I returned home - to a more familiar pile of bones.	此后我们各奔东西。就我而言，我可没兴趣守着一具昔日辉煌的残骸打转，于是我回了家——回到一堆更眼熟的枯骨里。
+p460	1	p460::English	What caused so many Dark Stars to leave? 	是什么让那么多黑星离开的？
+Duchess139	1	Duchess139::English	Well, it all started with that [[Godkiller contract.]] It was at the height of the Dark Stars' infamy, when all of the skyrealms seemed to whisper our names in hushed tones. We were contacted by a Riovan noble, who wanted us to assassinate a major [[god]]...	唉，一切都要从那份[[弑神契约]]说起。那时正是黑星恶名最盛的时候，整个天空领域似乎都在压低声音传颂我们的名字。一位里奥瓦贵族找上门来，要我们刺杀一位显赫的[[神]]……
+Duchess140	1	Duchess140::English	Vela was excited. Such a feat would cement our reputation - but not everyone was happy.##The [[Wikkan]] - a senior Dark Star, and a ((very)) close friend to Vela - saw this as a betrayal of her own kind. 	薇拉很兴奋。如此壮举足以奠定我们的名声——但并非人人都乐意。##[[维坎人]]——一位黑星元老，薇拉((交情极深))的挚友——视之为对自己同族的背叛。
+Duchess141	1	Duchess141::English	Vela argued that, to be a Dark Star, we had to leave our former allegiances behind. The [[new world]] we were carving had no space for those old and bitter ideologies. But for the Wikkan, killing that god? It was too much. Too far. It was crossing a ((line.)) 	薇拉争辩道，要当黑星，就必须抛下昔日的效忠对象。我们正在开拓的[[新世界]]容不下那些陈腐苦涩的旧观念。可对维坎人来说，杀那位神？太过分了。太越界了。那是一条((底线。))
+Duchess142	1	Duchess142::English	So when it came down to it - when we'd hunted that deity into a corner, and Vela was poised to make the killing blow - the Wikkan stood in her way.##In anger, Vela cast her down. I watched the Wikkan fall from the ship, down below the clouds... 	于是在最后关头——当我们把那位神明逼入绝境、薇拉蓄势待发要给予致命一击时——维坎人挡在了她身前。##薇拉一怒之下将她击落。我眼睁睁看着维坎人从船上坠落，跌入云海之下……
+Duchess143	1	Duchess143::English	And something changed, at that moment. Vela was wracked with a terrible guilt. She started taking more dangerous, more ((dubious)) jobs. And that's when her dreams became more radical, and she set her sights on that Emberian artefact...	而从那一刻起，有些东西变了。薇拉被可怕的负罪感啃噬。她开始接更危险、更((可疑))的活。也正是从那时起，她的梦想变得愈发激进，盯上了那件余烬造物……
+Duchess144	1	Duchess144::English	That time, it was Orlaith - or rather, the Emberian - who took umbrage. She led many of us to mutiny against Vela. ##If you want to know more about it, you should ask ((her)). 	而那一回，愤而离席的是奥莱丝——或者说，余烬人。她带着我们许多人哗变，反了薇拉。##想多了解那段事，你该去问((她))。
+p461	1	p461::English	Okay, that's all I wanted to know.	好，我想知道的就是这些。
+Duchess145	1	Duchess145::English	Was there anything else, mortal?	还有别的事吗，凡人？
+p462	1	p462::English	How is your daughter?	你女儿还好吗？
+Duchess146	1	Duchess146::English	<<She smiles.>> Doing just fine, thank you. The air is clearer here; she enjoys the breeze on her skin...	<<她微笑。>>好得很，谢谢关心。这里的空气更清爽；她喜欢微风拂过皮肤的感觉……
+p463	1	p463::English	I'll be going, then. 	那我先走了。
+Duchess147	1	Duchess147::English	Farewell, mortal. 	别过，凡人。
+Duchess148	1	Duchess148::English	<<She strokes Ellyn's hand.>> Though, if Vela's plan comes to fruition... I am still not decided on where my allegiances lie.	<<她轻抚艾琳的手。>>不过，倘若薇拉的计划真的成功……我仍未决定要效忠于哪一边。
+Duchess149	1	Duchess149::English	You have given me much to think about, mortal... ##But for now, you should take your leave. I will meet you at the [[Blinding Light.]]	你给了我许多值得思量的事，凡人……##不过眼下，你该告辞了。我们[[炫光要塞]]见。
+FleshBroker1	1	FleshBroker1::English	<<The Endless lurks in the corner, keeping a watchful eye on the other patrons.>>	<<那个无尽者潜伏在角落里，警惕地留意着其他客人。>>
+FleshBroker2	1	FleshBroker2::English	Get lost, breather. You're not interested in what I'm sellin'.	滚开，呼吸者。我卖的东西你不会感兴趣。
+p464	1	p464::English	I'm looking to enter Cadaver Keep. Heard I should speak to you.	我想进尸骸要塞。听说该来找你。
+FleshBroker3	1	FleshBroker3::English	<<He stifles a laugh.>> A ((mortal)) asking to enter [[Cadaver Keep]], of their own free will? Well now I've seen it all. 	<<他憋着笑。>>一个((凡人))主动要求进[[尸骸要塞]]？啧，真是活久见。
+FleshBroker4	1	FleshBroker4::English	You have heard the ((rumours)), breather? About what goes on in there? What goes on with... ((your)) kind? 	你听过那些((传闻))吧，呼吸者？关于里面在干什么勾当？关于……((你们))这类生灵的勾当？
+p465	1	p465::English	Of course.	当然。
+p466	1	p466::English	Uh... what rumours?	呃……什么传闻？
+FleshBroker5	1	FleshBroker5::English	<<He chuckles.>> Well, ((some)) folk say that the Cadavers still haven't lost their appetite for the thinkin' flesh. That, deep in Cadaver Keep, there's an illegal trade in [[sentient meat]], right under the Queen's nose...	<<他咯咯笑。>>唉，((有些))人说尸骸派始终没戒掉对会思考血肉的胃口。说尸骸要塞深处有一桩[[有意识血肉]]的非法买卖，就发生在女王的眼皮底下……
+FleshBroker6	1	FleshBroker6::English	<<He winks at you.>> But of course, it's all just nonsense. We follow the Queen's laws like everyone else. 	<<他朝你眨眨眼。>>不过嘛，这些全是一派胡言。我们跟大家一样遵纪守法，遵循女王的法律。
+FleshBroker7	1	FleshBroker7::English	Even so, I can't just let you waltz into Cadaver Keep. Us Cadavers are a... ((private)) bunch, you have to understand.	即便如此，我也不能让你大摇大摆进尸骸要塞。我们尸骸派是……很((注重隐私))的一群人，你得体谅。
+p467	1	p467::English	There must be something I can do to change your mind. 	总有什么能让你改变主意吧。
+FleshBroker8	1	FleshBroker8::English	<<He looks you up and down.>> Well, I suppose there might be ((one)) thing... 	<<他上下打量你。>>嗯，也许还真有((一样))……
+FleshBrokr9	1	FleshBrokr9::English	A chunk of your flesh. Still warm, fresh from the bone. That would prove your loyalty.	你身上的一块肉。刚从骨头上下来、还热乎的那种。那才能证明你的忠诚。
+p468	1	p468::English	My flesh? Are you insane?	我的肉？你疯了吗？
+FleshBroker10	1	FleshBroker10::English	Well, ((you're)) the breather who's trying to enter a stronghold of known flesh-eaters. And, I'm not asking for much...	嘿，((你才是))那个想闯进食人族老巢的呼吸者。再说，我要得也不多……
+p469	1	p469::English	Uh, what ((part)) of my flesh?	呃，要我((哪里))的肉？
+FleshBroker11	1	FleshBroker11::English	Only a morsel. Shall we say... <<he licks his lips.>> A finger? 	一小块就够。要不……<<他舔舔嘴唇。>>一根手指？
+p470	1	p470::English	Okay, fine. Make it quick. 	行，好吧。动作快点。
+FleshBroker12	1	FleshBroker12::English	<<He unsheathes a very large knife.>> Oh, don't worry, it'll be over before you know it. Now, hold out your hand...	<<他拔出一把很大的刀。>>哦，别担心，眨眼就完事。来，把手伸出来……
+FleshBroker13	1	FleshBroker13::English	<<With one quick motion, he slices off your finger. Your hand sears with pain, but he quickly douses the stub with a foul-smelling potion and wraps your hand in a rag. >>	<<他手起刀落，切下了你的手指。你的手痛得像火烧，但他迅速把恶臭的药水浇在断指上，用破布把你的手一裹。>>
+FleshBroker14	1	FleshBroker14::English	This'll fetch a good price, for the right buyer. You've proven your worth an' then some, breather.	这玩意儿找对买主能卖个好价钱。你可真是超额证明了自己的诚意，呼吸者。
+FleshBroker15	1	FleshBroker15::English	Here, take this [[key.]] It will unlock the lift at the top of Cadaver Keep, that'll take you to the island above. It's there you'll find the [[Duchesses' Daughter]]. 	喏，拿上这把[[钥匙]]。它能打开尸骸要塞顶部的电梯，送你到上方的岛。女公爵的[[女儿]]就在那里。
+p471	1	p471::English	Uh, I never told you I was looking for her daughter.	呃，我从没说过我在找她女儿。
+FleshBroker16	1	FleshBroker16::English	<<He grins.>> We have eyes and ears in many places, breather. 	<<他咧嘴一笑。>>我们的耳目遍布各处，呼吸者。
+p472	1	p472::English	Thanks... I guess. 	谢谢……大概吧。
+FleshBroker17	1	FleshBroker17::English	Of course, that [[key]] does not grant safe passage through the keep. ((That's)) not part of the deal. The second you step into that stronghold? Y'er on your own.	当然，那把[[钥匙]]可保不了你在要塞里畅行无阻。((那))不在交易范围之内。你一踏进那座要塞？就全靠自己了。
+FleshBroker18	1	FleshBroker18::English	So good luck, breather. 	那么祝你好运，呼吸者。
+p473	1	p473::English	I'm not giving you my flesh. Goodbye. 	我的肉不给。再见。
+p474	1	p474::English	Okay, forget it.	好吧，当我没说。
+p475	1	p475::English	@@ Maybe I ((am)) interested in what you're selling.	@@ 也许我((确实))对你卖的东西感兴趣。
+FleshBroker19	1	FleshBroker19::English	%%<<He studies you a moment.>> Well, well... a mortal with a ((deviant)) appetite? 	%%<<他端详了你片刻。>>哟，哟……一个口味((异于常人))的凡人？
+FleshBroker20	1	FleshBroker20::English	Alright listen up, 'cos I'll only say this once; and if you breathe a ((word)) of this to any of the Queen's lackeys, I'll see to it that ((you're)) next on the menu. 	好了听着，这话我只说一遍；你要是敢向女王的任何走狗透漏半个((字))，我保证下一道菜就((是你))。
+FleshBroker21	1	FleshBroker21::English	So. I'm a broker for sentient flesh. The ((thinkin')) stuff. 	这么说吧。我是个有意识血肉的掮客。就是那种((会思考))的货。
+FleshBroker22	1	FleshBroker22::English	Y'see, most Endless feed on Penitent Thaw's mindless meat. It's seen as more ((ethical)) than eating... ((your kind)). But I'll be damned if it doesn't taste like slop - so of course, there's a black market for the stuff. 	你瞧，大多数无尽者吃忏悔者·索的无意识血肉。据说那比吃……((你们这类))要((合乎道德))。可那玩意儿吃起来跟泔水一个味，去他的——所以嘛，自然就有黑市了。
+FleshBroker23	1	FleshBroker23::English	So, how about it, breather? Fancy a taste of your own kind?	那么，怎么样，呼吸者？想不想尝尝同类的味道？
+p476	1	p476::English	Uh... actually, I've changed my mind.	呃……其实我改主意了。
+p477	1	p477::English	That's disgusting. You're a monster!	太恶心了。你是个怪物！
+FleshBroker24	1	FleshBroker24::English	<<He chuckles.>> Thought as much. But remember, breather - you say anything about this, and it'll be the ((last)) thing you say.	<<他轻笑。>>我就知道。但记住了，呼吸者——这事你敢说出去，那就是你((最后))一句话。
+FleshBroker25	1	FleshBroker25::English	&& Trust me, mortal - your kind wouldn't be able to ((stomach)) my merch, and you'd go squealin' to every damn fool about it - which 'aint good for business. So get lost.	&& 相信我，凡人——你们这类人((咽不下))我的货，还会屁颠屁颠跑去跟每个该死的蠢货告状——那可不利于做生意。所以滚吧。
+p478	1	p478::English	I'll be going.	我先走了。
+hand1	1	hand1::English	<<The hand of an Endless lies upon the pillow, completely severed from above the wrist.>>	<<一只无尽者的手躺在枕头上，从手腕上方齐齐斩断。>>
+hand2	1	hand2::English	<<The hand bears a [[signet ring]] on one slender finger. There's no mistaking it; this is the hand of the Duchess' daughter, Ellyn.>>	<<纤细的手指上戴着一枚[[印戒]]。错不了；这是女公爵的女儿，艾琳的手。>>
+pHand1	1	pHand1::English	((Take the hand.))	((拿起那只手。))
+pHand2	1	pHand2::English	((Leave.))	((离开。))
+hand3	1	hand3::English	<<As you touch the hand it suddenly recoils, as if alive. For a moment you pause, and the hand shivers before you.>>	<<你一碰到那只手，它猛地缩了一下，仿佛活物。你愣了一瞬，那只手在你面前瑟瑟发抖。>>
+hand4	1	hand4::English	<<When you finally pluck up the courage to pick it up, It writhes as you place it with your belongings.>> 	<<当你终于鼓起勇气把它捡起来，放进行囊时，它扭动了一下。>>
+hand5	1	hand5::English	<<Ellyn's hand gently moves as you approach. You think she looks content - though admittedly, you know very little of sentient hands.>>	<<你走近时，艾琳的手轻轻动了动。你猜她看上去很满足——不过说实话，你对有意识的手了解甚少。>>
+hand6	1	hand6::English	<<You 've already taken the hand.>>	<<你已经拿走那只手了。>>
+frost1	1	frost1::English	Drat. Blast. Sugar. Blinking, blooming, flipping, f-f-f-f-((fudge)). 	见鬼。该死。天呐。明明、偏偏、通通，去去去去……((去他的))。
+p501	1	p501::English	Still having trouble cursing? 	骂人还是不行？
+frost2	1	frost2::English	Alas, I fear the muse of filth has forsaken me for good.	唉，恐怕脏话缪斯女神已经永远离我而去了。
+p502	1	p502::English	Say it with me: Cunt. Cuh-unt. 	跟我念：操。初——操。
+frost3	1	frost3::English	Cuh.... cuh... ((cummerbund)). Ugh, this is just undignified. 	初……初……((束腰带))。呸，太不成体统了。
+p503	1	p503::English	Maybe this is good for you? It'll force you to get creative.	也许这样对你有好处？能逼你发挥创造力。
+frost4	1	frost4::English	Oh, go and gargle your own urine.	哦，滚去用自己的尿漱口吧。
+frost5	1	frost5::English	Do you have some purpose for bothering me? As I said, restoring this mountain of rust to its proper glory is keeping me rather busy.	你打扰我是有什么事吗？我说过，把这座锈山修复到它应有的辉煌，已经够我忙的了。
+frost6	1	frost6::English	But enough of that. Are you bothering me for a purpose? Or do you truly value your time so cheaply as to spend it on ((blooming)) chit-chat?	闲话少说。你打扰我到底有事没事？还是说你的时间真这么不值钱，舍得浪费在((无聊))的闲扯上？
+frost7	1	frost7::English	<<Frost scowls.>> I wouldn't go that far. Will that be all?	<<弗罗斯特皱眉。>>倒也不至于。还有别的事吗？
+frost8	1	frost8::English	Good. Will that be all?	很好。还有别的事吗？
+frost9	1	frost9::English	Will that be all?	还有别的事吗？
+p504	1	p504::English	I wanted to see how you're settling in.	我想看看你住得习不习惯。
+frost10	1	frost10::English	Oh, like a louse to an armpit. Who the ((fluff)) do you imagine restored this fortress in the first place? 	哦，像虱子住进腋窝一样自在。你以为这要塞当初是谁((他妈))修好的？
+frost11	1	frost11::English	Given my abrupt departure from the Dark Stars, I suppose it's nice to be finishing the job. If only these ((dashed)) Union cretins would stop trying to 'assist' me.	想当初我仓促脱离黑星，如今能把这活干完，倒也算圆满。只要这群((讨厌的))联盟蠢货肯别来'帮'我忙就更好了。
+frost12	1	frost12::English	As it happens, my father helped build these monsters back in the God War. The wooden parts are Lundelese, but the guns, plumbing, and nearly everything metal was made in Kardova. He used to put me to sleep by reciting components and assembly procedures. 	巧了，神之战那会儿，我父亲就参与建造过这些怪物。木质部件产自伦德尔，但火炮、管路，几乎一切金属构件都出自卡尔多瓦。他从前给我念部件清单和装配流程催眠。
+p505	1	p505::English	That explains a lot.	难怪呢。
+frost13	1	frost13::English	Touche. 	说得对。
+p506	1	p506::English	So this fortress was made in the Clockwork Kingdom?	所以这座要塞是发条王国造的？
+frost14	1	frost14::English	"Correct, although back then it was called the Kardovan Republic. Somewhere in the guts of this thing there'll be a nameplate: ""Laid down in such and such a year, Progress, Kardova. No gods, no masters."""	没错，虽然那会儿它还叫卡尔多瓦共和国。这东西的内脏某处会有一块铭牌：某某年于卡尔多瓦·进步城铺设龙骨。没有神，也没有主人。
+p507	1	p507::English	Funny how that one turned out.	这话后来应验得真讽刺。
+p508	1	p508::English	Well, I'm glad you're feeling at home.	嗯，很高兴你有宾至如归的感觉。
+p509	1	p509::English	I wanted to ask you about something.	我想请教你些事。
+p510	1	p510::English	This clockwork exoskeleton is new. It helps you walk?	这副发条外骨骼挺新的。是帮你走路的？
+frost15	1	frost15::English	My, how observant you are. In fact, ambulatory support is merely one of its functions. The first incarnation was rather less powerful; but, to be fair, I was rather smaller.	哎呀，你观察得真仔细。其实行走辅助不过是它的功能之一。初代没这么强大——不过公平地说，那时候我也小得多。
+frost16	1	frost16::English	I expect you want the whole story? After all, it is so very ((inspirational.)) 	我猜你想听完整的故事？毕竟它如此((励志。))
+p511	1	p511::English	Please, go on.	请讲。
+p512	1	p512::English	You can skip it.	可以跳过。
+frost17	1	frost17::English	I'll spare you the exhaustive history of my diverse ailments; suffice it to say that I was a sickly child. The only thing my physicians agreed upon was that I must submit completely to their humiliating 'remedies', no matter how painful or ineffective.	我就不细数我那一身病症的漫长历史了；长话短说，我是个体弱多病的孩子。我的医师们唯一的共识是：我必须完全服从他们那些羞辱人的'疗法'，无论多疼、多无效。
+frost18	1	frost18::English	I disagreed, and in due course it proved that with a little technological cunning I could treat myself better than they could. Machines, you see, actually listen to what one tells them.	我不赞同，而后来的事实证明，凭一点技术上的小聪明，我把自己治得比他们治得好。要知道，机器是真正听话的——你对它说什么，它就做什么。
+frost19	1	frost19::English	How people ((loved)) to hear that tale once I grew up. The Machinists loved it especially. Come to the Clockwork Kingdom, where even a low-born invalid can travel the skies and be garlanded as a champion of the realm! 	我长大后，人们((多爱))听这段故事啊。机械师们尤其爱听。来发条王国吧——在这里，连出身低微的病残之人都能翱翔天际，还被冠以国之名将的桂冠！
+frost20	1	frost20::English	True, I was dogged and ingenious. But to what purpose? Yes, I improved my capabilities; but for whose benefit? Certainly I accomplished great things. But for whom? Myself? ##<<He sneers.>> What a cosy thought.	不错，我确实执着而机巧。可为了什么？没错，我提升了自己的能力；可造福了谁？我确实成就了大事。可为了谁？为了我自己？##<<他冷笑。>>想得倒美。
+frost21	1	frost21::English	Sometimes I almost wish I hadn't bothered. At least then I wouldn't have been so ((useful)).	有时我几乎希望自己当初没折腾。至少那样，我就不会这么((有用))了。
+p513	1	p513::English	That's all. Good luck with the fortress.	就这些。要塞修复顺利。
+frost22	1	frost22::English	Luck is for amateurs, my dear.	运气是外行才需要的东西，亲爱的。
+frost23	1	frost23::English	<<Just as you're turning away, there is an awkward cough.>> Actually, one moment, if you please? ##I wish to... that is, it behooves me... ((dash)) it all, let's not prevaricate about the bush.	<<你正要转身，身后传来一声尴尬的咳嗽。>>其实，请稍等一下？##我想……就是说，我有必要……((见鬼))，咱们就别拐弯抹角了。
+frost24	1	frost24::English	You were quite correct to scold me back in the Kingdom. The word for what I was doing is ((wallowing)). Specifically, in childish rage and self-pity.##<<He pauses, apparently unsure what to say next.>>	你在王国里骂我，骂得很对。我当时的状态，用词来说叫((自怨自艾))。具体而言，沉溺于孩子气的暴怒和自怜。##<<他顿住，显然不知下一句该说什么。>>
+p514	1	p514::English	Is 'thank you' perhaps the phrase you're looking for?	你想找的词，该不会是"谢谢"吧？
+frost25	1	frost25::English	((Confound)) it, what else would I be trying to say? ((Bog)) off before I regret such wasteful sentimentality! 	((该死))，不然我还想说什么？趁我没后悔这番浪费感情的煽情，快((滚))！
+p515	1	p515::English	Don't mention it. We all have our bad days.	别放在心上。谁都有倒霉的日子。
+frost26	1	frost26::English	Hrm. Yes, quite. Very good. ##Well, what are you waiting for? A medal? ((Bog)) off before you break something expensive.	哼。是，没错。很好。##那么，你还等什么？等颁奖章？趁你还没碰坏什么贵重东西，快((滚))。
+frost27	1	frost27::English	Let's see if you can come up with a question I haven't heard before.	看看你能不能问出个我没听过的问题。
+p516	1	p516::English	About the task at hand...	关于眼下的事……
+frost28	1	frost28::English	Ah yes, the search for my erstwhile comrades. Or should I say my former targets? Either way, this reunion will be ((interesting))...	啊对，搜寻我昔日的同伴。还是说，我昔日的监视目标？不管怎样，这场重逢会((很有意思))……
+frost29	1	frost29::English	[[Jack Basalt]] will have already calculated that his best chance to stop Vela is to collaborate with the Union. He's wanted in the Kingdom, and he has a phobia of the Endless, which means he is in Hallowshire - and most likely in the [[Wobbly Noggin]].	[[杰克·巴索特]]应该已经盘算清楚了：想拦住薇拉，他最好的机会就是与联盟合作。他在王国是通缉犯，又怕无尽者怕得要死，也就是说他就在哈洛郡——多半泡在[[摇晃酒馆]]。
+frost30	1	frost30::English	I see you've pressed old [[Jack Basalt]] back into active service. The poor fellow's currently avoiding me, which is adorable. Granted, we hardly parted on the best of terms, but at some point we'll need to have a little chat.	看来你把老[[杰克·巴索特]]重新征召入伍了。这可怜家伙现在躲着我呢，真可爱。诚然，我们当初闹得不太愉快，但找个时候我们得聊聊。
+frost31	1	frost31::English	[[The Duchess]] is a devoted family woman, and was already bored to undeath of the Skyrealms when I knew her. Therefore I would guess she is back at her country pile in the [[Endless Realm]], doing nothing in particular.	[[女公爵]]是个顾家的女人，我认识她那会儿，她就早对天空领域腻烦得不死不休了。所以我猜她回了[[无尽领域]]的乡下宅邸，无所事事。
+frost32	1	frost32::English	Alas, I'd forgotten how much [[the Duchess]] infuriates me. What she calls 'magic' is merely the cant of a more primitive age. Reciting cipher spells from memory, for pity's sake! It's like carrying a cart on your shoulders after the invention of the wheel.	唉，我都忘了[[女公爵]]多让我来气。她所谓的'魔法'不过是更原始时代的行话。背诵密文法术，我的天！这就好比发明了车轮之后还用肩膀扛车。
+frost33	1	frost33::English	[[The Emberian]] is an odd one. She confided in me once that she was trying to unravel some ancient mystery, though she wouldn't say what. Most of this archipelago's extant prelapsarian sites are in [[Hallowshire]]. Ergo, that is where you should look first.	[[余烬人]]是个怪人。她曾向我吐露，她在试图解开某个古代谜团，但不肯说是哪个。这片群岛现存的天裂前遗迹大多在[[哈洛郡]]。因此，你该先去那里找。
+frost34	1	frost34::English	I get on rather well with [[Orlaith]] - or [[the Emberian]], as you mustn't call her to her face. Initially we despised each other, but then we had an arm wrestle and everything was tickety-boo. Since I was too drunk to remember it, I choose to believe I won.	我和[[奥莱丝]]相处得相当融洽——不过[[余烬人]]这个称呼你千万别当她的面叫。起初我们互相看不顺眼，后来掰过一次手腕，从此一切安好。因为我喝得太多不记得结果了，所以我选择相信是我赢了。
+p517	1	p517::English	About your past...	关于你的过去……
+p518	1	p518::English	Actually, no further questions.	其实，没有别的问题了。
+frost35	1	frost35::English	((Nul points)) for novelty, I'm afraid. But at least you tried. 	新意方面恐怕要给((零分))了。但至少你试过了。
+frost36	1	frost36::English	Must we?	非问不可吗？
+frost37	1	frost37::English	Now, was that really your best attempt at an original question? I think you can do better.	我说，这真是你原创提问的最高水准？我觉得你能做得更好。
+frost38	1	frost38::English	Must you?	你非问不可？
+p519	1	p519::English	What was your life like before joining Vela?	加入薇拉之前，你过着怎样的生活？
+frost39	1	frost39::English	I was born and raised in [[Progress]], back when they still called it Istriksburg. My mother made ammunition, while my father toiled in the Fortress Works. It was dangerous, but far better than serfdom in Lundel. For the first time in history, my family was wealthier than dirt.	我在[[进步城]]出生长大，那时它还叫伊斯特里斯堡。我母亲制造弹药，我父亲在要塞工厂做工。虽然危险，却比伦德尔的农奴境遇好得多。历史上头一回，我们家的家当比泥土值钱。
+p520	1	p520::English	You know, you really don't sound like a peasant. 	你知道吗，你听起来真不像个庄稼人。
+frost40	1	frost40::English	Nor would you, if your childhood tongue had been scoured out by your schoolmaster. ##The last time I saw my parents, we sounded like we came from different planets.	要是你童年的口音也被教书先生刮洗过，你也不会像。##我最后一次见父母时，我们说话像来自两个星球。
+p521	1	p521::English	You hide your common origins very well.	你把寒微的出身藏得很好。
+frost41	1	frost41::English	<<He smiles without mirth.>>##Horace Metcalfe was hardly the first of my disguises.	<<他笑得毫无笑意。>>##霍勒斯·梅特卡夫可不是我的第一个伪装。
+frost42	1	frost42::English	After the God War, I studied in Byonne. A scholarship, funded by the new Kardovan Republic. My Union classmates were scions of barons or wealthy merchants, and they tormented me frightfully. Yet ((I)) was punished merely for setting them ((lightly)) on fire.	神之战后，我在拜昂求学。奖学金是新生的卡尔多瓦共和国资助的。我的联盟同窗都是男爵或富商之后，他们把我折磨得够呛。可((我))不过是把他们((轻轻))烧了一下，竟要受罚。
+p522	1	p522::English	There's no justice in this world.	这世上就没有公道。
+p523	1	p523::English	At least you left them something to remember you by.	至少你给他们留了个念想。
+p524	1	p524::English	All right, I think I've heard enough.	行，我听得够多了。
+frost43	1	frost43::English	Indeed. Eventually my studies were cut short by Kardova's split from the Union, and I returned home to begin my archaeological career. Believe it or not, in those days I was more like Horace Metcalfe than the ruthless mercenary now before you.	的确。后来卡尔多瓦脱离联盟，我的学业就此中断，我回到家乡开始了考古生涯。信不信由你，那时的我更像霍勒斯·梅特卡夫，而不是你眼前这个冷酷的佣兵。
+frost44	1	frost44::English	Unquestionably these were the best years of my life. I followed my curiosity to the edge of the sky, and even to the Underlands, winning great renown and no small compensation. Yet I always felt as if everything could be snatched away if I failed to deliver even once.	那无疑是我一生中最好的年月。我追随好奇心抵达天空的尽头，甚至深入地下之地，赢得盛名和可观的报酬。但我总感觉，只要有一次失手，一切都会被夺走。
+frost45	1	frost45::English	Perhaps that is why I felt so much more at home among the outcasts, oddballs, and reprobates of the Dark Star Company.	或许正因如此，我才在黑星的那群弃儿、怪胎和浪子中间，觉得如此自在。
+p525	1	p525::English	Tell me of your time as a Dark Star.	讲讲你当黑星的那段日子吧。
+frost46	1	frost46::English	Where does one even begin? We fought. We caroused. We feasted, we starved. We loved and we despised. We hurt each other, then we nursed each other. We were family, with all the best and worst implied by such a word.	这从何说起呢？我们并肩作战。我们纵酒狂欢。我们大宴，我们也挨饿。我们相爱，也相轻。我们互相伤害，又互相照料。我们是一家人——这个词包含的最好与最坏，我们都占全了。
+frost47	1	frost47::English	The Caxton Frost who stands before you is a product of those days. He had to be sharp. Ruthless. Avenge every insult threefold, lest others smell blood. I'm told I was actually the inspiration for the Cadish Rakehill stories, though I've never read them myself. 	站在你面前的卡克斯顿·弗罗斯特，就是那些年月的产物。他必须敏锐。无情。每一句侮辱都要三倍奉还，免得被人闻到血腥味。据说卡迪什·雷克希尔那套小说的原型就是我本人，不过我自己一本都没读过。
+frost48	1	frost48::English	Vela could tell it was a facade, but she was gracious or canny enough not to expose me in front of the crew. ##Except when she was ((truly)) angry. One minute she could make you feel like you were bathed in starlight; the next, like the basest of worms.	薇拉看得出那是张假面，但她要么出于风度、要么出于精明，从不在船员面前拆穿我。##除非她((真的))动了怒。前一分钟她还能让你觉得沐浴在星光里，下一分钟就让你觉得自己是最低贱的蠕虫。
+p526	1	p526::English	Did she ever suspect you were a spy?	她怀疑过你是间谍吗？
+frost49	1	frost49::English	I've often wondered. Certainly our expeditions contributed much to the Kingdom's progress. Sometimes I got the uncanny sense that she knew my real purpose, yet kept me around anyway.	我也常常纳闷。我们的探险确实为王国的进步贡献良多。有时我会有种诡异的直觉：她知道我真正的使命，却仍把我留在身边。
+frost50	1	frost50::English	Why she would do so, I cannot say. Perhaps it was simply our shared fascination with the Emberians. ##She told me once that I reminded her of someone who had been dear to her, long ago. I never did find out who, though.	她为何这么做，我说不上来。也许只是因为我们同样痴迷于余烬人。##她曾告诉我，我让她想起很久以前一位对她很重要的人。至于是谁，我始终没能弄清。
+p527	1	p527::English	How did you manage to maintain your persona?	你是怎么维持伪装身份的？
+frost51	1	frost51::English	<<Frost snorts.>> Why, I'd been doing that all my life. The only difference now was the extra pay.	<<弗罗斯特嗤了一声。>>嗬，我这一辈子都在干这个。唯一的区别是现在多了份薪水。
+frost52	1	frost52::English	Actually, I have my suspicions that the Clockwork King may have helped. At the time I had no idea that Its Majesty could alter minds. But I do recall being surprised at how quickly I took to the role. Of course, I can prove nothing.	其实，我怀疑发条王可能帮了忙。当时我完全不知道国王陛下有改写心智的能力。但我确实记得，自己入戏之快连自己都吃惊。当然，我拿不出任何证据。
+p528	1	p528::English	Let me ask you about something else.	换个话题问吧。
+p529	1	p529::English	I still don't understand why you had to wipe your memory.	我还是不明白你为什么必须抹除自己的记忆。
+frost53	1	frost53::English	<<Frost sighs.>> Frankly, I'm not completely sure myself. But consider what had led to that moment...	<<弗罗斯特叹了口气。>>坦白说，我自己也不完全确定。但想想是什么把我们逼到那一步的……
+frost54	1	frost54::English	Eight years undercover. Can you imagine what that's like? To be believable, you cannot merely pretend. One part of you must truly ((become)) the false self, while another watches from the outside, remembering your mission. 	卧底八年。你能想象那是什么滋味吗？要想以假乱真，你不能只是假装。你必须有一部分真正((变成))那个假我，同时另一部分冷眼旁观，牢记自己的使命。
+frost55	1	frost55::English	I knew that if I betrayed the Clockwork King, it would never stop hunting me. Yet I couldn't bear to live in deceit for one more day. Thus the inevitable conclusion: the best cover identity is one who doesn't even realise he's fake.	我知道，一旦背叛发条王，它对我的追捕就永无止境。可这样的欺骗生活，我一天也熬不下去了。于是便有了那个必然的结论：最好的伪装，是连自己都不知道自己是假的。
+frost56	1	frost56::English	I haven't decided whether I like being Frost again. He used to feel like armour, and now he feels... confining. Still, he's indisputably the man for the job. And I must admit it's easier when I don't have to be two people at once.	我还没决定是否喜欢重新当回弗罗斯特。他从前像一副铠甲，如今却让人感觉……束缚。不过，这份活儿确实非他莫属。而且我必须承认，不用同时当两个人的时候，日子轻松多了。
+p530	1	p530::English	I'd like to ask you about another topic entirely.	我想完全换个话题问你。
