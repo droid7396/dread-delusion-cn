@@ -1,0 +1,949 @@
+ID	Col	CellKey	English	Chinese
+THIS_LANGUAGE	1	THIS_LANGUAGE::1: English	English	简体中文
+AUTOMATIC_LANGUAGE	1	AUTOMATIC_LANGUAGE::1: English	Automatic	自动
+VERSION_NUM	1	VERSION_NUM::1: English	Version	版本
+START_GAME	1	START_GAME::1: English	Start Game	开始游戏
+OPTIONS	1	OPTIONS::1: English	Options	选项
+SCREEN_RESOLUTION	1	SCREEN_RESOLUTION::1: English	Screen resolution	屏幕分辨率
+RESOLUTION	1	RESOLUTION::1: English	Resolution	分辨率
+CONTROLS	1	CONTROLS::1: English	Controls	控制
+BRIGHTNESS	1	BRIGHTNESS::1: English	Brightness	亮度
+LOOK_SENSITIVITY	1	LOOK_SENSITIVITY::1: English	Look sensitivity	视角灵敏度
+FOV	1	FOV::1: English	Field of view	视野
+MUSIC	1	MUSIC::1: English	Music volume	音乐音量
+SFX	1	SFX::1: English	Effects volume	音效音量
+VOICEOVER	1	VOICEOVER::1: English	Voiceover volume	语音音量
+CAMERA_MOTION	1	CAMERA_MOTION::1: English	Camera motion	镜头晃动
+VSYNC	1	VSYNC::1: English	VSync	垂直同步
+CAPFRAMERATE	1	CAPFRAMERATE::1: English	Cap Framerate	限制帧率
+INVERT_Y	1	INVERT_Y::1: English	Invert Y Axis	反转 Y 轴
+FULL_SCREEN	1	FULL_SCREEN::1: English	Full screen	全屏
+WOBBLY_GFX	1	WOBBLY_GFX::1: English	Wobbly 3D	3D 抖动
+WOBBLY_TEXTURES	1	WOBBLY_TEXTURES::1: English	Wobbly Textures	纹理抖动
+RETRO_RES	1	RETRO_RES::1: English	Retro Resolution	复古分辨率
+QUIT	1	QUIT::1: English	Quit	退出
+TITLE_SCREEN	1	TITLE_SCREEN::1: English	Title Screen	标题界面
+CANCEL	1	CANCEL::1: English	Cancel	取消
+ACCEPT	1	ACCEPT::1: English	Accept	确认
+BACK	1	BACK::1: English	Back	返回
+NEXT	1	NEXT::1: English	Next	下一步
+YES	1	YES::1: English	Yes	是
+NO	1	NO::1: English	No	否
+RETURN	1	RETURN::1: English	Return	返回
+DELETE	1	DELETE::1: English	Delete	删除
+BINDING_X	1	BINDING_X::1: English	Binding '{0}'.	绑定"{0}"。
+WAITING_FOR_INPUT	1	WAITING_FOR_INPUT::1: English	Waiting for input...	等待输入……
+PRESS_X_TO_CANCEL	1	PRESS_X_TO_CANCEL::1: English	Press {0} to cancel	按 {0} 取消
+RESET_ALL	1	RESET_ALL::1: English	Reset All	全部重置
+RESET	1	RESET::1: English	Reset	重置
+MOVEMENT	1	MOVEMENT::1: English	Movement	移动
+ACTION	1	ACTION::1: English	Action	动作
+SELECTION	1	SELECTION::1: English	Selection	选择
+MENUS	1	MENUS::1: English	Menus	菜单
+KEYBOARD	1	KEYBOARD::1: English	Keyboard	键盘
+CONTROLLER	1	CONTROLLER::1: English	Controller	手柄
+MOVE	1	MOVE::1: English	Move	移动
+JUMP	1	JUMP::1: English	Jump	跳跃
+SPRINT	1	SPRINT::1: English	Sprint	冲刺
+DODGE	1	DODGE::1: English	Dodge	闪避
+CROUCH	1	CROUCH::1: English	Crouch	蹲伏
+INTERACT	1	INTERACT::1: English	Interact	互动
+SPELL	1	SPELL::1: English	Spell	法术
+ITEM	1	ITEM::1: English	Item	物品
+SCOPE	1	SCOPE::1: English	Scope	望远镜
+LANGUAGE	1	LANGUAGE::1: English	Language	语言
+HOLSTER_WEAPON	1	HOLSTER_WEAPON::1: English	Holster Weapon	收起武器
+SWITCH_WEAPON	1	SWITCH_WEAPON::1: English	Switch Weapon	切换武器
+SWITCH_ITEM	1	SWITCH_ITEM::1: English	Switch Item	切换物品
+SWITCH_SPELL	1	SWITCH_SPELL::1: English	Switch Spell	切换法术
+BLOCK	1	BLOCK::1: English	Block	格挡
+MAP	1	MAP::1: English	Map	地图
+AIRSHIP_1	1	AIRSHIP_1::1: English	Airship 1	飞艇 1
+RECENTER_CAMERA	1	RECENTER_CAMERA::1: English	Recenter Camera	镜头回正
+BOOST	1	BOOST::1: English	Boost	加速
+EXIT	1	EXIT::1: English	Exit	退出
+AIRSHIP_2	1	AIRSHIP_2::1: English	Airship 2	飞艇 2
+ASCEND	1	ASCEND::1: English	Ascend	上升
+DESCEND	1	DESCEND::1: English	Descend	下降
+TILTUP	1	TILTUP::1: English	Tilt Up	上仰
+TILTDOWN	1	TILTDOWN::1: English	Tilt Down	下俯
+REVERSE	1	REVERSE::1: English	Reverse	倒退
+MENU	1	MENU::1: English	Menu	菜单
+DIFFICULTY	1	DIFFICULTY::1: English	Difficulty Mode	难度模式
+DIFFICULTY_WARNING	1	DIFFICULTY_WARNING::1: English	This setting is permanent and cannot be changed during your playthrough.	此设置不可更改，且无法在游戏过程中修改。
+NORMAL_MODE	1	NORMAL_MODE::1: English	Normal Mode	普通模式
+NORMAL_MODE_SHORT	1	NORMAL_MODE_SHORT::1: English	NORMAL	普通
+HARD_MODE	1	HARD_MODE::1: English	Hard Mode	困难模式
+HARD_MODE_SHORT	1	HARD_MODE_SHORT::1: English	HARD	困难
+CHARACTER_CREATE	1	CHARACTER_CREATE::1: English	Character Creation	角色创建
+YOUR_PAST	1	YOUR_PAST::1: English	Your Past	你的过去
+PAGE_LEFT	1	PAGE_LEFT::1: English	Page Left	上一页
+PAGE_RIGHT	1	PAGE_RIGHT::1: English	Page Right	下一页
+CONFIRM_SURE	1	CONFIRM_SURE::1: English	Are you sure?	你确定吗？
+CONFIRM_TITLE	1	CONFIRM_TITLE::1: English	Return to title screen?	返回标题界面？
+CONFIRM_RESET	1	CONFIRM_RESET::1: English	Reset controls to default?	将控制恢复默认？
+CONFIRM_RESOLUTION	1	CONFIRM_RESOLUTION::1: English	Keep this resolution? Will revert in a 5 seconds.	保留此分辨率？将在 5 秒后恢复原状。
+CONFIRM_QUIT	1	CONFIRM_QUIT::1: English	Quit the game?	退出游戏？
+CONFIRM_ERASE_ONE	1	CONFIRM_ERASE_ONE::1: English	Erase data in slot one?	删除存档位一的数据？
+CONFIRM_ERASE_TWO	1	CONFIRM_ERASE_TWO::1: English	Erase data in slot two?	删除存档位二的数据？
+CONFIRM_ERASE_THREE	1	CONFIRM_ERASE_THREE::1: English	Erase data in slot three?	删除存档位三的数据？
+CONFIRM_BUY	1	CONFIRM_BUY::1: English	Buy for	购买，价格：
+CONFIRM_SELL	1	CONFIRM_SELL::1: English	Sell for	出售，价格：
+CONFIRM_BUY_MULTI	1	CONFIRM_BUY_MULTI::1: English	Buy amount for	按数量购买，价格：
+CONFIRM_SELL_MULTI	1	CONFIRM_SELL_MULTI::1: English	Sell amount for	按数量出售，价格：
+CONFIRM_UPGRADE	1	CONFIRM_UPGRADE::1: English	Upgrade to	升级到
+CONFIRM_USE_ITEM	1	CONFIRM_USE_ITEM::1: English	Use this item?	使用这件物品？
+CONFIRM_EQUIP_ITEM	1	CONFIRM_EQUIP_ITEM::1: English	Equip this item?	装备这件物品？
+INVENTORY	1	INVENTORY::1: English	Inventory	物品栏
+EQUIPMENT	1	EQUIPMENT::1: English	Equipment	装备
+USEABLES	1	USEABLES::1: English	Useables	耗品
+ITEMS_SPELLS	1	ITEMS_SPELLS::1: English	Items and Spells	物品与法术
+SPELLS	1	SPELLS::1: English	Spells	法术
+CHARACTER	1	CHARACTER::1: English	Character	角色
+EMPTY_SLOT	1	EMPTY_SLOT::1: English	Empty Slot	空栏位
+CORRUPT_DATA	1	CORRUPT_DATA::1: English	CORRUPT DATA	数据损坏
+CORRUPT_DATA_NOTE	1	CORRUPT_DATA_NOTE::1: English	This data is corrupt. You must delete it. Please contact the developers for more info.	此数据已损坏，必须删除。详情请联系开发者。
+SAVE	1	SAVE::1: English	Save	保存
+SLOT	1	SLOT::1: English	Slot	存档位
+ONE	1	ONE::1: English	One	一
+TWO	1	TWO::1: English	Two	二
+THREE	1	THREE::1: English	Three	三
+SLOT_ONE	1	SLOT_ONE::1: English	Slot One	存档位一
+SLOT_TWO	1	SLOT_TWO::1: English	Slot Two	存档位二
+SLOT_THREE	1	SLOT_THREE::1: English	Slot Three	存档位三
+ATTRIBUTE	1	ATTRIBUTE::1: English	Attribute	属性
+DELUSIONS	1	DELUSIONS::1: English	Delusions	妄想
+MIGHT	1	MIGHT::1: English	Might	力量
+GUILE	1	GUILE::1: English	Guile	灵巧
+WISDOM	1	WISDOM::1: English	Wisdom	智慧
+PERSONA	1	PERSONA::1: English	Persona	人格
+HEALTH	1	HEALTH::1: English	Health	生命
+MANA	1	MANA::1: English	Mana	法力
+STAMINA	1	STAMINA::1: English	Stamina	体力
+REGEN	1	REGEN::1: English	Regen	回复
+ATTACK	1	ATTACK::1: English	Attack	攻击
+LOCKPICK	1	LOCKPICK::1: English	Lockpick	开锁
+LORE	1	LORE::1: English	Lore	博识
+CHARM	1	CHARM::1: English	Charm	魅惑
+DEFENCE	1	DEFENCE::1: English	Defence	防御
+AGILITY	1	AGILITY::1: English	Agility	敏捷
+SPELLCAST	1	SPELLCAST::1: English	Spellcast	施法
+BARTER	1	BARTER::1: English	Barter	交易
+DAMAGE	1	DAMAGE::1: English	Damage	伤害
+ARMOUR	1	ARMOUR::1: English	Armour	护甲
+DAM_1	1	DAM_1::1: English	Damage One	伤害一
+DAM_2	1	DAM_2::1: English	Damage Two	伤害二
+POOR	1	POOR::1: English	Poor	粗制
+COMMON	1	COMMON::1: English	Common	普通
+FINE	1	FINE::1: English	Fine	精良
+SHROOMWEAVE	1	SHROOMWEAVE::1: English	Shroomweave	菌织
+CLOCKWORK	1	CLOCKWORK::1: English	Clockwork	发条
+VOIDSTEEL	1	VOIDSTEEL::1: English	Voidsteel	虚空钢
+GLIMMERS	1	GLIMMERS::1: English	Glimmers	微光
+GLIM_NEEDED	1	GLIM_NEEDED::1: English	Glimmers Needed:	所需微光：
+CHARM_DIALOGUE	1	CHARM_DIALOGUE::1: English	[Charm]	[魅惑]
+CHARM_SUCCESS	1	CHARM_SUCCESS::1: English	[Success]	[成功]
+CHARM_FAIL	1	CHARM_FAIL::1: English	[Fail]	[失败]
+NEED	1	NEED::1: English	Need	需要
+USE	1	USE::1: English	Use	使用
+SAVING	1	SAVING::1: English	Saving...	保存中……
+CREDITS	1	CREDITS::1: English	Credits	制作人员
+MSG_REST_MUGGED_T	1	MSG_REST_MUGGED_T::1: English	Mugged	遭窃
+MSG_REST_MUGGED	1	MSG_REST_MUGGED::1: English	You wake up groggy and notice something is amiss. Yes, there's no doubt; someone has been here while you were asleep. ##Fortunately, most of your gear was well hidden, but the thieves have stolen some coin.	你昏沉地醒来，察觉有哪里不对劲。是的，毫无疑问；趁你熟睡时有人来过。##幸运的是，你的大部分装备藏得很好，但小偷偷走了一些硬币。
+MSG_REST_ENEMY_T	1	MSG_REST_ENEMY_T::1: English	Not Alone	并不孤单
+MSG_REST_ENEMY	1	MSG_REST_ENEMY::1: English	A sharp noise rouses you. Groggy, you blink awake; but you are not alone in this place.	一声尖锐的响动将你惊醒。你昏沉地眨眼醒来；但这地方并非只有你一人。
+MAP_NOCHARTS	1	MAP_NOCHARTS::1: English	You have not found any Map Charts.	你还没有找到任何海图。
+HOUSE_UNBUILT	1	HOUSE_UNBUILT::1: English	Not Built	未建造
+HOUSE_UNFURNISHED	1	HOUSE_UNFURNISHED::1: English	Unfurnished	未装修
+HOUSE_CONTRUCTING	1	HOUSE_CONTRUCTING::1: English	Constructing	建造中
+HOUSE_BUILT	1	HOUSE_BUILT::1: English	Built	已建造
+HOUSE_FURNISHED	1	HOUSE_FURNISHED::1: English	Furnished	已装修
+HOUSE_ID_MANOR	1	HOUSE_ID_MANOR::1: English	Manor	庄园
+HOUSE_ID_MAINBUILD	1	HOUSE_ID_MAINBUILD::1: English	Main House	主宅
+HOUSE_ID_WORKSHOP	1	HOUSE_ID_WORKSHOP::1: English	Workshop	工坊
+HOUSE_ID_LIBRARY	1	HOUSE_ID_LIBRARY::1: English	Library	图书室
+HOUSE_ID_GARDEN	1	HOUSE_ID_GARDEN::1: English	Garden	花园
+HOUSE_ID_ENDLESS	1	HOUSE_ID_ENDLESS::1: English	Sepulchre House	陵墓屋
+HOUSE_ID_END_MAIN	1	HOUSE_ID_END_MAIN::1: English	House	房屋
+HOUSE_ID_END_ANNEX	1	HOUSE_ID_END_ANNEX::1: English	Annex	附室
+HOUSE_ID_END_TOP	1	HOUSE_ID_END_TOP::1: English	Top Floor	顶楼
+HOUSE_ID_END_GARDEN	1	HOUSE_ID_END_GARDEN::1: English	Garden	花园
+HOUSE_ID_FORTRESS	1	HOUSE_ID_FORTRESS::1: English	Vela's Fortress	薇拉的堡垒
+HOUSE_ID_FORTRESS_1	1	HOUSE_ID_FORTRESS_1::1: English	Quarters	居室
+HOUSE_ID_FORTRESS_2	1	HOUSE_ID_FORTRESS_2::1: English	Workshop	工坊
+HOUSE_ID_FORTRESS_3	1	HOUSE_ID_FORTRESS_3::1: English	Training Room	训练室
+HOUSE_ID_CWK	1	HOUSE_ID_CWK::1: English	Clockwork Kingdom House	发条王国房屋
+HOUSE_ID_CWK_MAIN	1	HOUSE_ID_CWK_MAIN::1: English	House	房屋
+HOUSE_ID_CWK_WORKSHOP	1	HOUSE_ID_CWK_WORKSHOP::1: English	Workshop	工坊
+HOUSE_ID_CWK_GARDEN	1	HOUSE_ID_CWK_GARDEN::1: English	Balcony	阳台
+HOUSE_ID_CWK_LIBRARY	1	HOUSE_ID_CWK_LIBRARY::1: English	Annex	附室
+HOUSE_PANEL_FURNISH	1	HOUSE_PANEL_FURNISH::1: English	Change Theme:	更改主题：
+HOUSE_PANEL_TITLE	1	HOUSE_PANEL_TITLE::1: English	Upgrade Property	升级房产
+HOUSE_CONFIRM_FURNISH	1	HOUSE_CONFIRM_FURNISH::1: English	Redecorate the property in this style?	以此风格重新装修房产？
+HOUSE_CONFIRM_UNION	1	HOUSE_CONFIRM_UNION::1: English	This property will be redecorated in the style of The Apostatic Union. Are you sure?	此房产将以叛教联盟风格重新装修。你确定吗？
+HOUSE_CONFIRM_OUTLAW	1	HOUSE_CONFIRM_OUTLAW::1: English	This property will be redecorated in the style of ruffians and outlaws. Are you sure?	此房产将以暴徒与法外之徒的风格重新装修。你确定吗？
+HOUSE_CONFIRM_ENDLESS	1	HOUSE_CONFIRM_ENDLESS::1: English	This property will be redecorated in the macabre style of the Endless. Are you sure?	此房产将以无尽者的阴森风格重新装修。你确定吗？
+HOUSE_CONFIRM_CWK	1	HOUSE_CONFIRM_CWK::1: English	This property will be redecorated in the style of the Clockwork Kingdom. Are you sure?	此房产将以发条王国的风格重新装修。你确定吗？
+HOUSE_CONFIRM_BUILD	1	HOUSE_CONFIRM_BUILD::1: English	Upgrade this part of the property?	升级房产的这一部分？
+HOUSE_CONFIRM_MAIN	1	HOUSE_CONFIRM_MAIN::1: English	Upgrade the central house?	升级中央房屋？
+HOUSE_CONFIRM_WORKSHOP	1	HOUSE_CONFIRM_WORKSHOP::1: English	Upgrade the workshop?	升级工坊？
+HOUSE_CONFIRM_LIBRARY	1	HOUSE_CONFIRM_LIBRARY::1: English	Upgrade the library?	升级图书室？
+HOUSE_CONFIRM_GARDEN	1	HOUSE_CONFIRM_GARDEN::1: English	Upgrade the garden?	升级花园？
+HOUSE_NOTE_CONSTRUCT	1	HOUSE_NOTE_CONSTRUCT::1: English	This part of the property is still under construction.	房产的这一部分仍在建造中。
+HOUSE_NOTE_COMPLETE	1	HOUSE_NOTE_COMPLETE::1: English	This part of the property is fully upgraded.	房产的这一部分已完全升级。
+HOUSE_NOTE_FURNISH	1	HOUSE_NOTE_FURNISH::1: English	This is the cost to redecorate the property. Select a style to confirm.	这是重新装修房产的费用。选择一种风格以确认。
+HOUSE_NOTE_NOTBOUGHT	1	HOUSE_NOTE_NOTBOUGHT::1: English	You cannot upgrade this property as you do not own it.	你不拥有此房产，无法升级。
+HOUSE_NOTE_NOSTYLES	1	HOUSE_NOTE_NOSTYLES::1: English	You have not unlocked any furniture styles.	你尚未解锁任何家具风格。
+HOUSE_NOTE_REDECORATING	1	HOUSE_NOTE_REDECORATING::1: English	You are in the process of redecorating.	你正在重新装修。
+HOUSE_BUILD_NOTENOUGH	1	HOUSE_BUILD_NOTENOUGH::1: English	You lack the necessary materials to purchase this upgrade.	你缺少购买此升级所需的材料。
+HOUSE_FURNISH_NOTENOUGH	1	HOUSE_FURNISH_NOTENOUGH::1: English	You lack the coin required to redecorate.	你的硬币不足以重新装修。
+HOUSE_FURNISH_GOTALREADY	1	HOUSE_FURNISH_GOTALREADY::1: English	You already have these furnishings.	你已拥有这些家具。
+TROPHY_NOTE_NONE	1	TROPHY_NOTE_NONE::1: English	You have not unlocked any trophies for this display.	你尚未解锁任何可用于此展示架的战利品。
+TROPHY_NOTE_ONE	1	TROPHY_NOTE_ONE::1: English	You do not have any other trophies for this display.	你没有其他可用于此展示架的战利品。
+TROPHY_NO_WEAPON	1	TROPHY_NO_WEAPON::1: English	You do not have a weapon equipped.	你没有装备武器。
+FACTION_LOCKED	1	FACTION_LOCKED::1: English	You must be friendly with this faction to gain entry.	你必须与该派系友好才能进入。
+FACTION_HATED	1	FACTION_HATED::1: English	Hated	深恶痛绝
+FACTION_ENEMY	1	FACTION_ENEMY::1: English	Enemy	敌对
+FACTON_DISLIKED	1	FACTON_DISLIKED::1: English	Disliked	厌恶
+FACTON_NEUTRAL	1	FACTON_NEUTRAL::1: English	Neutral	中立
+FACTON_ACCEPTED	1	FACTON_ACCEPTED::1: English	Accepted	接纳
+FACTON_FRIENDLY	1	FACTON_FRIENDLY::1: English	Friendly	友好
+FACTON_LOVED	1	FACTON_LOVED::1: English	Loved	崇爱
+FACTION_NAME_UNION	1	FACTION_NAME_UNION::1: English	The Apostatic Union	叛教联盟
+FACTION_NAME_WIKKAN	1	FACTION_NAME_WIKKAN::1: English	Wikkans	维坎教团
+FACTION_NAME_OUTLAW	1	FACTION_NAME_OUTLAW::1: English	Outlaws	法外之徒
+FACTION_NAME_DARKSTAR	1	FACTION_NAME_DARKSTAR::1: English	Dark Star Mercenaries	黑星佣兵团
+FACTION_NAME_ENDLESS1	1	FACTION_NAME_ENDLESS1::1: English	Endless Royalists	无尽保皇派
+FACTION_NAME_ENDLESS2	1	FACTION_NAME_ENDLESS2::1: English	Endless Cadavers	无尽尸骸派
+FACTION_NAME_CWK1	1	FACTION_NAME_CWK1::1: English	Ferropolis	铁城
+FACTION_NAME_CWK2	1	FACTION_NAME_CWK2::1: English	Clockwork Rebels	发条反叛军
+FACTION_NAME_EMBERIAN	1	FACTION_NAME_EMBERIAN::1: English	Emberians	余烬人
+FACTION_NAME_DEATHGOD	1	FACTION_NAME_DEATHGOD::1: English	Death God	死神
+FACTION_NAME_GOBLINS	1	FACTION_NAME_GOBLINS::1: English	Goblins	哥布林
+FACTION_NAME_UNDEAD	1	FACTION_NAME_UNDEAD::1: English	Undead	亡灵
+FACTION_NAME_MACHINES	1	FACTION_NAME_MACHINES::1: English	Machines	机械
+FACTION_NAME_CRYSTAL	1	FACTION_NAME_CRYSTAL::1: English	Crystal Children	水晶之子
+FACTION_NAME_ONIONS	1	FACTION_NAME_ONIONS::1: English	Rotten Onion Mercs	烂洋葱佣兵团
+FACTION_INFO_UNION	1	FACTION_INFO_UNION::1: English	The Apostatic Union was formed roughly forty years ago, after its various member realms defeated the Wikkans in the God War. Their shared belief is that, for humanity to prosper, gods and god-worshippers must be expelled from human society. In the Union, to call someone 'devout' is an insult indeed.	叛教联盟成立于约四十年前，其各成员领在神之战中击败维坎教团之后。他们共同的信念是：人类要繁荣，就必须把神明与神明崇拜者逐出人类社会。在联盟，骂人"虔信"可是相当重的侮辱。
+FACTION_INFO_WIKKAN	1	FACTION_INFO_WIKKAN::1: English	Even before the World Rend, Wikkan covens dominated the sky realms. The various Wikkan covens would negotiate pious contracts between men and gods, holding each to strict codes of conduct. The Apostatic Union, seeking the freedom to pursue their own study of cipher magic, defeated the Wikkans in the God War; and now their power is much diminished.	早在世界撕裂之前，维坎女巫团便主宰着天空诸陆。各维坎女巫团为人与神谈判虔诚的契约，令双方恪守严格的行为准则。叛教联盟为追求自由研究密文魔法，在神之战中击败了维坎教团；如今维坎的势力已大幅衰落。
+FACTION_INFO_OUTLAW	1	FACTION_INFO_OUTLAW::1: English	A catchall term for the various brigands and ruffians inhabiting the Oneiric Isles. Being on the fringes of Apostatic Union territory, those islands have been relatively lawless until recently; with numerous criminal gangs finding safe haven there. Though they are often in competition with one another, word travels fast among the Outlaw gangs and it is possible to garner a reputation as a mercenary of note.	这是对盘踞梦幻群岛的各路匪徒与暴徒的统称。由于地处叛教联盟疆域的边缘，这些岛屿直到不久前还相对法外逍遥，众多犯罪团伙在此寻得避风港。尽管他们常常互相竞争，消息在法外之徒各帮派间传得飞快，你有可能博得一名知名佣兵的名声。
+FACTION_INFO_DARKSTAR	1	FACTION_INFO_DARKSTAR::1: English	A mercenary band led by Vela Callose, the Dark Star Company is infamous across the Apostatic Union for their villainous deeds. It is said they will do anything for coin, and that they have amassed vast funds. They were last seen on the Oneiric Isles.	黑星佣兵团由薇拉·卡洛斯统领，因其恶行在叛教联盟恶名昭著。据说他们为了钱什么都干得出来，并且积攒了巨额资金。他们最后一次现身是在梦幻群岛。
+FACTION_INFO_ENDLESS1	1	FACTION_INFO_ENDLESS1::1: English	Loyal to the Queen of Silver, the Endless Royalists believe in honouring their monarch's intent. This includes feeding upon Penitent Thaw's mindless meat in place of sentient flesh. Such a stance has helped repair relations with mortal factions in the skyrealms over the past century or so.	无尽保皇派忠于白银女王，坚信应遵从君主的意愿。这包括以忏悔者·索培育的无意识血肉取代有意识血肉为食。这样的立场在过去一个世纪左右，帮助修复了与天空领域凡人各派系的关系。
+FACTION_INFO_ENDLESS2	1	FACTION_INFO_ENDLESS2::1: English	The Endless Cadavers are a shadowy bunch, loosely organised under Lord Rhydder's command. They believe in returning to the dark days of the Cadaver Crusades, in which the endless would invade neighbouring islands and feast upon mortal flesh. This would, of course, be in stark defiance to the wishes of the Queen of Silver.	无尽尸骸派是一群阴影中的家伙，在里德尔勋爵的指挥下松散地组织起来。他们主张回归尸骸十字军的黑暗时代——那时无尽者会入侵邻近岛屿，大啖凡人血肉。这当然与白银女王的意愿背道而驰。
+FACTION_INFO_CWK1	1	FACTION_INFO_CWK1::1: English	text	text
+FACTION_INFO_CWK2	1	FACTION_INFO_CWK2::1: English	text	text
+FACTION_INFO_EMBERIAN	1	FACTION_INFO_EMBERIAN::1: English	text	text
+FACTION_INFO_DEATHGOD	1	FACTION_INFO_DEATHGOD::1: English	text	text
+FACTION_INFO_GOBLINS	1	FACTION_INFO_GOBLINS::1: English	A peculiar bunch of humanoid creatures, goblins are native to the Oneiric Isles. They are often seen wearing crafted wooden masks, attire that is said to be worn in an act of penitence for some past misdeed. They live in harmony with the forest and are especially fond of the giant moths found there.	哥布林是一群奇特的人形生物，原生于梦幻群岛。它们常戴着手工木面具——据说佩戴面具是为过往的恶行忏悔。它们与森林和谐共生，尤其钟爱林中的巨型飞蛾。
+FACTION_INFO_UNDEAD	1	FACTION_INFO_UNDEAD::1: English	Ghosts and skeletal constructs. It is well documented that reviving a living being from the dead is impossible with cipher magic; but that does not stop certain souls from clinging to existence in some pathetic mockery of life.	幽灵与骸骨造物。有充分记载表明，以密文魔法将生者从死亡中复活是不可能的；但这挡不住某些灵魂以生命可悲的拙劣仿品苟延残存。
+FACTION_INFO_MACHINES	1	FACTION_INFO_MACHINES::1: English	Artificial constructs, often hostile to life. Many machines were produced in Kardova during the God War, and this legacy has continued since the founding of the Clockwork Kingdom. If these terrible machinations had some beneficial purpose, it is long forgotten; they roam wildly, attacking any threat their sensors detect.	人工造物，通常对生命充满敌意。许多机械是神之战期间在卡尔多瓦生产的，这一传统自发条王国建立以来延续至今。这些可怕的机械装置若曾有过什么有益用途，也早已被遗忘；它们肆意游荡，攻击传感器侦测到的任何威胁。
+FACTION_INFO_CRYSTAL	1	FACTION_INFO_CRYSTAL::1: English	Followers of a new goddess, deep below the Endless. Crystals grow from within.	一位新女神的信徒，深居于无尽领域之下。水晶自内生长。
+FACTION_INFO_ONIONS	1	FACTION_INFO_ONIONS::1: English	text	text
+NOTE_FACTION_CHANGE1	1	NOTE_FACTION_CHANGE1::1: English	now consider you:	现在对你的看法是：
+NOTE_FACTION_CHANGE2	1	NOTE_FACTION_CHANGE2::1: English	now considers you:	现在对你的看法是：
+NOTE_AMMO_DEPLETED	1	NOTE_AMMO_DEPLETED::1: English	You have run out of ammunition for this weapon.	这件武器的弹药已耗尽。
+NOTE_ITEM_DEPLETED	1	NOTE_ITEM_DEPLETED::1: English	You have depleted this item. Find more, or unequip.	这件物品已用尽。寻找更多，或将其卸下。
+NOTE_FATIGUE_LEVEL	1	NOTE_FATIGUE_LEVEL::1: English	Your stats are reduced because of Fatigue. You should rest.	你的属性因疲劳而降低。你应该休息了。
+NOTE_CANT_TELEPORT	1	NOTE_CANT_TELEPORT::1: English	You must target a transit crystal to teleport.	必须瞄准一块传输水晶才能传送。
+NOTE_CANT_USE	1	NOTE_CANT_USE::1: English	You can't use that item now.	你现在无法使用那件物品。
+NOTE_NOT_IDLE	1	NOTE_NOT_IDLE::1: English	You can't do that right now.	你现在不能这么做。
+NOTE_NOT_USABLE	1	NOTE_NOT_USABLE::1: English	You can't use that right now.	你现在无法使用那个。
+NOTE_GAINED	1	NOTE_GAINED::1: English	Gained	获得
+NOTE_PILFERED	1	NOTE_PILFERED::1: English	Pilfered	捡到了
+NOTE_PILFERED_COIN	1	NOTE_PILFERED_COIN::1: English	Pilfered {0} coin.	捡到了 {0} 枚硬币。
+NOTE_PILFERED_COINS	1	NOTE_PILFERED_COINS::1: English	Pilfered {0} coins.	捡到了 {0} 枚硬币。
+NOTE_PILFERED_PICK	1	NOTE_PILFERED_PICK::1: English	Pilfered {0} lockpick.	捡到了 {0} 把开锁器。
+NOTE_PILFERED_PICKS	1	NOTE_PILFERED_PICKS::1: English	Pilfered {0} lockpicks.	捡到了 {0} 把开锁器。
+NOTE_LOST	1	NOTE_LOST::1: English	Lost	失去
+NOTE_LOST_COIN	1	NOTE_LOST_COIN::1: English	Lost {0} coin.	失去了 {0} 枚硬币。
+NOTE_LOST_COINS	1	NOTE_LOST_COINS::1: English	Lost {0} coins.	失去了 {0} 枚硬币。
+NOTE_IN_COMBAT	1	NOTE_IN_COMBAT::1: English	You cannot do that while in combat.	战斗中无法这么做。
+NOTE_EMBRACED	1	NOTE_EMBRACED::1: English	Embraced	拥抱
+NOTE_SUCCUMBED	1	NOTE_SUCCUMBED::1: English	Succumbed	沉沦
+NOTE_HEALTH_POTION	1	NOTE_HEALTH_POTION::1: English	a health potion.	一瓶生命药水。
+NOTE_MANA_POTION	1	NOTE_MANA_POTION::1: English	a mana potion.	一瓶法力药水。
+NOTE_DELUSION_WAITING	1	NOTE_DELUSION_WAITING::1: English	You have unspent Delusions. Increase your Attributes in the Journal.	你有未使用的妄想。在日志中提升你的属性。
+NOTE_LEVEL_UP	1	NOTE_LEVEL_UP::1: English	You embraced a Delusion. Use it to increase an Attribute.	你拥抱了一个妄想。用它来提升一项属性。
+NOTE_GLIMMER	1	NOTE_GLIMMER::1: English	You glimpsed a Glimmer of Delusion. Collect more to gain a full Delusion.	你瞥见了一丝妄想微光。收集更多即可合成一个完整的妄想。
+NOTE_DELUSION	1	NOTE_DELUSION::1: English	to a Delusion.	……合成一个妄想。
+NOTE_CANT_DO	1	NOTE_CANT_DO::1: English	You can't do that.	你不能这么做。
+NOTE_COIN	1	NOTE_COIN::1: English	coin.	枚硬币。
+NOTE_COINS	1	NOTE_COINS::1: English	coins.	枚硬币。
+NOTE_COIN?	1	NOTE_COIN?::1: English	coin?	枚硬币？
+NOTE_COINS?	1	NOTE_COINS?::1: English	coins?	枚硬币？
+NOTE_PICK_SUCCESS	1	NOTE_PICK_SUCCESS::1: English	Lock picked!	开锁成功！
+NOTE_PICK_FAIL	1	NOTE_PICK_FAIL::1: English	Failed to pick lock. Lockpick broken.	开锁失败。开锁器折断了。
+NOTE_PICK_NEAR_MISS	1	NOTE_PICK_NEAR_MISS::1: English	Near miss: pick not broken.	差之毫厘：开锁器未折断。
+NOTE_PICKS_FULL	1	NOTE_PICKS_FULL::1: English	Can't carry any more lockpicks.	无法再携带更多开锁器。
+NOTE_PICKS_EMPTY	1	NOTE_PICKS_EMPTY::1: English	You don't have any lockpicks.	你没有任何开锁器。
+NOTE_PICK	1	NOTE_PICK::1: English	lockpick	把开锁器
+NOTE_PICKS	1	NOTE_PICKS::1: English	lockpicks	把开锁器
+NOTE_NO_MATS	1	NOTE_NO_MATS::1: English	You lack the required materials.	你缺少所需的材料。
+NOTE_NOT_ENOUGH	1	NOTE_NOT_ENOUGH::1: English	You don't have enough.	你的数量不够。
+NOTE_NO_COIN	1	NOTE_NO_COIN::1: English	You don't have enough coin.	你的硬币不够。
+NOTE_CANT_STORE	1	NOTE_CANT_STORE::1: English	You can't store this item.	你无法存放这件物品。
+NOTE_ALCHEMY	1	NOTE_ALCHEMY::1: English	You need two ingredients.	你需要两种原料。
+NOTE_HERB_PICKED	1	NOTE_HERB_PICKED::1: English	This item needs to grow back.	这株草药还需要重新长出来。
+NOTE_CREATURE_EMPTY	1	NOTE_CREATURE_EMPTY::1: English	This creature has no items.	这只生物身上没有物品。
+NOTE_LORE_LOW	1	NOTE_LORE_LOW::1: English	Your Lore skill is too low.	你的博识技能太低。
+NOTE_ACTIVATED_ELSEWHERE	1	NOTE_ACTIVATED_ELSEWHERE::1: English	This is activated elsewhere.	这需要在别处启动。
+NOTE_MANA_NEEDED	1	NOTE_MANA_NEEDED::1: English	Not enough mana.	法力不足。
+NOTE_CANT_REST	1	NOTE_CANT_REST::1: English	You cannot rest here.	你无法在这里休息。
+NOTE_OWNED_BED	1	NOTE_OWNED_BED::1: English	This bed is owned by someone else; you can't use it.	这张床是别人的；你不能用。
+NOTE_LORE_COMPLETE	1	NOTE_LORE_COMPLETE::1: English	Something has changed...	有什么改变了……
+NOTE_DOORMAN_FAIL1	1	NOTE_DOORMAN_FAIL1::1: English	The Doorman turns you away. You need	门房把你挡在门外。你需要
+NOTE_DOORMAN_FAIL2	1	NOTE_DOORMAN_FAIL2::1: English	Charm to talk your way in.	更高的魅惑才能说动他放你进去。
+NOTE_ITEM_GAINED	1	NOTE_ITEM_GAINED::1: English	Item gained:	获得物品：
+NOTE_ITEM_REMOVED	1	NOTE_ITEM_REMOVED::1: English	Item removed:	移除物品：
+NOTE_BARGAIN	1	NOTE_BARGAIN::1: English	coin saved. Bargain!	省下了几枚硬币。真划算！
+NOTE_BARGAIN_COIN	1	NOTE_BARGAIN_COIN::1: English	{0} coin saved. Bargain!	省下了 {0} 枚硬币。真划算！
+NOTE_BARGAIN_COINS	1	NOTE_BARGAIN_COINS::1: English	{0} coins saved. Bargain!	省下了 {0} 枚硬币。真划算！
+NOTE_PORTAL_NOKEY	1	NOTE_PORTAL_NOKEY::1: English	This contraption seems to require a key.	这台机关似乎需要一把钥匙。
+NOTE_PORTAL_GOTKEY	1	NOTE_PORTAL_GOTKEY::1: English	This Academy Portal is now active.	这座学院传送门现已激活。
+NOTE_MAP_UPDATED	1	NOTE_MAP_UPDATED::1: English	Your map has been updated.	你的地图已更新。
+NOTE_MAP_NO	1	NOTE_MAP_NO::1: English	There are no landmarks nearby to mark on your chart.	附近没有可标记到海图上的地标。
+NOTE_DRUNK_0	1	NOTE_DRUNK_0::1: English	You are feeling sober. You think.	你觉得自己很清醒。你是这么觉得的。
+NOTE_DRUNK_1	1	NOTE_DRUNK_1::1: English	You are feeling mildly tipsy.	你感到微微醺然。
+NOTE_DRUNK_2	1	NOTE_DRUNK_2::1: English	You are quite drunk.	你已颇有醉意。
+NOTE_DRUNK_3	1	NOTE_DRUNK_3::1: English	You are extremely plastered.	你已经烂醉如泥。
+NOTE_DRUNK_4	1	NOTE_DRUNK_4::1: English	YoU Arrrrr Very Handshome. Yessh you Arrre. *Hic*.	你~长~得~帅~呆~了~。就~是~这~样~。*嗝*。
+NOTE_PICKAXE	1	NOTE_PICKAXE::1: English	This vein was depleted long ago.	这条矿脉早已枯竭。
+NOTE_LANDMARK_NEAR	1	NOTE_LANDMARK_NEAR::1: English	This looks like an interesting landmark.	这里看着像个有趣的地标。
+NOTE_SIMPLE_BUFF	1	NOTE_SIMPLE_BUFF::1: English	You have gained a temporary buff:	你获得了一个临时增益：
+NOTE_MIRROR_ACTIVE	1	NOTE_MIRROR_ACTIVE::1: English	You step through the mirror and appear someplace... else.	你穿过镜子，出现在某个……别的地方。
+NOTE_MIRROR_INACTIVE	1	NOTE_MIRROR_INACTIVE::1: English	The shutters won't budge. This must be activated elsewhere.	百叶纹丝不动。这需要在别处启动。
+NOTE_MIRROR_EXIT	1	NOTE_MIRROR_EXIT::1: English	This mirror is broken beyond repair.	这面镜子已碎得无法修复。
+NOTE_COMPONENT_NONE	1	NOTE_COMPONENT_NONE::1: English	This looks like it's missing something.	这东西看着缺了点什么。
+NOTE_COMPONENT_MORE	1	NOTE_COMPONENT_MORE::1: English	This looks like it still could be missing something.	这东西看着好像还缺着点什么。
+NOTE_COMPONENT_COMPLETE	1	NOTE_COMPONENT_COMPLETE::1: English	Something has changed...	有什么改变了……
+NOTE_SPELL_SLOT_LOCKED	1	NOTE_SPELL_SLOT_LOCKED::1: English	You need more Spellcast to unlock this Spell slot.	你需要更多施法才能解锁此法术栏位。
+NOTE_SPELL_UNEQUIPPED	1	NOTE_SPELL_UNEQUIPPED::1: English	A Spell has been unequipped.	已卸下一个法术。
+NOTE_CANNOT_CAST	1	NOTE_CANNOT_CAST::1: English	You cannot cast that right now.	你现在无法施放该法术。
+NOTE_CANNOT_SUMMON	1	NOTE_CANNOT_SUMMON::1: English	You can't summon here.	这里无法召唤。
+NOTE_TOOMANY_SUMMON	1	NOTE_TOOMANY_SUMMON::1: English	You've reached your summon limit.	你已达召唤上限。
+NOTE_CUTTER_BROKEN	1	NOTE_CUTTER_BROKEN::1: English	This cutter needs to be repaired.	这艘小艇需要修理。
+NOTE_CUTTER_GROUNDED	1	NOTE_CUTTER_GROUNDED::1: English	This cutter can't be piloted while the dock is closed; the Blinding Light must be airborne.	船坞关闭时无法驾驶小艇；炫光要塞必须处于飞行状态。
+NOTE_CUTTER_SEECONFESSOR	1	NOTE_CUTTER_SEECONFESSOR::1: English	Talk to the High Confessor first.	先去找至高忏悔者谈谈。
+AIRSHIP_ANCHOR_UP	1	AIRSHIP_ANCHOR_UP::1: English	The ship's anchor can't be lowered here.	这里无法放下船锚。
+QUEST_STARTED	1	QUEST_STARTED::1: English	Quest started:	任务开始：
+QUEST_FINISHED	1	QUEST_FINISHED::1: English	Quest finished:	任务完成：
+QUEST_UPDATED	1	QUEST_UPDATED::1: English	Quest updated:	任务更新：
+DOOR_BARRED	1	DOOR_BARRED::1: English	The door is barred from the other side.	门从另一侧闩上了。
+DOOR_NEED_KEY	1	DOOR_NEED_KEY::1: English	The door needs a key.	这扇门需要钥匙。
+DOOR_NEED_FACT	1	DOOR_NEED_FACT::1: English	The door is shut tight.	这扇门关得严严实实。
+DOOR_NEED_REMOTE	1	DOOR_NEED_REMOTE::1: English	The door is sealed by an unseen device.	这扇门被一个看不见的装置封住了。
+DOOR_NEED_KEY_SMASH	1	DOOR_NEED_KEY_SMASH::1: English	The door needs a key... or perhaps a strong blow would suffice.	这扇门需要钥匙……或者狠狠来一下也许也行。
+DOOR_NEED_KEY_REMOTE	1	DOOR_NEED_KEY_REMOTE::1: English	The door needs a key... or perhaps an unseen device could do the trick.	这扇门需要钥匙……或者一个看不见的装置也许能解决问题。
+DOOR_NEED_REMOTE_SMASH	1	DOOR_NEED_REMOTE_SMASH::1: English	The door is sealed by an unseen device... or perhaps a strong blow would suffice.	这扇门被一个看不见的装置封住了……或者狠狠来一下也许也行。
+DOOR_NEED_KEY_REMOTE_SMASH	1	DOOR_NEED_KEY_REMOTE_SMASH::1: English	The door needs a key... or perhaps an unseen device could do the trick.	这扇门需要钥匙……或者一个看不见的装置也许能解决问题。
+NOTE_NEEDED	1	NOTE_NEEDED::1: English	Needed	所需
+NOTE_CHARM_SUCCESS	1	NOTE_CHARM_SUCCESS::1: English	Charm challenge succeeded.	魅惑考验成功。
+NOTE_CHARM_FAIL	1	NOTE_CHARM_FAIL::1: English	Charm challenge failed.	魅惑考验失败。
+NOTE_CHARM_LUCK	1	NOTE_CHARM_LUCK::1: English	Alluring perfume: Charm challenge succeeded.	迷情香水：魅惑考验成功。
+NOTE_CHARM_UNLUCKY	1	NOTE_CHARM_UNLUCKY::1: English	Charm challenge failed. Unlucky...	魅惑考验失败。真不走运……
+NOTE_MIGHT_FAIL	1	NOTE_MIGHT_FAIL::1: English	You lack the Might to break this.	你的力量不足以破坏这个。
+NOTE_CANT_PASS_TIME	1	NOTE_CANT_PASS_TIME::1: English	Cannot pass time here; area is unstable.	无法在此跨越时间；区域不稳定。
+NOTE_LIFT	1	NOTE_LIFT::1: English	The lift is already here.	升降机已经在这里了。
+NOTE_LIFT_INACTIVE	1	NOTE_LIFT_INACTIVE::1: English	The lift is not yet active.	升降机尚未启用。
+NOTE_LIFT_NEEDITEM	1	NOTE_LIFT_NEEDITEM::1: English	This lift needs a key.	这部升降机需要钥匙。
+NOTE_LIFT_USEITEM	1	NOTE_LIFT_USEITEM::1: English	Used	已使用
+NOTE_FORTRESS_INACTIVE	1	NOTE_FORTRESS_INACTIVE::1: English	The fortress needs repairing before that will work.	要塞需要先修理才能这样操作。
+NOTE_FORTRESS_MOVING	1	NOTE_FORTRESS_MOVING::1: English	The fortress is already moving.	要塞已经在移动了。
+NOTE_FRUIT	1	NOTE_FRUIT::1: English	The supple fruit rejuvinates you	柔软的果实让你恢复活力
+NOTE_AIRSHIP_NO_DEED	1	NOTE_AIRSHIP_NO_DEED::1: English	You must purchase an airship deed before you can upgrade it.	必须先购买飞艇契约才能升级。
+NOTE_CRITICAL_CAST	1	NOTE_CRITICAL_CAST::1: English	Critical Spellcast!	施法暴击！
+STAT_DELUSIONS	1	STAT_DELUSIONS::1: English	Belief is everything. As your delusions grow, so does your power. Find enough Glimmers of Delusion - by exploring the world, or completing quests - and they will grant a full Delusion. Delusions can be spent to increase one of your core attributes.	信念即一切。妄想越多，力量越强。通过探索世界或完成任务收集足够多的妄想微光，它们将合成为完整的妄想。妄想可用于提升你的核心属性。
+STAT_MIGHT	1	STAT_MIGHT::1: English	Increases your maximum Health. Governs the combat skills of Attack and Defence.	提升你的生命上限。掌管攻击与防御两项战斗技能。
+STAT_GUILE	1	STAT_GUILE::1: English	Increases your maximum Stamina. Governs the Lockpick and Agility skills.	提升你的体力上限。掌管开锁与敏捷技能。
+STAT_WISDOM	1	STAT_WISDOM::1: English	Increases your maximum Mana. Governs the Lore and Spellcast skills.	提升你的法力上限。掌管博识与施法技能。
+STAT_PERSONA	1	STAT_PERSONA::1: English	Increases your Regen rate. Governs the Charm and Barter skills.	提升你的回复速率。掌管魅惑与交易技能。
+STAT_HEALTH	1	STAT_HEALTH::1: English	The amount of damage you can take before you die. Replenished with rest or potions.	你死亡前所能承受的伤害量。通过休息或药水恢复。
+STAT_MANA	1	STAT_MANA::1: English	Required to successfully cast certain spells. Replenished with rest or potions.	成功施放特定法术所必需。通过休息或药水恢复。
+STAT_STAMINA	1	STAT_STAMINA::1: English	Modifies attack damage and, at low levels, your skills. Maximum stamina depletes over time, but can be replenished by resting.	影响攻击伤害，过低时还会影响你的技能。体力上限会随时间消耗，可通过休息补充。
+STAT_REGEN	1	STAT_REGEN::1: English	The speed at which your Stamina regenerates.	你的体力再生速度。
+SKILL_ATTACK	1	SKILL_ATTACK::1: English	Increases damage done with all physical weapons.	提升所有物理武器造成的伤害。
+SKILL_LOCKPICK	1	SKILL_LOCKPICK::1: English	Increases the chance of successfully picking a lock or disarming a trap. Requires lockpicks, which break upon failure.	提升成功开锁或解除陷阱的几率。需要开锁器，失败时开锁器会折断。
+SKILL_LORE	1	SKILL_LORE::1: English	Knowledge of ancient truths. Allows interaction with concealed mechanisms, to reveal hidden secrets.	关于古老真相的知识。可与隐藏机关互动，揭示隐秘。
+SKILL_CHARM	1	SKILL_CHARM::1: English	The ability to influence others through dialogue. Can reveal important information or resolve difficult encounters.	通过对话影响他人的能力。可套出重要情报，或化解棘手的遭遇。
+SKILL_DEFENCE	1	SKILL_DEFENCE::1: English	Decreases damage received by enemy combatants.	减少敌人攻击对你造成的伤害。
+SKILL_AGILITY	1	SKILL_AGILITY::1: English	Increases movement speed and jump height.	提升移动速度与跳跃高度。
+SKILL_SPELLCAST	1	SKILL_SPELLCAST::1: English	Increases the potency of spells, and how quickly you can call upon them.	提升法术威力与施放速度。
+SKILL_BARTER	1	SKILL_BARTER::1: English	Allows for more favourable deals. Buy low and sell high.	让交易条件更有利。低买高卖。
+DAMAGE_REDUCTION	1	DAMAGE_REDUCTION::1: English	Based on Armour and Defence, combined damage reduction is	基于护甲与防御，综合减伤为
+SKILL_ARMOUR	1	SKILL_ARMOUR::1: English	Your Armour rating, based on the clothing and equipment you wear. Reduces damage taken by enemy attacks.	你的护甲等级，由所穿衣物与装备决定。减少敌人攻击造成的伤害。
+WEAPON_DAMAGE	1	WEAPON_DAMAGE::1: English	The total damage you do with the weapon in this slot. A combination of your Attack skill and the weapon's base damage.	你用该栏位武器造成的总伤害。由你的攻击技能与武器基础伤害共同决定。
+CHAR_PRELUDE_TITLE	1	CHAR_PRELUDE_TITLE::1: English	Beginnings	开端
+CHAR_PRELUDE	1	CHAR_PRELUDE::1: English	The world was long ago broken, its surface cursed. ##You are a dweller of the Skyrealms; drifting islands that cradle the last of human civilisation. ##Here, in the dank cell of an Inquisition ship, you ruminate on your past.	世界早已破碎，地表遭到诅咒。##你是天空领域的居民——那些漂流的岛屿承载着人类文明的余烬。##此刻，在宗教裁判所船舰阴湿的牢房里，你回想着自己的过去。
+CHAR_YOUTH_NULL	1	CHAR_YOUTH_NULL::1: English	Dreams of childhood slip through your mind. Was your fate sealed, even then?	童年的梦境从脑海中滑过。你的命运在那时就已注定了吗？
+CHAR_YOUTH_NULL_T	1	CHAR_YOUTH_NULL_T::1: English	Youth	幼年
+CHAR_CAREER_NULL	1	CHAR_CAREER_NULL::1: English	The body grew, the mind sharpened. For a while you excelled.	身体成长，心智锐利。你曾有一段出类拔萃的日子。
+CHAR_CAREER_NULL_T	1	CHAR_CAREER_NULL_T::1: English	Career	事业
+CHAR_DOWNFALL_NULL	1	CHAR_DOWNFALL_NULL::1: English	Cracks showed, your guard slipped. The mistake was grave - the Inquisition had your scent.	裂缝显现，警惕松懈。错误极其严重——宗教裁判所嗅到了你的踪迹。
+CHAR_DOWNFALL_NULL_T	1	CHAR_DOWNFALL_NULL_T::1: English	Downfall	沦落
+CHAR_YOUTH	1	CHAR_YOUTH::1: English	Dreams of childhood slip through your mind. Was your fate sealed, even then?	童年的梦境从脑海中滑过。你的命运在那时就已注定了吗？
+CHAR_CAREER	1	CHAR_CAREER::1: English	The body grew, the mind sharpened. For a while you excelled.	身体成长，心智锐利。你曾有一段出类拔萃的日子。
+CHAR_DOWNFALL	1	CHAR_DOWNFALL::1: English	Cracks showed, your guard slipped. The mistake was grave - the Inquisition had your scent.	裂缝显现，警惕松懈。错误极其严重——宗教裁判所嗅到了你的踪迹。
+CHAR_MIGHT_T	1	CHAR_MIGHT_T::1: English	Brawler	斗士
+CHAR_MIGHT	1	CHAR_MIGHT::1: English	The idea of battle captivates you; it always has. You started by smashing sticks, before long you were clashing swords. There was never any question; you were a fighter through and through.	战斗的念头让你着迷；一贯如此。你从抡棍子开始，没过多久就在挥剑对拼了。这从不是个问题；你彻头彻尾就是个战士。
+CHAR_GUILE_T	1	CHAR_GUILE_T::1: English	Urchin	街头顽童
+CHAR_GUILE	1	CHAR_GUILE::1: English	Growing up, you were nobody; just another malnourished child clogging the city. Without the street gang you'd have died like the rest. They taught you to see what others didn't, to slip in where others couldn't. They taught you to survive.	长大过程中，你无名无姓；不过是又一个挤在城里的营养不良的孩子。没有街头帮派，你会像其他人一样死去。他们教你看见别人看不见的东西，钻进别人钻不进的缝隙。他们教你活下去。
+CHAR_WISDOM_T	1	CHAR_WISDOM_T::1: English	Apprentice	学徒
+CHAR_WISDOM	1	CHAR_WISDOM::1: English	As a child of remarkable promise from an unremarkable family, your parents sold you to a passing scholar. Your youth was spent copying tomes till your hands bled; but what you read, you did not forget.	你是平凡家庭里天赋出众的孩子，父母把你卖给了一位路过的学者。你的青春在抄写典籍中度过，抄到双手渗血；但你读过的东西，一个字也没有忘。
+CHAR_PERSONA_T	1	CHAR_PERSONA_T::1: English	Noble	贵族
+CHAR_PERSONA	1	CHAR_PERSONA::1: English	A child of noble birth, you were dining with foreign dignitaries before you could walk. You learned manners and etiquette, but more than anything, tenacity - for the glittering halls of Riova can be more cutthroat than the darkest of alleys.	出身贵族的你，还没学会走路就与外国要人共进晚餐。你学会了礼仪与规矩，但最重要的是坚韧——因为里奥瓦金碧辉煌的大厅，可能比最黑暗的小巷还要凶险。
+CHAR_MIGHT_DAM_T	1	CHAR_MIGHT_DAM_T::1: English	Soldier	士兵
+CHAR_MIGHT_DAM	1	CHAR_MIGHT_DAM::1: English	You were drafted into the Apostatic Union's military. The God War might have ended, but the hunt for cultists had not. You toured the Union's fringes, fighting occult insurgents in bloody skirmishes - and seeing friend and foe cut down.	你应征入伍，加入叛教联盟的军队。神之战或许结束了，但对邪教徒的围剿没有。你转战联盟边陲，在与神秘叛乱分子的血腥冲突中作战——眼睁睁看着敌友接连倒下。
+CHAR_MIGHT_PICK_T	1	CHAR_MIGHT_PICK_T::1: English	Mercenary	佣兵
+CHAR_MIGHT_PICK	1	CHAR_MIGHT_PICK::1: English	You joined a band of mercenaries, selling your swords to the highest bidder. When work was slow, you scavenged ruins or wrecked sky-ships to make ends meet. Before long you were as deft with lockpicks as a blade.	你加入了一支佣兵团，把剑卖给出价最高的人。活少的时候，就翻检废墟或坠毁的天空船，勉强糊口。没多久，你用开锁器的手法已和用剑一样娴熟。
+CHAR_MIGHT_LORE_T	1	CHAR_MIGHT_LORE_T::1: English	Inquisitor	审判官
+CHAR_MIGHT_LORE	1	CHAR_MIGHT_LORE::1: English	You were sought out by the inquisition, who trained you as an agent. In the hunt for god worshippers you were taught their false histories, their untruths. You learned to sniff out their dens and decipher their hidden secrets.	宗教裁判所找上了你，把你训练成特务。在追捕神明崇拜者的过程中，你学习了他们虚假的历史、他们的谎言。你学会了嗅出他们的巢穴、破译他们隐藏的秘密。
+CHAR_MIGHT_CHARM_T	1	CHAR_MIGHT_CHARM_T::1: English	Assassin	刺客
+CHAR_MIGHT_CHARM	1	CHAR_MIGHT_CHARM::1: English	Frontline combat was always so... vulgar. You honed your skills in secret, while clinking glasses with powerful people in elegant ballrooms. When your employers slipped you a name, you killed with subtlety.	前线厮杀总是那么……粗俗。你在暗地里磨炼技艺，在华美的舞会上与权贵碰杯。当雇主悄悄递给你一个名字，你便不动声色地取人性命。
+CHAR_MIGHT_DEF_T	1	CHAR_MIGHT_DEF_T::1: English	Traumatised	创伤者
+CHAR_MIGHT_DEF	1	CHAR_MIGHT_DEF::1: English	Years of killing took its toll. You slept lightly, a knife under the pillow, if you slept at all. Noises made you twitchy; in dark places, you saw the men you'd killed. One day you snapped, and killed a man in broad daylight, for all to see.	经年累月的杀戮终有代价。你睡得很浅——如果还能睡的话——枕头底下压着一把刀。一点声响就让你神经紧绷；在黑暗处，你看见自己杀过的人。终于有一天，你崩溃了，光天化日之下杀了一个人，当着所有人的面。
+CHAR_MIGHT_AGI_T	1	CHAR_MIGHT_AGI_T::1: English	Deserter	逃兵
+CHAR_MIGHT_AGI	1	CHAR_MIGHT_AGI::1: English	You'd had your fill of bloodshed, but saw no way out. So you deserted. Your old comrades pursued you, over islands and sky ships, until you could run no more.	你已受够了流血，却看不到出路。于是你逃了。昔日战友穷追不舍，跨越岛屿与天空之船，直到你再也无法奔逃。
+CHAR_MIGHT_CAST_T	1	CHAR_MIGHT_CAST_T::1: English	Fatal Miscast	致命失误施法
+CHAR_MIGHT_CAST	1	CHAR_MIGHT_CAST::1: English	To excel in combat, you studied not just the blade, but the secret language of the cosmos. You wrote spells of your own design - dangerous and illegal without training. But a spell backfired, killing the wrong person and sealing your fate.	为了在战斗中出类拔萃，你不仅研习刀剑，还钻研宇宙的密语。你编写自己设计的法术——未经训练而施法既危险又违法。可一道法术失了手，杀错了人，也注定了你的命运。
+CHAR_MIGHT_BARTER_T	1	CHAR_MIGHT_BARTER_T::1: English	Arms Dealer	军火商
+CHAR_MIGHT_BARTER	1	CHAR_MIGHT_BARTER::1: English	Your knowledge in weaponry opened new avenues; you became an arms dealer, trading items of lethality. Such pursuits, however, are as profitable as they are illegal - and your luck didn't last forever.	你在武器上的造诣打开了新的门路；你成了军火商，买卖致命之物。然而这行当有利也有非法——你的好运没能一直持续。
+CHAR_GUILE_DAM_T	1	CHAR_GUILE_DAM_T::1: English	Hired Muscle	雇佣打手
+CHAR_GUILE_DAM	1	CHAR_GUILE_DAM::1: English	You could take care of yourself, and were known for it. A Slev cartel recruited you as muscle; when they smuggled nefarious texts or illegal potions, you were there to make sure things didn't go south. And when they did, you cracked some skulls.	你能照顾好自己，并且因此出了名。一个斯列夫的犯罪集团雇你当打手；他们走私邪恶典籍或违禁药剂时，你在场确保事情不出岔子。出了岔子的时候，你就敲碎几颗脑袋。
+CHAR_GUILE_PICK_T	1	CHAR_GUILE_PICK_T::1: English	Thief	盗贼
+CHAR_GUILE_PICK	1	CHAR_GUILE_PICK::1: English	Thievery came easy. Your picks danced through locks with a lover's touch. You stole spells from scholars and treasures from sky ships. The city was yours, its doors wide open.	偷窃对你来说轻而易举。你的开锁器以恋人般的轻柔在锁芯里起舞。你从学者那里偷法术，从天空船上偷财宝。整座城市都是你的，门为大开。
+CHAR_GUILE_LORE_T	1	CHAR_GUILE_LORE_T::1: English	Lore Broker	秘闻掮客
+CHAR_GUILE_LORE	1	CHAR_GUILE_LORE::1: English	In the Apostatic Union, some secrets are worth more than gold. You fraternized with cultists, traded illegal tomes and sought dangerous knowledge. If something was hidden, you could find it... for a price.	在叛教联盟，有些秘密比黄金还值钱。你与邪教徒厮混，交易非法典籍，追寻危险的知识。只要东西藏着，你就能找到它……当然，得收钱。
+CHAR_GUILE_CHARM_T	1	CHAR_GUILE_CHARM_T::1: English	Fixer	白手套
+CHAR_GUILE_CHARM	1	CHAR_GUILE_CHARM::1: English	In a bloody business, you kept your hands clean. In pubs and markets you built your network; mingling and scheming. Elsewhere, nefarious deeds were committed and you were, of course, never involved. But your purse was never empty, either.	在血腥的行当里，你始终两手干净。你在酒馆与集市上编织人脉，周旋谋划。别处发生的肮脏勾当，你当然从未参与。不过，你的钱袋也从没空过。
+CHAR_GUILE_DEF_T	1	CHAR_GUILE_DEF_T::1: English	Betrayed	遭背叛者
+CHAR_GUILE_DEF	1	CHAR_GUILE_DEF::1: English	In your line of business, you always kept your guard up - but sometimes it's not enough. In the end, you were sold out and left for dead, in a pool of your own blood.	干你这行的，时刻都保持着警惕——但有时警惕也不够。最终，你被出卖，被扔在血泊中等死。
+CHAR_GUILE_AGI_T	1	CHAR_GUILE_AGI_T::1: English	Paranoid	偏执者
+CHAR_GUILE_AGI	1	CHAR_GUILE_AGI::1: English	As the years passed, your paranoia grew. You were always on the move; you never stayed in the same bed twice. Turned out you were right, though - they really were hunting you. And they found you.	岁月流逝，你的疑心越来越重。你总是四处漂泊；同一张床绝睡第二次。事实证明你是对的——他们确实在追捕你。而且他们找到了你。
+CHAR_GUILE_CAST_T	1	CHAR_GUILE_CAST_T::1: English	Outlaw Caster	法外施法者
+CHAR_GUILE_CAST	1	CHAR_GUILE_CAST::1: English	You hoarded spells and potions; many valuable, many useful. But too many. When fumbling for an invisibility spell, you accidentally opened a portal into an Inquisition ship - the worst destination possible.	你囤积法术与药剂；许多贵重，许多好用。但太多了。摸索一道隐身咒时，你失手打开了一座通往宗教裁判所船舰的传送门——再糟糕不过的目的地。
+CHAR_GUILE_BARTER_T	1	CHAR_GUILE_BARTER_T::1: English	Crime Lord	犯罪头目
+CHAR_GUILE_BARTER	1	CHAR_GUILE_BARTER::1: English	You always had a knack for acquiring ill-gotten goods; but eventually, this grew into an underground empire of trade. With success came infamy, and a brutal Inquisition raid put you behind bars.	你向来精于搞到来路不正的货；最终，这成了一座地下商业帝国。成功伴随恶名，一场残酷的宗教裁判所突袭把你送进了牢房。
+CHAR_WISDOM_DAM_T	1	CHAR_WISDOM_DAM_T::1: English	Adventurer	冒险家
+CHAR_WISDOM_DAM	1	CHAR_WISDOM_DAM::1: English	At the first chance, you set out on your own. You travelled the sky realms, stowing on ships and sleeping under the stars. You learned much of the world, but you also learned how to defend yourself, as the open road is not for the faint hearted.	一有机会，你便独自上路。你游历天空诸陆，偷搭船只，枕着星空入眠。你了解了世界的许多，也学会了如何自保——因为漂泊之路不属于懦弱的心。
+CHAR_WISDOM_PICK_T	1	CHAR_WISDOM_PICK_T::1: English	Aetherist	乙太师
+CHAR_WISDOM_PICK	1	CHAR_WISDOM_PICK::1: English	You proved adept with machinery, so the Aetherists' Guild took you as an apprentice. You learned hermetic magic, to seal a ship so it may touch the cosmos - but also the simple logic of locks and traps.	你展现出机械方面的天赋，乙太师公会便收你为徒。你学习了密封魔法，让船能够封闭舱室、触摸苍穹——也学会了锁与陷阱的简单逻辑。
+CHAR_WISDOM_LORE_T	1	CHAR_WISDOM_LORE_T::1: English	Scholar	学者
+CHAR_WISDOM_LORE	1	CHAR_WISDOM_LORE::1: English	Being accepted into a prestigious Byonne university, you learned of ancient gods, dead cities and the language of the universe. But above all, you learned to look beyond the obvious; to find the hidden truths of all things.	你考入拜昂一所名校，学习古老的神明、消亡的城市和宇宙的语言。但最重要的是，你学会了越过表象去看；找到万物的隐秘真相。
+CHAR_WISDOM_CHARM_T	1	CHAR_WISDOM_CHARM_T::1: English	Councillor	议员
+CHAR_WISDOM_CHARM	1	CHAR_WISDOM_CHARM::1: English	Your treatises and polemics showed promise; you gained a position in a council in Riova, the political heart of the Apostatic Union. Before long you were hurling opinions into deafening debates.	你的论文与雄辩崭露锋芒；你在里奥瓦——叛教联盟的政治心脏——的议会里谋得席位。没多久，你便在震耳欲聋的辩论中挥洒观点了。
+CHAR_WISDOM_DEF_T	1	CHAR_WISDOM_DEF_T::1: English	Temple Raider	神殿劫掠者
+CHAR_WISDOM_DEF	1	CHAR_WISDOM_DEF::1: English	After learning of a powerful artifact in an ancient temple, you set out to obtain it. You trained to defend yourself against traps and monsters alike; but not to evade the Inquisition - who forbid the plunder of such places.	听说古神殿中有一件强大圣物后，你便动身去取。你训练自己抵御陷阱与怪物；却没学过如何躲避宗教裁判所——他们禁止劫掠那些地方。
+CHAR_WISDOM_AGI_T	1	CHAR_WISDOM_AGI_T::1: English	Hunted	被猎者
+CHAR_WISDOM_AGI	1	CHAR_WISDOM_AGI::1: English	In your studies, you learned of a forbidden word. A word whispered only in the dark; that opened unseen doors. Before you knew it, you were hunted by a shadowy organisation and forced to flee for your life.	求学期间，你得知了一个禁忌之词。一个只在黑暗中低语的词；能打开看不见的门。不知不觉间，你已被一个隐秘组织追捕，不得不亡命奔逃。
+CHAR_WISDOM_CAST_T	1	CHAR_WISDOM_CAST_T::1: English	Ambitious Caster	野心施法者
+CHAR_WISDOM_CAST	1	CHAR_WISDOM_CAST::1: English	You were always adept at spellcraft, but eventually it became an obsession. You wrote a spell of such complex cipher logic that, when cast, it tore a hole in the veil of reality - making you a wanted criminal overnight.	你在咒术上向来有天分，但最终它成了执念。你写下一道密文逻辑极其复杂的法术，一经施放便撕裂了现实的帷幕——让你一夜之间成了通缉犯。
+CHAR_WISDOM_BARTER_T	1	CHAR_WISDOM_BARTER_T::1: English	Bookseller	书商
+CHAR_WISDOM_BARTER	1	CHAR_WISDOM_BARTER::1: English	You opened a bookshop in Riova; an emporium of knowledge, frequented by the most learned folk in the Apostatic Union. But when word got out that you stocked forbidden texts, the Inquisition showed you no mercy.	你在里奥瓦开了一家书店——一座知识的殿堂，叛教联盟最有学问的人都常来光顾。但当藏有禁书的消息走漏，宗教裁判所对你没有半点仁慈。
+CHAR_PERSONA_DAM_T	1	CHAR_PERSONA_DAM_T::1: English	Battle-Councillor	战争议员
+CHAR_PERSONA_DAM	1	CHAR_PERSONA_DAM::1: English	To your family's chagrin, you sought the base thrill of combat. You enrolled as an infantry-councillor, honing your skills of both swordplay and debate; for in the Apostatic Union elections are decided by both.	让家族懊恼的是，你追求起战斗的低级刺激。你以步兵议员的身份入伍，同时磨炼剑术与辩才；因为在叛教联盟，选举由这两者共同决定。
+CHAR_PERSONA_PICK_T	1	CHAR_PERSONA_PICK_T::1: English	Noble Thief	贵族飞贼
+CHAR_PERSONA_PICK	1	CHAR_PERSONA_PICK::1: English	Though your family kept up appearances, their coffers were empty. You embraced a dubious morality; stealing from the dinners and balls you were invited to. At first it was just the odd goblet, but you performed ever more nefarious heists.	家族虽然维持着体面，金库却已见底。你拥抱了一种可疑的道德观；从你受邀赴宴的晚宴和舞会上顺走东西。起初只是偶尔一只高脚杯，但你的劫案越来越见不得光。
+CHAR_PERSONA_LORE_T	1	CHAR_PERSONA_LORE_T::1: English	Occultist	神秘学者
+CHAR_PERSONA_LORE	1	CHAR_PERSONA_LORE::1: English	While others attended parties, your head was buried in dusty tomes. You amassed a great library, frequenting bookshops and lectures. But people whispered that your tastes were unsavoury; that you sought banned texts and occult grimoires...	别人赴宴作乐，你却埋头于积灰的典籍。你攒起一座宏大的藏书库，出入书店与讲座。但人们私下议论你的品味不堪；说你搜寻禁书与神秘魔法书……
+CHAR_PERSONA_CHARM_T	1	CHAR_PERSONA_CHARM_T::1: English	Socialite	社交名流
+CHAR_PERSONA_CHARM	1	CHAR_PERSONA_CHARM::1: English	You shunned professions of esteem, choosing instead the life of a socialite. You graced parties in Vena, Bayonne and Lundel where wine and gossip flowed. Your family's money bought you much, but the flash of your smile bought you more.	你鄙弃体面的职业，选择了社交名流的生活。维纳、巴约讷、伦德尔的宴会上都有你的身影，酒水与流言在那里流淌。家族的财富为你买到许多，而你嫣然一笑买到的更多。
+CHAR_PERSONA_DEF_T	1	CHAR_PERSONA_DEF_T::1: English	Election Rigger	选举舞弊者
+CHAR_PERSONA_DEF	1	CHAR_PERSONA_DEF::1: English	You trained for one of the most important elections in the Apostatic Union. Such events are bloody and brutal, but in the end, your battle-council was found guilty of rigging; landing you in a jail cell.	你为叛教联盟最重要的一场选举磨砺多年。这类活动血腥而残酷，但最终，你的选举战团被判舞弊；你锒铛入狱。
+CHAR_PERSONA_AGI_T	1	CHAR_PERSONA_AGI_T::1: English	Disgraced Family	落罪家族
+CHAR_PERSONA_AGI	1	CHAR_PERSONA_AGI::1: English	Being a member of a noble family can bring a life of privilege, but when such a family falls from grace - they can fall hard. Your family was hunted and killed for their crimes, and you alone managed to flee.	身为贵族家庭的一员可以尽享特权，但当这样的家族失势——往往摔得很惨。你的家族因罪遭到追杀，满门尽灭，唯有你一人逃脱。
+CHAR_PERSONA_CAST_T	1	CHAR_PERSONA_CAST_T::1: English	Skilled Caster	技艺施法者
+CHAR_PERSONA_CAST	1	CHAR_PERSONA_CAST::1: English	Spellcasting was always a favourable pursuit; you entertained and impressed many. But you fell foul of the law when you accidentally made the clothes of a whole town disappear, leaving its people stark naked.	施法向来是讨喜的营生；你逗乐并折服了无数人。但你惹上了官司——你失手让整座镇子的衣服凭空消失，全镇的人一丝不挂。
+CHAR_PERSONA_BARTER_T	1	CHAR_PERSONA_BARTER_T::1: English	Merchant	商人
+CHAR_PERSONA_BARTER	1	CHAR_PERSONA_BARTER::1: English	Skilled in commerce, you established a network of shops - and even bought a merchant airship of your own. But when artifacts of god worship were found in your warehouse, the Inquisition detained you.	你精于商道，建立起一片商铺网络——甚至买了自己的商用飞艇。但当仓库里搜出神明崇拜的圣物，宗教裁判所扣押了你。
+CHEAT_MODE	1	CHEAT_MODE::1: English	Cheat mode activated!	作弊模式已开启！
+CHEAT_OFF	1	CHEAT_OFF::1: English	Cheat mode deactivated.	作弊模式已关闭。
+ALTS_ON	1	ALTS_ON::1: English	Alternate Start Mode On.	替代开局模式已开启。
+ALTS_OFF	1	ALTS_OFF::1: English	Alternate Start Mode Off.	替代开局模式已关闭。
+DEBUG_ON	1	DEBUG_ON::1: English	Debug mode activated!	调试模式已开启！
+DEBUG_OFF	1	DEBUG_OFF::1: English	Debug mode deactivated.	调试模式已关闭。
+CHEAT_GRAVITY	1	CHEAT_GRAVITY::1: English	Gravity disabled. Numpad 8 & 2 to fly.  LS + A/B on gamepad.	重力已禁用。小键盘 8 和 2 飞行。手柄为左摇杆 + A/B。
+CHEAT_GRAVITY_OFF	1	CHEAT_GRAVITY_OFF::1: English	Gravity is enabled.	重力已启用。
+CHEAT_SAVE	1	CHEAT_SAVE::1: English	Game has been saved.	游戏已保存。
+CHEAT_GOD	1	CHEAT_GOD::1: English	God mode enabled - infinite HP and Mana, enemies won't aggro.	上帝模式已开启——无限生命与法力，敌人不会主动攻击。
+CHEAT_GOD_OFF	1	CHEAT_GOD_OFF::1: English	God mode disabled.	上帝模式已关闭。
+CHEAT_ITEMS	1	CHEAT_ITEMS::1: English	You now have a shitton of items. HAVE FUN	你现在有一大堆物品了。玩得开心
+CHEAT_RESET_ACHIEVEMENTS	1	CHEAT_RESET_ACHIEVEMENTS::1: English	STEAM ACHIEVEMENTS RESET!	STEAM 成就已重置！
+NPC_NONE	1	NPC_NONE::1: English	???	？？？
+NPC_EMBERIAN	1	NPC_EMBERIAN::1: English	The Emberian	余烬人
+NPC_ORLAITH	1	NPC_ORLAITH::1: English	Orlaith	奥莱丝
+NPC_BASALT	1	NPC_BASALT::1: English	Jack Basalt	杰克·巴索特
+NPC_CHIASMA	1	NPC_CHIASMA::1: English	Chiasma	奇亚斯玛
+NPC_THAW	1	NPC_THAW::1: English	Penitent Thaw	忏悔者·索
+NPC_QUEEN	1	NPC_QUEEN::1: English	The Queen of Silver	白银女王
+NPC_SENESCHAL	1	NPC_SENESCHAL::1: English	The Seneschal	总管
+NPC_FANGDOOR	1	NPC_FANGDOOR::1: English	Fanged Door	獠牙之门
+NPC_WYRM	1	NPC_WYRM::1: English	Crypt Wyrm	墓穴蠕虫
+NPC_ENTOMBED	1	NPC_ENTOMBED::1: English	The Entombed One	墓中人
+NPC_FLESH	1	NPC_FLESH::1: English	Way of All Flesh	众生肉道
+NPC_MAGGOTSON	1	NPC_MAGGOTSON::1: English	Maggotson	马戈特森
+NPC_RHYDDER	1	NPC_RHYDDER::1: English	Lord Rhydder	里德尔勋爵
+NPC_BARKEEP	1	NPC_BARKEEP::1: English	Barkeep	酒保
+NPC_RUSTY	1	NPC_RUSTY::1: English	Ol' Rotter	老腐坏
+NPC_HAGGLES	1	NPC_HAGGLES::1: English	Haggles	哈格尔斯
+NPC_CHAFFER	1	NPC_CHAFFER::1: English	Chaffer	查弗
+NPC_GHOST	1	NPC_GHOST::1: English	Ghost	幽灵
+NPC_MYGHAR	1	NPC_MYGHAR::1: English	Myghar	米加尔
+NPC_SCHOLAR	1	NPC_SCHOLAR::1: English	Academy Scholar	学院学者
+NPC_STUDENT	1	NPC_STUDENT::1: English	Wannabe Student	准学生
+NPC_YOUSSEF	1	NPC_YOUSSEF::1: English	Youssef	优素福
+NPC_AGENT	1	NPC_AGENT::1: English	Inquisition Agent	宗教裁判所特务
+NPC_CARTOGRAPHER	1	NPC_CARTOGRAPHER::1: English	Giovanni, Chief Cartographer	乔瓦尼，首席制图师
+NPC_AETHERIST	1	NPC_AETHERIST::1: English	Jerome, Head Aetherist	杰罗姆，首席乙太师
+NPC_ALCHEMIST	1	NPC_ALCHEMIST::1: English	Dohn, Prime Alchemist	多恩，首席炼金师
+NPC_ENGINEER	1	NPC_ENGINEER::1: English	Natalya, Chief Engineer	娜塔莉亚，首席工程师
+NPC_HISTORIAN	1	NPC_HISTORIAN::1: English	Ghlem, Chief Historian	格莱姆，首席历史学家
+NPC_POLYMATH	1	NPC_POLYMATH::1: English	Union Polymath	联盟博学家
+NPC_USABLES	1	NPC_USABLES::1: English	Hallow Alchemist	哈洛炼金师
+NPC_CLERK	1	NPC_CLERK::1: English	Council Clerk	议会书记员
+NPC_TAILOR	1	NPC_TAILOR::1: English	Hallow Tailor	哈洛裁缝
+NPC_ODDITIES	1	NPC_ODDITIES::1: English	Emporium Owner	奇物商场老板
+NPC_WEAPONS	1	NPC_WEAPONS::1: English	Weaponsmith	铸剑师
+NPC_CARETAKER	1	NPC_CARETAKER::1: English	Caretaker	看守
+NPC_VIERME	1	NPC_VIERME::1: English	Vierme	维尔姆
+NPC_EZRA	1	NPC_EZRA::1: English	Ezra Thornwood	艾兹拉·荆棘木
+NPC_BERWIG	1	NPC_BERWIG::1: English	Vernon Berwig	弗农·伯维格
+NPC_MINE_NOBLE	1	NPC_MINE_NOBLE::1: English	Lord Romulous Chairon VII	罗穆路斯·凯隆七世勋爵
+NPC_MINE_SCULPTOR	1	NPC_MINE_SCULPTOR::1: English	Lucia, Holy Sculptor	露西亚·圣雕师
+NPC_FLESH_BROKER	1	NPC_FLESH_BROKER::1: English	Flesh Broker	血肉掮客
+NPC_DUCHESS	1	NPC_DUCHESS::1: English	The Duchess	女公爵
+NPC_DAUGHTER_HAND	1	NPC_DAUGHTER_HAND::1: English	Ellyn's Hand	艾琳的手
+NPC_GROUNDSKEEP	1	NPC_GROUNDSKEEP::1: English	Groundskeeper	园丁
+NPC_CADAVER_GATEKEEP	1	NPC_CADAVER_GATEKEEP::1: English	Gatekeeper	守门人
+NPC_CADAVER_GUARD	1	NPC_CADAVER_GUARD::1: English	Cadaver Guard	尸骸守卫
+NPC_CWK_SAM	1	NPC_CWK_SAM::1: English	Sammol	萨莫尔
+NPC_CWK_HORACE	1	NPC_CWK_HORACE::1: English	Horace	霍勒斯
+NPC_CWK_FROST	1	NPC_CWK_FROST::1: English	Caxton Frost	卡克斯顿·弗罗斯特
+NPC_CWK_VIDAL	1	NPC_CWK_VIDAL::1: English	Vidal, Vision Trader	维达尔，幻象商人
+NPC_CWK_MIKHAIL	1	NPC_CWK_MIKHAIL::1: English	Mikhail	米哈伊尔
+NPC_CWK_HUANG	1	NPC_CWK_HUANG::1: English	Director Huang	黄主管
+NPC_CWK_QUARSHIE	1	NPC_CWK_QUARSHIE::1: English	Quarshie	夸希
+NPC_CWK_JACZEMIR	1	NPC_CWK_JACZEMIR::1: English	Jaczemir	雅采米尔
+NPC_CWK_LASCAUX	1	NPC_CWK_LASCAUX::1: English	Madame Lascaux	拉斯科夫人
+NPC_CWK_XENIA	1	NPC_CWK_XENIA::1: English	Baba Xenia	泽尼娅婆婆
+NPC_CWK_MAC	1	NPC_CWK_MAC::1: English	Shady Mac	鬼祟麦克
+NPC_CWK_KING	1	NPC_CWK_KING::1: English	Its Majesty, the King	它陛下，国王
+NPC_CWK_SUNIL	1	NPC_CWK_SUNIL::1: English	Sunil, King's Speaker	苏尼尔，国王代言人
+NPC_CWK_APHRA	1	NPC_CWK_APHRA::1: English	Aphra, Chief Interpreter	阿芙拉，首席释经官
+NPC_CWK_MOROZOV	1	NPC_CWK_MOROZOV::1: English	Morozov	莫罗佐夫
+NPC_CWK_REZA	1	NPC_CWK_REZA::1: English	Reza, The Sabeteur	雷扎，破坏者
+NPC_CWK_OLEG	1	NPC_CWK_OLEG::1: English	Oleg Igorovich	奥列格·伊戈罗维奇
+NPC_CWK_PRIPP	1	NPC_CWK_PRIPP::1: English	Doctor Pripp	普里普医生
+NPC_CWK_YASMEEN	1	NPC_CWK_YASMEEN::1: English	Yasmeen	亚斯敏
+NPC_CWK_NADJA	1	NPC_CWK_NADJA::1: English	Nadja	娜佳
+NPC_LLUDD	1	NPC_LLUDD::1: English	Lludd	卢德
+NPC_CULWYCH	1	NPC_CULWYCH::1: English	Culwych	卡尔威奇
+NPC_OLWEN	1	NPC_OLWEN::1: English	Mayor Olwen	奥尔温镇长
+NPC_DWYNN	1	NPC_DWYNN::1: English	Dwynn	德温
+NPC_NUDD	1	NPC_NUDD::1: English	Nudd	纳德
+NPC_ONION	1	NPC_ONION::1: English	Rotten Onion Guard	烂洋葱守卫
+NPC_ONION_LEADER	1	NPC_ONION_LEADER::1: English	John Birdbark	约翰·伯德巴克
+NPC_EMYR	1	NPC_EMYR::1: English	Emyr	埃米尔
+NPC_GHUTRID	1	NPC_GHUTRID::1: English	Ghutrid	古特里德
+NPC_EM_INQ	1	NPC_EM_INQ::1: English	Wounded Inquisitor	负伤的审判官
+NPC_VELA	1	NPC_VELA::1: English	Vela Callose	薇拉·卡洛斯
+DEMO_START_TITLE	1	DEMO_START_TITLE::1: English	Beginnings	开端
+DEMO_START	1	DEMO_START::1: English	The world is broken. Its surface is cursed, inhospitable. Those that remain cling to islands in the sky. Somehow, you know this. ##You awaken, groggy and confused.	世界破碎了。地表遭到诅咒，不适栖居。幸存者们紧抓着天空中的岛屿。不知为何，你知道这些。##你醒来，头昏眼花，满心困惑。
+DEMO_END_TITLE	1	DEMO_END_TITLE::1: English	A Strange Throb	奇怪的悸动
+DEMO_END	1	DEMO_END::1: English	A strange throb, inside you. Then another. You feel nauseous; your legs are weak. ##Suddenly - a loud bang and a sharp pain. You look down; there's a bloody hole in your chest. ##It appears your heart has exploded.	一阵奇怪的悸动，在你体内。接着又是一下。你感到恶心；双腿发软。##突然——一声巨响，一阵剧痛。你低头看去；胸口有个血淋淋的洞。##你的心脏似乎是爆炸了。
+TUT_EQUIP_TITLE	1	TUT_EQUIP_TITLE::1: English	Equipping Items	装备物品
+TUT_EQUIP	1	TUT_EQUIP::1: English	To equip items, open the ((Journal)) and navigate to the ((Equipment)) window.##Use the ((Loadout)) tab to equip weapons, armour and accessories.##The other two tabs allow you to equip for spells and quick-items.	要装备物品，打开((日志))并进入((装备))窗口。##使用((配置))栏装备武器、护甲和饰品。##另外两个栏位用于装备法术和快捷物品。
+TUT_USABLES_TITLE	1	TUT_USABLES_TITLE::1: English	Usables and Spells	耗品与法术
+TUT_USABLES	1	TUT_USABLES::1: English	Spells and quick-items must be equipped in the ((Equipment)) menu before use.##Once equipped, press [[Spell]] to use spells and [[Item]] to use items.##You can scroll through equipped items with [[Switch Item]], or spells with [[Switch Spell]].	法术和快捷物品必须先在((装备))菜单中装备才能使用。##装备好后，按 [[法术]] 施放法术，按 [[物品]] 使用物品。##用 [[切换物品]] 或 [[切换法术]] 在已装备的物品或法术间轮换。
+TUT_ATTRIBUTES_TITLE	1	TUT_ATTRIBUTES_TITLE::1: English	Delusion Attributes	妄想属性
+TUT_ATTRIBUTES	1	TUT_ATTRIBUTES::1: English	There are four ((Delusion Attributes)) - the fundamental attributes which govern your skills: ((Might, Wisdom, Guile)) and ((Persona)). ##To increase these attributes, you must find enough ((Glimmers of Delusion)) by exploring or completing quests.	共有四项((妄想属性))——掌管你技能的基础属性：((力量、智慧、灵巧))与((人格))。##要提升这些属性，你必须通过探索或完成任务收集足够多的((妄想微光))。
+TUT_SKILLS_TITLE	1	TUT_SKILLS_TITLE::1: English	Skills	技能
+TUT_SKILLS	1	TUT_SKILLS::1: English	There are a number of ((Skills)) that determine your effectiveness at certain tasks.##Some are active-skills such as ((Lockpick)) or ((Lore)), which let you interact with objects in the world##Others are passive-skills such as ((Defence)) and ((Regen)). ##Skills can be improved by increasing the ((Delusion Attribute)) that governs it, or with special equipment.	有若干((技能))决定你完成特定任务的效果。##有些是主动技能，如((开锁))或((博识))，让你与世界中的物件互动##另一些是被动技能，如((防御))与((回复))。##技能可以通过提升掌管它的((妄想属性))来增强，也可以依靠特殊装备。
+TUT_LOCKPICK_TITLE	1	TUT_LOCKPICK_TITLE::1: English	Lockpick Skill	开锁技能
+TUT_LOCKPICK	1	TUT_LOCKPICK::1: English	Some doors can be unlocked using a lockpick item.##Your chance of success is governed by your ((Lockpick)) skill - which is governed by your ((Guile)).##If an attempt fails, one of your lockpicks will break.	有些门可以用开锁器打开。##成功几率由你的((开锁))技能决定——而该技能由你的((灵巧))决定。##尝试失败时，一把开锁器会折断。
+TUT_LORE_TITLE	1	TUT_LORE_TITLE::1: English	Lore Skill	博识技能
+TUT_LORE	1	TUT_LORE::1: English	Some doors can be opened via hidden mechanisms. These secret switches require a high enough ((Lore)) skill and a small amount of mana to unlock.##The lore skill is governed by your ((Wisdom)). You may be able to further increase it using special equipment.	有些门可以通过隐藏机关打开。这些暗藏的开关需要足够高的((博识))技能和少量法力才能解锁。##博识技能由你的((智慧))决定。你也可以使用特殊装备进一步提升它。
+TUT_CHARM_TITLE	1	TUT_CHARM_TITLE::1: English	Charm Skill	魅惑技能
+TUT_CHARM	1	TUT_CHARM::1: English	Certain characters will withhold information from you. You must persuade them to speak freely.##Your success is determined by your ((Charm)) skill.##Charm is governed by your ((Persona)) attribute. You may be able to further increase it using special equipment.	某些角色会对你有所隐瞒。你必须说服他们畅所欲言。##成功与否取决于你的((魅惑))技能。##魅惑由你的((人格))属性决定。你也可以使用特殊装备进一步提升它。
+TUT_COMBAT_TITLE	1	TUT_COMBAT_TITLE::1: English	Combat	战斗
+TUT_COMBAT	1	TUT_COMBAT::1: English	With an unholstered weapon, press [[Attack]] to perform a normal attack.##Hold it for a slower but more powerful attack.	拔出武器后，按 [[攻击]] 进行普通攻击。##长按可施放更慢但更强的攻击。
+TUT_STEALTH_TITLE	1	TUT_STEALTH_TITLE::1: English	Stealth	潜行
+TUT_STEALTH	1	TUT_STEALTH::1: English	In many cases, combat is avoidable. Press [[Crouch]] to toggle sneaking; your footsteps will not make any sound. ##Alternatively, you can sneak up behind an enemy to perform a stealth attack. Damage to unaware enemies will be multiplied.	多数情况下，战斗是可以避免的。按 [[蹲伏]] 切换潜行；你的脚步不会发出任何声音。##另外，你也可以绕到敌人身后发动偷袭。对未察觉敌人的伤害会成倍增加。
+TUT_STAMINA_TITLE	1	TUT_STAMINA_TITLE::1: English	Stamina	体力
+TUT_STAMINA	1	TUT_STAMINA::1: English	Your attack damage depends on your current ((Stamina)) - the lower your stamina, the less damage you'll do. ##Your maximum stamina will also deplete slowly over time. If it reaches half its original value, you will become ((Fatigued)); temporarily reducing all stats. ##Maximum Stamina can be restored by sleeping in a bed or using a Stamina Potion.	你的攻击伤害取决于当前的((体力))——体力越低，伤害越小。##体力上限也会随时间慢慢消耗。若降到初始值的一半，你会陷入((疲劳))，所有属性暂时降低。##体力上限可以通过睡床或使用体力药水恢复。
+TUT_BLOCKING_TITLE	1	TUT_BLOCKING_TITLE::1: English	Blocking and Parrying	格挡与招架
+TUT_BLOCKING	1	TUT_BLOCKING::1: English	Hold [[Block]] to reduce incoming enemy damage.##If you time a block just as an enemy attack lands, you will ((Parry)) it. Successful parries negate all damage and will stagger the enemy. ##Blocking and Parrying are not possible when your stamina is empty.	按住 [[格挡]] 减少敌人攻击造成的伤害。##若在敌人攻击命中的瞬间格挡，便会触发((招架))。成功的招架可以完全抵消伤害并使敌人踉跄。##体力耗尽时无法格挡与招架。
+TUT_CRAFTING_TITLE	1	TUT_CRAFTING_TITLE::1: English	Crafting	锻造
+TUT_CRAFTING	1	TUT_CRAFTING::1: English	Crafting Stations will allow you to modify your equipment.##Ore can improve weapons and armour. Thread can improve clothing.##Search the world for rare crafting items to create even better equipment.	锻造台让你可以改造装备。##矿石可以强化武器和护甲。丝线可以强化衣物。##在世界上搜寻稀有锻造材料，打造更精良的装备。
+TUT_ALCHEMY_TITLE	1	TUT_ALCHEMY_TITLE::1: English	Alchemy	炼金
+TUT_ALCHEMY	1	TUT_ALCHEMY::1: English	Alchemy Stations will allow you to brew usable items by combining two ingredients.##Herbs can be found around the world and can be combined to create potions##Many different items can be combined for unique results.	炼金台让你可以组合两种原料调配可用物品。##草药遍布世界，可以组合调配成药水##许多不同物品都能组合出独特的效果。
+TUT_CRYSTALS_TITLE	1	TUT_CRYSTALS_TITLE::1: English	Crystal Points	水晶锚点
+TUT_CRYSTALS	1	TUT_CRYSTALS::1: English	((Crystal Points)) will restore your ((Mana)). ##Use the Home spell to return to the last Crystal Point visited. You will also appear at the last used Crystal Point when loading the game.	((水晶锚点))会恢复你的((法力))。##使用归乡法术可回到最近到访的水晶锚点。读档时你也会出现在最后使用的水晶锚点。
+TUT_THIEF_TITLE	1	TUT_THIEF_TITLE::1: English	Demo Class - Thief	试玩职业——盗贼
+TUT_THIEF	1	TUT_THIEF::1: English	The loadout of a petty thief. ##This [[Demo Class]] is agile, with some skill in [[Lockpicking]]. You will start with a dagger and some basic leather armour. ##((Classes are only available in this demo. In the full game, you will craft your character as you play.))	小贼的配置。##这个[[试玩职业]]敏捷出众，具备一些[[开锁]]技能。你将以一把匕首和基础皮甲开局。##((职业仅在本试玩版中提供。正式版中，你将在游戏过程中塑造自己的角色。))
+TUT_MERC_TITLE	1	TUT_MERC_TITLE::1: English	Demo Class - Mercenary	试玩职业——佣兵
+TUT_MERC	1	TUT_MERC::1: English	The loadout of a seasoned warrior. ##This [[Demo Class]] has strong combat skills and starts with sturdy armour, but you will lack the more specialised skills of other classes.  ##((Classes are only available in this demo. In the full game, you will craft your character as you play.))	老练战士的配置。##这个[[试玩职业]]战斗技能强劲，以坚固护甲开局，但缺乏其他职业的专精技能。##((职业仅在本试玩版中提供。正式版中，你将在游戏过程中塑造自己的角色。))
+TUT_CASTER_TITLE	1	TUT_CASTER_TITLE::1: English	Demo Class - Cipher Scholar	试玩职业——密文学者
+TUT_CASTER	1	TUT_CASTER::1: English	The loadout of a spellcaster. ##This [[Demo Class]] has a range of spells and a decent [[Lore]] skill, though they lack a good offensive weapon. ##((Classes are only available in this demo. In the full game, you will craft your character as you play.))	施法者的配置。##这个[[试玩职业]]拥有多种法术和不俗的[[博识]]技能，但缺少一件趁手的攻击武器。##((职业仅在本试玩版中提供。正式版中，你将在游戏过程中塑造自己的角色。))
+TUT_NOBLE_TITLE	1	TUT_NOBLE_TITLE::1: English	Demo Class - Noble	试玩职业——贵族
+TUT_NOBLE	1	TUT_NOBLE::1: English	The loadout of a confident noble. ##This [[Demo Class]] is adept at dialogue challenges, with high [[Charm]] and [[Barter]] skills. ##((Classes are only available in this demo. In the full game, you will craft your character as you play.))	自信贵族的配置。##这个[[试玩职业]]精于对话考验，[[魅惑]]与[[交易]]技能很高。##((职业仅在本试玩版中提供。正式版中，你将在游戏过程中塑造自己的角色。))
+TUT_STATUS_TITLE	1	TUT_STATUS_TITLE::1: English	Status	状态
+TUT_STATUS	1	TUT_STATUS::1: English	Your current status is represented by three stats; ((Health)), ((Mana)) and ((Stamina)).##To restore your status, rest in a bed or drink a potion.	你当前的状态由三项数值表示：((生命))、((法力))与((体力))。##要恢复状态，可在床上休息或喝下药水。
+TUT_DEATH_TITLE	1	TUT_DEATH_TITLE::1: English	Death	死亡
+TUT_DEATH	1	TUT_DEATH::1: English	A powerful entity has taken an interest in you. ##By their grace, you will be plucked from the jaws of death and transported to a ((Death Shrine)), without losing items or progress.	一位强大的存在对你产生了兴趣。##承蒙恩典，你将从死亡边缘被拉回，传送至((死亡神龛))，不损失任何物品与进度。
+TUT_REGIONS_TITLE	1	TUT_REGIONS_TITLE::1: English	Regions	区域
+TUT_REGIONS	1	TUT_REGIONS::1: English	The Apostatic Union has set up many checkpoint bridges throughout the land. ##To pass into another region, you will require a ((Union Passport)) - one per checkpoint.	叛教联盟在各地设置了众多关卡桥。##要进入另一个区域，你需要一本((联盟护照))——每座关卡一本。
+TUT_SAVING_TITLE	1	TUT_SAVING_TITLE::1: English	Autosave	自动存档
+TUT_SAVING	1	TUT_SAVING::1: English	The game saves your progress at regular intervals, such as when crossing between regions, using a ((Crystal Point)) or quitting the game.	游戏会定期保存进度，例如跨越区域、使用((水晶锚点))或退出游戏时。
+TUT_DELUSIONS_TITLE	1	TUT_DELUSIONS_TITLE::1: English	Delusions	妄想
+TUT_DELUSIONS	1	TUT_DELUSIONS::1: English	((Glimmers of Delusion)) can be obtained by gathering blue skulls or by completing quests. ##Collect enough Glimmers to gain a ((Delusion Point)), which can be used to upgrade your Attributes.##Open your ((Journal)) and go to the ((Character)) window to spend Delusions.	((妄想微光))可以通过收集蓝色骷髅或完成任务获得。##收集足够多的微光即可获得((妄想点))，用于升级你的属性。##打开((日志))进入((角色))窗口消耗妄想。
+TUT_DAY_TITLE	1	TUT_DAY_TITLE::1: English	Time of Day	昼夜时间
+TUT_DAY	1	TUT_DAY::1: English	As the great neuron star moves through the sky, the day progresses through dawn, noon, dusk and night.##Some areas change at different times of day. ##To progress time, rest in a bed.	随着巨大的神经元星划过天空，一天由黎明、正午、黄昏行至夜晚。##某些区域会随一天中的不同时间而变化。##在床上休息即可推进时间。
+TUT_BEDS_TITLE	1	TUT_BEDS_TITLE::1: English	Beds	床铺
+TUT_BEDS	1	TUT_BEDS::1: English	Resting in beds recovers your health, mana and maximum stamina. ##Beds can be cheaply rented at inns.##You may also find unattended beds throughout the world. However, some are unsafe, and you will be taking a chance by resting in them.	在床上休息可以恢复生命、法力和体力上限。##床铺可以在旅店廉价租用。##你在世界中也会发现无人看管的床。不过有些并不安全，睡在里面可是要碰运气的。
+TUT_PLAYERHOUSE_TITLE	1	TUT_PLAYERHOUSE_TITLE::1: English	Player Housing	玩家房产
+TUT_PLAYERHOUSE	1	TUT_PLAYERHOUSE::1: English	Open the chest to get the ((Manor Deed)), then use the small wooden house model to upgrade your manor. Some upgrades require you to rest in a bed; there is one behind you.	打开箱子获得((庄园地契))，然后使用小木屋模型升级你的庄园。部分升级需要你在床上休息；你身后就有一张。
+TUT_PLAYERHOUSELEAVE_TITLE	1	TUT_PLAYERHOUSELEAVE_TITLE::1: English	Player Housing	玩家房产
+TUT_PLAYERHOUSELEAVE	1	TUT_PLAYERHOUSELEAVE::1: English	You cannot leave this island in this demo build.	试玩版中无法离开这座岛。
+TUT_AIRSHIP_TITLE	1	TUT_AIRSHIP_TITLE::1: English	Your Airship	你的飞艇
+TUT_AIRSHIP	1	TUT_AIRSHIP::1: English	With an airship in your possession, you are now a veritable sky captain. ##You may cast the [[Emergency Airship Reembarkation]] spell to return to your airship at any time. Do this if you become stranded away from your ship. ##You may disembark your airship anywhere, but it is often wise to do so at [[Airship Docks]], where you can interact with [[Airship Stations]] to upgrade and modify your ship. To purchase new upgrades, visit the different [[Airship Guild]] members who are often found at Docks. ##If you disembark while flying above solid ground, your airship will [[drop anchor]]. Interact with the anchor to [[descend]] or [[ascend]] promptly. ##You should also check the [[Controls]] menu to familiarise yourself with how the airship handles.	拥有了飞艇，你就是名副其实的天空船长。##你可以随时施放[[紧急重返飞艇]]法术回到飞艇上。若你被困在远离飞船的地方，就这么做。##你可以在任何地方降落，但通常更明智的做法是停靠在[[飞艇码头]]，在那里与[[飞艇站台]]互动即可升级和改造飞船。要购买新升级，请拜访[[飞艇商会]]的成员，他们通常在码头出没。##若你在陆地正上方下船，飞艇会[[抛锚停驻]]。与船锚互动即可快速[[下降]]或[[上升]]。##你也应该查看[[控制]]菜单，熟悉一下飞艇的操纵方式。
+SIGN_ORLAITH_MAP	1	SIGN_ORLAITH_MAP::1: English	A strange map...	一张奇怪的地图……
+SIGN_RUSTBURG_WELCOME_T	1	SIGN_RUSTBURG_WELCOME_T::1: English	RUSTBURG, Market Town.	锈堡——集市镇。
+SIGN_RUSTBURG_WELCOME	1	SIGN_RUSTBURG_WELCOME::1: English	Here lies the largest Emberian ruin in the Oneiric Isles. ##We trade in underlands metal & Embieran antiques.	此处是梦幻群岛最大的余烬遗迹。##我们经营地下之地金属与余烬古董。
+SIGN_RUSTBURG_WARNING_T	1	SIGN_RUSTBURG_WARNING_T::1: English	NOTICE TO ALL	告示
+SIGN_RUSTBURG_WANING	1	SIGN_RUSTBURG_WANING::1: English	On this year 1406, the town of Rustburg is hereby abandoned. By decree of the Apostatics, no coin shall pass b'tween hands here. ##Let this be a warning to all who harbour Wikkans and their vile gods.	1406 年，锈堡镇就此废弃。奉背教者敕令，此地不得易手任何钱币。##凡窝藏维坎教徒及其邪神者，以此为鉴。
+SIGN_CADAVER_WELCOME_T	1	SIGN_CADAVER_WELCOME_T::1: English	CADAVER LANDS	尸骸之地
+SIGN_CADAVER_WELCOME	1	SIGN_CADAVER_WELCOME::1: English	You are hereby entering the domain of the Cadavers. ##Only those loyal to our cause will be granted entry to Cadaver Keep.	你正在进入尸骸派的领地。##唯有忠于我们事业者方可进入尸骸要塞。
+SIGN_CADAVER_CRUSADE_T	1	SIGN_CADAVER_CRUSADE_T::1: English	CADAVER CRUSADES	尸骸十字军
+SIGN_CADAVER_CRUSADE	1	SIGN_CADAVER_CRUSADE::1: English	This statue stands in memoriam to all the Endless who lost their lives in the Cadaver Crusades. ##All creatures are permitted to follow their nature, be they predator or prey. None should feel shame for their instincts.	这座雕像纪念所有在尸骸十字军中丧生的无尽者。##众生皆可遵循其天性，无论捕食者还是猎物。本能无需羞耻。
+SIGN_ROAMING_ISLE_T	1	SIGN_ROAMING_ISLE_T::1: English	ATTENTION: Roaming Island!	注意：漂流岛！
+SIGN_ROAMING_ISLE	1	SIGN_ROAMING_ISLE::1: English	The Apostatic Union Geological Society has classified this a Roaming Island, as it has been known to drift erratically. In other words, it might not be here forever...	联盟地质学会已将此岛列为漂流岛，因为它素来漂移无常。换言之，它未必会永远待在这里……
+SIGN_STOPBARRIER_T	1	SIGN_STOPBARRIER_T::1: English	Cannot Pass	禁止通行
+SIGN_STOPBARRIER	1	SIGN_STOPBARRIER::1: English	The owner of this place won't let you past this point.	这里的主人不允许你越过此处。
+DETAIL_GODWARMACHINE_T	1	DETAIL_GODWARMACHINE_T::1: English	Old Contraptions	老古董机关
+DETAIL_GODWARMACHINE	1	DETAIL_GODWARMACHINE::1: English	You recognise these old machines are God War relics; inoperable and mostly useless. Such strange contraptions are rarely seen outside the Clockwork Kingdom these days.	你认出这些老机器是神之战的遗物；早已无法运转，基本没什么用。如今这样的古怪机关，在发条王国之外已很少见了。
+DETAIL_DARKSTARDESK_T	1	DETAIL_DARKSTARDESK_T::1: English	A Cluttered Desk	杂乱的书桌
+DETAIL_DARKSTARDESK	1	DETAIL_DARKSTARDESK::1: English	An assortment of maps, notes and diagrams clutter the table, detailing the planned exploits of the Dark Star mercenaries. One in particular catches your eye; an expedition to the cursed underlands, far below the skyrealms...	各种地图、笔记和图示堆满桌面，详述着黑星佣兵们的行动计划。其中一份格外引人注目：一次前往天空领域深处的受诅咒地下之地的远征……
+BUFF_HEALTH_TITLE	1	BUFF_HEALTH_TITLE::1: English	Health Skill Buff	生命技能增益
+BUFF_HEALTH	1	BUFF_HEALTH::1: English	Your maximum Health has been temporarily buffed.You can practically feel the cipher magic in your heartbeat.	你的生命上限获得临时增益。你几乎能从心跳中感受到密文魔法。
+BUFF_AGILITY_TITLE	1	BUFF_AGILITY_TITLE::1: English	Agility Skill Buff	敏捷技能增益
+BUFF_AGILITY	1	BUFF_AGILITY::1: English	Your Agility has been temporarily buffed. You feel light as a feather.	你的敏捷获得临时增益。你感觉轻如鸿毛。
+BUFF_REGEN_TITLE	1	BUFF_REGEN_TITLE::1: English	Regen Skill Buff	回复技能增益
+BUFF_REGEN	1	BUFF_REGEN::1: English	Your Regen has been temporarily buffed. You will recover much faster.	你的回复获得临时增益。你的恢复速度会快得多。
+BUFF_SPELLCAST_TITLE	1	BUFF_SPELLCAST_TITLE::1: English	Spellcast Skill Buff	施法技能增益
+BUFF_SPELLCAST	1	BUFF_SPELLCAST::1: English	Your Spellcast has been temporarily buffed. Careful not to singe your eyebrows with those spells, now.	你的施法获得临时增益。小心别让那些法术燎了眉毛。
+BUFF_ATTACK_TITLE	1	BUFF_ATTACK_TITLE::1: English	Attack Skill Buff	攻击技能增益
+BUFF_ATTACK	1	BUFF_ATTACK::1: English	Your Attack has been temporarily buffed. You could cleave a helmet in two. Probably.	你的攻击获得临时增益。你几乎能把头盔一劈两半。大概吧。
+BUFF_LOCKPICK_TITLE	1	BUFF_LOCKPICK_TITLE::1: English	Lockpick Skill Buff	开锁技能增益
+BUFF_LOCKPICK	1	BUFF_LOCKPICK::1: English	Your Lockpick has been temporarily buffed. No keyhole can stop you.	你的开锁获得临时增益。没有锁孔拦得住你。
+BUFF_CHARM_TITLE	1	BUFF_CHARM_TITLE::1: English	Charm Skill Buff	魅惑技能增益
+BUFF_CHARM	1	BUFF_CHARM::1: English	Your Charm has been temporarily buffed. Who could possibly resist you?	你的魅惑获得临时增益。还有谁能抗拒你呢？
+BUFF_BARTER_TITLE	1	BUFF_BARTER_TITLE::1: English	Barter Skill Buff	交易技能增益
+BUFF_BARTER	1	BUFF_BARTER::1: English	Your Barter has been temporarily buffed. You're not going to be short-changed anytime soon.	你的交易获得临时增益。短时间内没人能找错你的钱。
+BUFF_LORE_TITLE	1	BUFF_LORE_TITLE::1: English	Lore Skill Buff	博识技能增益
+BUFF_LORE	1	BUFF_LORE::1: English	Your Lore has been temporarily buffed. It all seems so much clearer, suddenly.	你的博识获得临时增益。一切忽然变得清晰多了。
+BUFF_DEFENCE_TITLE	1	BUFF_DEFENCE_TITLE::1: English	Defence Skill Buff	防御技能增益
+BUFF_DEFENCE	1	BUFF_DEFENCE::1: English	Your Defence has been temporarily buffed. You feel like a castle. A rather fleshy, squidgy castle.	你的防御获得临时增益。你感觉自己像座城堡。一座肉乎乎、软趴趴的城堡。
+BUFF_MANA_TITLE	1	BUFF_MANA_TITLE::1: English	Mana Skill Buff	法力技能增益
+BUFF_MANA	1	BUFF_MANA::1: English	Your Mana has been temporarily buffed. Your mind fizzles with extra power.	你的法力获得临时增益。脑海中噼啪作响地涌动着额外的力量。
+BUFF_STAMINA_TITLE	1	BUFF_STAMINA_TITLE::1: English	Stamina Skill Buff	体力技能增益
+BUFF_STAMINA	1	BUFF_STAMINA::1: English	Your Stamina has been temporarily buffed. Those hills won't get you out of breath now.	你的体力获得临时增益。那些山坡再也累不倒你了。
+BUFF_FATIGUE_TITLE	1	BUFF_FATIGUE_TITLE::1: English	Fatigued	疲劳
+BUFF_FATIGUE	1	BUFF_FATIGUE::1: English	Your stamina is low, so you have become Fatigued - which has reduced all your main Attributes by 1. To recover, rest in a bed or use a Stamina Potion.	你的体力过低，因此陷入疲劳——所有主属性降低 1 点。要恢复，请在床上休息或使用体力药水。
+BUFF_CURSE_TITLE	1	BUFF_CURSE_TITLE::1: English	Cursed	被诅咒
+BUFF_CURSE	1	BUFF_CURSE::1: English	You have become Cursed, lowering all your main Attributes by 1.	你被诅咒了，所有主属性降低 1 点。
+DEBUFF_POISON_TITLE	1	DEBUFF_POISON_TITLE::1: English	Poisoned	中毒
+DEBUFF_POISON	1	DEBUFF_POISON::1: English	You are poisoned! You will take damage over time.	你中毒了！你将持续受到伤害。
+BUFF_LUCK_TITLE	1	BUFF_LUCK_TITLE::1: English	Lucky	幸运
+BUFF_LUCK	1	BUFF_LUCK::1: English	You are Lucky. Everything just seems that little bit easier, all of a sudden. All your main Attributes have been raised by 1.	你正处于幸运状态。一切忽然都变得轻松了一点点。你的所有主属性提升 1 点。
+BUFF_REGENBUFF_TITLE	1	BUFF_REGENBUFF_TITLE::1: English	Regenerate	再生
+BUFF_REGENBUFF	1	BUFF_REGENBUFF::1: English	Your Regen has been temporarily buffed. You will recover much faster.	你的回复获得临时增益。你的恢复速度会快得多。
+BUFF_CASTBUFF_TITLE	1	BUFF_CASTBUFF_TITLE::1: English	Spellcast	施法
+BUFF_CASTBUFF	1	BUFF_CASTBUFF::1: English	Your Spellcast has been temporarily buffed. Careful not to singe your eyebrows with those spells, now.	你的施法获得临时增益。小心别让那些法术燎了眉毛。
+BUFF_DEFBUFF_TITLE	1	BUFF_DEFBUFF_TITLE::1: English	Defensive	防御姿态
+BUFF_DEFBUFF	1	BUFF_DEFBUFF::1: English	Your Defence has been temporarily buffed. You feel like a castle. A rather fleshy, squidgy castle.	你的防御获得临时增益。你感觉自己像座城堡。一座肉乎乎、软趴趴的城堡。
+BUFF_REGENHEAL_TITLE	1	BUFF_REGENHEAL_TITLE::1: English	Regenerate Health	生命再生
+BUFF_REGENHEAL	1	BUFF_REGENHEAL::1: English	A spell is gradually restoring your Health. The cipher magic flows through your veins, giving your skin a pale blue glow.	一道法术正在缓缓恢复你的生命。密文魔法流过你的血管，让你的皮肤泛起淡蓝色的光。
+BUFF_POISONWPN_TITLE	1	BUFF_POISONWPN_TITLE::1: English	Poisoned Weapons	淬毒武器
+BUFF_POISONWPN	1	BUFF_POISONWPN::1: English	You have coated your weapons in a deadly poison. Enemies you strike will take damage over time.	你已给自己的武器涂上剧毒。被你击中的敌人将持续受到伤害。
+BUFF_ALLYBUFF_TITLE	1	BUFF_ALLYBUFF_TITLE::1: English	Allied Buff	同伴增益
+BUFF_ALLYBUFF	1	BUFF_ALLYBUFF::1: English	You have been buffed by an ally, increasing your stats.	你获得了同伴的增益，属性得到提升。
+BUFF_SPEED_TITLE	1	BUFF_SPEED_TITLE::1: English	Enchanted Speed	附魔疾速
+BUFF_SPEED	1	BUFF_SPEED::1: English	A spell is greatly boosting your Agility. Be careful not to run off the edge of the Skyrealms, now...	一道法术大幅提升了你的敏捷。当心别跑出天空领域的边缘……
+BUFF_TRUTH_TITLE	1	BUFF_TRUTH_TITLE::1: English	Reveal Truth	揭示真相
+BUFF_TRUTH	1	BUFF_TRUTH::1: English	You can temporarily see the truth of things. This effect reveals secrets that have been hidden by illusion magic.	你能暂时看清事物的真相。该效果会揭示被幻术隐藏的秘密。
+BUFF_FADE_TITLE	1	BUFF_FADE_TITLE::1: English	Fade Spell	隐没法术
+BUFF_FADE	1	BUFF_FADE::1: English	You are temporarily invisible; your enemies won't see you coming.	你暂时隐形；敌人不会看见你的到来。
+BUFF_DRUNK_TITLE	1	BUFF_DRUNK_TITLE::1: English	Drunk	醉酒
+BUFF_DRUNK	1	BUFF_DRUNK::1: English	You are drunk. Some stats have been raised, others lowered. Remember to drink responsibly, or you may wake up in a lake with no pants.	你喝醉了。有些数值提升，有些下降。记得适量饮酒，否则你可能醒在某个湖里，裤子都没了。
+DREAM_VAMP1_TITLE	1	DREAM_VAMP1_TITLE::1: English	Restless Sleep	辗转难眠
+DREAM_VAMP1	1	DREAM_VAMP1::1: English	Your sleep is restless; your dreams are strange. ##You see a city of sparkling towers crumble to dust in a searing light. You feel a monster slide down your throat, warming and pleasant. And you hear the screams of your mother as you flee for your life. ##You wake in a cold sweat. Blood is on your pillow.	你的睡眠不安稳；梦境古怪。##你看见一座高塔闪耀的城市在灼目的光中化为齑粉。你感到一只怪物滑下你的喉咙，温暖而惬意。你听见母亲的尖叫，而你正夺命奔逃。##你在冷汗中惊醒。枕头上是血。
+DREAM_VAMP2_TITLE	1	DREAM_VAMP2_TITLE::1: English	Strange Dreams	奇怪的梦
+DREAM_VAMP2	1	DREAM_VAMP2::1: English	You dream of a journey, through foreign towns and exotic lands. But when you return home, all has changed. You search for your friends, but cannot find them. You search for your lover, but they are gone. You find your parents; but they are dead and buried under gravestones. ##Suddenly, the future unfurls before you; plain as day. Everyone you love will turn to dust. ##You wake screaming. There is blood running down your neck.	你梦见一段旅程，穿过异国的小镇与新奇的土地。但当你回到家，一切都变了。你寻找朋友，却找不到他们。你寻找爱人，但他们已经不在。你找到了父母；他们已死去，埋在墓碑之下。##忽然，未来在你眼前展开；清晰如白昼。你爱的每个人都将化为尘土。##你尖叫着醒来。鲜血正沿着你的脖颈流下。
+DREAM_VAMP3_TITLE	1	DREAM_VAMP3_TITLE::1: English	Invigorating Dreams	振奋的梦
+DREAM_VAMP3	1	DREAM_VAMP3::1: English	You dream of soaring through the skyrealms. Your wings take you over dense forests; sprawling metropolises and crumbling ruins. You land in a field of brilliant flowers under a green star, and feel a cool breeze embrace you. ##You wake, inspired, knowing that anything is possible. You barely notice the blood on your pillow.	你梦见翱翔于天空领域。你的双翼带你越过茂密的森林；绵延的都市与崩塌的废墟。你降落在一颗绿色星辰下繁花似锦的原野，感到清凉的微风拥抱着你。##你醒来，心潮澎湃，确信一切皆有可能。你几乎没注意到枕头上的血。
+MANOR_SALE_TITLE	1	MANOR_SALE_TITLE::1: English	TO BE SOLD: Thornwood Manor	待售：荆棘木庄园
+MANOR_SALE	1	MANOR_SALE::1: English	A two hundred year manor, once stately and fine, that has fallen into disrepair. ##The manor grounds comprise an entire island, just off the south of Hallowshire. With the right investor this could be a thriving estate once more. ##For inquiries, visit the clerk in Hallow Town council.	一座两百年历史的庄园，曾气派堂皇，如今已年久失修。##庄园属地包含整座岛屿，就在哈洛郡以南近旁。若有合适的投资人，它或能重现昔日兴旺。##垂询请至哈洛镇议会找书记员。
+MANOR_CLUE_TITLE	1	MANOR_CLUE_TITLE::1: English	A Curious Find	奇怪的发现
+MANOR_CLUE_PAPERS	1	MANOR_CLUE_PAPERS::1: English	You find papers and rolls of parchment outlining the study of various monsters. ##Most seem to feature the vierme; a parasitic organism that uses its host to feed on the dreams of its prey.	你找到一些文件和成卷的羊皮纸，勾勒出对各种怪物的研究。##大多数内容都围绕维尔姆：一种寄生生物，利用宿主取食猎物的梦境。
+MANOR_CLUE_CIPHER	1	MANOR_CLUE_CIPHER::1: English	You find numerous documents on the theory and practice of cipher magic. They seem to all focus on a single spell that could imprison even the most violent of creatures, binding them to a limited radius. Some pages are torn, with sections removed. You cannot find the spell in question.	你找到大量关于密文魔法理论与实践的文件。它们似乎都聚焦于同一道法术——能把最狂暴的生物也囚禁起来，束缚在有限的范围内。有些书页被撕去，段落缺失。你找不到那道法术本身。
+MANOR_CLUE_SMITHY	1	MANOR_CLUE_SMITHY::1: English	A small smithy was in operation here; perhaps just to maintain just a limited, personal arsenal. The blades are of a strange design and rusted beyond repair. It has not been used in some time.	这里曾运营着一间小铁匠铺；或许只是用来维护一批有限的私人武备。这些剑刃设计古怪，锈蚀得无法修复。它已经有一段时间没被使用了。
+MANOR_CLUE_STATUE	1	MANOR_CLUE_STATUE::1: English	The statue has a haunting presence, but it looks as though some elements are missing. On closer inspection, this seems to be intentional. Perhaps replacing the missing parts will yield some hidden function.	这尊雕像有种萦绕人心的气息，但看起来缺了一些部件。仔细一看，这似乎是刻意为之。也许换上缺失的部分会触发某种隐藏功能。
+NOTE_MANOR_STATUE	1	NOTE_MANOR_STATUE::1: English	This statue seems to be missing something.	这尊雕像似乎缺了点什么。
+NOTE_MANOR_STATUE2	1	NOTE_MANOR_STATUE2::1: English	This statue is still missing something.	这尊雕像还缺着点什么。
+SIGN_MANOR_MINE_TITLE	1	SIGN_MANOR_MINE_TITLE::1: English	APOSTATIC UNION COUNCIL NOTICE	叛教联盟议会通告
+SIGN_MANOR_MINE	1	SIGN_MANOR_MINE::1: English	To prospective or current owners of the Thornwood Manor property: ##This mine is in disrepair and has been sealed shut. ##Its refurbishment will be included in the [[Workshop Upgrade]] available for purchase at a [[Property Station]].	致荆棘木庄园的现任或有意购买者：##此矿坑年久失修，已被封闭。##其翻修将包含在[[房产工作站]]有售的[[工坊升级]]之中。
+SIGN_MANOR_CHAPEL	1	SIGN_MANOR_CHAPEL::1: English	To prospective or current owners of the Thornwood Manor property: ##This chapel is in disrepair and has been sealed shut. ##Its refurbishment will be included in the [[Library Upgrade]] available for purchase at a [[Property Station]].	致荆棘木庄园的现任或有意购买者：##此礼拜堂年久失修，已被封闭。##其翻修将包含在[[房产工作站]]有售的[[图书室升级]]之中。
+SIGN_MANOR_CAVE	1	SIGN_MANOR_CAVE::1: English	To prospective or current owners of the Thornwood Manor property: ##This cavern annex is in disrepair and has been sealed shut. ##Its refurbishment will be included in the [[Garden Upgrade]] available for purchase at a [[Property Station]].	致荆棘木庄园的现任或有意购买者：##此洞穴附室年久失修，已被封闭。##其翻修将包含在[[房产工作站]]有售的[[花园升级]]之中。
+SIGN_CWK_MAIN_TITLE	1	SIGN_CWK_MAIN_TITLE::1: English	ATTENTION ALL CITIZENS	全体公民注意
+SIGN_CWK_MAIN1	1	SIGN_CWK_MAIN1::1: English	In response to recent Outrages by the vile SABOTEUR, Its Majesty's Servants are conducting a SECURITY OPERATION in this District.##Anyone found in violation of this Order shall be presumed an Agent of the Saboteur & treated accordingly.##LONG LIVE THE KING.##Century 0, Year 27, Month 6, Day 45	鉴于卑劣的破坏者近来犯下的暴行，它陛下的仆从正在本区执行一项安全行动。##任何违抗本命令者，一律视同破坏者的党羽，依此处置。##国王万岁。##零世纪 27 年 6 月 45 日
+SIGN_CWK_MAIN2	1	SIGN_CWK_MAIN2::1: English	It is of utmost Gravity that you immediately report all signs of Corruption to the proper Authorities in your District. KNOW THESE OMENS:##1) Unusual Behaviour or physical Defects among Livestock & other Animals.##2) Confusion in finding your Way through familiar Places.##3) Mirages of the Eye & Ear.##4) Taste or Smell of Lilac where there is no Lilac.##LONG LIVE THE KING.##Century 0, Year 26, Month 3, Day 13	务必立刻向你所在区的有关当局上报一切腐化迹象，此事关乎重大。谨记这些征兆：##1）牲畜及其他动物出现异常行为或生理缺陷。##2）在熟悉的地方迷失方向。##3）眼耳出现幻象幻听。##4）没有丁香处闻到丁香的气味或味道。##国王万岁。##零世纪 26 年 3 月 13 日
+SIGN_CWK_OLEG_TITLE	1	SIGN_CWK_OLEG_TITLE::1: English	Out Werking	上工去咧
+SIGN_CWK_OLEG	1	SIGN_CWK_OLEG::1: English	Back - Nun of your Bisnis!!! ##Strictly NO Flyers, Pamphlits, Missionrys, Carolllers, Toenaile Collectors, or other Scoundrels. ##BEWARE OF MAN. ##- Oleg Myshkin	外出——别管闲事！！！##严禁传单、小册子、传教士、唱颂歌的、收脚趾甲的，以及其他无赖之辈。##小心人类。##—— 奥列格·米什金
+SIGN_CWK_PROG_AD	1	SIGN_CWK_PROG_AD::1: English	The city of ((PROGRESS)) is where our glorious Kingdom is ((FORGING the FUTURE)) - with our own Hands. Exciting Opportunities are available for: ##Wire Weavers ##Phosphorous Whiskers ##Steam Lathe & Drill Press Operators ##Compressed Air Workers (hazard pay applies) ##Infrahull Rune Engravers (must be shorter than 4 ft 11) ##Void Fumigators & Dethaumatisers ##LONG LIVE THE KING. Century 0, Year 19, Month 6, Day 59	((进步))城是我们光荣的王国用双手((锻造未来))的地方。现诚聘以下激动人心的岗位：##织丝工 ##磷须工 ##蒸汽车床与钻床操作员 ##压缩空气工（有危险津贴）##下颅符文雕刻师（身高须低于 4 英尺 11 英寸）##虚空熏蒸员与祛魔法员##国王万岁。零世纪 19 年 6 月 59 日
+SIGN_CWK_SCHOOLHOUSE_TITLE	1	SIGN_CWK_SCHOOLHOUSE_TITLE::1: English	Emergency Work Rota	紧急工作轮值表
+SIGN_CWK_SCHOOLHOUSE	1	SIGN_CWK_SCHOOLHOUSE::1: English	Citizens Wong, Murray, Ustinov – Guarding schoolhouse ##Citizens Heinz, Krupke, Singh, Ghazaryan – Street patrol ##Citizens Roth, Doyle, Filipovich – Welfare checks & barricade maintenance ##Citizen Onwurah – Creche duty ##Citizens Gallo & Kenzie – Infirmary duty ##Citizen Muir – Quartermaster & talent show M.C.	公民王、默里、乌斯季诺夫——守卫校舍##公民海因茨、克鲁普克、辛格、加扎扬——街道巡逻##公民罗斯、多伊尔、菲利波维奇——慰问查访与路障维护##公民翁乌拉——托儿所值勤##公民加洛与肯齐——医务室值勤##公民缪尔——军需官兼才艺表演主持
+SIGN_PWYLL_LIFT_T	1	SIGN_PWYLL_LIFT_T::1: English	PWYLL FOREST	普威尔森林
+SIGN_PWYLL_LIFT	1	SIGN_PWYLL_LIFT::1: English	This platform leads down to [[Pwyll Forest.]] ##BEWARE: Unlike the newfangled dual-directional lifts of Hallowshire, this lift is one-way.	此平台通往[[普威尔森林]]。##注意：与哈洛郡那些新式双向升降机不同，这台升降机是单向的。
+DIRECTION_WAYSIGN_T	1	DIRECTION_WAYSIGN_T::1: English	Waysign Reads:	路牌上写着：
+DIRECTION_BL	1	DIRECTION_BL::1: English	This way to ##[[THE BLINDING LIGHT]]##Fortress.	此路通往##[[炫光要塞]]##堡垒。
+DIRECTION_PWYLL	1	DIRECTION_PWYLL::1: English	This way to ##[[PWYLL]],##Home to Pwyll Village.	此路通往##[[普威尔]]，##普威尔村所在之地。
+DIRECTION_PWYLLVILLAGE	1	DIRECTION_PWYLLVILLAGE::1: English	This way to ##[[PWYLL VILLAGE]],##Purveyors of the prophetic Scryshroom Tea.	此路通往##[[普威尔村]]，##先知窥菇茶的产地。
+DIRECTION_ONIONS	1	DIRECTION_ONIONS::1: English	This way to ##[[GOD WAR FORT]].##((The above has been crossed out, and someone has scrawled))##The Esteemed ROTTEN ONION Mercenary Camp	此路通往##[[神战堡垒]]。##((上面的字被划掉了，有人潦草地改写为))##尊贵的烂洋葱佣兵营地
+DIRECTION_SACREDSHROOM_NOTE	1	DIRECTION_SACREDSHROOM_NOTE::1: English	This way to ##[[THE SACRED SHROOM]].##((Someone has scrawled)) Fuck Aenguin ((underneath.))	此路通往##[[神圣蘑菇]]。##((有人潦草地写着))去他妈的安圭因((就刻在下面))
+DIRECTION_SACREDSHROOM	1	DIRECTION_SACREDSHROOM::1: English	This way to ##[[THE SACRED SHROOM]].	此路通往##[[神圣蘑菇]]。
+DIRECTION_NOGGIN	1	DIRECTION_NOGGIN::1: English	This way to ##[[THE WOBBLY NOGGIN]].##Ye Olde Pub, serving ale and providing bed and board.	此路通往##[[摇晃酒馆]]。##老式酒馆，供应麦酒，提供食宿。
+DIRECTION_HALLOWSHIRE	1	DIRECTION_HALLOWSHIRE::1: English	This way to ##[[HALLOWSHIRE]]##((A note has been added:))##Presided over by Hallow Town Council as of 1442.	此路通往##[[哈洛郡]]##((有人加了一行注记：))##自 1442 年起由哈洛镇议会管辖。
+DIRECTION_HALLOWTOWN	1	DIRECTION_HALLOWTOWN::1: English	This way to ##[[HALLOW TOWN]].##	此路通往##[[哈洛镇]]。##
+DIRECTION_RUSTBURG	1	DIRECTION_RUSTBURG::1: English	This way to ##[[RUSTBURG]].##	此路通往##[[锈堡]]。##
+DIRECTION_THORNWOOD	1	DIRECTION_THORNWOOD::1: English	This way to ##[[THORNWOOD MANOR]].##	此路通往##[[荆棘木庄园]]。##
+DIRECTION_BELLTOWER	1	DIRECTION_BELLTOWER::1: English	This way to ##[[HALLOW BELLTOWER]].## ((The sign is old and weathered.))	此路通往##[[哈洛钟楼]]。##((路牌老旧，饱经风霜。))
+DIRECTION_HALLOWCASTLE	1	DIRECTION_HALLOWCASTLE::1: English	This way to ##[[HALLOW CASTLE]].## ((Someone has scrawled)) ACCURSED PLACE ((underneath)).	此路通往##[[哈洛城堡]]。##((有人潦草地写着))受诅之地((就刻在下面))
+DIRECTION_HALLOWMINES	1	DIRECTION_HALLOWMINES::1: English	This way to ##[[HALLOW MINES]].## ((Someone has scrawled)) BANDITS ((underneath)).	此路通往##[[哈洛矿坑]]。##((有人潦草地写着))有土匪((就刻在下面))
+DIRECTION_PAEGUTHRUINS	1	DIRECTION_PAEGUTHRUINS::1: English	This way to ##[[PAEGUTH RUINS]].##	此路通往##[[帕古斯遗迹]]。##
+DIRECTION_SKIFF	1	DIRECTION_SKIFF::1: English	This way to ##[[SKIFF DOCK]].##	此路通往##[[小艇码头]]。##
+DIRECTION_ENDLESS	1	DIRECTION_ENDLESS::1: English	This way to ##[[THE ENDLESS REALM]].##	此路通往##[[无尽领域]]。##
+DIRECTION_SEPULCHRE	1	DIRECTION_SEPULCHRE::1: English	This way to ##[[THE CITY OF SEPULCHRE]].##	此路通往##[[陵墓城]]。##
+DIRECTION_CADAVERKEEP	1	DIRECTION_CADAVERKEEP::1: English	This way to ##[[CADAVER KEEP]].##	此路通往##[[尸骸要塞]]。##
+DIRECTION_FLESHFARM	1	DIRECTION_FLESHFARM::1: English	This way to ##[[FLESH FARMS]].## Please visit the esteemed PENITENT THAW for enquiries.	此路通往##[[血肉农场]]。##垂询请拜访德高望重的忏悔者·索。
+DIRECTION_ENDLESSMINES	1	DIRECTION_ENDLESSMINES::1: English	This way to ##[[THE CRYSTAL MINES]].##	此路通往##[[水晶矿坑]]。##
+DIRECTION_MINES	1	DIRECTION_MINES::1: English	This way to ##[[MINES]].##	此路通往##[[矿坑]]。##
+DIRECTION_MAUSOLEUM	1	DIRECTION_MAUSOLEUM::1: English	This way to ##[[MAUSOLEUM VII]].##	此路通往##[[七号陵墓]]。##
+DIRECTION_MAUSOLEUM2	1	DIRECTION_MAUSOLEUM2::1: English	This way to ##[[MAUSOLEUM IX]].##	此路通往##[[九号陵墓]]。##
+DIRECTION_RHYDDER	1	DIRECTION_RHYDDER::1: English	This way to ##[[THE RHYDDER ESTATE]].##	此路通往##[[里德尔庄园]]。##
+DIRECTION_DUCHESS	1	DIRECTION_DUCHESS::1: English	This way to ##[[THE DUCHESS' MANOR]].##	此路通往##[[女公爵庄园]]。##
+DIRECTION_EMBERIANRUIN	1	DIRECTION_EMBERIANRUIN::1: English	This way to ##[[EMBERIAN RUINS]].##	此路通往##[[余烬遗迹]]。##
+DIRECTION_CWK	1	DIRECTION_CWK::1: English	This way to ##[[THE CLOCKWORK KINGDOM]].## ((Someone has scrawled)) The Kingdom is BROKEN	此路通往##[[发条王国]]。##((有人潦草地写着))王国坏了
+DIRECTION_FER	1	DIRECTION_FER::1: English	This way to ##[[FERROPOLIS]],## Largest and most prosperous city in the Oneiric Isles.	此路通往##[[铁城]]，##梦幻群岛最大、最繁荣的城市。
+DIRECTION_VISIONWORKS	1	DIRECTION_VISIONWORKS::1: English	This way to ##[[ROYAL VISION WORKS]].##Inquire today about being a vision worker. The Kingdom wants your dreams!	此路通往##[[皇家幻象工坊]]。##今日垂询幻象工人职位。王国想要你的梦！
+DIRECTION_MOROZOV	1	DIRECTION_MOROZOV::1: English	This way to ##[[MOROZOV'S TOWER]].##	此路通往##[[莫罗佐夫之塔]]。##
+DIRECTION_FROST	1	DIRECTION_FROST::1: English	This way to ##[[SAMMOL'S PLACE]].## ((A note has been added crudely:))##Horace Metcalfe stories rule!	此路通往##[[萨莫尔家]]。##((有人粗鲁地加了一句：))##霍勒斯·梅特卡夫的故事最棒！
+DIRECTION_CORRUPTED	1	DIRECTION_CORRUPTED::1: English	This way to ##[[THE CORRUPTED LANDS]].##On command of the King, all citizens are forbidden entry.	此路通往##[[腐化之地]]。##奉国王之命，禁止一切公民入内。
+DIRECTION_PROGRESS	1	DIRECTION_PROGRESS::1: English	This way to ##[[THE CITY OF PROGRESS]].##((An attached note:)) These ruins are OFF-LIMITS.	此路通往##[[进步城]]。##((附有字条：))这些废墟禁止入内。
+DIRECTION_OBJGRAVE	1	DIRECTION_OBJGRAVE::1: English	This way to ##[[THE OBJECT GRAVEYARD]].##No fly-tipping!	此路通往##[[物件墓场]]。##禁止乱扔垃圾！
+DIRECTION_BEACON	1	DIRECTION_BEACON::1: English	This way to ##[[ROYAL BEACON]].##Only Machinists permitted.	此路通往##[[皇家信标]]。##仅限机械师进入。
+DIRECTION_LIBUNTRUTH	1	DIRECTION_LIBUNTRUTH::1: English	This way to ##[[THE LIBRARY OF UNTRUTH]].##	此路通往##[[虚言图书馆]]。##
+DIRECTION_CLEANUP	1	DIRECTION_CLEANUP::1: English	This way to ##[[CLEANUP CAMP]].##	此路通往##[[清理营地]]。##
+MAP_HW_MID	1	MAP_HW_MID::1: English	Central Hallowshire	哈洛郡中部
+MAP_HW_EAST	1	MAP_HW_EAST::1: English	Eastern Hallowshire, Farmland	哈洛郡东部，农田
+MAP_HW_WEST	1	MAP_HW_WEST::1: English	Western Hallowshire, Forest	哈洛郡西部，森林
+MAP_HW_SOUTH	1	MAP_HW_SOUTH::1: English	Southern Hallowshire, Marsh	哈洛郡南部，沼泽
+MAP_EN_NORTH	1	MAP_EN_NORTH::1: English	Northern Endless Region	无尽领域北部
+MAP_EN_MID	1	MAP_EN_MID::1: English	Central Endless Region	无尽领域中部
+MAP_EN_SOUTH	1	MAP_EN_SOUTH::1: English	Southern Endless Region	无尽领域南部
+MAP_ST	1	MAP_ST::1: English	Dark Star Hideout	黑星藏身处
+MAP_CWK_NORTH	1	MAP_CWK_NORTH::1: English	Northern Clockwork Kingdom	发条王国北部
+MAP_CWK_MID	1	MAP_CWK_MID::1: English	Central Clockwork Kingdom	发条王国中部
+MAP_CWK_SOUTH	1	MAP_CWK_SOUTH::1: English	Southern Clockwork Kingdom	发条王国南部
+MAP_ENDGAME_NW	1	MAP_ENDGAME_NW::1: English	North West Fringes	西北边陲
+MAP_ENDGAME_NE	1	MAP_ENDGAME_NE::1: English	North East Fringes	东北边陲
+MAP_ENDGAME_SW	1	MAP_ENDGAME_SW::1: English	South West Fringes	西南边陲
+MAP_ENDGAME_SE	1	MAP_ENDGAME_SE::1: English	South East Fringes	东南边陲
+LMRK_FARM	1	LMRK_FARM::1: English	Inquisition Raid	宗教裁判所突袭点
+LMRK_TREE	1	LMRK_TREE::1: English	Hollowed-Out Tree	空心树
+LMRK_RIVER	1	LMRK_RIVER::1: English	Vertical Shell	立式螺壳
+LMRK_HALLOWTOWN	1	LMRK_HALLOWTOWN::1: English	Hallow Town	哈洛镇
+LMRK_MAUSOLEUM_N	1	LMRK_MAUSOLEUM_N::1: English	Northern Mausoleum	北陵墓
+LMRK_MAUSOLEUM_S	1	LMRK_MAUSOLEUM_S::1: English	Southern Mausoleum	南陵墓
+LMRK_FLESH	1	LMRK_FLESH::1: English	Penitent Thaw's Flesh Farm	忏悔者·索的血肉农场
+LMRK_SEPULCHRE	1	LMRK_SEPULCHRE::1: English	Sepulchre	陵墓城
+LMRK_RHYDDER	1	LMRK_RHYDDER::1: English	Lord Rhydder's Estate	里德尔勋爵的庄园
+LMRK_VELA	1	LMRK_VELA::1: English	Vela's Fortress	薇拉的堡垒
+LMRK_BELLTOWER	1	LMRK_BELLTOWER::1: English	Bell Tower	钟楼
+LMRK_DUNGEON	1	LMRK_DUNGEON::1: English	Peaguthian Dungeon	帕古斯地牢
+LMRK_TOWER	1	LMRK_TOWER::1: English	Brigand Tower	匪徒塔楼
+LMRK_TYPHOS	1	LMRK_TYPHOS::1: English	Golden Typhos Airship	黄金热瘴号飞艇
+LMRK_CASTLE	1	LMRK_CASTLE::1: English	Hallow Castle	哈洛城堡
+LMRK_CARTO_HW	1	LMRK_CARTO_HW::1: English	Cartographer Tent	制图师帐篷
+LMRK_WITCH	1	LMRK_WITCH::1: English	Strange House	怪异小屋
+LMRK_EMBERIAN	1	LMRK_EMBERIAN::1: English	Emberian Vault	余烬金库
+LMRK_ACADEMY	1	LMRK_ACADEMY::1: English	Erudite Academy	博识学院
+LMRK_WIKKAN_ISLE	1	LMRK_WIKKAN_ISLE::1: English	Wikkan Island	维坎岛
+LMRK_RIBS	1	LMRK_RIBS::1: English	Castle of Ribs	肋骨城堡
+LMRK_WYRM	1	LMRK_WYRM::1: English	Sentient Wyrm	有灵蠕虫
+LMRK_THORNWOOD	1	LMRK_THORNWOOD::1: English	Thornwood Manor	荆棘木庄园
+LMRK_DUCHESS	1	LMRK_DUCHESS::1: English	Duchess' Estate	女公爵的庄园
+LMRK_VERDANT	1	LMRK_VERDANT::1: English	Ruins of Verdant	苍翠遗迹
+LMRK_CADAVERKEEP	1	LMRK_CADAVERKEEP::1: English	Cadaver Keep	尸骸要塞
+LMRK_RUSTBURG	1	LMRK_RUSTBURG::1: English	Rustburg	锈堡
+LMRK_EMBERIANDUNGEON	1	LMRK_EMBERIANDUNGEON::1: English	Emberian Vault	余烬金库
+LMRK_KNIGHTHIDEOUT	1	LMRK_KNIGHTHIDEOUT::1: English	Emberian Ruin	余烬遗迹
+LMRK_UNTRUTHS	1	LMRK_UNTRUTHS::1: English	Library of Untruths	虚言图书馆
+LMRK_FERROPOLIS	1	LMRK_FERROPOLIS::1: English	Ferropolis	铁城
+LMRK_CLEANUPCAMP	1	LMRK_CLEANUPCAMP::1: English	Cleanup Camp	清理营地
+LMRK_FROST	1	LMRK_FROST::1: English	Dreamer's Reprieve	造梦者的喘息
+LMRK_OBJGRAVEYARD	1	LMRK_OBJGRAVEYARD::1: English	The Object Graveyard	物件墓场
+LMRK_VISIONWORKS	1	LMRK_VISIONWORKS::1: English	The Royal Vision Works	皇家幻象工坊
+LMRK_PROGRESS	1	LMRK_PROGRESS::1: English	Lost City of Progress	进步废都
+LMRK_BEACON	1	LMRK_BEACON::1: English	The Royal Beacon	皇家信标
+LMRK_DIGGER	1	LMRK_DIGGER::1: English	Digging Engine	掘进机械
+LMRK_MOROZOV	1	LMRK_MOROZOV::1: English	Morozov's Tower	莫罗佐夫之塔
+LMRK_SACREDSHROOM	1	LMRK_SACREDSHROOM::1: English	Sacred Shroom	神圣蘑菇
+LMRK_PWYLLVILLAGE	1	LMRK_PWYLLVILLAGE::1: English	Pwyll Village	普威尔村
+LMRK_ROTTENONIONS	1	LMRK_ROTTENONIONS::1: English	Rotten Onions	烂洋葱佣兵团
+LMRK_MECH	1	LMRK_MECH::1: English	God War Machine	神战机械
+LMRK_GODSKELETON	1	LMRK_GODSKELETON::1: English	Skeleton of a God	神明骸骨
+LMRK_SNAIL	1	LMRK_SNAIL::1: English	Secret Shop	秘密商店
+LMRK_CRASHEDSHIP	1	LMRK_CRASHEDSHIP::1: English	Crashed Emberian Ship	坠毁的余烬船
+LMRK_MOLLUSC	1	LMRK_MOLLUSC::1: English	Coven of the Mollusc Castle	软体魔团城堡
+SUMMON_SKELETON_0	1	SUMMON_SKELETON_0::1: English	Bingo	宾果
+SUMMON_SKELETON_1	1	SUMMON_SKELETON_1::1: English	Screamer	尖叫者
+SUMMON_SKELETON_2	1	SUMMON_SKELETON_2::1: English	Death Rattle	临终喉音
+SUMMON_SKELETON_3	1	SUMMON_SKELETON_3::1: English	The Ripper	开膛手
+SUMMON_ARCHER_0	1	SUMMON_ARCHER_0::1: English	God Killer	弑神者
+SUMMON_ARCHER_1	1	SUMMON_ARCHER_1::1: English	Droog	德鲁格
+SUMMON_ARCHER_2	1	SUMMON_ARCHER_2::1: English	Don't Give Up	别放弃
+SUMMON_ARCHER_3	1	SUMMON_ARCHER_3::1: English	Blood Splatter	血花四溅
+SUMMON_CASTER_0	1	SUMMON_CASTER_0::1: English	Bright Bones	亮骨
+SUMMON_CASTER_1	1	SUMMON_CASTER_1::1: English	Blaster	爆破手
+SUMMON_CASTER_2	1	SUMMON_CASTER_2::1: English	Toxic Fume	毒雾
+SUMMON_CASTER_3	1	SUMMON_CASTER_3::1: English	Tomeworm	墓蠕虫
+SUMMON_SHIELD_0	1	SUMMON_SHIELD_0::1: English	The Coward	胆小鬼
+SUMMON_SHIELD_1	1	SUMMON_SHIELD_1::1: English	Town Menacer	威胁全镇者
+SUMMON_SHIELD_2	1	SUMMON_SHIELD_2::1: English	Blondy	金毛
+SUMMON_SHIELD_3	1	SUMMON_SHIELD_3::1: English	Iron Blood	铁血
+SUMMON_SPIDER_0	1	SUMMON_SPIDER_0::1: English	Rusty Jaws	锈颚
+SUMMON_SPIDER_1	1	SUMMON_SPIDER_1::1: English	Horsepower	马力
+SUMMON_SPIDER_2	1	SUMMON_SPIDER_2::1: English	Jimmy	吉米
+SUMMON_SPIDER_3	1	SUMMON_SPIDER_3::1: English	The Creature	那只怪物
+PWYLL_RITUAL_T	1	PWYLL_RITUAL_T::1: English	Occult Instruments	神秘法器
+PWYLL_RITUAL	1	PWYLL_RITUAL::1: English	Various occult instruments litter the chamber. They've been assembled in a haphazard, amateurish way - but nonetheless, they seem to be having the desired effect. A pervasive sense of dread fills the air, and while the colossal god corpse that dominates the room appears to be lifeless - you sense an eldritch presence stirring. ##Amongst the clutter you find a key, covered in tiny mushrooms. Culwych will want to hear about this.	各种神秘法器散落一室。它们的组装方式杂乱又业余——但尽管如此，似乎正产生预期的效果。空气中弥漫着无孔不入的恐惧感，虽然占据整间屋子的巨大神尸看似毫无生气——你却能感到一个邪异的存在正在苏醒。##在杂物中你找到一把钥匙，上面长满了小蘑菇。卡尔威奇会想听听这件事。
+PWYLL_NAUTILOB_T	1	PWYLL_NAUTILOB_T::1: English	Suspicious Notes	可疑的笔记
+PWYLL_NAUTILOB	1	PWYLL_NAUTILOB::1: English	The desk contains a number of scrawled notes, mostly pertaining to illusion spells. From what you find here, you can surmise that someone was trying to cast an illusion of significant scale. There are also numerous anatomical sketches of nautilobs... ##It seems that the giant monster isn't at all what it seems. It was a trick, this whole time.	书桌上有许多潦草的笔记，大多与幻术有关。从这些发现来看，你可以推断曾有人试图施展一场规模可观的幻术。还有许多鹦鹉螺妖的解剖草图……##看来那头巨型怪物根本不是它看起来的样子。从头到尾都是个骗局。
+PWYLL_MAYOR_BASEMENT_T	1	PWYLL_MAYOR_BASEMENT_T::1: English	Wikkan Antiques	维坎古物
+PWYLL_MAYOR_BASEMENT	1	PWYLL_MAYOR_BASEMENT::1: English	You find an assortment of Wikkan antiques; notes on contract-rites, old dusty garments and a number of unfamiliar instruments.	你找到一批维坎古物：契约仪式的笔记、积灰的旧衣裳，以及一些眼生的器具。
+PWYLL_SACREDSHROOM_T	1	PWYLL_SACREDSHROOM_T::1: English	A Nauseating Stench	令人作呕的恶臭
+PWYLL_SACREDSHROOM	1	PWYLL_SACREDSHROOM::1: English	The nauseating stench of bile engulfs the flesh-chamber. Before you, a huge digestional tract pulsates and throbs with corrosive acid. ##It would seem as though this mushroom has ((organs.)) ##You can just make out a figure squirming behind layers of translucent flesh; you should investigate.	令人作呕的胆汁恶臭充斥着血肉之室。你面前是一条巨大的消化道，随着腐蚀性的酸液搏动起伏。##这株蘑菇似乎长着((器官。))##你能勉强看清半透明血肉层后有个身影在扭动；你应该去调查一下。
+CRYSTALSKULL_INACTIVE	1	CRYSTALSKULL_INACTIVE::1: English	Nothing seems to happen.	似乎什么也没发生。
+CRYSTALSKULL_TIMERSTART	1	CRYSTALSKULL_TIMERSTART::1: English	You feel a sudden sense of urgency...	你突然感到一阵紧迫……
+CRYSTALSKULL_TIMERFAIL	1	CRYSTALSKULL_TIMERFAIL::1: English	Somewhere, an hourglass has run empty.	在某处，一只沙漏流尽了。
+CRYSTALSKULL_COMPLETE	1	CRYSTALSKULL_COMPLETE::1: English	A sudden sense of euphoria: all the skulls are awakened.	一阵突如其来的狂喜：所有骷髅都已苏醒。
+CRYSTALSKULL_SIGN	1	CRYSTALSKULL_SIGN::1: English	Best Record:	最佳纪录：
+CRYSTALSKULL_TIMETRIAL	1	CRYSTALSKULL_TIMETRIAL::1: English	Can you beat your fastest time?	能打破你的最快纪录吗？
+CRYSTALSKULL_FAST	1	CRYSTALSKULL_FAST::1: English	New Record!	新纪录！
+CRYSTALSKULL_SLOW	1	CRYSTALSKULL_SLOW::1: English	Too Slow...	太慢了……
+STAT_PLAYERKILLS	1	STAT_PLAYERKILLS::1: English	Player Kills	玩家击杀数
+STAT_PLAYERDEATHS	1	STAT_PLAYERDEATHS::1: English	Player Deaths	玩家死亡数
+STAT_SUMMONKILLS	1	STAT_SUMMONKILLS::1: English	Summon Kills	召唤物击杀数
+STAT_ENTICELEVEL	1	STAT_ENTICELEVEL::1: English	Entice Level	诱惑等级
+STAT_TEASDRUNK	1	STAT_TEASDRUNK::1: English	Teas Drunk	已喝茶数
+STAT_BEERSDRUNK	1	STAT_BEERSDRUNK::1: English	Beers Drunk	已喝酒数
+CONTEXT_PLAYERKILLS	1	CONTEXT_PLAYERKILLS::1: English	The total number of lives, human or otherwise,you have taken.	你夺走的生命总数，无论人还是其他。
+CONTEXT_PLAYERDEATHS	1	CONTEXT_PLAYERDEATHS::1: English	The total number of times the Chained God has pulled you back from the brink of death.	锁链神将你从死亡边缘拉回的总次数。
+CONTEXT_SUMMONKILLS	1	CONTEXT_SUMMONKILLS::1: English	The total number of lives your summoned creatures have taken in your name.	你的召唤物以你之名夺走的生命总数。
+CONTEXT_ENTICELEVEL	1	CONTEXT_ENTICELEVEL::1: English	Your current Entice Spell level, used to determine whether an enemy can be Enticed to fight for you. The base level is determined by your Charm stat, but certain modifiers can increase Entice even further.	你当前的诱惑法术等级，用于判断能否诱惑敌人为你作战。基础等级由你的魅惑属性决定，但某些加成可以进一步提升诱惑。
+CONTEXT_TEASDRUNK	1	CONTEXT_TEASDRUNK::1: English	The number of teas you have drunk. Remember to take tea breaks regularly, preferably somewhere with a lovely view.	你喝下的茶的数量。记得定期安排茶歇，最好选个风景宜人的地方。
+CONTEXT_BEERSDRUNK	1	CONTEXT_BEERSDRUNK::1: English	The number of beers you have drunk. Please drink responsibly, and do not drive your airship while under the influence.	你喝下的啤酒的数量。请适量饮酒，切勿酒后驾驶飞艇。
+INTRO_SUB1	1	INTRO_SUB1::1: English	Our world is long since shattered	我们的世界早已破碎
+INTRO_SUB2	1	INTRO_SUB2::1: English	but hope still flickers	但希望仍在闪烁
+INTRO_SUB3	1	INTRO_SUB3::1: English	in our darkest dreams.	于我们最黑暗的梦中。
+INTRO_SUB4	1	INTRO_SUB4::1: English	Few would guess that our fate would be	少有人会想到，我们的命运将
+INTRO_SUB5	1	INTRO_SUB5::1: English	decided upon the Oneiric Isles	在梦幻群岛上决出
+INTRO_SUB6	1	INTRO_SUB6::1: English	an almost forgotten archipelago	那片几乎被遗忘的群岛
+INTRO_SUB7	1	INTRO_SUB7::1: English	of the southern skyrealms.	位于南方天空领域。
+INTRO_SUB8	1	INTRO_SUB8::1: English	On these uncanny islands	在这些诡谲的岛屿上
+INTRO_SUB9	1	INTRO_SUB9::1: English	the Apostatic Union	叛教联盟
+INTRO_SUB10	1	INTRO_SUB10::1: English	power-drunk after slaughtering	在屠戮了昔日尊崇的
+INTRO_SUB11	1	INTRO_SUB11::1: English	their once exalted gods	众神之后醉于权势
+INTRO_SUB12	1	INTRO_SUB12::1: English	...maintains but a paltry presence.	……却只余微薄的势力。
+INTRO_SUB13	1	INTRO_SUB13::1: English	Under their negligent gaze	在他们疏忽的注视下
+INTRO_SUB14	1	INTRO_SUB14::1: English	the deep forests and dark places	深林与暗处
+INTRO_SUB15	1	INTRO_SUB15::1: English	teem with cutthroats... cultists	出没着刺客……邪教徒
+INTRO_SUB16	1	INTRO_SUB16::1: English	...and worse.	……以及更可怕的东西。
+INTRO_SUB17	1	INTRO_SUB17::1: English	In the desolate endless realm	在荒凉的无尽领域
+INTRO_SUB18	1	INTRO_SUB18::1: English	poor souls languish undying	可怜的灵魂不朽地憔悴着
+INTRO_SUB19	1	INTRO_SUB19::1: English	in decrepit mausoleums	在破败的陵墓中
+INTRO_SUB20	1	INTRO_SUB20::1: English	...yearning for their lost mortality.	……渴念着他们失去的凡命。
+INTRO_SUB21	1	INTRO_SUB21::1: English	While the clockwork kingdom	而发条王国
+INTRO_SUB22	1	INTRO_SUB22::1: English	ruled by the crooked logic	在其人造君主扭曲逻辑的
+INTRO_SUB23	1	INTRO_SUB23::1: English	of its manufactured monarch	统治之下
+INTRO_SUB24	1	INTRO_SUB24::1: English	strives to transform not just the realm	力图改造的不止是国度
+INTRO_SUB25	1	INTRO_SUB25::1: English	...but reality itself.	……还有现实本身。
+INTRO_SUB26	1	INTRO_SUB26::1: English	All these regions have their part to play	所有这些区域都将在这段
+INTRO_SUB27	1	INTRO_SUB27::1: English	in this unfolding story.	展开的故事中扮演一角。
+INTRO_SUB28	1	INTRO_SUB28::1: English	But it begins fathoms below in the underlands	但故事始于地下之地的深处
+INTRO_SUB29	1	INTRO_SUB29::1: English	a ruinous wasteland	一片荒废的焦土
+INTRO_SUB30	1	INTRO_SUB30::1: English	where none can draw breath for long.	无人能在此久留呼吸。
+INTRO_SUB31	1	INTRO_SUB31::1: English	It is here that a secret waits	就在这里，一个秘密等待着
+INTRO_SUB32	1	INTRO_SUB32::1: English	to be uncovered	被揭开
+INTRO_SUB33	1	INTRO_SUB33::1: English	by someone whose dreams	由一个梦想
+INTRO_SUB34	1	INTRO_SUB34::1: English	burn brighter than any.	燃得比任何人都明亮的人。
+INTRO_SUB35	1	INTRO_SUB35::1: English	...but will those dreams kindle	……但那些梦想会否燃成
+INTRO_SUB36	1	INTRO_SUB36::1: English	into a radiant destiny?	一段璀璨的命运？
+INTRO_SUB37	1	INTRO_SUB37::1: English	Or will we burn	还是我们将在妄想的
+INTRO_SUB38	1	INTRO_SUB38::1: English	...in the folly of Delusion?	……愚狂中焚尽？
+Escape	1	Escape::1: English	Escape	Esc
+Space	1	Space::1: English	Space	空格
+Enter	1	Enter::1: English	Enter	回车
+Tab	1	Tab::1: English	Tab	Tab
+Up Arrow	1	Up Arrow::1: English	Up Arrow	上方向键
+Down Arrow	1	Down Arrow::1: English	Down Arrow	下方向键
+Left Arrow	1	Left Arrow::1: English	Left Arrow	左方向键
+Right Arrow	1	Right Arrow::1: English	Right Arrow	右方向键
+Left Shift	1	Left Shift::1: English	Left Shift	左 Shift
+Right Shift	1	Right Shift::1: English	Right Shift	右 Shift
+Shift	1	Shift::1: English	Shift	Shift
+Left Alt	1	Left Alt::1: English	Left Alt	左 Alt
+Right Alt	1	Right Alt::1: English	Right Alt	右 Alt
+Alt	1	Alt::1: English	Alt	Alt
+Left Control	1	Left Control::1: English	Left Control	左 Ctrl
+Right Control	1	Right Control::1: English	Right Control	右 Ctrl
+Control	1	Control::1: English	Control	Ctrl
+Left System	1	Left System::1: English	Left System	左 Win
+Right System	1	Right System::1: English	Right System	右 Win
+Context Menu	1	Context Menu::1: English	Context Menu	菜单键
+Backspace	1	Backspace::1: English	Backspace	退格
+Page Down	1	Page Down::1: English	Page Down	Page Down
+Page Up	1	Page Up::1: English	Page Up	Page Up
+Home	1	Home::1: English	Home	Home
+End	1	End::1: English	End	End
+Insert	1	Insert::1: English	Insert	Insert
+Delete	1	Delete::1: English	Delete	Delete
+Caps Lock	1	Caps Lock::1: English	Caps Lock	Caps Lock
+Num Lock	1	Num Lock::1: English	Num Lock	Num Lock
+Print Screen	1	Print Screen::1: English	Print Screen	Print Screen
+Scroll Lock	1	Scroll Lock::1: English	Scroll Lock	Scroll Lock
+Pause/Break	1	Pause/Break::1: English	Pause/Break	Pause/Break
+Numpad Enter	1	Numpad Enter::1: English	Numpad Enter	小键盘 Enter
+Numpad /	1	Numpad /::1: English	Numpad /	小键盘 /
+Numpad *	1	Numpad *::1: English	Numpad *	小键盘 *
+Numpad +	1	Numpad +::1: English	Numpad +	小键盘 +
+Numpad -	1	Numpad -::1: English	Numpad -	小键盘 -
+Numpad .	1	Numpad .::1: English	Numpad .	小键盘 .
+Numpad =	1	Numpad =::1: English	Numpad =	小键盘 =
+Numpad 1	1	Numpad 1::1: English	Numpad 1	小键盘 1
+Numpad 2	1	Numpad 2::1: English	Numpad 2	小键盘 2
+Numpad 3	1	Numpad 3::1: English	Numpad 3	小键盘 3
+Numpad 4	1	Numpad 4::1: English	Numpad 4	小键盘 4
+Numpad 5	1	Numpad 5::1: English	Numpad 5	小键盘 5
+Numpad 6	1	Numpad 6::1: English	Numpad 6	小键盘 6
+Numpad 7	1	Numpad 7::1: English	Numpad 7	小键盘 7
+Numpad 8	1	Numpad 8::1: English	Numpad 8	小键盘 8
+Numpad 9	1	Numpad 9::1: English	Numpad 9	小键盘 9
+Numpad 0	1	Numpad 0::1: English	Numpad 0	小键盘 0
+Left Button	1	Left Button::1: English	Left Button	鼠标左键
+Right Button	1	Right Button::1: English	Right Button	鼠标右键
+Middle Button	1	Middle Button::1: English	Middle Button	鼠标中键
+Forward	1	Forward::1: English	Forward	鼠标前进键
+Back	1	Back::1: English	Back	鼠标后退键
+Left/Right	1	Left/Right::1: English	Left/Right	左/右
+Up/Down	1	Up/Down::1: English	Up/Down	上/下

@@ -1,0 +1,819 @@
+ID	Col	CellKey	English	Chinese
+p0	1	p0::English	<<Say nothing.>>	<<一言不发。>>
+inq1-1	1	inq1-1::English	Ah, Prisoner XVII? Still in one piece, I see. Good, good.	啊,十七号囚犯?看起来还完好无损。好,好。
+inq1-2	1	inq1-2::English	I am Inquisitor Ignavus. I have a proposition for you, Prisoner XVII. A proposition that may prove mutually beneficial.	我是伊格纳修斯审判官。我有个提议,十七号囚犯。一个可能对彼此都有利的提议。
+inq1-3	1	inq1-3::English	I have been tasked with apprehending a very dangerous individual. But, on assaulting her fortress, my agents have encountered a slight setback...	我奉命缉拿一个非常危险的人物。但在强攻她的堡垒时,我的特工遭遇了一点小小的挫折……
+inq1-4	1	inq1-4::English	...They are all dead.	……他们全死了。
+inq1-5	1	inq1-5::English	My superiors will not take kindly to this failure; I will be punished most severely. But, I may still have one card left to play, eh?	我的上级不会善罢甘休;我会受到最严厉的惩罚。不过,我手里或许还剩一张牌,嗯?
+inq1-6	1	inq1-6::English	So, on consideration, I am not sure your crimes warrant such a harsh sentence, Prisoner XVII. In fact, I will release you, on one condition...	所以,经过考虑,我不确定你的罪行是否配得上如此严酷的判决,十七号囚犯。事实上,我准备释放你,只有一个条件……
+inq1-7	1	inq1-7::English	...you must apprehend the most dangerous outlaw in the Apostatic Union: Vela Callose. 	……你必须缉拿叛教联盟最危险的法外之徒:薇拉·卡洛斯。
+inq0-1	1	inq0-1::English	Ah, Prisoner XVII? Still in one piece, I see. Good, good.	啊,十七号囚犯?看起来还完好无损。好,好。
+p1	1	p1::English	How am I supposed to do that? 	我怎么可能做得到?
+p2	1	p2::English	I'm not doing a damn thing you say.	你说什么我也一个字都不会照做。
+inq1-8	1	inq1-8::English	Well, you are certainly entitled to refuse. However, I should warn you that, due to an oversight, you are three hundred days overdue an execution by prolonged torture. So, you may want to heed my offer.	嗯,你当然有权拒绝。不过我得提醒你,由于一个疏忽,你的延长酷刑处决已经逾期三百天了。所以,你或许该考虑考虑我的提议。
+inq1-9	1	inq1-9::English	Now listen. Vela Callose is the leader of the Dark Star mercenary band. They are notorious for aiding cultists and god worshippers.	现在听着。薇拉·卡洛斯是黑星佣兵团的首领。他们以援助邪教徒和神明崇拜者而臭名昭著。
+inq1-10	1	inq1-10::English	Our ship is docked close to their headquarters - an old fortress from the God War. My agents launched an assault one hour ago, with... limited success.	我们的飞船就停靠在他们的总部附近——一座神之战的古老堡垒。我的特工一小时前发起了强攻,成果……有限。
+inq1-11	1	inq1-11::English	Simply follow in their footsteps, and succeed where they failed. My drones will provide you with advice, to guide you on your way. So... any questions?	你只需沿着他们的足迹,在他们失败之处取得成功。我的无人机会为你提供建议,为你引路。那么……有什么问题吗?
+p3	1	p3::English	This is a godsdamn suicide mission.	这他妈就是自杀任务。
+inq1-12	1	inq1-12::English	Not at all! Many of the Dark Star mercenaries have been killed in the assault; only a handful remain. 	完全不是!许多黑星佣兵已在强攻中丧命;只剩寥寥数人。
+inq1-13	1	inq1-13::English	My drones calculate that you have a one in four hundred and sixty five chance of success. So, worth a shot, eh?	我的无人机计算出你有四百六十五分之一的机会成功。所以,值得一试,嗯?
+p5	1	p5::English	Who is this Vela Callose, exactly?	这个薇拉·卡洛斯到底是什么人?
+inq1-14	1	inq1-14::English	She's of noble birth, would you believe. Heir to a wealthy military family in Riova.	你敢信,她出身高贵。里奥瓦一个富裕军事家族的继承人。
+inq1-15	1	inq1-15::English	She was groomed by her father for command; but after the death of her mother and sister, she fled. She started preaching nonsense about some 'heaven' and managed to rally a band of thieves and brigands to her cause.	她父亲本把她培养成统帅;但母亲和妹妹死后,她出逃了。她开始鼓吹什么"天堂"的胡话,居然拉起了一帮盗贼和匪徒为她卖命。
+inq1-16	1	inq1-16::English	They've been causing quite the ruckus around the fringes of Union territory, aiding and abetting cultists and god worshippers. Needless to say they must be stopped.	他们一直在联盟领土边缘大闹天宫,援助教唆邪教徒和神明崇拜者。不用说,必须阻止他们。
+p4	1	p4::English	I'll do my best. Goodbye. 	我会尽力。告辞。
+inq1-18	1	inq1-18::English	Very good. I'm also giving you one of our Inquisition journals. It's been constructed with state of the art cipher magic; the pages will keep track of your status.	很好。我还要给你一本我们的宗教裁判所日志。它以最先进的密文魔法制成;书页会记录你的状态。
+inq1-19	1	inq1-19::English	Oh, and a word of advice - I wouldn't try and run. This is a small island, and it's a... long way down. 	哦,还有一句忠告——我可不建议你逃跑。这是座小岛,掉下去可是……很长的一段路。
+inq1-20	1	inq1-20::English	Ah, back already? Would you like me to recap your mission?	啊,这就回来了?需要我复述一遍你的任务吗?
+p6	1	p6::English	Yeah - what am I doing, again?	好——我又要干什么来着?
+p7	1	p7::English	No need, I'll be on my way.	不必,我这就上路。
+drone1	1	drone1::English	Prisoner XVII. You have been marked for temporary release. The [[High Confessor]] will see you in the central chamber.	十七号囚犯。你已被标记为临时释放。[[至高忏悔者]]将在中央大厅见你。
+drone2	1	drone2::English	Do not keep her waiting.	别让她久等。
+p8	1	p8::English	Why am I being released?	为什么释放我?
+drone3	1	drone3::English	Only the High Confessor can answer that. But I calculate there is a eight in ten chance you will be granted the honour of a glorious and sanctifying death.	只有至高忏悔者能回答这个问题。但我计算出,有十分之八的机会,你将被赐予光荣而神圣的死亡这一殊荣。
+p9	1	p9::English	Who are you?	你是谁?
+drone4	1	drone4::English	I was a prisoner, like you. But the Inquisition, in its generosity, has made me so much more.	我曾是个囚犯,和你一样。但宗教裁判所大发慈悲,让我成为了更多。
+drone5	1	drone5::English	Cypher magic runs through my veins. My sins have been cleansed.##I am a servant of the Inquisition, now. 	密文魔法流淌在我的血管里。我的罪孽已被洗净。##我如今是宗教裁判所的仆人。
+p10	1	p10::English	I'll get going, then.	那我这就走。
+drone6	1	drone6::English	[[Damaged doors]] can be broken with a weapon.	[[破损的门]]可以用武器砸开。
+drone7	1	drone7::English	There's a [[Chest]] next to me. Pick up the [[sword]], then press [[Inventory]] to open your journal.##Navigate to the [[equipment panel]], and equip the sword into one of your weapon slots. 	我旁边有一个[[箱子]].捡起[[剑]],然后按[[物品栏]]打开你的日志。##前往[[装备面板]],把剑装备到你的一个武器槽位。
+drone8	1	drone8::English	Lastly, remember to press [[attack]] to [[unholster]] your weapon.	最后,记得按[[攻击]]来[[拔出]]你的武器。
+drone9	1	drone9::English	Though this is a meagre task, I calculate there is a one in twenty chance you will somehow perish in the attempt.	尽管这是件微不足道的小事,我计算出仍有二十分之一的机会,你会在尝试中莫名丧命。
+drone10	1	drone10::English	You managed to break the door. It seems the prison cell did not completely deteriorate your mind . But remember, hostile enemies will actually attack back, often using sharp objects.	你成功砸开了门。看来牢房还没把你的脑子完全腐蚀掉。但记住,敌对的敌人是真的会还手的,而且常用利器。
+drone11	1	drone11::English	I calculate there is a high probability you will soon be dead. 	我计算出你很快就会死去的概率相当高。
+drone12	1	drone12::English	The road ahead is patrolled by [[Dark Star]] mercenaries.	前方的道路由[[黑星]]佣兵巡逻。
+drone13	1	drone13::English	I strongly recommend [[sneaking]] through the mushrooms to [[avoid combat.]]	我强烈建议[[潜行]]穿过蘑菇丛,以[[避开战斗]]。
+drone14	1	drone14::English	It's not that I doubt your skills, Prisoner XVII. I simply calculate a three in five chance you will die horribly. 	并不是我怀疑你的本事,十七号囚犯。我只是计算出你有五分之三的概率会死得很惨。
+drone15	1	drone15::English	Remember; direct conflict is usually avoidable. Be on the lookout for ways to [[sneak past tough enemies]].	记住;正面冲突通常可以避免。留意一切能[[绕过硬骨头敌人]]的机会。
+drone16	1	drone16::English	Our agent is dying, but they still might be of use.## You may have to [[charm]] them to gain their trust.	我们的特工奄奄一息,但或许还有用处。##你可能需要[[魅惑]]他们,换取他们的信任。
+drone17	1	drone17::English	The agent may take some convincing.##You have been a prisoner for some time.	那位特工可能需要点说服。##你当囚犯已经有一阵子了。
+drone18	1	drone18::English	 I can no longer smell, but there is a high probability that you emit a foul stench.	我已经闻不到气味了,但你有很大的概率正散发着恶臭。
+drone19	1	drone19::English	Success relies on your [[Charm skill]], which is derived from the [[Persona]] attribute.	成功取决于你的[[魅惑技能]],它源自[[人格]]属性。
+droneBC1	1	droneBC1::English	[[Inquisitor Ignavius]] is waiting for you in the nearby [[Inquisition Column]], Prisoner XVII. ##We strongly recommend speaking to him before wandering forth to your highly-probable demise. 	[[伊格纳修斯审判官]]正在附近的[[宗教裁判所圆柱]]等你,十七号囚犯。##我们强烈建议在你出门赴死(概率极高)之前,先跟他说说话。
+droneBC2	1	droneBC2::English	This [[base camp]] was used as a staging ground by our Inquisition agents.##It was highly useful for them to [[brush up on their skills]] before they all went and got themselves slaughtered by Vela's mercenaries. 	这座[[大本营]]曾被我们的宗教裁判所特工用作集结地。##在他们全体出发、然后被薇拉的佣兵屠杀个精光之前,这里对[[温习技能]]非常有用。
+droneBC3	1	droneBC3::English	We would recommend using the [[training dummies]] to practise your swordplay; it may marginally increase the time between now and your inevitable demise. 	我们建议使用[[训练桩]]来练习你的剑术;这或许能略微延长从现在到你必然的死亡之间的时间。
+droneBC4	1	droneBC4::English	Looking for [[Inquisitor Ignavius]]? He has relocated to the Blinding Light fortress; you can find him near the High Confessor. 	在找[[伊格纳修斯审判官]]?他已转移到炫光要塞;你可以在至高忏悔者附近找到他。
+agent1	1	agent1::English	Are you one of the locals? <<He looks you up and down in disgust>>.##Look, just leave me be. I've failed the Inquisition. I'd rather die in peace.	你是本地人?<<他嫌恶地上下打量你>>。##听着,别管我。我辜负了宗教裁判所。我宁愿安安静静地死。
+p11	1	p11::English	@@ I'm here to help. Your Inquisitor has tasked me with capturing Vela Callose.	@@我是来帮忙的。你的审判官派我来抓薇拉·卡洛斯。
+agent2	1	agent2::English	%%<<He lets out a weary chuckle that breaks into a cough>>.	%%<<他发出一声疲惫的轻笑,笑到一半变成咳嗽>>。
+agent3	1	agent3::English	Oh my, I recognise you now. You're one of the prisoners. Gods, the Inquisitor must be really desperate.	哎呀,我认出你了。你是那些囚犯之一。神啊,审判官是真的走投无路了。
+agent4	1	agent4::English	You know you're going to die, right? Those bastards wiped out our whole echelon.	你知道你会死的,对吧?那帮混蛋把我们整个梯队都端了。
+agent5	1	agent5::English	If you insist on this fool's errand, you might find some supplies at my crashed drop pod.##Follow the river upstream and you should find it, by the waterfall.	你若执意要跑这趟傻差事,可以在我坠落的空投舱里找找补给。##沿着河往上游走,在瀑布边你应该能找到。
+agent6	1	agent6::English	&&You come to me dressed in rags, claiming to work for the Inquisition? Don't make me laugh.	&&你衣衫褴褛地跑来,声称自己为宗教裁判所办事?别逗我笑了。
+agent7	1	agent7::English	Look, just leave me be. I've failed the Inquisition. I'd rather die in peace.	听着,别管我。我辜负了宗教裁判所。我宁愿安安静静地死。
+p12	1	p12::English	Okay, I'll... leave you to it.	好吧,那……不打扰你了。
+drone20	1	drone20::English	To progress, you must unlock this door. You will need a [[lockpick]] to begin. You should find an ample supply next to me. 	要继续前进,你必须打开这扇门。你需要一把[[开锁器]]来起步。我旁边就有充足的供应。
+drone21	1	drone21::English	When picking a lock, there is always a chance you will fail and the lockpick will break. To pick locks more easily, increase your [[Lockpick Skill]].	撬锁时,总有失败并把开锁器弄断的可能。想更容易地开锁,就提升你的[[开锁技能]]。
+drone22	1	drone22::English	Mechanical locks are not the only security measure you will come across.##There is an art to disguising secrets through magical means.	机械锁并不是你会遇到的唯一安保手段。##用魔法手段掩盖秘密,也是一门艺术。
+drone23	1	drone23::English	In this room, the [[candlesticks]] on the wall have been enchanted to seal a secret passageway.##To dispell them, you will need enough [[Lore Skill]].	在这个房间里,墙上的[[烛台]]被施了魔法,封印着一条秘密通道。##要驱散它们,你需要足够的[[博识技能]]。
+drone24	1	drone24::English	The incantation will also deplete your [[Mana]] slightly.	这个咒文也会略微消耗你的[[法力]]。
+drone25	1	drone25::English	A single passageway may need several switches, so always be mindful of your surroundings.	一条通道可能需要好几个开关,所以要时刻留意周围环境。
+drone26	1	drone26::English	Over our pitiful lives, humans accrue beliefs... and delusions. When a person dies, sometimes a glimmer of who they were lingers, for a time.	在我们可怜的一生中,人类积累着信念……和妄想。当一个人死去,有时会有一缕他们生前的微光,短暂地徘徊不去。
+drone27	1	drone27::English	This ethereal skull is a [[Glimmer of Delusion]].##Collect enough and you will acquire a full [[Delusion]], which allows you to increase a [[Core Attribute]].	这颗虚渺的头骨是一枚[[妄想微光]]。##收集足够多,你就能合成一个完整的[[妄想]],用以提升一项[[核心属性]]。
+drone28	1	drone28::English	You may also develop Delusions of your own, by completing quests and overcoming challenges.	完成任务、克服挑战,你也可以孕育出自己的妄想。
+drone29	1	drone29::English	See the [[tower]] up on the cliff? That is where [[Vela Callose]] was last sighted.##Make your way to that tower and confront her. Do not tarry!	看见悬崖上那座[[塔]]了吗?那是[[薇拉·卡洛斯]]最后一次现身的地方。##前往那座塔与她当面对质。切莫拖延!
+drone30	1	drone30::English	Where are you going, Prisoner XVII? Are you attempting to run from your duty? ##If you ((must)) recuperate, the [[lift]] next to me will take you back to the [[Inquisition camp...]]	你要去哪儿,十七号囚犯?你是想逃避职责吗?##若你((非要))休整,我旁边的[[升降机]]会把你送回[[宗教裁判所营地……]]
+drone31	1	drone31::English	But Vela is still in the fortress, as we strongly suggest you [[go back inside]] and find a way to reach the [[battlements, up above.]]	但薇拉还在堡垒里,我们强烈建议你[[回到里面]],想办法登上[[上方的城垛]]。
+drone32	1	drone32::English	In this house you'll find a [[bed]] and a [[Crystal Point]]. You should make use of both.	这座房子里有一张[[床]]和一个[[水晶锚点]].两者你都该好好利用。
+drone33	1	drone33::English	Resting restores your [[Health]], [[Mana]] and [[Maximum Stamina.]] You may only rest in a bed when it's safe to do so.	休息可恢复你的[[生命]]、[[法力]]和[[最大体力]].只有在安全时才可以在床上休息。
+drone34	1	drone34::English	Crystal Points restore [[Mana]] and [[save the game]]. They also grant a [[Home Spell]], which will return you to the last used Crystal Point.	水晶锚点可恢复[[法力]]并[[保存游戏]].它们还会赋予你[[归乡法术]],可把你送回最后使用过的水晶锚点。
+drone35	1	drone35::English	Remember that [[spells]] and [[usable items]] must be equipped before use, just like weapons.	记住,[[法术]]和[[可用物品]]和武器一样,必须先装备才能使用。
+vela1-1	1	vela1-1::English	<<Vela Callose stands with gravitas, her voice piercing the clatter of the ship. You notice blood seeps from her armour; she is wounded, but hides it well.>>	<<薇拉·卡洛斯气度沉稳地站着,她的声音穿透飞船的嘈杂。你注意到鲜血正从她的铠甲里渗出;她受了伤,但掩饰得很好。>>
+vela1-2	1	vela1-2::English	Loose the sails! And why is the antigrav engine not running? ## <<Suddenly, you catch her eye.>>	升帆!反重力引擎怎么还没启动?##<<突然,你引起了她的注意。>>
+vela1-3	1	vela1-3::English	What's this, a straggler? The Dark Star company greets you. My apologies, but you have caught us at a rather... inopportune moment.	这是什么,一个掉队的?黑星佣兵团向你问好。抱歉,你来的时机实在……不太凑巧。
+vela1-p1	1	vela1-p1::English	Vela Callose, I've come to apprehend you in the name of the Inquisition.	薇拉·卡洛斯,我奉宗教裁判所之名,前来缉拿你。
+vela1-4	1	vela1-4::English	<<She throws her head back and laughs.>> ## Oh, that's good. ((You've)) come to apprehend me? You look like you need a meal and a lie down. I don't think you're in a state to apprehend a silkslug.	<<她仰头大笑。>>##哦,真有意思。((你))来缉拿我?你看起来需要吃顿饱饭再躺下歇歇。我看你这状态,连只丝蛞蝓都缉拿不了。
+vela1-5	1	vela1-5::English	Those Inquisition dogs really must be desperate, eh? Still, we can't tarry here. Events are in motion that can't be stopped.	宗教裁判所那帮狗腿子真的是走投无路了,嗯?不过,我们不能在此逗留。大势已动,无法阻挡。
+vela1-p2	1	vela1-p2::English	I've just escaped from an Inquisition prison. Can I join you?	我刚从宗教裁判所的监狱里逃出来。我能加入你们吗?
+vela1-6	1	vela1-6::English	<<She looks you up and down, smirking.>> ## I mean no offence, but the Dark Star company has certain standards. You don't quite fit the bill.	<<她上下打量你,露出得意的笑。>>##无意冒犯,但黑星佣兵团是有门槛的。你还不太够格。
+vela1-7	1	vela1-7::English	Prepare yourself, straggler. Great deeds are afoot. Deeds that will bring the Apostatic Union's tyranny to an end... and that will usher in a new age of Heaven.	准备好吧,掉队的。大事将起。这些大事将终结叛教联盟的暴政……并开启天堂的新纪元。
+vela1-8	1	vela1-8::English	And with that, we must take our leave. It's been a pleasure, but I doubt we'll meet again. 	说到这儿,我们该告辞了。与你交谈很愉快,但恐怕我们不会再见了。
+inq2-1	1	inq2-1::English	So, Vela escaped, eh? Our drones detected her vessel's departure. 	所以,薇拉逃了,嗯?我们的无人机探测到了她飞船的离开。
+inq2-p1	1	inq2-p1::English	I couldn't apprehend her. I failed. 	我没能抓住她。我失败了。
+inq2-2	1	inq2-2::English	Well, you survived, and that's something. From the looks of you, I was sure you'd be butchered almost immediately.	嗯,你活下来了,这就不容易。看你这副模样,我本来确信你转眼就会被宰了。
+inq2-p2	1	inq2-p2::English	I played your little game. Will you let me free? 	我陪你玩了你的小游戏。你会放我自由吗?
+inq2-3	1	inq2-3::English	Oh my, no, not at all. You're still a prisoner, remember? 	哎呀,不,完全不是。你还是囚犯,记得吗?
+inq2-4	1	inq2-4::English	And anyway, the deal still stands. Vela's still out there, and with you looking for her, The mission is not a failure. Not ((technically)).	而且无论如何,约定依然有效。薇拉还在外面,只要你在找她,任务就不算失败。严格((意义))上不算。
+inq2-5	1	inq2-5::English	Next, we need to ascertain where Vela may have gone. We have intel on a number of Dark Star mercenaries who flew the roost; we need to pay them a visit.	接下来,我们得查明薇拉可能去了哪里。我们掌握了数名不告而别的黑星佣兵的情报;我们得去拜访他们。
+inq2-6	1	inq2-6::English	I've arranged a meeting with Vela's former [[Quartermaster]], who will meet you in the [[Wobbly Noggin]] pub. Check your [[Quest Log]] for more information.	我已经安排好了与薇拉前[[军需官]]的会面,他将在[[摇晃酒馆]]与你碰头。更多信息请查看你的[[任务日志]]。
+inq2-7	1	inq2-7::English	In the meantime, we can use this God War fortress as a base of operations. Return here if you need to resupply.	与此同时,我们可以把这座神之战堡垒用作行动基地。需要补给就回这里来。
+inq2-8	1	inq2-8::English	I'm giving you an [[Apostatic Union Passport Document]]. It will grant access across a Union gatebridge, like the one to the south.	我发给你一份[[叛教联盟护照文件]].它可以让你通过联盟的关卡桥,比如南边那座。
+inq2-9	1	inq2-9::English	So, what are you waiting for? Get going!	那么,你还等什么?出发吧!
+bridge1	1	bridge1::English	Greetin's. The bridge is closed, unless you're the bearer of a genuine Apostatic Union passport. So if you've not got one... get lost.	你好啊。桥关着,除非你持有货真价实的叛教联盟护照。所以你要是没带……滚一边去。
+p20	1	p20::English	I've got a passport right here.	我这就带着护照。
+bridge2	1	bridge2::English	Hmm.. seal looks good. I'm not seein' any signs of magical forgery. Yup, looks like you can pass.	嗯……封印看起来没问题。没看出魔法伪造的痕迹。行,你可以过了。
+bridge3	1	bridge3::English	Looks like you 'aint got squat. Go on, get outta here.	看来你什么都没带。走吧,滚出去。
+p21	1	p21::English	Where can I get a passport?	我在哪里能弄到护照?
+bridge4	1	bridge4::English	Mostly they're granted by higher-ups in the Union. Inquisitors an' councillors and the like. But I heard there's a shop in Hallow town that sells 'em... for a hefty price.	大多由联盟的高层签发。审判官、议员之流。不过听说哈洛镇有家店卖这个……价格不菲。
+bridge5	1	bridge5::English	Remember that passports are single use. One passport grants you lifetime travel over one bridge - but no others.	记住,护照是一次性的。一本护照让你终身通行一座桥——其他桥不行。
+p22	1	p22::English	I'll be going, then.	那我走了。
+bridge6	1	bridge6::English	<<He rifles through some paperwork.>> ## Yup, looks like you're on the list. Go on, get going. 	<<他翻检了一下文件。>>##嗯,看来你在名单上。走吧,上路吧。
+birdgeEnd1	1	birdgeEnd1::English	Greetin's. This 'ere bridge leads to the Kingdom of the Endless. Nasty place full of shuffling corpses, it is.	你好啊。这座桥通往无尽者之国。鬼地方,全是拖着脚走的行尸。
+birdgeEnd2	1	birdgeEnd2::English	The bridge is closed, unless you're the bearer of a genuine Apostatic Union passport. So if you've not got one... get lost.	桥关着,除非你持有货真价实的叛教联盟护照。所以你要是没带……滚一边去。
+bridgePwyll	1	bridgePwyll::English	The Union isn't issuing new passports to Pwyll at the moment... some kind of precaution.##They're hard to come by, but someone around [[town]] might be able to help you... Have you met the [[Weightmaster]]?	联盟目前不给普威尔签发新护照……某种预防措施。##护照很难弄到,但[[镇]]上可能有人能帮你……你见过[[秤量官]]了吗?
+agentBark2	1	agentBark2::English	What are you doing? No offense, but you'd better leave this to the professionals. 	你在干什么?无意冒犯,但你最好把这交给专业人士。
+agentBark3	1	agentBark3::English	You look like you've just crawled out of a bush. What are you, some sort of escaped convict?	你这副样子像刚从灌木丛里爬出来的。你是什么人,逃犯吗?
+UnderBasaltA1R	1	UnderBasaltA1R::English	You don't look so good, Confessor. Let's make this quick.	你脸色不太好,忏悔者。我们速战速决吧。
+UnderBasaltA1	1	UnderBasaltA1::English	<<You wake with a pounding head. You gasp for breath; your lungs fill with acrid air. Everything hurts.>>	<<你在头痛欲裂中醒来。你大口喘息;肺部灌满刺鼻的空气。浑身都疼。>>
+UnderBasaltA2	1	UnderBasaltA2::English	<<Basalt eyes you without sympathy.>> ##You look like squidshit, Confessor.	<<巴索特毫无同情地看着你。>>##你看起来像一坨乌贼屎,忏悔者。
+UnderBasaltA3	1	UnderBasaltA3::English	You must feel like you've been chewed up by a typhos. Let me fill you in. ##<<He gestures around you.>> The cutter crashed.	你现在的感觉一定像被提福斯蛇嚼过一遍。让我给你补补课。##<<他指了指你周围。>>快艇坠毁了。
+UnderBasaltA4	1	UnderBasaltA4::English	Well, thought I'd spell it out for you. The curse rots one's ((mind)), after all.	嗯,我想还是给你说明白的好。毕竟那诅咒会腐蚀人的((心智))。
+UnderBasaltA5	1	UnderBasaltA5::English	Well... not ((just)) that.	嗯……不光是((那))个。
+UnderBasaltA6	1	UnderBasaltA6::English	Y'see, we'd stashed a bunch of protective suits in the cutter. Thick leather garments sealed with stitches and cipher, to ward off the miasma that clings to the air down here.	你瞧,我们在快艇里存了一批防护服。用针脚和密文封死的厚皮衣,用来抵御弥漫在这地下空气里的毒瘴。
+UnderBasaltA7	1	UnderBasaltA7::English	But... they all got burned up in the crash. The only thing we could save... <<He taps his mask.>> ...was ((this)) one.	但是……它们全在坠机时烧光了。我们唯一抢救下来的……<<他敲了敲自己的面罩。>>……就是((这))一副。
+UnderBasaltA8	1	UnderBasaltA8::English	So that dizziness? The head pain? The stinging in your lungs? I'm afraid that's the miasma. The [[curse]]. I'm... sorry.	所以那阵晕眩?头痛?肺里的刺痛?恐怕那就是毒瘴。[[诅咒]].我很……抱歉。
+UnderBasaltA9	1	UnderBasaltA9::English	<<He shrugs.>> Depends on the exposure time. If we get this done quick, you might have a chance.	<<他耸肩。>>取决于暴露时长。若我们速战速决,你或许还有机会。
+UnderBasaltA10	1	UnderBasaltA10::English	<<A muffled chuckle.>> Finders keepers, ((Confessor)). I ain't throwing my life away for yours.	<<一声闷笑。>>先到先得,((忏悔者)).我可不会拿我的命换你的。
+UnderBasaltA11	1	UnderBasaltA11::English	<<He slaps you on the shoulder.>> That's the spirit, eh? You'd 'ave made a fine Dark Star, back in the day.	<<他拍了拍你的肩膀。>>这就对了,嗯?放到从前,你本可以成为一名出色的黑星。
+UnderBasaltA12	1	UnderBasaltA12::English	<<He looks around.>> Anyway, you might be able to salvage some sorta [[protection]] down here, if you're lucky. There's been plenty of foolhardy expeditions to the Underlands, and the archaeologists - well, let's just say they don't often come ((back)).	<<他环顾四周。>>总之,你要是走运,或许能在这下面捡到某种[[防护]].来地下之地的莽夫远征队多得是,至于那些考古学家——这么说吧,他们可不常((回来))。
+UnderBasaltA13	1	UnderBasaltA13::English	The others will be fine. Frost and the Emberian have respirators built into their suits, and the Duchess... well, she's not been breathing for centuries, anyway.	其他人不会有事。弗罗斯特和余烬人的铠甲里都内置了呼吸器,女公爵嘛……反正她已经几百年没呼吸过了。
+UnderBasaltA14	1	UnderBasaltA14::English	The understorms were brutal. When you're inside the clouds you can't see shit; there's just flashes of light and deafening thunder. I tried to steer her the best I could, but... it was always gonna be a gamble.	地底风暴太凶了。在云里你什么都看不见;只有闪光和震耳欲聋的雷声。我拼尽全力稳住船,但……这本来就是一场赌博。
+UnderBasaltA15	1	UnderBasaltA15::English	Truth be told, we're only here because of the Duchess. Without her cipher wards I doubt we'd still be in one piece.	说实话,我们能到这儿全靠女公爵。没有她的密文护符,我怀疑我们早就散架了。
+UnderBasaltA16	1	UnderBasaltA16::English	We're a bit far from the mark. Orlaith - ((the Emberian)), I mean - thinks she can see the [[Cradle]] through the miasma, but it's a ways away. We'll need to cross that wasteland of rusted steel. A tall order.	我们离目标还有点远。奥莱丝——我是说((余烬人))——觉得她能透过毒瘴看见[[摇篮]],但还有一段路。我们得穿过那片锈铁荒原。这可是件苦差。
+UnderBasaltA17	1	UnderBasaltA17::English	Frost thinks our best bet is to try reaching this [[coach house]] down the road. If we're lucky, we could salvage an Emberian [[autocoach]]. I've no idea what that is, but Frost thinks it can get us through the wasteland unscathed.	弗罗斯特觉得最好的办法是沿路去那座[[车厢库]].走运的话,我们能捡到一辆余烬[[自动车厢]].我都不知道那是什么玩意,但弗罗斯特觉得它能带我们毫发无损地穿过荒原。
+UnderBasaltA18	1	UnderBasaltA18::English	It's a long shot, but, well - none of us have any better ideas.	希望渺茫,但,嗯——我们谁也没有更好的主意。
+UnderBasaltA19	1	UnderBasaltA19::English	So, as the ((leader)) of this little jaunt, we figure you'll be wanting to scout ahead, eh Confessor? ##Don't worry - we'll be right behind you. <<He winks.>>	所以,作为这趟小小远足的((领队)),我们想你肯定乐意去前面探路,对吧,忏悔者?##别担心——我们就在你身后。<<他眨眨眼。>>
+UnderBasaltA20	1	UnderBasaltA20::English	Good stuff. With that attitude, we'll be back by supper.	好样的。就这股劲头,晚饭前我们就能回去了。
+UnderBasaltA21	1	UnderBasaltA21::English	Remember: just scout a route past the machines down there, and we'll all meet up in that [[small canyon]] ahead.	记住:只需探明一条绕过下面那些机器的路线,我们就在前方那道[[小峡谷]]会合。
+UnderBasaltA22	1	UnderBasaltA22::English	Well, maybe you'll fit right in with all the nasties down here, eh? You can just... <<He makes a weaving motion with his hand.>> ...slip right by, right?	嗯,说不定你跟这底下的那些脏东西正好合拍,嗯?你就可以……<<他用手比了个穿行的动作。>>……直接溜过去,对吧?
+UnderBasaltA23	1	UnderBasaltA23::English	<<He frowns.>> Look, ((Confessor)). I'm tryna be polite, and show you some respect. But let's get one thing straight.	<<他皱眉。>>听着,((忏悔者)).我是想客客气气,给你几分尊重。但有一件事得说清楚。
+UnderBasaltA24	1	UnderBasaltA24::English	Your fancy ((High Confessor)) ain't here to prop you up. There's no Inquisition agents. No Union guards. It's just you and a bunch of ((former)) Dark Stars.	你那位了不起的((至高忏悔者))可不在这儿给你撑腰。没有宗教裁判所特工。没有联盟卫兵。只有你,和一群((前))黑星。
+UnderBasaltA25	1	UnderBasaltA25::English	So if you start tryin' ta pull rank, and order us around - how do you think that's gonna ((go)), eh?	所以你要是开始摆架子,对我们呼来喝去——你觉得那会((怎么样)),嗯?
+UnderBasaltAP1	1	UnderBasaltAP1::English	No shit.	可不是嘛。
+UnderBasaltAP2	1	UnderBasaltAP2::English	So that's why I feel awful.	所以我才感觉这么糟。
+UnderBasaltAP3	1	UnderBasaltAP3::English	So, am I going to die?	所以,我会死吗?
+UnderBasaltAP4	1	UnderBasaltAP4::English	Give me ((your)) mask. ((Now)).	把((你))的面罩给我。((现在))。
+UnderBasaltAP5	1	UnderBasaltAP5::English	I'll be fine.	我没事的。
+UnderBasaltAP6	1	UnderBasaltAP6::English	How did we crash?	我们怎么坠机的?
+UnderBasaltAP6a	1	UnderBasaltAP6a::English	How did you say we crashed?	你刚说我们是怎么坠机的?
+UnderBasaltAP7	1	UnderBasaltAP7::English	So, what's the plan?	那么,计划是什么?
+UnderBasaltAP7a	1	UnderBasaltAP7a::English	Remind me what our plan is now?	提醒我一下现在的计划?
+UnderBasaltAP8	1	UnderBasaltAP8::English	Alright. I'll get going.	好。我这就出发。
+UnderBasaltAP8a	1	UnderBasaltAP8a::English	I suppose I'll get going.	我想我该出发了。
+UnderBasaltAP9	1	UnderBasaltAP9::English	But ((I'm)) the one who's cursed.	但被诅咒的是((我))。
+UnderBasaltAP10	1	UnderBasaltAP10::English	I order ((you)) to go, instead.	我命令((你))去。
+UnderDuchessA1	1	UnderDuchessA1::English	So, we're actually here. The ominous Underlands, below the clouds.	所以,我们真的到了。云层之下,不祥的地下之地。
+UnderDuchessA2	1	UnderDuchessA2::English	Even four centuries ago, back when I could breathe fresh air, this place had a mystical quality. From Verdant we could see the twinkling lights of Emberian cities, distant and beautiful, far below us.	即便是四个世纪前,在我还能呼吸新鲜空气的时候,这地方就有一种神秘的气质。从翠绿之地,我们能看见余烬城市的闪烁灯火,遥远而美丽,在我们的下方深处。
+UnderDuchessA3	1	UnderDuchessA3::English	Once I even met one. An Emberian delegate was sent to meet with my father. They arrived in a craft of pure metal; I had never seen anything like it...	我甚至见过一次余烬人。一位余烬使者被派来与我的父亲会面。他们乘坐着一艘纯金属的飞行器而来;我从未见过那样的东西……
+UnderDuchessA4	1	UnderDuchessA4::English	But I must admit, to be here after all these years feels... underwhelming. I had thought that even in death their cities would hold a certain majesty, just as my own home still does. But this is a dreary, ugly place, strewn with rust and bone.	但我必须承认,这么多年后身处此地,感觉……令人失望。我原以为即使死去,他们的城市也会保有一份庄严,就像我的故乡至今仍有的那样。但这里只是一片阴郁丑陋之地,遍布锈铁与骸骨。
+UnderDuchessA5	1	UnderDuchessA5::English	Let us not linger more than we need to.	我们还是别作多余的逗留。
+UnderDuchessA6	1	UnderDuchessA6::English	<<She waves a hand dismissively.>> Oh, I've already done all I can. ##While you were unconscious, I sealed your organs with cipher. That should buy you some time.	<<她不以为意地挥了挥手。>>哦,我已经尽力了。##你昏迷的时候,我用密文封住了你的器官。这应该能为你争取些时间。
+UnderDuchessA7	1	UnderDuchessA7::English	<<After a moment of silence, she sighs.>> Look, Confessor. I apologise if I seem flippant. It's just... to us Endless, the plight of mortals can seem ((quaint)).	<<沉默片刻后,她叹息。>>听着,忏悔者。若我显得轻慢,我道歉。只是……对我们无尽者来说,凡人的困境有时显得颇为((别致))。
+UnderDuchessA8	1	UnderDuchessA8::English	Sure enough, you will experience ((agonising)) pain as the miasma takes hold. Your body will atrophy as it is consumed by fungi, gradually stiffening until you are rooted in place. There you will stay, for centuries or more, dimly conscious of your torment.	果不其然,当毒瘴发作时,你将经历((撕心裂肺))的剧痛。你的身体会被真菌吞噬而萎缩,逐渐僵硬,直到你扎根原地。你将在那里待上数百年甚至更久,隐隐意识到自己的苦楚。
+UnderDuchessA9	1	UnderDuchessA9::English	I know to ((you)) it probably seems like a tiresome ordeal. But to someone like myself, who has already experienced a half-millennia of anguish...	我知道对((你))而言,这或许像是一场烦人的磨难。但对像我这样已经历了五百年痛苦的人来说……
+UnderDuchessA10	1	UnderDuchessA10::English	Well, it actually sounds rather interesting. Variety is the spice of unlife, no?	嗯,这听起来其实相当有趣。变化乃不死生活的调味料,不是吗?
+UnderDuchessA11	1	UnderDuchessA11::English	Nonetheless, I do not wish this fate upon you. We should make haste.	尽管如此,我并不希望你遭此命运。我们得抓紧了。
+UnderDuchessA12	1	UnderDuchessA12::English	The Emberians were masters of fusing the ethereal with the physical; cipher with machine. Forget what petty trinkets you may have witnessed in the Clockwork Kingdom - they are mere imitations of what the Emberians could create at their peak.	余烬人曾是融合虚渺与实体的大师;密文与机械的大师。忘掉你在发条王国见过的那些小玩意吧——那不过是余烬人鼎盛时期造物的拙劣模仿。
+UnderDuchessA13	1	UnderDuchessA13::English	It is said they even made machines that could walk and talk, with functioning minds of pure cipher logic. ##As someone who has studied the art of cipher for longer than any mortal, I can tell you plain: this is no simple feat.	据说他们甚至造出了能行走、能说话的机器,拥有纯粹密文逻辑运转的心智。##以一个研习密文之术比任何凡人都久的人的身份,我可以坦白告诉你:这绝非易事。
+UnderDuchessA14	1	UnderDuchessA14::English	It has been said their creations have outlived the Emberians themselves, and still linger down here. If this was the ((only)) danger we faced, I would be rightly concerned; but it is not all.	据说他们的造物比余烬人本身活得还久,至今仍在下面游荡。若这是我们要面对的((唯一))危险,我自然会忧心;但事情不止于此。
+UnderDuchessA15	1	UnderDuchessA15::English	The World Rend was a syntax cascade that unravelled the very essence of everything it touched. Many people were killed, but some bore a worse fate; twisted into wraiths of malign intent.	世界撕裂是一场句法级联,把它触及的万物的本源都拆解了。许多人死去,但一些人遭遇了更悲惨的命运;被扭曲成心怀恶意的怨灵。
+UnderDuchessA16	1	UnderDuchessA16::English	Whatever we need to do down here, we should do it ((quickly)).	无论我们在这下面要做什么,都应该((尽快))。
+UnderDuchessA17	1	UnderDuchessA17::English	Ah, that's my [[transpositional supply tent]]. It's woven with an intricate cipher spell that distorts time and space, so it's far bigger on the inside than it appears.	啊,那是我的[[置换补给帐篷]]。它织入了精巧的密文咒语,能扭曲时空,所以内部远比外表看起来大得多。
+UnderDuchessA18	1	UnderDuchessA18::English	Feel free to use it to [[craft]] or stock up on [[supplies]]. There's also a portal that leads back to my dwelling in the Endless Realm, though at this stage I think it would be unwise to retreat; we should press on.	请随意用它来[[锻造]]或补给[[物资]]。里面还有一道传送门,通向我在无尽领域的居所,不过到了这一步,我认为撤退是不智的;我们应当继续前进。
+UnderDuchessAP1	1	UnderDuchessAP1::English	Agreed. I'll get moving.	同意。我这就动身。
+UnderDuchessAP2	1	UnderDuchessAP2::English	I'm cursed. Can you help?	我被诅咒了。你能帮忙吗?
+UnderDuchessAP3	1	UnderDuchessAP3::English	Do you know what dangers we face?	你知道我们会遇到什么危险吗?
+UnderDuchessAP4	1	UnderDuchessAP4::English	What's with the tent?	那顶帐篷是怎么回事?
+UnderEmberianA1	1	UnderEmberianA1::English	You know, all my life I've had these... recurring dreams.	你知道吗,我这辈子一直做这些……反复出现的梦。
+UnderEmberianA1R	1	UnderEmberianA1R::English	All my life I've dreamed of the Emberians' shimmering towers. And what have they left us? Nothing but fabric draped over a weak scaffold.	我这辈子都梦见余烬人熠熠生辉的高塔。而他们给我们留下了什么?不过是搭在脆弱骨架上的一层布料。
+UnderEmberianA2	1	UnderEmberianA2::English	A metropolis of light. Towers of shimmering steel and cipher. Vast ships sliding through the air like they weigh nothing at all.	一座光之都会。闪烁着钢铁与密文的高塔。巨大的飞船划过天空,仿佛毫无重量。
+UnderEmberianA3	1	UnderEmberianA3::English	<<She sighs.>> I think part of me... has always been searching for this place. Just to ((see)) it with my own eyes. ##And now I'm finally ((here)) - is this wasteland really all that's left?	<<她叹气。>>我觉得我身体里的某一部分……一直在寻找这个地方。只为亲眼((看看))它。##如今我终于((到了))——这片荒原就是剩下的一切吗?
+UnderEmberianA4	1	UnderEmberianA4::English	I thought the Emberians, for all their hubris and arrogance, had built something that would ((endure)). But maybe their achievement was just a ((dream)) after all. Nothing but fabric draped over a weak scaffold.	我以为余烬人纵有万般狂妄与傲慢,也建成了能((长存))的东西。但也许他们的成就终究只是一场((梦))。不过是搭在脆弱骨架上的一层布料。
+UnderEmberianA5	1	UnderEmberianA5::English	Far in the distance, past the fog and lightning, there's a giant metal orb. ((That's)) the [[Cradle]], the most advanced piece of tech, or magic, or ((both)), to have existed.	在遥远的远方,越过迷雾与闪电,有一个巨大的金属球。((那))就是[[摇篮]],有史以来最先进的造物,无论科技、魔法,还是((两者兼有))。
+UnderEmberianA6	1	UnderEmberianA6::English	((That's)) where Vela is; no doubt about it. She's been planning this for ((years)). And if we're going to stop her from activating it, we'd better move fast - Vela is well ahead of us already.	薇拉就((在))那里;毫无疑问。她为这件事谋划了((多年)).若要阻止她启动它,我们最好加快脚步——薇拉已经远远走在前头了。
+UnderEmberianA7	1	UnderEmberianA7::English	<<She nods.>> I'm sorry about that, Confessor. I've seen people come back from expeditions - even just from low-lying islands - afflicted with the curse.	<<她点头。>>我很遗憾,忏悔者。我见过远征归来的人——哪怕只是去过地势较低的岛屿——染上那诅咒。
+UnderEmberianA8	1	UnderEmberianA8::English	I'm sure you don't need me to tell you how bad it can be. But the Duchess has already worked her magic on you, and if we get this over with quickly, you should recover.	不用我说你也知道那有多糟。不过女公爵已经对你施过法了,只要我们快点把这事办完,你应该能恢复。
+UnderEmberianFollow1	1	UnderEmberianFollow1::English	<<She shifts her sword.>> Alright, lead the way.	<<她挪了挪剑。>>好,带路吧。
+UnderEmberianFollow2	1	UnderEmberianFollow2::English	If you say so. I'll wait here.	你说了算。我在这里等。
+UnderEmberianFollow3	1	UnderEmberianFollow3::English	<<She nods.>>	<<她点头。>>
+UnderEmberianFollow4	1	UnderEmberianFollow4::English	Something on your mind?	有心事?
+UnderEmberianFollow5	1	UnderEmberianFollow5::English	You go on ahead, Confessor. I'll make sure the others can get through safe.	你先走,忏悔者。我确保其他人安全通过。
+UnderEmberianFollow6	1	UnderEmberianFollow6::English	<<She winces.>> Taken one blow too many, Confessor. You go on ahead while I catch my breath.	<<她龇牙咧嘴。>>挨了太多下,忏悔者。你先走,我喘口气。
+UnderEmberianAP1	1	UnderEmberianAP1::English	Do you know where Vela is?	你知道薇拉在哪吗?
+UnderEmberianAP2	1	UnderEmberianAP2::English	I've been cursed by the miasma.	我被毒瘴诅咒了。
+UnderEmberianFollowP1	1	UnderEmberianFollowP1::English	Let's join arms and fight together.	我们并肩作战吧。
+UnderEmberianFollowP2	1	UnderEmberianFollowP2::English	Let's split up.	我们分头行动吧。
+UnderEmberianFollowP3	1	UnderEmberianFollowP3::English	Let's get going.	我们走吧。
+UnderFrostA1	1	UnderFrostA1::English	<<Frost is peering through a spyglass at the edifice of metal and shattered glass upon the nearby clifftop.>> ##Magnificent. The structure is very nearly intact. Imagine what it was like in its prime!	<<弗罗斯特正透过单筒望远镜,凝视着附近崖顶上那座金属与碎玻璃的巨构。>>##壮丽。这建筑几乎完好无损。想想它鼎盛时期的样子!
+UnderFrostA1R	1	UnderFrostA1R::English	<<Frost lowers his spyglass to regard you coolly.>> ##Still dallying, darling? Remember, every minute you spend down here without a mask will bring you closer to death...	<<弗罗斯特放下望远镜,冷冷地打量你。>>##还在磨蹭,亲爱的?记住,你在这下面每多待一分钟不戴面罩,就离死亡更近一步……
+UnderFrostA2	1	UnderFrostA2::English	<<He lowers the spyglass and examines you, looking remarkably unruffled by the crash.>> ##You've survived, then? Well done. Knew you had it in you.	<<他放下望远镜打量你,神情出奇地不为坠机所动。>>##那么,你活下来了?干得好。我就知道你有这本事。
+UnderFrostA3	1	UnderFrostA3::English	By all objective yardsticks, our situation is dire... and yet I can't help but feel a sense of anticipation. Uncovering the secrets of this place has been my life's work, and now we are pursuing the greatest secret of all.	按一切客观标准衡量,我们的处境岌岌可危……但我却忍不住心生期待。揭开此地的秘密是我毕生的事业,而如今我们正追寻着所有秘密中最伟大的那个。
+UnderFrostA4	1	UnderFrostA4::English	How ironic that it should be due to my own mistakes, rather than those of some comfortably long-dead civilisation... ##<<He mutters to himself.>> Keep your head in the game, Horace. Or Caxton? Whatever.	讽刺的是,造成这一切的竟是我自己的过失,而非某个早已安逸作古的文明……##<<他喃喃自语。>>专心点,霍勒斯。还是卡克斯顿?随便吧。
+UnderFrostA5	1	UnderFrostA5::English	Alas, our bumpy landing has left me without the requisite material to improvise a new [[filtration mask]]. But we're not far from where the Munro Expedition went down back in '35. ((Some)) of their equipment ((might)) still be intact.	唉,我们那趟颠簸的着陆,让我没了 improvising 一副新[[过滤面罩]]所需的材料。不过我们离'35 年门罗探险队坠毁的地方不远。他们的装备((有些))((可能))还完好。
+UnderFrostA6	1	UnderFrostA6::English	Your sole chance of survival is to [[limit your exposure]]. Every minute, every ((heartbeat)) that you spend here without a mask will bring you closer to a fate worse than death.	你唯一的生路是[[减少暴露时间]]。你在这里不戴面罩的每一分钟、每一次((心跳)),都会让你离一个比死更糟的下场更近。
+UnderFrostA7	1	UnderFrostA7::English	Should you fail, I can at least offer you the same remedy I gave my old colleague Magda. ##<<He digs in a pocket and opens his palm to reveal a little ball of some waxy substance.>>	倘若你撑不住,我至少能给你我当年给我老同事玛格达的同一剂药。##<<他在口袋里摸索,摊开手掌,露出一小团蜡状物。>>
+UnderFrostA8	1	UnderFrostA8::English	Venom of the purple-spotted typhos. Extremely deadly, and quite painless. ##She made me promise, you see.	紫斑提福斯蛇的毒液。剧毒,而且毫无痛苦。##你瞧,她要过我承诺。
+UnderFrostA9	1	UnderFrostA9::English	Then you'd better hurry. Tick-tock, my dear, tick-tock...	那你最好抓紧。滴答,亲爱的,滴答……
+UnderFrostA10	1	UnderFrostA10::English	As Willem the Slug((lover)) said to the young maid, it was only the once. Back in '33, I was chosen to lead the Clockwork Kingdom's first and only surface expedition. At the time, I considered this a high honour.	正如蛞蝓((爱好者))威廉对少女说的:仅此一次。回到'33 年,我被选中率领发条王国第一次、也是唯一一次地表远征。当时,我把这视为极高的荣誉。
+UnderFrostA11	1	UnderFrostA11::English	Only by a miracle of impromptu engineering did we fare any better than old Stultus in '26. A mere half of us died, instead of all.	多亏了临场工程的奇迹,我们才比'26 年的老斯图尔图斯那队强了一点。只死了一半人,而不是全灭。
+UnderFrostA12	1	UnderFrostA12::English	Still, chin up, eh? Back then we didn't have the [[Duchess]] with us.	不过,打起精神,对吧?那时我们可没有[[女公爵]]同行。
+UnderFrostA13	1	UnderFrostA13::English	Correct. In ancient days this entire continent was criss-crossed by an advanced transportation network, allowing the Emberians to travel hundreds of leagues per day in perfect comfort.	没错。远古时代,这片大陆被一张先进的交通网络纵横贯穿,让余烬人每天能舒舒服服地出行数百里格。
+UnderFrostA14	1	UnderFrostA14::English	These '[[autocoaches]]', as contemporary scholars have dubbed them, were propelled at high velocity along special courses by some unknown means. If you've ever been inside a modern-day [[mining operation]], you may have seen wagon tracks inspired by their example.	这些"[[自动车厢]]"——当代学者如此命名——以某种未知的方式,沿着特殊轨道高速行驶。若你进过现代的[[矿区]],或许见过受它们启发而铺设的矿车轨道。
+UnderFrostA15	1	UnderFrostA15::English	Hence, our first priority must be to get... <<He points up at the clifftop.>> ##((There)). If any such conveyance remains operable, I believe I can commandeer it.	因此,我们的头等大事是抵达……<<他指向崖顶。>>##((那里)).若还有任何一辆这样的车厢能开动,我相信我能征用它。
+UnderFrostAP1	1	UnderFrostAP1::English	I'm cursed. Can you rig up some kind of protective device?	我被诅咒了。你能弄个什么防护装置出来吗?
+UnderFrostAP1a	1	UnderFrostAP1a::English	Are you sure you can't do anything about my curse?	你确定对我的诅咒毫无办法?
+UnderFrostAP2	1	UnderFrostAP2::English	...I'll pass for now, thanks.	……这次先算了,谢谢。
+UnderFrostAP3	1	UnderFrostAP3::English	I might just take you up on that, if it comes to it.	真到那一步,我可能会考虑你的提议。
+UnderFrostAP4	1	UnderFrostAP4::English	So you've been to the Underlands before?	所以你以前来过地下之地?
+UnderFrostAP5	1	UnderFrostAP5::English	Basalt said you had some plan to get out of here.	巴索特说你有离开这里的办法。
+UnderFrostAP6	1	UnderFrostAP6::English	I suppose I'll get going.	我想我该走了。
+UnderFrostB1	1	UnderFrostB1::English	<<Frost is fiddling with a hand-held device that resembles the offspring of a dulcimer and a carriage clock.>> ##Silence, if you please. This procedure requires concentration...	<<弗罗斯特正在摆弄一台手持装置,样子像洋琴和马车钟的私生子。>>##请安静。这道工序需要专心……
+UnderFrostB2	1	UnderFrostB2::English	<<A deep mechanical boom sounds from within the wall as the door begin to grind open.>> ##Ah-((ha)).	<<随着门开始磨擦着打开,墙内响起深沉的机械轰鸣。>>##啊-((哈))。
+UnderFrostB3	1	UnderFrostB3::English	Evidently the Emberians haven't revised their sealing spells since my last visit. Rather careless of them, hm?	显然自我上次造访以来,余烬人就没修订过他们的封印咒语。可真够粗心的,嗯?
+UnderFrostB4	1	UnderFrostB4::English	Incidentally, I believe we are close to that [[crash site]] I mentioned. If you wish to survive this little jaunt, I suggest you search the area for a [[filtration mask]].	顺便说一句,我想我们离我提到的那处[[坠机点]]不远了。若你想活着走完这趟小游,我建议你在这一带找找[[过滤面罩]]。
+UnderFrostB4b	1	UnderFrostB4b::English	Incidentally, I believe we are close to where the Munro Expedition crashed back in '35. If you wish to survive this little jaunt, I suggest you [[search the wreckage]] for a working [[filtration mask]].	顺便说一句,我想我们离'35 年门罗探险队坠毁的地方不远了。若你想活着走完这趟小游,我建议你[[搜索残骸]],找一副还能用的[[过滤面罩]]。
+UnderFrostB5a	1	UnderFrostB5a::English	I do believe we are close to that [[crash site]] I mentioned. If you wish to survive this little jaunt, I suggest you search the area for a [[filtration mask]].	我确实认为,我们离我提到的那处[[坠机点]]不远了。若你想活着走完这趟小游,我建议你在这一带找找[[过滤面罩]]。
+UnderFrostB5b	1	UnderFrostB5b::English	You've found a [[filtration mask]]? Very good. I daresay Captain Munro and his crew no longer have any use for it, stars rest their souls.	你找到[[过滤面罩]]了?很好。我敢说门罗船长和他的船员已经用不上它了,愿星灵安息他们的灵魂。
+UnderFrostB6	1	UnderFrostB6::English	First, our vessel's buoyancy engine broke down upon arrival. Then our signal flares proved to be duds, so we missed our rescue rendezvous.	首先,我们飞船的浮力引擎一到就坏了。接着信号弹被证明是哑弹,于是我们错过了救援会合。
+UnderFrostB7	1	UnderFrostB7::English	Our thaumometer fritzed out at anything above 7.3 millihex. And our faulty breathing casks became over-pressurised, causing us to hallucinate.	我们的奇术测量仪一超过7.3毫赫克斯就失灵。我们的呼吸桶又因故障过度加压,害我们产生幻觉。
+UnderFrostB8	1	UnderFrostB8::English	It was my first inkling that the Clockwork Kingdom's vaunted manufacturing prowess might be in decline. ##Frankly, without my late colleague Magda, I wouldn't be standing here today.	那是我头一次隐约觉得,发条王国引以为傲的制造实力或许正在衰落。##坦白说,没有我已故的同事玛格达,我今天就不会站在这里。
+UnderFrostB9	1	UnderFrostB9::English	In the end everyone got medals, living and dead, and the King no doubt thought our discoveries many times more valuable than what we had paid for them.	最后人人都有勋章,活人死人都有,而国王无疑认为我们的发现比我们付出的代价值钱许多倍。
+UnderFrostB10	1	UnderFrostB10::English	By all means. I will remain here for a few ticks, to ensure no one is left behind.	请便。我会在这里留几个滴答,确保没人掉队。
+UnderFrostBP1	1	UnderFrostBP1::English	What happened on your last expedition, anyway?	你上次远征到底发生了什么?
+UnderFrostBP2	1	UnderFrostBP2::English	Let's keep moving.	我们继续前进吧。
+UnderBasaltB1	1	UnderBasaltB1::English	See that [[coach house]] up above? You know, that thing that looks like ((no couch house you've ever seen))?	看见上面那座[[车厢库]]了吗?就是那玩意,((不像你见过的任何车厢库))的那种?
+UnderBasaltB2	1	UnderBasaltB2::English	Well, that's where we're trying to get to. Frost reckons if there's an Emberian [[autocoach]] left intact he might be able to fix it up.	嗯,那就是我们要去的地方。弗罗斯特估计,要是还有一辆完好的余烬[[自动车厢]],他没准能修好它。
+UnderEmberianB1	1	UnderEmberianB1::English	<<She breathes heavily; the stench of machine grease is in the air.>> ##These things... really know how to fight.	<<她沉重地喘息;空气里弥漫着机油味。>>##这些东西……真懂得怎么打架。
+UnderEmberianB2	1	UnderEmberianB2::English	They ain't like the smaller ones I've seen in the Skyrealms. These ones parry and riposte my blows - they learn my moves and react accordingly. It's like they're really ((thinking)).	它们跟我在天空领域见过的小个子不一样。这些会格挡、会还击我的攻击——它们学我的招式,随机应变。就像它们真的在((思考))。
+UnderEmberianB3	1	UnderEmberianB3::English	If the Emberians built these things with just metal and magic, what ((else)) could they... create?	如果余烬人只用金属和魔法就造出了这些东西,那他们还能……((造出))什么?
+UnderEmberianB4	1	UnderEmberianB4::English	<<She shifts, suddenly uneasy in her armour, and says no more.>>	<<她挪了挪身子,忽然在铠甲中显得局促不安,不再多言。>>
+UnderDuchessB1	1	UnderDuchessB1::English	<<The Duchess is clutching her head.>> ##Ah... Confessor. I didn't... sense your presence, amongst all this ((noise)).	<<女公爵抱着头。>>##啊……忏悔者。在这一切((噪音))之中,我没……察觉到你的到来。
+UnderDuchessB2	1	UnderDuchessB2::English	I'm not in ((pain)). I'm just... overwhelmed with psychic information.	我不是在((痛))。只是……心灵信息太多了。
+UnderDuchessB3	1	UnderDuchessB3::English	I meant... ((psychic)) noise. There's so ((much)) it's hard to... shut it out.	我是说……((心灵))噪音。((多))得难以……把它隔绝在外。
+UnderDuchessB4	1	UnderDuchessB4::English	<<She gestures ahead.>> You see all this fungi? They are not like the growths we get... in the Skyrealms. They are the ((cursed)) bodies of those... <<She winces.>> ...((pitiful)) souls who survived the World Rend.	<<她指向前方。>>你看见这些真菌了吗?它们不像我们在……天空领域见到的那些。它们是那些在世界撕裂中幸存的……<<她龇牙咧嘴。>>……((可怜))灵魂的((被诅咒))躯体。
+UnderDuchessB5	1	UnderDuchessB5::English	Their fungal forms have coalesced... into a superorganism. Their minds are as one, united in anguish and misery. I can hear their silent screams, their fractured memories.	它们的真菌形态已经聚合……成一个超个体。它们的心智融为一体,在苦楚与悲惨中联结。我能听见它们无声的尖叫、破碎的记忆。
+UnderDuchessB6	1	UnderDuchessB6::English	But one voice stands out from the cacophony. A workman with a [[special key]]. I see it sliding... into an [[autocoach]] lock.	但有一个声音从这片嘈杂中脱颖而出。一个拿着[[特殊钥匙]]的工人。我看见它滑进……一把[[自动车厢]]的锁。
+UnderDuchessB7	1	UnderDuchessB7::English	He lived... in [[that house]] over yonder. I think you'd do well to pay it a visit.	他住在……那边那座[[房子]]里。我想你去拜访一下为好。
+UnderDuchessBP1	1	UnderDuchessBP1::English	Uh, are you all right?	呃,你还好吗?
+UnderDuchessBP2	1	UnderDuchessBP2::English	I thought the Endless were used to pain.	我以为无尽者早已习惯痛苦。
+UnderDuchessBP3	1	UnderDuchessBP3::English	I don't hear anything.	我什么也没听见。
+UnderBasaltC1	1	UnderBasaltC1::English	One heck of a view from up 'ere, eh Confessor? Like one of those fancy Byonnian landscape painters slurped some ((bad)) mushroom stew an' painted their fever dream. <<He chuckles.>>	这上面的景色真叫绝,是吧,忏悔者?就像哪个拜昂派山水画家灌了一肚子((变质))蘑菇汤,画出自己的高烧噩梦。<<他轻笑。>>
+UnderBasaltC2	1	UnderBasaltC2::English	We're in luck. D'ya see that [[city]] in the distance? That's where these [[autocoaches]] should take us. From there, it should be a leisurely stroll to the Cradle.	咱们运气不错。看见远处那座[[城]]了吗?这些[[自动车厢]]应该会把我们送到那儿。从那里到摇篮,应该就是悠哉漫步的距离了。
+UnderBasaltC3	1	UnderBasaltC3::English	Frost is workin' his magic, but looks like we'll still need a [[key]] to get one of the coaches goin'. ##So, you'd best get looking for one.	弗罗斯特正施着他的魔法,但看来我们还是得弄到一把[[钥匙]]才能让其中一节车厢跑起来。##所以,你最好去找一把。
+UnderBasaltC4	1	UnderBasaltC4::English	Course, it will be like looking for a needle in a heap o' shit. So, mayhaps the Duchess can help you scry one? ##Last I saw her, she was headed for the [[mushroom forest]] down there.	当然,这就像在一堆粪里找针。所以,说不定女公爵能帮你窥探出一把?##我上次见到她时,她正往下面的[[蘑菇森林]]去。
+UnderFrostC1	1	UnderFrostC1::English	<<Frost emits a torrent of bizarre epithets as he wrestles with the mechanism.>> ##Ten thousand... ((toffee))-chewing... blistering... ((confounded))... ##((FIDDLESTICKS!))	<<弗罗斯特在与机械搏斗时,喷出一连串古怪的咒骂。>>##一万句……嚼((太妃糖))的……该死的……((混账))……##((见他的大鬼!))
+UnderFrostC2	1	UnderFrostC2::English	<<He kicks the tram with one steel-capped boot. It rings like a gong.>> ##((Frog)) me backwards with a ((blinking)) battleaxe!	<<他一只包钢头的靴子踹向车厢。车厢响得像铜锣。>>##((呱))了我个倒栽葱,拿把((叮当))战斧!
+UnderFrostC3	1	UnderFrostC3::English	<<Frost looks uncharacteristically embarrassed.>> ##Please accept my profound apologies for the delay. This is quite the most advanced machine I've ever encountered, and I'm not accustomed to this degree of... ((obstinacy)).	<<弗罗斯特显得出奇地窘迫。>>##请接受我对延误的深深歉意。这是我有生以来遇见过最先进的机器,而我不习惯这种程度的……((倔强))。
+UnderFrostC4	1	UnderFrostC4::English	I've managed to restore motive power, but these [[security measures]] are startling in their elegance. I can only guess that the Emberians considered the autocoach network to be of great strategic value.	我成功恢复了动力,但这些[[安保措施]]的精妙令人咋舌。我只能猜测,余烬人认为自动车厢网络具有重要的战略价值。
+UnderFrostC5	1	UnderFrostC5::English	It all seems to revolve around some sort of [[key]]. Never fear; I'm confident I can bypass it.	一切似乎都围绕某种[[钥匙]]运转。别怕;我有信心绕过它。
+UnderFrostC6	1	UnderFrostC6::English	What? Absolutely not. That would be ((cheating)).	什么?绝对不行。那是((作弊))。
+UnderFrostCP1	1	UnderFrostCP1::English	Having trouble?	遇到麻烦了?
+UnderFrostCP2	1	UnderFrostCP2::English	You look like you could do with some help.	你看起来需要帮点忙。
+UnderFrostCP3	1	UnderFrostCP3::English	I'll just leave you alone.	那我就不打扰你了。
+UnderFrostCP4	1	UnderFrostCP4::English	Let me see if I can track down this key for you.	让我看看能不能帮你找到这把钥匙。
+UnderDuchessD1	1	UnderDuchessD1::English	When I was wandering the forest below, I could sense the memories of a thousand Emberians. I saw this place as a sprawling cityscape, with towers and palaces beyond the mastery of any Endless mason.	当我在下面的森林中游荡时,我能感受到千百个余烬人的记忆。我看见这里曾是一片延绵的城市景观,高塔与宫殿之精妙,远非任何无尽石匠所能企及。
+UnderDuchessD2	1	UnderDuchessD2::English	But to see the same city stretching before me, so ((totally)) destroyed? It's enough to make even I - who has lived many mortal lifespans - ponder the fleetingness of our feeble human exploits.	但亲眼看着同一座城在我面前铺开,却((彻底))成了废墟?这足以让我这个活过许多个凡人寿数的人,也不禁思索起我们人类渺小功业的转瞬即逝。
+UnderEmberianD1	1	UnderEmberianD1::English	I can see it, lingering on the horizon - the [[Cradle]]. She's so ((close)).	我能看见它,悬在地平线上——[[摇篮]]。她离得那么((近))。
+UnderEmberianD2	1	UnderEmberianD2::English	There's no time to tarry, Confessor. Let's hurry and get on that [[autocoach]].	没时间磨蹭了,忏悔者。快,我们上那辆[[自动车厢]]。
+UnderBasaltE1	1	UnderBasaltE1::English	Well, what are you waitin' for? Put that [[key]] into the control panel an' let's get her going.	好了,还等什么?把[[钥匙]]插进控制台,咱们让它跑起来。
+UnderBasaltE2	1	UnderBasaltE2::English	Well I'll be damned; I've never seen an airship move with such grace. Despite the storms she glides like a cutter on the clearest o' days, an' faster than anything.	我真见了鬼了;我从没见过飞艇开得这么优雅。顶着风暴,她滑行得像最晴朗天气里的小艇,还比什么都快。
+UnderDuchessE1	1	UnderDuchessE1::English	Well, go ahead and [[use the key]], Confessor. The anticipation is killing me.	好了,去[[用钥匙]]吧,忏悔者。这份期待快把我折磨死了。
+UnderDuchessE2	1	UnderDuchessE2::English	It's one thing to see it from afar, but moving through these ruins feels downright macabre. I thought Verdant was fordone, but this is so much worse.	远远看着是一回事,穿行在这些废墟之中却是另一回事,阴森得吓人。我以为翠绿之地已经够惨了,但这里还要糟得多。
+UnderEmberianE1	1	UnderEmberianE1::English	Go ahead and get this thing moving.	去吧,让这家伙动起来。
+UnderEmberianE2	1	UnderEmberianE2::English	It's the strangest thing. I've never in my life seen a device like this, but riding upon it feels... oddly familiar.	真是怪事。我这辈子从没见过这样的装置,但坐在上面却感觉……说不出的熟悉。
+UnderFrostE1	1	UnderFrostE1::English	You are a spoilsport, do you know that? I ((would)) have gotten it working without the key. All I needed was another hour. Possibly two. Seven at the very most.	你真是个扫兴鬼,你知道吗?没有钥匙我((也))能把它弄转起来。我只需要再一个小时。可能两个。最多七个。
+UnderFrostE2	1	UnderFrostE2::English	<<Frost can't help grinning as his eyes dart wildly between each passing sight.>> ##Incredible. Simply ((astounding)). Imagine how these must have ((changed)) the very ((nature)) of distance. Entire populations, migrating like birds!	<<弗罗斯特忍不住咧嘴笑,目光在掠过的景象间狂乱游移。>>##难以置信。简直是((奇迹)).想想这些一定曾((改变))了距离本身的((性质))。整整一城的人,像候鸟一样迁徙!
+UnderBasaltF1	1	UnderBasaltF1::English	Well ((I'll be)). I've been to plenty o' places in my time - from the floating ziggurats of Al-Asfara to the glittering domes o' the Riovan council chambers. But this city... even in ((ruins)) it's a spectacle.	我的((老天))。我这一辈子去过不少地方——从阿尔-阿斯法拉的漂浮神塔,到里奥瓦议事厅闪光的穹顶。但这座城市……即便沦为((废墟)),也蔚为奇观。
+UnderBasaltF2	1	UnderBasaltF2::English	<<He wipes his brow.>> Let's have a moment to take a breather. This city looks to be crawling with mechanical guards, so we need to have our wits about us.	<<他擦了擦额头。>>咱们歇口气。这城里似乎爬满了机械卫兵,我们得打起十二分精神。
+UnderBasaltF3	1	UnderBasaltF3::English	When you're ready, we'll head to the [[tallest tower]] over there. At its peak, the Duchess has scried some sort of [[autocoach]] that's angled towards the Cradle. Not gonna be an easy climb, but I ain't got any better ideas.	你准备好之后,我们就去那边那座[[最高的塔]]。女公爵窥到塔顶有一辆朝着摇篮方向的[[自动车厢]]。这一路爬上去不容易,但我也没有更好的主意。
+UnderBasaltF4	1	UnderBasaltF4::English	Still, could be worse. ##<<He points at the slums beneath the city.>> At least we don't have to go ((down there)).	不过,也可能更糟。##<<他指向城下的贫民窟。>>至少我们不用去((那下面))。
+UnderDuchessF1	1	UnderDuchessF1::English	I've erected another instance of my [[transpositional supply tent]]. Due to some clever cipher trickery, it can exist in two places at once, so you can use it to revisit the cutter crash site if you so desire.	我又立起了一顶[[置换补给帐篷]]。凭着某种巧妙的密文戏法,它能同时存在于两处,所以你若愿意,可以用它回到快艇坠毁的地方。
+UnderDuchessF2	1	UnderDuchessF2::English	That said, I feel we should not linger any longer than we need to. Let's make our way through this dreadful city as quickly as we can.	话虽如此,我觉得我们不该作多余的逗留。让我们尽快穿过这座可怕的城市。
+UnderEmberianF1	1	UnderEmberianF1::English	<<She fidgets in her armour, clearly restless.>> ##We're ((close)), Confessor. For better or worse we'll be upon Vela soon.	<<她在铠甲中扭动,明显焦躁不安。>>##我们((快到了)),忏悔者。无论好坏,我们很快就会与薇拉照面。
+UnderEmberianF2	1	UnderEmberianF2::English	But don't get careless. This city is a tangle of walkways, tunnels and crumbling masonry - it may take us a while to find a route through.	但别大意。这座城是步道、隧道和残垣的迷宫——我们可能要花些时间找路穿过去。
+UnderEmberianK	1	UnderEmberianK::English	Looks like something big's up ahead. Let's not get careless.	前面似乎有个大东西。咱们别大意。
+UnderFrostF1	1	UnderFrostF1::English	<<Frost is gawking around with innocent wonderment.>>	<<弗罗斯特带着天真的惊叹四处张望。>>
+UnderFrostF2	1	UnderFrostF2::English	Just ((look)) at that. You could fit my hometown's entire population into only a handful of these towers. How in the ((blazes)) did they support so many people?	你就((看看))那个吧。我家乡的全部人口塞进这几座塔都绰绰有余。他们到底是怎么((见鬼地))养活这么多人的?
+UnderFrostF3	1	UnderFrostF3::English	<<He snaps his fingers, looking back at you with a wild surmise in his eyes.>> ##Of course. The ((autocoaches)). Move goods and labour to wherever it's needed at lightning speed.	<<他打了个响指,回头看你,眼中闪着狂野的推测。>>##当然。((自动车厢)).以闪电般的速度,把货物和人力输送到任何需要的地方。
+UnderFrostF4	1	UnderFrostF4::English	It all fits together, do you see? They could live in the countryside and work in the city, or vice versa. Devote whole buildings, whole ((towns)), to a single purpose, utterly specialised and optimised. The Clockwork Kingdom, perfected!	一切都对上了,你明白吗?他们可以住在乡下,去城里上班,或者反过来。把整栋建筑、整座((城镇))都献给单一目标,彻底专业化、最优化。发条王国的完美形态!
+UnderBasaltG1	1	UnderBasaltG1::English	Hmph. We need to get to the [[top of this tower]], but seems like there's no staircase, and the elevator out there... <<He points at the exit.>> ...only goes ((down)).	哼。我们得登上这座[[塔顶]],但似乎没有楼梯,而外面的电梯……<<他指向出口。>>……只往((下))走。
+UnderBasaltG2	1	UnderBasaltG2::English	Looks like we're gonna be taking a trip to those [[slums]] after all. Just my blasted luck.	看来我们终究得去那片[[贫民窟]]走一遭了。真是我那该死的运气。
+UnderDuchessG1	1	UnderDuchessG1::English	It seems as though this is a theatre of some kind; how ((intriguing)). In the Endless Realm we're beset with playwrights and poets who make up for their lack of talent with an abundance of ((time)); it's strangely comforting to find a cultural parallel here.	这里似乎是一座剧院之类的场所;真((有趣)).在无尽领域,我们被剧作家和诗人包围,他们用充裕的((时间))弥补天赋的匮乏;在这里发现文化上的对应物,真是奇妙的安慰。
+UnderDuchessG2	1	UnderDuchessG2::English	I wonder. Despite their grand achievements and innumerable luxuries, do Emberian poems still lament the basest of human follies? Do their tragedies still brim with pathos and regret?	我很好奇。尽管成就辉煌、穷奢极欲,余烬人的诗歌是否仍在哀叹人类最卑下的愚行?他们的悲剧是否仍满溢着哀婉与悔恨?
+UnderEmberianG1	1	UnderEmberianG1::English	To think; this room once held hundreds of my ancestors united in merriment. I suppose this is the closest I've ever been to some sort of ((home)).	想想看;这间屋子曾容纳数百位我的祖先,一同欢庆。我想,这是我离某种((家))最近的一次。
+UnderEmberianG2	1	UnderEmberianG2::English	And yet, among these rusting, empty seats - I've never felt more alone.	然而,坐在这生锈的空座椅之间——我从未感到如此孤独。
+UnderFrostG1	1	UnderFrostG1::English	<<Frost whistles, then listens for the echo.>> ##Perfect acoustics. What is that ((creature))? A captive ghost? No; too clean. ((Mechanical)). An artificial player for a technological stage. How did they ((do)) it?	<<弗罗斯特吹了声口哨,然后倾听回声。>>##完美的音响效果。那((造物))是什么?一只被囚禁的幽灵?不;太干净了。((机械)).为科技舞台造的人工演员。他们是((怎么))做到的?
+UnderFrostG2	1	UnderFrostG2::English	((Filch)) me, just think of the possibilities. Plays performed once, then reproduced elsewhere. Like a bottled vision without the solipsism. Hear the voices, see the passions of great actors long dead. Time no obstacle, distance no barrier!	((我的老天)),想想那可能性吧。一出戏上演一次,就能在别处重现。就像瓶装幻象,却没有唯我论。聆听早已作古的伟大演员的嗓音,目睹他们的激情。时间不再是阻碍,距离不再是屏障!
+UnderFrostG3	1	UnderFrostG3::English	Was this a place of mere entertainment, or of worship too? Did art take the place of sacrament in uniting the masses? What did this place ((mean)) to the audience? Did they dress up finely, or come as they were?	这里仅仅是娱乐场所,还是也用于膜拜?艺术是否取代圣礼,凝聚了大众?这地方对观众而言((意味))着什么?他们盛装而来,还是素面朝天?
+UnderFrostG4	1	UnderFrostG4::English	((Confound)) it, if only I could spend a month in each of these buildings!	((该死)),真希望我能在每栋建筑里都待上一个月!
+UnderEmberianH1	1	UnderEmberianH1::English	These are the deplorable slums of the Emberian underclasses. Many think every Emberian must have lived like a king, but they built their sprawling cities from the blood and sweat of the poor.	这些是余烬人底层阶级的贫民窟。许多人以为每个余烬人都过得像国王,但他们的辽阔城市是用穷人的血汗筑成的。
+UnderEmberianH2	1	UnderEmberianH2::English	With such technological prowess, the Emberians could have built a paradise for every person in their empire. But I think they ((enjoyed)) the disparity. After all, for one to be considered rich, another must be destitute.	以如此的技术实力,余烬人本可以为帝国里的每个人建一座乐园。但我想他们((乐于))见到这种悬殊。毕竟,要让一人称富,必得另一人赤贫。
+UnderEmberianH3	1	UnderEmberianH3::English	It's why I could never quite believe in Vela's ambition. Call me a cynic, but... paradise is only for the periodicals. In truth, we'll always be scrambling in the mud.	所以我始终无法完全相信薇拉的抱负。说我愤世嫉俗也罢,但……乐园只存在于杂志上。说到底,我们永远都会在泥里打滚。
+UnderDuchessH1	1	UnderDuchessH1::English	As a child I would stare down from Verdant, past the clouds below, to the shimmering ocean of light that was the Emberian empire.	孩提时,我会从翠绿之地向下凝望,越过脚下的云层,望向那片波光粼粼的光之海洋——余烬帝国。
+UnderDuchessH2	1	UnderDuchessH2::English	I believed that every man, woman and child must have gone to bed with a full belly. It's strange to see that in fact, they had their serfs and peasants just the same.	我曾以为,那里的每个男人、女人和孩子都会吃饱了上床睡觉。如今才知他们也一样有农奴和佃农,真叫人感慨。
+UnderBasaltH1	1	UnderBasaltH1::English	Looks like this shaft leads back to the [[coach house]]. Use it if you need to resupply, but try no to linger; we've got a ways to go yet.	看来这条竖井通回[[车厢库]].需要补给就用它,但别久留;我们还有路要走。
+UnderBasaltH2	1	UnderBasaltH2::English	Last I saw him, Frost was repairing an [[elevator]] at the base of one of those [[giant towers]]. If it works, that should get us where we need to go	我最后一次见到他时,弗罗斯特正在其中一座[[巨塔]]脚下修[[电梯]].若修好了,那就能带我们去要去的地方
+UnderFrostH1	1	UnderFrostH1::English	No keys necessary this time, Confessor. I've applied the lessons of my inconclusive struggle with the autocoach to this recalcitrant [[elevator]], and it proved no match for Caxton Frost! I mean, Horace Metcalfe.	这次不需要钥匙了,忏悔者。我把与自动车厢那场未有定论的搏斗中学到的经验,用在了这台蛮不讲理的[[电梯]]上,事实证明它根本不是卡克斯顿·弗罗斯特的对手!我是说,霍勒斯·梅特卡夫。
+UnderFrostH2	1	UnderFrostH2::English	When you throw the lever, we shall soar like dragonflies up to the highest peaks of this metropolis. Or possibly be catapulted, if I've misjudged the velocity. ((Blow)) me, this is exhilarating!	当你扳下操纵杆,我们将像蜻蜓一样飞上这座都会的最高峰。或者,若我算错了速度,也可能被弹射出去。((老天)),这真令人振奋!
+UnderDuchessI1	1	UnderDuchessI1::English	See the [[tallest tower]] over yonder, Confessor? I've scried an autocoach at its peak that should take us to the Cradle.	看见那边那座[[最高的塔]]了吗,忏悔者?我在塔顶窥到一辆自动车厢,应该能带我们去摇篮。
+UnderDuchessI2	1	UnderDuchessI2::English	Be careful making your way across. These platforms look awfully unsteady, and it's a ((long)) way down, eh?	穿过去的时候小心点。这些平台看着摇摇晃晃,而且下面可是((很))深的,嗯?
+UnderFrostI1	1	UnderFrostI1::English	<<Frost is craning his neck to examine the ornamented ceiling.>> ##The markings are intriguing. Elaborate, yet entirely abstract. No apparent representation of figures or scenes.	<<弗罗斯特伸长脖子,端详着雕饰的天花板。>>##这些纹样耐人寻味。繁复,却全然抽象。没有明显的人物或场景描绘。
+UnderFrostI2	1	UnderFrostI2::English	Perhaps the Emberians held mathematics and geometry in higher respect than myth? ##No doubt this pattern had some ritual significance.	或许余烬人对数学与几何的尊崇胜过神话?##毫无疑问,这图案有某种仪式意义。
+UnderBasaltJ1	1	UnderBasaltJ1::English	Well, here we are at last; the ((Cradle)). Looks like no alehouse ((I've)) ever seen... <<He chuckles.>>	好了,我们终于到了;((摇篮)).看上去可不像((我))见过的任何酒馆……<<他轻笑。>>
+UnderBasaltJ2	1	UnderBasaltJ2::English	This platform should take us inside. When we get to Vela, you can do the talkin', Confessor; I reckon that's the best chance we've got. If she sees the rest of us, she'll only want to talk with her ((swords)) - what with us being ((mutineers)) an' all.	这个平台应该能带我们进去。见到薇拉时,由你来谈,忏悔者;我看这是我们最好的机会。她若看见我们其余几个,就只想用她的((剑))来谈了——毕竟我们是((叛徒))嘛。
+UnderBasaltJ3	1	UnderBasaltJ3::English	I'm guessin' your superiors want her brought in quietly, but if things go south - an' I'm betting they ((will)) - we'll have your back. ##There may only be a handful of us, but we've faced tough odds before.	我猜你的上司想让她悄无声息地落网,但若事态有变——我打赌((会))——我们会给你撑腰。##我们人虽不多,但硬仗也打过。
+UnderBasaltJ4	1	UnderBasaltJ4::English	<<He sighs.>> Oh, I ((hope)) it'll be that easy, Confessor. For our sake... an' for Vela's.	<<他叹息。>>唉,我((希望))事情能那么简单,忏悔者。为了我们……也为了薇拉。
+UnderBasaltJ5	1	UnderBasaltJ5::English	Just know that if she tries to slit yer throat, we'll be ready to jump in.	你只需知道,她若想割你的喉咙,我们随时准备冲上去。
+UnderBasaltJ6	1	UnderBasaltJ6::English	<<He nods.>> That ain't such a bad idea. She'll have plenty of loyal Dark Stars with her, so we'll want to plan our attack. Just keep her talkin' long enough.	<<他点头。>>这主意不算坏。她身边会有一大批忠诚的黑星,所以我们得计划好进攻。你只需拖住她说话,拖得够久。
+UnderBasaltJ7	1	UnderBasaltJ7::English	<<He frowns.>> I hope for ((y'er)) sake you're jokin', ((Confessor)). We 'aint trifling with petty crimes, here - Vela could tear this world ((asunder)).	<<他皱眉。>>看在((你))自己的份上,我希望你在开玩笑,((忏悔者)).我们在这里可不是闹着玩的小打小闹——薇拉能把这个世界((撕成两半))。
+UnderBasaltJ8	1	UnderBasaltJ8::English	An' if you want to ((help)) her do it, then you'll be facing my blade before you do.	而你若想((帮))她这么做,那你得先过我这把刀。
+UnderBasaltJP1	1	UnderBasaltJP1::English	I'll talk Vela into coming quietly.	我会说服薇拉乖乖就范。
+UnderBasaltJP2	1	UnderBasaltJP2::English	I'll distract her while you get ready to strike.	我去引开她的注意,你们准备动手。
+UnderBasaltJP3	1	UnderBasaltJP3::English	I'll hear her out. Maybe this plan of hers isn't so bad.	我会听她把话说完。也许她的计划没那么糟。
+UnderBasaltJP4	1	UnderBasaltJP4::English	I'm going to offer Vela my undivided assistance.	我打算全力协助薇拉。
+UnderDuchessJ1	1	UnderDuchessJ1::English	Oh my - this Cradle really is enormous, isn't it? I'm sure even the stonemasons who built our Endless mausoleums would break a sweat at the sight of ((this)).	天哪——这摇篮真是庞大,不是吗?我确信,就连建造我们无尽陵墓的石匠见了((这个))也会捏一把汗。
+UnderEmberianJ1	1	UnderEmberianJ1::English	Being here makes my stomach churn. But make no mistake; my sword will swing true.	待在这里让我翻胃。但别搞错;我的剑不会偏。
+UnderEmberianJ2	1	UnderEmberianJ2::English	If it were up to me, I'd rush Vela head on. Give her no time to ((think)) before I cleave her in two...	若由我做主,我会正面冲向薇拉。不给她((思考))的时间,直接把她劈成两半……
+UnderEmberianJ3	1	UnderEmberianJ3::English	But Basalt thinks we should hold back - assess the situation while you two have a little ((chat)). An' loath as I am to admit it, the bastard's usually ((right)).	但巴索特觉得我们应该按兵不动——趁你们俩((聊聊))的时候看清局势。虽然我很不情愿承认,但这混蛋通常((是对的))。
+UnderFrostJ1	1	UnderFrostJ1::English	<<Frost is staring at the Cradle in silent awe, his former exuberance stopped dead in its tracks.>>	<<弗罗斯特沉默而敬畏地凝视着摇篮,先前的意气风发戛然而止。>>
+UnderFrostJ2	1	UnderFrostJ2::English	I... um. Er.	我……呃。嗯。
+UnderFrostJ2b	1	UnderFrostJ2b::English	Please forgive my ineloquence. I find myself quite overcome.	请原谅我笨嘴拙舌。我实在有些情难自已。
+UnderFrostJ3	1	UnderFrostJ3::English	<<He pauses for a while as he mulls his words.>>	<<他停顿片刻,斟酌着措辞。>>
+UnderFrostJ4	1	UnderFrostJ4::English	In matters of religion, Confessor, I am my father's son. And my mother's, for that matter. Apostates to the end, they fled their homeland rather than truckle to any god.	在宗教一事上,忏悔者,我是我父亲的儿子。也是我母亲的。他们至死都是背教者,宁可逃离故土,也不向任何神明低头。
+UnderFrostJ5	1	UnderFrostJ5::English	But... this place. The power, the industry, the ((knowledge)) that its existence represents... ##I can find no other word for it but 'holy'.	可……这个地方。它的存在所代表的力量、工业、((知识))……##除了"神圣",我找不出别的词来形容。
+UnderFrostJ6	1	UnderFrostJ6::English	Is ((this)) what the devout feel towards their gods?	虔信者对诸神的感觉,((就))是这样吗?
+UnderFrostJ7	1	UnderFrostJ7::English	<<You stand there in silence together for a minute or two, gazing at the Cradle.>>	<<你们一同静立了一两分钟,凝望着摇篮。>>
+UnderFrostJP1	1	UnderFrostJP1::English	What's the matter?	怎么了?
+UnderFrostJP2	1	UnderFrostJP2::English	Aye. Me too.	是啊。我也有同感。
+AngelA1	1	AngelA1::English	<<The gargantuan creature looming overhead seems to emit a dread energy - a nauseating force that makes your bones shiver and your mind warp.>>	<<头顶那庞然巨物似乎散发着一种可怖的能量——一股令人作呕的力量,让你的骨髓战栗,心智扭曲。>>
+ShadeA1	1	ShadeA1::English	<<The figure looks around frantically, shielding its eyes all the while.>>	<<那身影疯狂地四下张望,一直遮着眼睛。>>
+ShadeA2	1	ShadeA2::English	My son! Have you seen my son? I lost him in the crowds, and I can't hear him through the screaming...	我儿子!你见过我儿子吗?我在人群里把他弄丢了,尖叫声里我听不见他的声音……
+ShadeA3	1	ShadeA3::English	<<The figure's head jerks towards you.>> ##This is no time for foolishness! The whole city flees, and my son was swept up in the commotion. If you won't help, get out of my way. 	<<那身影的头猛地转向你。>>##没时间胡闹!全城都在逃难,我儿子被卷进了骚乱。你若不肯帮忙,就别挡路。
+ShadeA4	1	ShadeA4::English	My son! My only son is lost... and... ##<<The figure hunches, convulses, speaking through sobs...>>	我儿子!我唯一的儿子丢了……而……##<<那身影蜷起身子,抽搐着,泣不成声……>>
+ShadeA5	1	ShadeA5::English	And I don't want us to die alone...	我不想我们孤零零地死去……
+ShadeAP1	1	ShadeAP1::English	Crowds? Screaming? There's nobody here. 	人群?尖叫?这里一个人也没有。
+ShadeAP2	1	ShadeAP2::English	What are you so afraid of?	你到底在怕什么?
+ShadeAP3	1	ShadeAP3::English	I... hope you find your son.	我……希望你找到你儿子。
+AvatarA1R	1	AvatarA1R::English	Greetings again, stranger. I... don't suppose you would like to see a play, before I become inoperative?	又见面了,陌生人。我……不知道你是否愿意在我停机之前,看一出戏?
+AvatarA1	1	AvatarA1::English	Ah, welcome patron! Please, take your seat. The show will begin sh--	啊,欢迎光临,贵客!请入座。演出马上就要开--
+AvatarA2	1	AvatarA2::English	<<The figure freezes. Though its face resembles a statue, it conveys a sudden horror.>>	<<那身影僵住了。虽然它的脸像一尊雕像,却流露出一瞬的惊恐。>>
+AvatarA3	1	AvatarA3::English	Cipher network... severed? Power generators... offline. City population... ((five))? ##No... no, no no... this isn't possible...	密文网络……断开?发电机……离线。城市人口……((五))?##不……不,不不……这不可能……
+AvatarA4	1	AvatarA4::English	Don't be ridiculous, it's been... ##<<It hesitates a moment, while its eyes dart between invisible targets.>> 	别开玩笑了,已经……##<<它迟疑了片刻,目光在看不见的目标间来回游移。>>
+AvatarA5	1	AvatarA5::English	It's been... ((many)) human lifetimes since I was last summoned... 	距我上次被唤起,已经过了……((许多))个人生……
+AvatarA6	1	AvatarA6::English	((Everyone?)) But half a million souls dwell here! Half a million... gone?	((所有人?))可这里住着五十万生灵!五十万……没了?
+AvatarA7	1	AvatarA7::English	This makes no sense. What of the rest of the Emberian Empire? Why have they not sent aid?	这说不通。余烬帝国其他地方呢?他们为何不来救援?
+AvatarA8	1	AvatarA8::English	But that's impossible. To bring down the Empire would require an event of colossal destruction! Something more powerful than even a --	但那不可能。要毁掉帝国,需要一场毁天灭地的浩劫!得是比一个……还要强大的东西——
+AvatarA9	1	AvatarA9::English	The Empire would not leave this city to rot. Never! But that means... ##<<The figure looks around at the sickly sky and the shattered horizon.>>	帝国不会任由这座城市腐烂。绝不会!但那就意味着……##<<那身影环顾病态的天空和破碎的地平线。>>
+AvatarA10	1	AvatarA10::English	...It can't be. The Empire ((can't)) have been destroyed. That would require something more powerful than even a --	……不可能。帝国((不可能))被毁。那得需要比一个……还要强大的东西——
+AvatarA11	1	AvatarA11::English	<<They hesitate a moment, as if lost in some revelation.>> ##More powerful than a god. 	<<它迟疑了片刻,仿佛陷入某种顿悟。>>##比一位神更强大。
+AvatarA12	1	AvatarA12::English	Then the naysayers were right. The Cradle was cursed, and those cipher scribes brought nought but doom.	那么唱反调的人是对的。摇篮受了诅咒,那些密文誊写师带来的只有毁灭。
+AvatarA13	1	AvatarA13::English	You can see it outside. ##Part ship, part laboratory. The best and brightest have been toiling away at it for years.	你在外面就能看见它。##一半是船,一半是实验室。最优秀、最聪明的人已经为它辛苦多年。
+AvatarA14	1	AvatarA14::English	It is a marvel of cipher-science, supposed to usher in a new age of human advancement. It is said to hold an entity of staggering power.	它是密文科学的奇迹,本应开启人类进步的新纪元。据说其中囚禁着一个力量骇人的实体。
+AvatarA15	1	AvatarA15::English	Well, the autocoaches are clearly out of service, so you would need to teleport between the transit-crystals.	嗯,自动车厢显然已经停运,所以你需要在传送水晶之间传送。
+AvatarA16	1	AvatarA16::English	There seems to be only one teleport spell left in the city. Longitude: three-seven-six, latitude: five-nine. ##That's... an old war bunker, deep underground. 	全城似乎只剩一道传送咒了。经度:三七六,纬度:五九。##那是……一座古老的战争地堡,在很深的地下。
+AvatarA17	1	AvatarA17::English	My records indicate it can be accessed through the city's underground tunnels... and from a secret passage in the library. ##But that's the extent of my knowledge on the matter.	我的记录显示,可以通过城市的地下隧道进入……以及图书馆里的一条密道。##我所知仅限于此了。
+AvatarA18	1	AvatarA18::English	I am required to inform you that only individuals of Class-C and above are permitted to use teleport cipher-spells. ##But... I suppose that doesn't matter, now. 	我有义务告知你,只有C级及以上人员才允许使用传送密文咒。##不过……我想现在已经无所谓了。
+AvatarA19	1	AvatarA19::English	That is a question many want to know, but the Supervisors have it under lock and key. Clearance is for Class-A individuals only.	这是许多人都想知道的问题,但监督者们把它锁得死死的。权限仅限A级人员。
+AvatarA20	1	AvatarA20::English	Still... whispers have slipped out from the Symposium. That they are constructing something of terrible potential, that could remake the world anew.	不过……还是有风声从研讨学会漏了出来。说他们在建造某种潜藏恐怖之物,能把世界彻底重塑。
+AvatarA21	1	AvatarA21::English	For spreading such rumours, I would normally be destroyed. But I suppose my supervisor is in no such position to do so. ##It is oddly liberating, to speak so freely. 	传播这样的谣言,我通常会被销毁。但我想我的监督者如今已经无力这么做了。##能如此畅所欲言,真是奇妙的解脱。
+AvatarA22	1	AvatarA22::English	And I am obliged to answer all queries. 	而我有义务回答所有询问。
+AvatarA23	1	AvatarA23::English	What am... I? Forgive my surprise, I have never been asked such a question. Times must truly have changed.	我是什么?请原谅我的惊讶,从未有人问过我这样的问题。时代想必真的变了。
+AvatarA24	1	AvatarA24::English	I am an avatar of the Emberian Empire. A construct of cipher, designed to simulate a human personality. I exist to serve the needs and whims of the populace. 	我是余烬帝国的化身。一件密文造物,设计用来模拟人类人格。我存在的意义,是服务民众的需求与心血来潮。
+AvatarA25	1	AvatarA25::English	Here, I run this amphitheatre. I was selected for my love and knowledge of drama. I have memorised a hundred plays, and can perform them by visualising a cast of spectral actors. 	在这里,我运营这座圆形剧场。我因对戏剧的热爱与学识而被选中。我熟记一百出戏,能通过构想一群幽灵演员来演出它们。
+AvatarA26	1	AvatarA26::English	But, my connection to the cipher-network has been severed. My power source dwindles, and I can already feel my cipher logic degrading. 	但我与密文网络的连接已被切断。我的能源日渐枯竭,我已经能感觉到我的密文逻辑在退化。
+AvatarA27	1	AvatarA27::English	It is strange. I have recited profundities on death and mortality a thousand-fold, yet I still do not feel... ready. 	真奇怪。我背诵过千百遍关于死亡与终局的高深台词,却仍不觉得……做好了准备。
+AvatarA28	1	AvatarA28::English	Albertus is the third-largest city in Emberia, and the sixth largest of the wider empire. ##Or, I suppose it... ((was)). 	阿尔贝图斯是余烬的第三大城市,在全帝国排第六。##或者说,它((曾))是。
+AvatarA29	1	AvatarA29::English	It was a city known for its scientific prowess. Every day, thousands of people clogged the autocoach networks, commuting to their labour halls. Every day, the cipher-network was refined and expanded for the betterment of the Empire.	它曾是一座以科学实力闻名的城市。每天,成千上万的人挤满自动车厢网络,通勤去各自的劳作厅。每天,密文网络都在为帝国的福祉而精进和扩张。
+AvatarA30	1	AvatarA30::English	It was said this city would prosper for a thousand years.   	据说这座城市会繁荣一千年。
+AvatarA31	1	AvatarA31::English	As you wish.	如你所愿。
+AvatarA32	1	AvatarA32::English	<<The avatar's face is impassive, but you'd swear you hear a scintilla of sorrow in its voice.>> ##As you wish. Please enjoy our fair city.	<<化身的面孔毫无表情,但你敢发誓,你在它的声音里听见了一丝哀伤。>>##如你所愿。请欣赏我们美丽的城市。
+AvatarAP1	1	AvatarAP1::English	Be calm. Whatever happened here, happened long ago.	冷静。无论这里发生过什么,都是很久以前的事了。
+AvatarAP2	1	AvatarAP2::English	Yup, everyone here is very much dead. 	对,这里所有人都死透了。
+AvatarAP3	1	AvatarAP3::English	The Emberians are dead. The planet's surface is nothing but ash. 	余烬人都死了。星球表面只剩灰烬。
+AvatarAP4	1	AvatarAP4::English	You're Emberian, right? Why can't ((you)) tell ((me?)) 	你是余烬人,对吧?为什么((你))不能告诉((我?))
+AvatarAP5a	1	AvatarAP5a::English	Wait, did you say Cradle?	等等,你是说摇篮?
+AvatarAP5b	1	AvatarAP5b::English	Tell me more about the Cradle.	多跟我讲讲摇篮。
+AvatarAP6	1	AvatarAP6::English	I have questions about this place...	关于这个地方我有问题……
+AvatarAP7	1	AvatarAP7::English	I'd better get going.	我最好走了。
+AvatarAP8	1	AvatarAP8::English	I need to get up there. Can you help? 	我得上去。你能帮忙吗?
+AvatarAP9	1	AvatarAP9::English	What's inside the Cradle?	摇篮里面有什么?
+AvatarAP10	1	AvatarAP10::English	I have other questions I want to ask you.	我还有别的问题想问你。
+AvatarAP11	1	AvatarAP11::English	What are you?	你是什么?
+AvatarAP12	1	AvatarAP12::English	Can you tell me about this city? 	你能跟我讲讲这座城市吗?
+AvatarAP13	1	AvatarAP13::English	That's all I wanted to know. 	我想了解的就这些了。
+ShadeB1	1	ShadeB1::English	This damned autocoach is late ((again!)) I ((can't)) be late. I'm behind on my quota! I could have my class-rank degraded... oh, gods... 	这该死的自动车厢又((晚了!))我((不能))迟到。我的定额已经落后了!我的阶级等级可能会被降级……哦,神啊……
+ShadeB2	1	ShadeB2::English	The driver's late - ((again)) - so the doors are locked tight.	司机迟到了——((又))是——所以车门锁得死死的。
+ShadeB3	1	ShadeB3::English	You'd need at least a Class-C security pass to bypass those doors. Not that you'd find any Class-C citizens rubbing shoulders with us commuters - they'll be in the noble district, admiring the mushroom horticulture. 	你至少需要C级通行证才能绕过那些门。不过你也不会找到哪个C级公民跟我们这些通勤者挤在一起——他们都在贵族区,欣赏蘑菇园艺呢。
+ShadeB4	1	ShadeB4::English	Hmm? What nonsense are you talking about? I work for one of the premiere cipher-spell combines in the Empire, and they have ((high standards!))	嗯?你在胡说什么?我为帝国顶尖的密文咒联合企业之一工作,他们的((标准很高!))
+ShadeB5	1	ShadeB5::English	<<The figure looks around suddenly.>> ##Wait, what's that light? It's getting awfully hot in here...	<<那身影突然环顾四周。>>##等等,那是什么光?这里热得吓人……
+ShadeBP1	1	ShadeBP1::English	I need to get past this carriage. Any ideas?	我得穿过这节车厢。有什么主意吗?
+ShadeBP2	1	ShadeBP2::English	I'm not sure your employers will mind, seeing as they're dead.	我觉得你的雇主们不会介意,毕竟他们都死了。
+ShadeBP3	1	ShadeBP3::English	Good luck with that.	祝你好运。
+UnderVela1	1	UnderVela1::English	<<Vela stands with poise, her commands booming through the chamber as Dark Star mercenaries scurry at her beck and call.>>	<<薇拉从容而立,她的号令在大厅中轰然回响,黑星佣兵们随传随到、四处奔走。>>
+UnderVela2	1	UnderVela2::English	<<Vela's head snaps around, her eyes fixed upon you. She turns with one hand on her sword hilt.>>	<<薇拉的头猛地转过来,双眼锁定你。她一手按在剑柄上,转过身来。>>
+UnderVela3	1	UnderVela3::English	<<You creep towards Vela, your soft steps muffled by the clamour. You're nearly close enough to intervene when her head snaps around; her eyes fixed upon you.>>	<<你悄悄逼近薇拉,轻缓的脚步被嘈杂掩盖。你几乎近到可以出手,她的头却猛地转了过来;双眼锁定你。>>
+UnderVela4	1	UnderVela4::English	((Silence!)) <<Vela's voice cuts through the air, her piercing gaze meeting your own.>>	((肃静!))<<薇拉的声音划破空气,锐利的目光与你相接。>>
+UnderVela5	1	UnderVela5::English	An intruder? ((Here?)) We're ((leagues)) under the Skyrealms, in a place as dangerous as it is inhospitable. You must be incredibly capable or ((extremely)) stupid to follow me here. 	不速之客?((在这里?))我们在天空领域之下((数千里格))的地方,一处既危险又不宜居之地。能跟到这里,你要么本领惊人,要么((蠢得))出奇。
+UnderVela6	1	UnderVela6::English	<<She squints.>> Hold on - you're that whelp who had the ((gall)) to approach me on the Blinding Light, aren't you?  ##<<A thin smile spreads across her lips.>> My, you've had quite the journey, inquisitor. I almost didn't recognise you. 	<<她眯起眼。>>等等——你就是那个((胆敢))在炫光要塞上接近我的小崽子,对吧?##<<一抹浅笑爬上她的嘴角。>>哎呀,你这趟旅程不短啊,审判官。我差点没认出你。
+UnderVela7	1	UnderVela7::English	But you must have had help. <<She ponders a moment.>> ##Only Orlaith saw the map that led here. She wouldn't have decided to come on her own - so Basalt must have convinced her. 	但你一定有人相助。<<她思忖片刻。>>##只有奥莱丝见过通往这里的地图。她不会自己决定前来——所以一定是巴索特说服了她。
+UnderVela7a	1	UnderVela7a::English	And if he was putting a team together, Caxton Frost would be top of that list. Maybe the Duchess as well...	而他若在组队,卡克斯顿·弗罗斯特必在名单之首。也许还有女公爵……
+UnderVela8	1	UnderVela8::English	<<She shakes her head.>> But it can't just be Basalt leading this. He'd never have joined the Inquisition without persuasion. It can only be... ((Caer)). 	<<她摇头。>>但这不可能只是巴索特在牵头。不经劝说,他绝不会加入宗教裁判所。只可能是……((凯尔))。
+UnderVela9	1	UnderVela9::English	You don't deny it? <<She grins.>> ##So, a pack of traitors, led by a fledgling Inquisitor, have come to nip at my heels. Tell me - just ((what)) are you hoping to achieve? 	你不否认?<<她咧嘴笑。>>##所以,一伙叛徒,在一个初出茅庐的审判官带领下,跑来咬我的脚后跟了。告诉我——你们究竟((想))达到什么目的?
+UnderVela10	1	UnderVela10::English	((Madness?)) Hah! Is ((that)) what they claim? ##It is the people of the ((Skyrealms)) who have lost all sense of reason. I only seek to put things right. 	((疯狂?))哈!他们((就))这么说的?##失去理智的是((天空领域))的人民。我只是在拨乱反正。
+UnderVela11	1	UnderVela11::English	<<She lets out an impertinent laugh.>> And why would I trust the likes of ((you))? Even if I needed assistance - which I most certainly ((do not)) - why would I accept it from an Inquisition spy? 	<<她放肆地大笑。>>我为什么要相信((你))这种人?就算我需要援助——我((当然不需要))——我为什么要接受一个宗教裁判所间谍的援助?
+UnderVela12	1	UnderVela12::English	So at the first chance you would resort to violence and barbarism? <<She tuts theatrically.>> ##Such self-involved thinking is what's ((wrong)) with this world. 	所以一有机会你就会诉诸暴力与野蛮?<<她戏剧性地啧啧两声。>>##这种只顾自己的想法,正是这个世界((错))的地方。
+UnderVela13	1	UnderVela13::English	<<She gestures at the aberrant being that fills your vision.>> ##((This)) extraordinary entity will be our salvation. It will mend our broken world and abolish the evils of humanity. 	<<她指向占满你视野的那个异变存在。>>##((这位))非凡的实体将是我们的救赎。它将修补我们破碎的世界,涤除人类的罪恶。
+UnderVela14	1	UnderVela14::English	All we need do is ((awaken)) it, and we are so ((nearly)) ready. 	我们只需((唤醒))它,而我们已((几乎))准备就绪。
+UnderVela15	1	UnderVela15::English	Some would call it a ((god)) - but that would be to diminish its power, for the gods are of ((this)) world and are bound by ((its)) rules.	有人会称它为((神))——但那是贬低了它的力量,因为神属于((这个))世界,受((其))规则约束。
+UnderVela16	1	UnderVela16::English	This being is of the ((void)): the non-place of pure creation, where time and space act in mysterious ways. We know not whether the Emberians plucked it whole from that realm, or wove its corporeal flesh from voidstuff.	这存在来自((虚空)):纯粹创造的无何有之乡,时间与空间以神秘的方式运作其中。我们不知道余烬人是把它从那个领域整个摘来,还是用虚空质编织了它的血肉之躯。
+UnderVela17	1	UnderVela17::English	Regardless, in the ancient Emberian dialect they called it an [[Angel]] - after the mythical creatures of middle age lore. 	无论如何,在古老的余烬方言里,他们称它为[[天使]]——取自中世纪传说中的神兽。
+UnderVela17a	1	UnderVela17a::English	Reality is formed from the semiotics of cipher. It is the language that flows through all things; the ((truth)) behind the illusion that dances before our eyes.	现实由密文的符号学构成。它是流经万物的语言;是眼前幻象之舞背后的((真相))。
+UnderVela18	1	UnderVela18::English	With study, we may learn to alter its flow, its rhythm. We may tweak a word here, adjust a sentence there, and this is the basis of all magic. 	通过研习,我们可以学会改变它的流动、它的韵律。在这里改一个词,在那里调一句,这便是一切魔法的根基。
+UnderVela19	1	UnderVela19::English	What we cannot do is alter the language of cipher itself. There are strict rules by which we must adhere; absolute and unbreakable limits upon what is possible. 	我们做不到的,是改动密文语言本身。有些严格的规则我们必须遵守;对可能性有着绝对不可逾越的限制。
+UnderVela20	1	UnderVela20::English	But this entity that stands before us? Being of the void, it is fundamentally separate from our laws. It has the power to change the very ((essence)) of reality.	但眼前这位实体呢?身为虚空之物,它在根本上独立于我们的法则。它拥有改变现实((本源))的力量。
+UnderVela21	1	UnderVela21::English	<<She grins.>> I am going to change ((everything)).	<<她咧嘴笑。>>我要改变((一切))。
+UnderVela22	1	UnderVela22::English	<<She grins.>> The process is not without its dangers.	<<她咧嘴笑。>>这一过程并非毫无危险。
+UnderVela23a	1	UnderVela23a::English	The Emberians called this thing an [[Angel]], and had they succeeded in waking it, their tyranny would have enslaved the world for eternity. 	余烬人称这东西为[[天使]],若他们成功唤醒了它,他们的暴政将永世奴役世界。
+UnderVela23b	1	UnderVela23b::English	The Emberians built this structure as an incubator for the Angel, and had they succeeded in waking it, their tyranny would have enslaved the world for eternity.	余烬人建起这座巨构,作为天使的孵化器,若他们成功唤醒了它,他们的暴政将永世奴役世界。
+UnderVela24	1	UnderVela24::English	We're fortunate that the ((lesser)) evil occurred; for in stirring the Angel they caused the World Rend, and nearly obliterated all of existence. 	我们幸运地只发生了((较轻))的恶;因为他们惊扰了天使,引发了世界撕裂,几乎抹除了一切存在。
+UnderVela25	1	UnderVela25::English	But we have learned from their mistakes. We will use the Angel to turn this world into a Heaven, where every soul is free and equal. 	但我们已从他们的错误中吸取教训。我们将用天使把这个世界变成一座天堂,让每个灵魂自由而平等。
+UnderVela26	1	UnderVela26::English	Over the past few years I have recruited some of the most accomplished cipher scholars alive. With the correct warding we will prevent a syntax cascade. Of this we are... ((almost)) certain.	过去几年,我招募了在世最杰出的几位密文学者。只要护符正确,我们就能防止句法级联。这一点我们……((几乎))可以肯定。
+UnderVela27	1	UnderVela27::English	And regardless, is the reward not worth the risk? What's left of this world is barely worth saving - but I would elevate us to something nobler than history has ever known.	再说,这奖赏难道不值这点风险吗?这世界剩下的东西几乎不值得拯救——但我要把我们提升到历史从未见识过的高贵境地。
+UnderVela28	1	UnderVela28::English	You think yourself quite the philosopher, speaking in absolutes. But even if you were to define the ((freedom)) I would bestow as a sort of ((tyranny)), it would be vastly preferable to the current state of affairs. 	你满口绝对之词,还自以为是哲学家。可就算你把我将赐予的((自由))定义为一种((暴政)),它也远比现状可取。
+UnderVela29	1	UnderVela29::English	<<She scoffs.>> I do not need your ((praise)). I have been thinking of this, and little else, for so many years. I ((know)) it is worth the risk. 	<<她嗤笑。>>我不需要你的((赞美)).这么多年,我满脑子都是这件事,别的几乎什么都想不进去。我((知道))它值得冒险。
+UnderVela30	1	UnderVela30::English	<<Her eyes glint as they look into your own.>> ##You see, inquisitor, there is such ((beauty)) in us. Such majesty, such ((potential)). 	<<她的目光与你的相接,闪着光。>>##你瞧,审判官,我们身上有那样的((美)).那样的庄严,那样的((潜力))。
+UnderVela31	1	UnderVela31::English	I have sailed the Skyrealms and seen such wonders. ##<<She waves her hand.>> Nay, not the void-obelisks of Al-Asfara, or the thousand spires of Byonne university... 	我航行过天空领域,见过那样的奇观。##<<她挥挥手。>>不,不是阿尔-阿斯法拉的虚空方尖碑,也不是拜昂大学的千座尖塔……
+UnderVela32	1	UnderVela32::English	I have seen the nuns of the Vagrant Hospice, tending to their enemies. I have seen a man give his life to the blood-barons of Teren, so that a stranger might live. 	我见过流浪者济贫院的修女,照料她们的仇敌。我见过一个人把自己献给特伦的血男爵,只为让一个陌生人活下去。
+UnderVela33	1	UnderVela33::English	<<She sighs.>> I have seen a child - recently orphaned, her face speckled with blood - offer me the ((last)) of her bread.	<<她叹息。>>我见过一个孩子——刚刚沦为孤儿,脸上溅着血点——把她仅剩的((最后))一块面包递给我。
+UnderVela34	1	UnderVela34::English	<<She steps closer.>> But wherever my sails have taken me, I have seen the hopes and dreams of the common folk ((crushed)) by oppressors; be they Union, Wikkan or otherwise. Everywhere I go, the poor writhe in the mud so that the rich may sleep in silk. 	<<她走近一步。>>但无论我的帆带我到何处,我都见过平民的希望与梦想被压迫者((碾碎));无论联盟、维坎还是别的什么。我到处的所见,都是穷人在泥里翻滚,好让富人睡在丝绸里。
+UnderVela35	1	UnderVela35::English	Once, I thought my sword could right the wrongs of the world - that ((morals)) and ((ethics)) could guide my blade. But I've seen too many skyships burn, and too often breathed the stench of human flesh, to believe that still. 	曾经,我以为我的剑能匡正世界的冤屈——以为((道德))与((伦理))能为我的剑刃引路。但我见过太多飞船燃烧,太多次呼吸过人肉腐烂的恶臭,再也无法那么相信了。
+UnderVela36	1	UnderVela36::English	In truth I had lost hope - until I had visions of an ((Angel)), through the oneiric interface of an Emberian map. I realised, then, what could be achieved.	说实话,我已失去希望——直到我透过一张余烬地图的梦境界面,看见了((天使))的幻象。那时我才明白,什么是可以实现的。
+UnderVela37	1	UnderVela37::English	Oh, but with the Angel, we ((could)). It can change ((anything)) of this corporeal world... ##But don't look so aghast. It really needn't come to that. 	哦,但有了天使,我们((就能)).它能改变这个物质世界的((任何))事……##但别摆出那副惊骇的样子。真不必走到那一步。
+UnderVela38	1	UnderVela38::English	<<Her stare gains a fiery intensity.>> I would empower us ((all)), so that every peasant stands equal to their lord. I would blunt every sword, shatter every cannon - so that not a drop of blood would spill. 	<<她的凝视燃起炽烈的火。>>我要赋权于((我们所有人)),让每个农夫与领主平起平坐。我要钝化每一把剑,击碎每一门炮——让一滴血都不必流。
+UnderVela39	1	UnderVela39::English	<<She looks down, her expression suddenly vulnerable.>> And... I would banish ((death itself)), so that no heart would ever be broken. ##((This)) will be our Heaven, and soon we will have it. 	<<她垂下目光,神情忽然变得脆弱。>>还有……我要放逐((死亡本身)),让任何一颗心都不再破碎。##((这))将是我们的天堂,很快我们就会拥有它。
+UnderVela40	1	UnderVela40::English	<<She nods.>> A point of no return, beyond which no scryer can foresee. A labyrinth of possibility, incomprehensible to mortal minds...	<<她点头。>>一个不归点,任何窥探者都无法预见其后。一座可能性的迷宫,凡人的心智无法理解……
+UnderVela41	1	UnderVela41::English	But one must be willing to sail into the unknown if one wishes for real change. Better that, than to linger in certain suffering. 	但人若想真正的改变,就必须敢于驶向未知。总好过在确凿的苦难里徘徊。
+UnderVela42	1	UnderVela42::English	((Freedom?)) What ((freedoms)) do we have, here in this broken world? Just because we can hack each other to pieces, it does not mean we are ((free)). 	((自由?))在这个破碎的世界里,我们又有((什么))自由?就因为我们可以把彼此砍成碎片,不代表我们就是((自由))的。
+UnderVela43	1	UnderVela43::English	And besides, anyone would be able to leave. If they wished to dissipate their essence to the void, along with their mind's eye, they could do so. 	再说,任何人都可以离开。若有人想把自己的本质连同心眼一并散入虚空,他们尽可以那么做。
+UnderVela44	1	UnderVela44::English	<<She grins.>> I suppose we're about to find out. 	<<她咧嘴笑。>>我想我们马上就会知道答案了。
+UnderVela45	1	UnderVela45::English	Very soon, I will awaken the Angel. Not out of greed or selfishness, but for the ((betterment)) of the Skyrealms and its people. 	很快,我就会唤醒天使。不是出于贪婪或私欲,而是为了天空领域及其人民的((福祉))。
+UnderVela46	1	UnderVela46::English	<<Vela glares at you with a newfound fury.>> How ((dare)) you mention her name! You know ((nothing)) of her soul - of my ((family)).	<<薇拉带着前所未有的怒火瞪着你。>>你((怎敢))提起她的名字!你对她的灵魂((一无所知))——对我的((家人))一无所知。
+UnderVela47	1	UnderVela47::English	Isabet was... she meant more to me than... ##<<Vela closes her eyes for a long moment.>> 	伊莎贝特她……她对我而言,比……##<<薇拉闭了很久的眼睛。>>
+UnderVela48	1	UnderVela48::English	Isabet and my mother ((burned alive)) in my father's mansion. That Isabet was taken so young, and I alone should live, speaks plainly of the injustice of this world. Am I ((wrong)) for wanting to change that? 	伊莎贝特和我母亲在我父亲的宅邸里((被活活烧死)).伊莎贝特那么年轻就殒命,而我独独活了下来,这明明白白诉说着这个世界的不公。想改变这一切,我((错))了吗?
+UnderVela49	1	UnderVela49::English	<<Vela stutters, now stumbling over her words.>> ##Caer... ((betrayed)) me. I... I would have given my ((life)) for that girl, but she... She... 	<<薇拉结巴起来,话语磕磕绊绊。>>##凯尔……((背叛))了我。我……我本可以为那个女孩献出((生命)),可她……她……
+UnderVela50	1	UnderVela50::English	%% I... they... ((traitors)), all! If only they had ((listened)), instead of... instead of... ##I didn't ((wish)) for them to die! 	%%我……他们……全是((叛徒))!要是他们肯((听我的)),而不是……而不是……##我没((想))让他们死!
+UnderVela51	1	UnderVela51::English	&& Pah. Those ((traitors)) could have left of their own accord. They had no reason to ((fight)) me - I'm sure I would have let them go peacefully. 	&&呸。那些((叛徒))本可以自行离开。他们没有任何理由((与我))为敌——我肯定会让她们平静地走的。
+UnderVela52	1	UnderVela52::English	<<Vela's face burns with sudden contempt.>> ##Then you should have kept your mouth ((shut)). However you found this out, I do not care for you raking through my past like a haruspex through offal.	<<薇拉脸上骤然燃起轻蔑。>>##那你就该管好自己的((嘴)).不管你是怎么查到的,我可不喜欢你像肠卜师翻检内脏一样翻我的过去。
+UnderVela53	1	UnderVela53::English	<<Vela frowns.>> A ((ghost))? But who knows about...? No, it couldn't be...	<<薇拉皱眉。>>一个((幽灵))?可谁知道那件事……?不,不可能是……
+UnderVela54	1	UnderVela54::English	...((Caer?)) ##<<She swallows, at a loss for words.>> ##Then she must have told you about... 	……((凯尔?))##<<她咽了口唾沫,一时语塞。>>##那她一定跟你说了……
+UnderVela55	1	UnderVela55::English	<<She laughs.>> Oh no, little inquisitor. This is where it ((begins)).	<<她大笑。>>哦不,小审判官。好戏这才((开始))。
+UnderVela56	1	UnderVela56::English	<<She grins.>> That's either the most obvious Inquisition cover story I've ever heard, or an unusually adroit triple bluff. Nothing personal, but I can't risk letting you tag along.	<<她咧嘴笑。>>这要么是我听过最露骨的宗教裁判所幌子,要么是一次异常老练的三重欺诈。非针对你,但我不能冒险让你跟来。
+UnderVela57	1	UnderVela57::English	<<Vela swallows, trying to find her composure.>> I'll admit, my motives are complicated. And my methods... 	<<薇拉咽了口唾沫,竭力找回镇定。>>我承认,我的动机很复杂。而我的手段……
+UnderVela57a	1	UnderVela57a::English	<<She gives you a twisted, almost regretful smile.>> ##Had I done this for any lesser cause, I'd be a monster.	<<她给你一个扭曲的、近乎悔恨的微笑。>>##若我为任何低微一些的目标做这一切,我就是个怪物。
+UnderVela58	1	UnderVela58::English	<<Vela bellows to her crew.>> ##((Awaken the Angel!)) I don't ((care)) if the preparations aren't complete, we have ((run out of time!)) 	<<薇拉朝她的船员怒吼。>>##((唤醒天使!))我((不管))准备是否完备,我们已经((没有时间了!))
+UnderVela59	1	UnderVela59::English	<<Her eyes return to you.>> ##I'm terribly sorry about this. I wish there was another way, but there isn't.	<<她的目光回到你身上。>>##对此我万分抱歉。我多希望还有别的办法,可是没有。
+UnderVela60	1	UnderVela60::English	The coming days are crucial. Now that it's awake, we have many delicate rituals and cipher wards to enact, and you cannot be allowed to meddle in such a ((momentous)) endeavour.	接下来的日子至关重要。既然它已经苏醒,我们还有许多精细的仪式和密文护符要施行,决不能让你插手如此((重大))的事业。
+UnderVela61	1	UnderVela61::English	So I'm afraid this is goodbye. We will ((not)) meet again.	所以恐怕这就是告别了。我们((不会))再见了。
+UnderVela62a	1	UnderVela62a::English	<<From behind you, you hear Jack Basalt yelling at the top of his lungs.>> ##Vela, ((no))!	<<你听见身后杰克·巴索特扯着嗓子大喊。>>##薇拉,((不))!
+UnderVela62b	1	UnderVela62b::English	<<From behind you, you hear Jack Basalt yelling at the top of his lungs.>>	<<你听见身后杰克·巴索特扯着嗓子大喊。>>
+UnderVela62c	1	UnderVela62c::English	Vela, ((no))!	薇拉,((不))!
+UnderVelaP1	1	UnderVelaP1::English	Vela Callose! 	薇拉·卡洛斯!
+UnderVelaP2	1	UnderVelaP2::English	<<[Attempt to approach silently.]>>	<<[尝试悄声接近。]>>
+UnderVelaP3	1	UnderVelaP3::English	Vela Callose, I've come to -	薇拉·卡洛斯,我是来——
+UnderVelaP4	1	UnderVelaP4::English	By order of the Inquisition, I -	奉宗教裁判所之命,我——
+UnderVelaP5	1	UnderVelaP5::English	<<[Freeze and say nothing.]>>	<<[僵在原地,一言不发。]>>
+UnderVelaP6	1	UnderVelaP6::English	We've come to put an end to this, Vela. You must ((stop)) this madness!	我们是来终结这一切的,薇拉。你必须((停止))这场疯狂!
+UnderVelaP7	1	UnderVelaP7::English	Your old friends helped me get here, but I've come to join your cause.	你的老朋友们帮我到了这里,但我是来加入你的事业的。
+UnderVelaP8	1	UnderVelaP8::English	All I care about is my freedom. If I have to cut off your head, so be it. 	我只在乎我的自由。若必须砍下你的脑袋,那便如此。
+UnderVelaP9	1	UnderVelaP9::English	What ((is)) that thing?	那((究竟))是什么东西?
+UnderVelaP10	1	UnderVelaP10::English	How is it so powerful?	它怎么这么强大?
+UnderVelaP11	1	UnderVelaP11::English	What do you plan to do with it?	你打算用它做什么?
+UnderVelaP12	1	UnderVelaP12::English	Waking it up seems like a ((terrible)) idea.	唤醒它似乎是个((糟透))了的主意。
+UnderVelaP13	1	UnderVelaP13::English	You could spark a second apocalypse, and destroy what's left of our world.	你可能引发第二次天启,毁掉我们世界仅存的一切。
+UnderVelaP14	1	UnderVelaP14::English	With the best of intentions, you would only make a tyranny of your own design.	哪怕怀着最好的初衷,你也只会打造一个由你设计的暴政。
+UnderVelaP15	1	UnderVelaP15::English	I think you're right; a just and fair world is worth the risk. 	我想你是对的;一个公正平等的世界值得一赌。
+UnderVelaP16	1	UnderVelaP16::English	So you'd risk another World Rend just to give bread to the poor? 	所以你宁愿再赌一次世界撕裂,只为给穷人一块面包?
+UnderVelaP17	1	UnderVelaP17::English	You can't change human nature.	人性是无法改变的。
+UnderVelaP18	1	UnderVelaP18::English	<<[Say nothing and listen.]>>	<<[什么也不说,静静聆听。]>>
+UnderVelaP19	1	UnderVelaP19::English	Sounds like madness. Even if it worked, ((everything)) would change.	听起来像疯了。就算成了,((一切))也都会改变。
+UnderVelaP20	1	UnderVelaP20::English	You'd be taking away our freedom - to fight for something, even to ((die)).	你会夺走我们的自由——为某事而战的自由,甚至((赴死))的自由。
+UnderVelaP21	1	UnderVelaP21::English	An admirable dream, but is it really possible? 	一个令人钦佩的梦,但它真的可能吗?
+UnderVelaP22	1	UnderVelaP22::English	And what of your late sister, Isabet? Are you sure you're not doing this for ((her))? 	那你已故的妹妹伊莎贝特呢?你确定你不是在为((她))做这一切?
+UnderVelaP23	1	UnderVelaP23::English	I met a certain ghost who told me that your motivations are more... ((personal)). 	我遇见过某位幽灵,她说你的动机更加……((私人))。
+UnderVelaP24	1	UnderVelaP24::English	Your ambition would doom us all. This ends ((now)), Vela. 	你的野心会葬送我们所有人。一切到此((为止)),薇拉。
+UnderVelaP25	1	UnderVelaP25::English	I want to help you, in any way I can. 	我想帮你,尽我所能。
+UnderVelaP26	1	UnderVelaP26::English	What about the people who suffered for your vision? People like Caer, who you left to ((die))? 	那些为你的愿景受苦的人呢?像凯尔那样被你弃之((等死))的人?
+UnderVelaP27	1	UnderVelaP27::English	@@ You don't speak for all. Many oppose you, even your own former Dark Stars. 	@@你可代表不了所有人。许多人反对你,连你从前的黑星同伴也是。
+UnderVelaP28	1	UnderVelaP28::English	I meant no offence, Vela. 	我没有冒犯的意思,薇拉。
+UnderVelaP29	1	UnderVelaP29::English	It was Caer.	是凯尔。
+UnderVelaP30	1	UnderVelaP30::English	((Who)) it was doesn't matter. They told me about your late sister, Isabet. 	是((谁))说的并不重要。他们跟我提过你已故的妹妹,伊莎贝特。
+UnderVelaP31	1	UnderVelaP31::English	Isabet, yes. 	伊莎贝特,是的。
+UnderVelaP32	1	UnderVelaP32::English	Forget it, Vela. I meant no offence. 	算了,薇拉。我没有冒犯的意思。
+CradleBasaltA1	1	CradleBasaltA1::English	Well, this is it. One last daring push into Vela's maelstrom, eh? Only, this time, I fear there'll be no second chances.	好了,就是这里了。最后孤注一掷,冲进薇拉的漩涡,对吧?只是这次,恐怕没有第二次机会了。
+CradleBasaltA2	1	CradleBasaltA2::English	<<He shoots you a serious look.>> It doesn't matter how many times that god of yours can pull you back from the dead. If Vela activates that ((abomination)), it's all over. ##Unless we can stop her, Vela will either rule the world or end it.	<<他神情严肃地看着你。>>你那尊神能把你从死人堆里拉回来多少次都无所谓。薇拉若启动那个((可憎之物)),一切就完了。##除非我们能拦住她,否则薇拉要么统治世界,要么终结世界。
+CradleBasaltA3	1	CradleBasaltA3::English	((Damn)) that girl, for bringing it to this. She could've done great things, y'know? Her name could've gone down in history as a saviour, not a ((tyrant))... 	((该死))的姑娘,把事情闹到这步田地。她本可以成就大业,你知道吗?她的名字本可以以救世主之名载入史册,而不是((暴君))……
+CradleBasaltA4	1	CradleBasaltA4::English	The cutter's ready to depart, Confessor. You might wanna check with the rest 'o the crew to see how they're holdin' up firs... but otherwise, [[use the controls]] when you're ready. 	快艇已经准备出发了,忏悔者。你或许该先去看看其他船员状态如何……不过除此之外,准备好了就[[使用控制装置]]。
+CradleBasaltA4b	1	CradleBasaltA4b::English	Well, anyway. The cutter's ready to depart. You might wanna check with the rest 'o the crew to see how they're holdin' up firs... but otherwise, [[use the controls]] when you're ready. 	总之,快艇已经准备出发。你或许该先去看看其他船员状态如何……不过除此之外,准备好了就[[使用控制装置]]。
+CradleBasaltA5	1	CradleBasaltA5::English	Jus' make sure you're ((really)) ready, eh? Assaulting that Cradle is no easy task - this may just be the [[((last)) thing we ever do]]. 	只是务必确认你((真的))准备好了,嗯?强攻那座摇篮可不轻松——这搞不好就是[[((我们))此生做的最后一件大事]]。
+CradleBasaltA6	1	CradleBasaltA6::English	The place is a fortress, too risky for a head-on assault. But if the Duchess could distract Vela's entourage with her magic, the rest of you might have a chance.	那地方就是座堡垒,正面强攻风险太大。但若女公爵能用魔法拖住薇拉的随从,你们其余人或许有机会。
+CradleBasaltA7	1	CradleBasaltA7::English	Frost thinks he's spotted a [[back door]]: some sort of [[utility pipe]] that could be cracked open, giving you and Orlaith a way inside. 	弗罗斯特觉得他发现了一道[[后门]]:某种[[公用管道]],可以撬开,给你和奥莱丝一条进入的路。
+CradleBasaltA8	1	CradleBasaltA8::English	Then, Orlaith will head straight for Vela an' try to keep her busy. ##As for you? [[Find that Angel]] at all costs. 	然后,奥莱丝直取薇拉,设法缠住她。##至于你?不惜一切代价[[找到那位天使]]。
+CradleBasaltA9	1	CradleBasaltA9::English	Then, if all goes to plan, we'll meet up in the Cradle's centre and we can boot that Angel back to the Void. Piece of cake, eh? 	然后,若一切按计划进行,我们就在摇篮中心会合,把那位天使一脚踹回虚空。小菜一碟,对吧?
+CradleBasaltAP1	1	CradleBasaltAP1::English	What's the plan when we reach the Cradle? 	到了摇篮之后有什么计划?
+CradleBasaltAP2	1	CradleBasaltAP2::English	I'll get going. 	我这就出发。
+CradleEmberianA1R	1	CradleEmberianA1R::English	I'm ready to set sail when you are, Confessor. The sooner the better, in my book.	你一声令下我就准备启航,忏悔者。在我看来,越快越好。
+CradleEmberianA1	1	CradleEmberianA1::English	<<Orlaith looks agitated, shifting in her armour.>> ##You know, I've faced up to impossible odds before. Always bested them. So why do I feel so godsdamned ((nervous))?	<<奥莱丝看起来焦躁不安,在铠甲中扭动。>>##你知道,我以前直面过毫无胜算的战局。每次都赢了。那我为什么会((慌))成这样?
+CradleEmberianA2	1	CradleEmberianA2::English	<<She looks at her hand; it's trembling slightly. She clenches it into a fist.>> ##I guess I've always looked up to Vela. She's saved me more times than I can count - so even though I ((know)) this is the right thing to do, my stomach's still churning.	<<她看着自己的手;手在微微颤抖。她攥成拳头。>>##我想我一直敬仰薇拉。她救过我的次数数都数不清——所以即便我((知道))这样做是对的,我的胃还是翻腾不止。
+CradleEmberianA3	1	CradleEmberianA3::English	<<She looks at you.>> Listen, Confessor... ##When we met, you told me we'd finish what I started - the mutiny against Vela - and stop her before she does the unthinkable. 	<<她看着你。>>听着,忏悔者……##我们初见时,你说过我们要完成我未竟之事——对薇拉的叛变——在她做出不可挽回之事前拦住她。
+CradleEmberianA4	1	CradleEmberianA4::English	Do you stand by that? Do you really think we can ((do)) this?	你还坚持这话吗?你真觉得我们能((做到))?
+CradleEmberianA5	1	CradleEmberianA5::English	<<She nods.>> I appreciate your confidence in me, Confessor.	<<她点头。>>感谢你的信任,忏悔者。
+CradleEmberianA6	1	CradleEmberianA6::English	<<She nods.>> Might not be what I was ((hopin')) to hear, but... I think you're right. 	<<她点头。>>可能不是我想((听))到的答案,但……我想你是对的。
+CradleEmberianA7	1	CradleEmberianA7::English	<<She glares at you.>> With respect - what the ((fuck)), Confessor? 	<<她瞪着你。>>恕我直言——你搞什么((鬼)),忏悔者?
+CradleEmberianA8	1	CradleEmberianA8::English	Gods know, Vela can be persuasive. I've heard that silver tongue of hers a thousand times. But we had a ((deal)), Confessor! I've followed you this far because I want to ((stop)) Vela, not aid in the destruction of the ((world)). 	神知道,薇拉很能蛊惑人心。她那三寸不烂之舌我听过一千遍。但我们有((约定)),忏悔者!我跟你走到今天,是因为我想((阻止))薇拉,不是助她毁灭((世界))。
+CradleEmberianA9	1	CradleEmberianA9::English	<<She scoffs.>> Well if you won't help me, I'll do it ((alone)). As soon as we get to the Cradle, I'm hunting down Vela - with or ((without)) you. 	<<她嗤笑。>>你若不肯帮我,我就((独自))去干。一踏上摇篮,我就去找薇拉算账——不管有没有((你))。
+CradleEmberianA10	1	CradleEmberianA10::English	Listen, Confessor... ##When we met, you told me we'd stop Vela without bloodshed. I think we can safely say that we ((tried)) and ((failed)) in that regard, eh?	听着,忏悔者……##我们初见时,你说过要不流一滴血拦下薇拉。我想我们可以放心地说,这方面我们((试过))也((失败))了,嗯?
+CradleEmberianA11	1	CradleEmberianA11::English	So this time, I ain't askin' questions; I'm letting my ((sword)) do the talking. You'd better be ((okay)) with that. 	所以这一次,我不问问题;我让我的((剑))来发言。你最好((接受))这一点。
+CradleEmberianA12	1	CradleEmberianA12::English	<<She grins.>> Do I hear a lust for ((revenge)) in your tone, Confessor? She ((did)) skewer you pretty good, back there... 	<<她咧嘴笑。>>我从你的语气里听出了((复仇))的渴望,忏悔者?她那一下((确实))把你扎得挺惨,在后面那里……
+CradleEmberianA13	1	CradleEmberianA13::English	<<She sighs.>> It's not that simple. Once the swords start swinging, it's life or death. But... I'll give it my all.	<<她叹气。>>没那么简单。刀剑一起挥,就是生死相搏。但……我会全力以赴。
+CradleEmberianA14	1	CradleEmberianA14::English	Listen, Confessor... ##When we met, you said you wanted to ((help)) Vela achieve her twisted idea of Heaven. After speaking for her - after seeing what she's ((become)) - do you think that still? 	听着,忏悔者……##我们初见时,你说你想((帮))薇拉实现她那扭曲的天堂。在替她说话之后——在亲眼见过她((变成))什么样之后——你还这么想吗?
+CradleEmberianA15	1	CradleEmberianA15::English	<<She scoffs.>> After she skewered you through with her sword, I thought you might have had a change of heart. ((Damn)) Vela and that silver tongue of hers. 	<<她嗤笑。>>她一剑把你穿了个透心凉,我还以为你会回心转意。((该死))的薇拉和她那条三寸不烂之舌。
+CradleEmberianA16	1	CradleEmberianA16::English	Well if you won't help me, I'll do it ((alone.)) As soon as we get to the Cradle, I'm hunting down Vela - with or ((without)) you. 	好吧,你若不肯帮我,我就((独自))去干。一踏上摇篮,我就去找薇拉算账——不管有没有((你))。
+CradleEmberianA17	1	CradleEmberianA17::English	<<She smiles slightly.>> I'm glad you've had a change of heart, Confessor. What changed your mind? Being driven through by Vela's ((sword)), perhaps? 	<<她微微一笑。>>很高兴你回心转意了,忏悔者。什么让你改变了主意?是被薇拉的((剑))穿了个透,或许?
+CradleEmberianA18	1	CradleEmberianA18::English	Regardless, I'm glad to have you backing me up. I was thinking I'd have to face Vela ((alone)), and that's not an easy prospect. 	无论如何,很高兴有你支援。我本来还想着得((独自))面对薇拉,那可不是件轻松的事。
+CradleEmberianA19	1	CradleEmberianA19::English	<<She smiles slightly.>> If anything would change your mind, it'd be ((that))...	<<她微微一笑。>>若有什么能让你改变主意,那一定是((这个))……
+CradleEmberianA20	1	CradleEmberianA20::English	Regardless, I'm glad to have you backing me up. I was thinking I'd have to face Vela ((alone,)) and that's not an easy prospect. 	无论如何,很高兴有你支援。我本来还想着得((独自))面对薇拉,那可不是件轻松的事。
+CradleEmberianA21	1	CradleEmberianA21::English	<<Orlaith is silent for a moment.>> ##You know... I've never felt like I've ((belonged)) anywhere. Being born from a glass tube'll do that to you. 	<<奥莱丝沉默了片刻。>>##你知道……我从未觉得自己((属于))任何地方。从玻璃管里出生,就会这样。
+CradleEmberianA22	1	CradleEmberianA22::English	Even those first few years with Vela, when we thought we were really making a difference - it was still ((Vela's)) dream we were chasing, y'know?	就算是最初与薇拉同行的那几年,我们以为自己真的在改变世界——可我们追逐的终究还是((薇拉))的梦想,你懂吗?
+CradleEmberianA23	1	CradleEmberianA23::English	But now... I think I finally know what my purpose is. To ((stop)) the evils of my ancestors from ever being repeated. <<She twists up the corner of her mouth.>> Or die trying. 	但现在……我想我终于知道自己的使命了。((阻止))先祖的罪恶再度重演。<<她嘴角一歪。>>哪怕为此而死。
+CradleEmberianA24	1	CradleEmberianA24::English	For better or worse, that's thanks to ((you,)) Confessor. So I s'pose, I just wanted to say... thank you. 	无论好坏,这都要归功于((你)),忏悔者。所以我想说……谢谢你。
+CradleEmberianA25	1	CradleEmberianA25::English	<<She smiles at you, warmly.>> 	<<她温暖地朝你微笑。>>
+CradleEmberianA26	1	CradleEmberianA26::English	<<She smirks.>> Of course. 	<<她得意一笑。>>当然。
+CradleEmberianAP1	1	CradleEmberianAP1::English	I've ((seen)) you fight. Vela doesn't stand a chance. 	我((见识))过你的身手。薇拉毫无胜算。
+CradleEmberianAP2	1	CradleEmberianAP2::English	I don't know, but all we can do is try our best. 	我不知道,但我们能做的就是全力以赴。
+CradleEmberianAP3	1	CradleEmberianAP3::English	Vela convinced me; I want to make her Heaven a reality. 	薇拉说服了我;我想让她的天堂成为现实。
+CradleEmberianAP4	1	CradleEmberianAP4::English	You're right; the time for talk is over. Do your worst. 	你说得对;谈话的时间结束了。放手去干吧。
+CradleEmberianAP5	1	CradleEmberianAP5::English	Just try not to ((kill)) her, okay? 	只是尽量别((杀))了她,好吗?
+CradleEmberianAP6	1	CradleEmberianAP6::English	Change of plans. I want to make her Heaven a reality. 	计划有变。我想让她的天堂成为现实。
+CradleEmberianAP7	1	CradleEmberianAP7::English	Yes, I want to see her Heaven made a reality.	是,我想看见她的天堂成为现实。
+CradleEmberianAP8	1	CradleEmberianAP8::English	No, we should try and stop her.	不,我们应该设法拦住她。
+CradleEmberianAP9	1	CradleEmberianAP9::English	That bitch stabbed me! She won't leave the Cradle alive. 	那贱人捅了我!她别想活着离开摇篮。
+CradleEmberianAP10	1	CradleEmberianAP10::English	My pleasure, Orlaith.	乐意效劳,奥莱丝。
+CradleEmberianAP11	1	CradleEmberianAP11::English	We just need your sword skills, that's all.	我们只需要你的剑术,仅此而已。
+CradleFrostA1R	1	CradleFrostA1R::English	It has been a pleasure, Confessor. I shall see you on stage. 	与你同行是我的荣幸,忏悔者。舞台上见。
+CradleFrostA1	1	CradleFrostA1::English	<<Frost is sipping from a teacup, which he raises in salute at your approach.>> ##Ah, Confessor! Good of you to join us.	<<弗罗斯特正啜着茶,见你走近,举杯致意。>>##啊,忏悔者!欢迎入席。
+CradleFrostA2	1	CradleFrostA2::English	So, here we are at last. The interval is nearly over. The curtain's soon to open. Everything is in place for the final act. ##Let's just hope I can remember my lines.	那么,我们终于到了。幕间休息即将结束。大幕即将拉开。终幕的一切都已就位。##只希望我还记得自己的台词。
+CradleFrostA3a	1	CradleFrostA3a::English	<<He sips.>> Oh, naturally I'm scared ((shirt))less. This is the confrontation I've been running from all along. ((This)) what I became Horace to escape.	<<他啜了一口。>>哦,我当然怕得((魂))飞魄散。这是我一直逃避的对峙。我化身霍勒斯就是为了逃离((这个))。
+CradleFrostA3b	1	CradleFrostA3b::English	<<He sips.>> Nevertheless, a little stage fright is only natural. This is the confrontation I've been running from all along. ((This)) what I became Horace to escape.	<<他啜了一口。>>尽管如此,有点怯场也再正常不过。这是我一直逃避的对峙。我化身霍勒斯就是为了逃离((这个))。
+CradleFrostA4	1	CradleFrostA4::English	Yet I am finding that the fear is less... ((biting)) than before. It feels calming, somehow, to last be walking ((towards)) my troubles, with a firm resolve. ##<<He snorts.>> Funny how long we resist the simplest lessons.	但我发现这恐惧已不如从前那般……((刺骨)).不知怎的,带着坚定的决心,最终((迎着))麻烦走去,反而让人心定。##<<他哼了一声。>>有趣的是,最简单的道理我们偏偏抗拒最久。
+CradleFrostA5	1	CradleFrostA5::English	Confessor, do you remember our first meeting? Lately I've found myself turning it over in my brain. ##At the time, you argued that we should use the power of the Angel to build a better world. 	忏悔者,你还记得我们初次见面吗?近来我总在脑中反复回想那一刻。##当时,你主张我们应当借助天使之力,建设一个更美好的世界。
+CradleFrostA6	1	CradleFrostA6::English	I was hesitant, of course. I scarcely trusted myself to choose a pair of curtains, let alone the fate of humanity. 	我当时犹豫不决,自不必说。我连挑一对窗帘都不敢信自己,更别说人类的命运了。
+CradleFrostA7	1	CradleFrostA7::English	But... ##<<He sighs, then looks into your eyes.>> I have come to the conclusion that you were right, and I was wrong.	但是……##<<他叹了口气,直视你的眼睛。>>我得出的结论是:你是对的,我错了。
+CradleFrostA8	1	CradleFrostA8::English	Confessor, do you remember our first meeting? Lately I've found myself turning it over in my brain. ##At the time, you persuaded me that we should destroy the Angel, lest it obliterate the world. 	忏悔者,你还记得我们初次见面吗?近来我总在脑中反复回想那一刻。##当时,你说服我应当毁掉天使,免得它毁灭世界。
+CradleFrostA9	1	CradleFrostA9::English	It felt so ((liberating)) to agree with you. To finally shrug off the burden of my dreams, and let go of all those years I sacrificed for my homeland's impossible promise.	赞同你的感觉如此((解脱)).终于卸下梦想的重担,放下我为祖国的无稽承诺牺牲的岁月。
+CradleFrostA10	1	CradleFrostA10::English	But... ##<<He sighs, then looks into your eyes.>> I have come to the conclusion that both of us were wrong.	但是……##<<他叹了口气,直视你的眼睛。>>我得出的结论是:我们俩都错了。
+CradleFrostA11	1	CradleFrostA11::English	Confessor, do you remember our first meeting? Lately I've found myself turning it over in my brain. ##At the time, you persuaded me that the Angel's promise was a mirage; that a better world can only be built one brick at a time.	忏悔者,你还记得我们初次见面吗?近来我总在脑中反复回想那一刻。##当时,你说服我天使的承诺只是海市蜃楼;更美好的世界只能一砖一瓦地建造。
+CradleFrostA12	1	CradleFrostA12::English	Those were wise words. The Dark Stars could have bettered ((so many)) lives with all the power and treasure we attained. If we'd done the hard work, and made the hard choices. Instead we took the easy path, following our leader into damnation for a prize that could absolve any crime.	那是明智之言。以我们获得的力量与财宝,黑星本可以改善((无数))人的生活。只要我们肯下苦功,肯做艰难抉择。而我们却走了捷径,追随首领坠入万劫不复,只为一个能赦免一切罪行的奖赏。
+CradleFrostA13	1	CradleFrostA13::English	But... ##<<He takes a deep breath, and locks eyes with you.>> Things are different now. Don't you see? The Cradle has risen. The stable door has been blown off its ((bally)) hinges. 	但是……##<<他深吸一口气,与你四目相对。>>现在情况不同了。你没看见吗?摇篮已经升空。马厩的门已经被炸离了((该死的))铰链。
+CradleFrostA14	1	CradleFrostA14::English	Everything the Clockwork Kingdom ever tried was mere child's play compared to the Angel. This is ((it)); the real deal. And now that we're on the precipice... I find I cannot turn my back.	与天使相比,发条王国做过的一切都只是儿戏。这才是((真货));货真价实的。如今我们已立于悬崖边缘……我发现自己无法背过身去。
+CradleFrostA15	1	CradleFrostA15::English	It's all Horace's fault, I'm afraid. His visions were so good because he still had hope. Hope that every person could be redeemed; that love really was more powerful than despair.	恐怕这都得怪霍勒斯。他的幻象之所以美好,是因为他还怀着希望。希望每个人都能得到救赎;希望爱真的比绝望更有力量。
+CradleFrostA16	1	CradleFrostA16::English	When you reawakened my old self, that hope didn't die. It's stayed with me, infectious, all mixed up together with everything I've seen and done.	当你唤醒了昔日的我,那希望并未死去。它一直留在我身上,极富感染力,与我见过的一切、做过的一切混作一团。
+CradleFrostA17a	1	CradleFrostA17a::English	<<Frost smiles ruefully.>> So you see, I have to believe that Horace wasn't wrong to hope. ##I mean that literally: I have no choice but to believe. For Sam, and my family, and everyone I've ever loved.	<<弗罗斯特苦笑。>>所以你看,我不得不相信,霍勒斯抱有希望并没有错。##我是字面意义上的不得不信:我别无选择。为了萨姆,为了我的家人,为了我爱过的每一个人。
+CradleFrostA17b	1	CradleFrostA17b::English	<<Frost smiles ruefully.>> So you see, I have to believe that Horace wasn't wrong to hope. ##I mean that literally: I have no choice but to believe.	<<弗罗斯特苦笑。>>所以你看,我不得不相信,霍勒斯抱有希望并没有错。##我是字面意义上的不得不信:我别无选择。
+CradleFrostA18	1	CradleFrostA18::English	<<Frost's smile widens.>> You mean it? ##Very well, then. Let us take our places for the performance of a lifetime.	<<弗罗斯特笑容绽放。>>你是认真的?##那好。就让我们各就各位,上演一生一次的演出。
+CradleFrostA19	1	CradleFrostA19::English	<<Frost gazes at you for a while, then nods, his expression surprisingly peaceful.>> ##Very well. If this final act should cast us as foes, let us play our parts with gusto.	<<弗罗斯特凝视你片刻,然后点头,神情出奇地平静。>>##很好。若终幕把我们安排成对手,那就让我们酣畅淋漓地演好各自的戏份。
+CradleFrostA20	1	CradleFrostA20::English	<<Frost laughs.>> Refreshingly honest, Confessor. Very well; you improvise, and I will react. If it transpires that we are cast as foes, let us play our parts with gusto.	<<弗罗斯特大笑。>>难得的坦率,忏悔者。很好;你来即兴,我来接戏。若终幕把我们安排成对手,那就让我们酣畅淋漓地演好各自的戏份。
+CradleFrostA21	1	CradleFrostA21::English	<<He sighs.>> I'm going to ((flipping)) regret all this, aren't I?	<<他叹气。>>这一切我((早晚))会后悔的,对吧?
+CradleFrostAP1	1	CradleFrostAP1::English	How are you feeling?	你感觉如何?
+CradleFrostAP2	1	CradleFrostAP2::English	You'll do fine, Frost. After all, we've rehearsed plenty.	你会演好的,弗罗斯特。毕竟,我们排练得够多了。
+CradleFrostAP3	1	CradleFrostAP3::English	If you're saying you want to activate the Angel, I'm with you.	你的意思是想启动天使,那我跟你站一边。
+CradleFrostAP4	1	CradleFrostAP4::English	I'm sorry, Frost. I won't let you activate the Angel.	抱歉,弗罗斯特。我不会让你启动天使。
+CradleFrostAP5	1	CradleFrostAP5::English	Honestly, I have no idea what I'll do once we reach the Angel.	说实话,到了天使跟前我该怎么办,我自己也没数。
+CradleDuchessA1	1	CradleDuchessA1::English	Ever since we saw it, I've been thinking of that Angel. ## I've long read of such ominous entities, drifting in the Void beyond reality; but until now they were entirely ((theoretical)).	自从见过它,我就一直在想那位天使。##这样的不祥之物,我久有研读,说它们漂荡于现实之外的虚空;但直到如今,它们都纯属((理论))。
+CradleDuchessA2	1	CradleDuchessA2::English	But seeing such a creature in the ((flesh?)) I could ((feel)) its... incongruity, its vast contradiction, like a thorn in my brain. With something so alien to this world, maybe Vela really ((can)) bend reality to her will...	但亲眼((目睹))这样一个造物,我能((感受))到它的……格格不入,它的巨大矛盾,像一根扎在我脑中的刺。有如此 alien 于这个世界的东西,或许薇拉真的((能))把现实扭成她想要的模样……
+CradleDuchessA2b	1	CradleDuchessA2b::English	<<The Duchess plays idly with her Void dagger, watching it glide through the air.>> ##Oh, Confessor. My apologies, I was lost in thought...	<<女公爵漫不经心地把玩着她的虚空匕首,看着它划过空气。>>##哦,忏悔者。抱歉,我陷入沉思了……
+CradleDuchessA2c	1	CradleDuchessA2c::English	It's that ((Angel.)) I've long read of such entities, drifting in the Void beyond reality; but until now they were entirely ((theoretical)). For all the complexities of our cipher art, we have only the smallest understanding of the Void.	是那位((天使)).这样的存在,我久有研读,说它们漂荡于现实之外的虚空;但直到如今,它们都纯属((理论)).纵然我们的密文之术精深复杂,对虚空的理解却只有毫末。
+CradleDuchessA2d	1	CradleDuchessA2d::English	But seeing such a creature in the ((flesh?)) I could ((feel)) its... incongruity, its vast contradiction, like a thorn in my brain. Not a single part of it was ever meant to intersect with this world.	但亲眼((目睹))这样一个造物,我能((感受))到它的……格格不入,它的巨大矛盾,像一根扎在我脑中的刺。它的每一寸都从未打算与这个世界相交。
+CradleDuchessA2e	1	CradleDuchessA2e::English	That Vela succeeded in acquiring the creature is quite remarkable. Maybe she truly ((can)) achieve this audacious ((Heaven)) of hers.	薇拉竟能得到这造物,着实不凡。也许她真的((能))实现她那大胆的((天堂))。
+CradleDuchessA3	1	CradleDuchessA3::English	Confessor, you told me that Vela could grant the Endless a true death, if her Heaven prevails. ##I've been thinking on this a great deal these past few days.  	忏悔者,你告诉过我,若薇拉的天堂得胜,她能让无尽者获得真正的死亡。##这几天我一直在反复思索此事。
+CradleDuchessA4	1	CradleDuchessA4::English	It's Ironic that her hunt for immortality could grant my people the dreamless slumber many of them crave. <<She smiles.>> Ironic, but not undesirable. 	讽刺的是,她对永生的追逐,竟能赐予我的人民他们中许多人渴求的无梦长眠。<<她微笑。>>讽刺,却并不令人反感。
+CradleDuchessA5	1	CradleDuchessA5::English	<<She closes her eyes.>> So many years of listless agony. So many lifetimes, flittered away in a half-life; unable to feel the air in our lungs, or the wind in our hair... 	<<她闭上眼睛。>>那么多年百无聊赖的煎熬。那么多辈子,在半死不活中虚度;感受不到肺中的空气,发间的风……
+CradleDuchessA6	1	CradleDuchessA6::English	But... do you truly mean to aid Vela? Orlaith and Basalt, it seems, are set on opposing her. 	可是……你当真要助薇拉?奥莱丝和巴索特看来铁了心要与她作对。
+CradleDuchessA7	1	CradleDuchessA7::English	Confessor, you told me that Vela could grant the Endless a true immortality, if her Heaven prevails. ##I've been thinking on this a great deal these past few days.  	忏悔者,你告诉过我,若薇拉的天堂得胜,她能让无尽者获得真正的永生。##这几天我一直在反复思索此事。
+CradleDuchessA8	1	CradleDuchessA8::English	It has been many years since I've felt the air in my lungs or the wind in my hair, or... or seen my daughter's smile. To think that these things could be still be possible? ##I have come to realise that I... would like that very much.	我已经多少年没有感受过肺中的空气、发间的风,或者……或者看见我女儿的微笑了。想到这些居然还有可能?##我意识到,我……非常渴望那样。
+CradleDuchessA9	1	CradleDuchessA9::English	But... do you truly mean to aid Vela? Orlaith and Basalt, it seems, are set on opposing her. 	可是……你当真要助薇拉?奥莱丝和巴索特看来铁了心要与她作对。
+CradleDuchessA10	1	CradleDuchessA10::English	Confessor, you told me that Vela must be stopped, and that us Endless must learn to accept our fate. ##I've been thinking on this a great deal these past few days.  	忏悔者,你告诉过我,薇拉必须被阻止,而我们无尽者必须学会接受自己的命运。##这几天我一直在反复思索此事。
+CradleDuchessA11	1	CradleDuchessA11::English	My people's burden is ours to bear, and though we lament our torment, I believe some good, no matter how slight, can be gleaned from the worst of tragedies. 	我的人民的重担须由我们自己扛起,尽管我们哀叹自己的苦难,但我相信,哪怕再微小的善,也能从最悲惨的灾难中拾得。
+CradleDuchessA12	1	CradleDuchessA12::English	Vela's idea of Heaven might benefit my people, but I have no doubt it would wreak great havoc and disruption upon everyone else. For this reason I'll help you to stop Vela, no matter the cost.	薇拉的天堂或许能惠及我的人民,但我毫不怀疑,它会给所有其他人带来巨大的浩劫与动荡。因此,无论代价如何,我都会帮你拦住薇拉。
+CradleDuchessA13	1	CradleDuchessA13::English	...you ((are)) still going to try and stop her, correct? 	……你((还是))打算拦住她的,对吧?
+CradleDuchessA14	1	CradleDuchessA14::English	<<She nods.>> I thought as much. It will be a risky fight, but I'll do my best to aid you. 	<<她点头。>>我就知道。这将是一场凶险的战斗,但我会尽力助你。
+CradleDuchessA15	1	CradleDuchessA15::English	<<She looks away, and is silent for a moment.>> ##I... understand. Though I'm vexed you would stir such false hope in me, I see what's at stake here.	<<她移开目光,沉默片刻。>>##我……明白了。虽然你撩起我这般虚假的希望,令我气恼,但我明白此地利害几何。
+CradleDuchessA16	1	CradleDuchessA16::English	<<She frowns.>> My, you ((do)) have such fickle whims, Confessor. I had thought the matter settled.	<<她皱眉。>>哎呀,你的心思可真((够))善变,忏悔者。我还以为这事已经定了。
+CradleDuchessA17	1	CradleDuchessA17::English	I won't deny that there will be many... ((boons)) to the Endless, for assisting in Vela's plan. So, do as you see fit; I'll lend my ciper-sorcery to the cause, one way or another. 	我不否认,协助薇拉的计划,会给无尽者带来许多……((好处)).那么,你自行斟酌;无论如何,我都会把我的密文魔法借予这番事业。
+CradleDuchessA18	1	CradleDuchessA18::English	<<She nods.>> Thank you, Confessor. Together we will see this through.	<<她点头。>>谢谢你,忏悔者。我们会一起把这事办成。
+CradleDuchessA19	1	CradleDuchessA19::English	When we reach the Cradle, I'll keep Vela's main force distracted with a cipher-shield. That should give you time to find an alternate entrance.	到了摇篮,我会用一道密文护盾拖住薇拉的主力。这应该能给你时间另找入口。
+CradleDuchessA20	1	CradleDuchessA20::English	But no matter what, this will be a perilous mission. I've spoken to Caer, and arranged for my daughter's hand to be delivered home if I am to... meet a ((similar)) fate to hers.	但无论如何,这将是一次凶险的任务。我已与凯尔谈过,并安排好,若我遭遇与她((相似))的命运,就把我女儿的手送回家。
+CradleDuchessAP1	1	CradleDuchessAP1::English	After she ran me through with her blade, I'm hardly going to ((help)) her.	她用剑把我穿了个透之后,我可不太可能((帮))她。
+CradleDuchessAP2	1	CradleDuchessAP2::English	Her so-called Heaven is too chaotic an idea; she must be stopped.	她那所谓的天堂太过混乱;必须拦住她。
+CradleDuchessAP3	1	CradleDuchessAP3::English	Despite her actions, I will help her achieve this Heaven; for the benefit of all. 	尽管她的所作所为,我仍会帮她实现这个天堂;为了众人的福祉。
+CradleBasaltB1	1	CradleBasaltB1::English	Right, well despite it all, that went pretty smooth, eh? <<He grins.>> ##Damn sight better than the last landing, at least. 	好了,不管怎么说,这一趟挺顺,嗯?<<他咧嘴笑。>>##至少比上次着陆强多了。
+CradleBasaltBP1	1	CradleBasaltBP1::English	What's the plan now we're here? 	到了这里,计划是什么?
+CradleBasaltBP2	1	CradleBasaltBP2::English	I'll get going. 	我这就出发。
+CradleEmberianB1	1	CradleEmberianB1::English	We're aboard the most abhorrent vessel ever constructed, surrounded by the Union Navy; on our way to face ((Vela Callose)) and her captive eldritch horror. 	我们正身处史上最可憎的飞行器之上,四面被联盟海军包围;此行是要去面对((薇拉·卡洛斯))和她囚禁的骇人恐怖。
+CradleEmberianB2	1	CradleEmberianB2::English	<<She smiles.>> Careful, Confessor. Anything more dangerous and I might start having ((fun)).	<<她微笑。>>小心点,忏悔者。再危险一点,我就要开始觉得((好玩))了。
+CradleDuchessB1	1	CradleDuchessB1::English	Once more I've erected my [[transpositional supply tent]]. By all means use it to stock up, but don't tarry; we must strike quickly now that we're here. 	我又一次立起了我的[[置换补给帐篷]].尽管用它补给,但别耽搁;既然已经到了,我们必须速战速决。
+CradleDuchessB2	1	CradleDuchessB2::English	Vela's lackeys will come at us in full force, but I'll try to keep them at bay for as long as I can. ##Once we've set off you must [[find Frost]] and help him make his entrance. 	薇拉的走狗会倾巢而出,但我会尽力把他们挡住,能挡多久是多久。##出发后你必须[[找到弗罗斯特]],帮他登场。
+CradleFrostB1	1	CradleFrostB1::English	<<Frost is in full flow, seemingly possessed by the ghost of his piratical past.>> ##Onward, ladies! No dawdling, no dallying, and no ((fannying)) about! Last one to reach the [[aeration pipe]] owes us all a full Lundelese breakfast!	<<弗罗斯特兴致高涨,仿佛被海盗时代的幽灵附体。>>##前进,女士们!不许磨蹭,不许偷懒,不许((磨洋工))!最后一个到达[[通气管道]]的,请我们全体吃一顿丰盛的伦德尔早餐!
+CradleFrostB2	1	CradleFrostB2::English	<<He glances at you, baring his teeth in a fierce grin.>> ##Showtime, Confessor. Break a leg. 	<<他瞥你一眼,龇牙咧嘴地狞笑。>>##开演了,忏悔者。祝演出顺利。
+CradleBasaltC1	1	CradleBasaltC1::English	The others are in position, Confessor - what are you waiting for? Find [[Caxton Frost]] and help him access the Cradle's interior. 	其他人都就位了,忏悔者——你还等什么?去[[找卡克斯顿·弗罗斯特]],帮他进入摇篮内部。
+CradleEmberianC1	1	CradleEmberianC1::English	What's taking [[Frost]] so long? We need to [[get this thing ((open))]], or it's all over!	[[弗罗斯特]]怎么这么久?我们得[[把这家伙((弄开))]],不然全完了!
+CradleDuchessC1	1	CradleDuchessC1::English	<<The Duchess is clearly straining to maintain her powerful cipher spell.>> ##Don't... worry about ((me))... Confessor! I've faced worse odds... than ((this)).	<<女公爵明显在竭力维持她强大的密文咒法。>>##别……管((我))……忏悔者!我面对过比((这))更险的战局……
+CradleDuchessC2	1	CradleDuchessC2::English	Just find [[Frost]]... and get ((inside)) this thing! 	快去[[找弗罗斯特]]……钻进这家伙的((里面))!
+CradleFrostC1	1	CradleFrostC1::English	<<Frost is once again fiddling with his handheld door-breaking device, but this time he is visibly under stress.>> ##Confessor! You've arrived in the nick of time. ((Confound)) these obstinate Emberians!	<<弗罗斯特又在摆弄他的手持破门装置,但这次他明显压力很大。>>##忏悔者!你来得正是时候。((该死))的余烬人,怎么这么犟!
+CradleFrostC2	1	CradleFrostC2::English	I am attempting to halt this aeration turbine to afford our ingress, but it appears there is a [[fail-safe switch]] somewhere nearby; most likely on the platform beneath here.##There's an [[elevator]] down nearby. Find that switch, shut it off, and you shall have your door. 	我正尝试停住这台通气涡轮,好让我们进去,但附近某处似乎有一个[[保险开关]];多半在这下面的平台上。##附近有一部[[电梯]].找到那个开关,关掉它,你们就有门了。
+CradleFrostC3	1	CradleFrostC3::English	<<Behind you there is a deafening shriek of offensive magic, and a flash of blue light that briefly casts deep shadows across Frost's face. He looks worried.>> ##Quickly now, Confessor! Let's not miss our cue! 	<<你身后传来震耳欲聋的攻击魔法尖啸,一道蓝光闪过,在弗罗斯特脸上投下深深的阴影。他看起来很担忧。>>##快点,忏悔者!可别误了我们的登场时机!
+CradleFrostD1R	1	CradleFrostD1R::English	<<Frost's eyes are screwed tightly shut, and he no longer seems to hear anything you say.>> ##The Angel... please. You have to... nrggh. Sam? Sam...	<<弗罗斯特双眼紧闭,似乎再也听不见你说的话。>>##天使……求你。你必须……嗯呃。萨姆?萨姆……
+CradleFrostD1a	1	CradleFrostD1a::English	<<Frost's body lies mangled within the twisted wreckage of his clockwork armour, his fine clothes sodden with blood.>>	<<弗罗斯特的躯体躺在他发条铠甲扭曲的残骸中,血肉模糊,华服浸透了鲜血。>>
+CradleFrostD1b	1	CradleFrostD1b::English	Ah, ((fuck)).	啊,((他妈的))。
+CradleFrostD2	1	CradleFrostD2::English	<<Frost tries to sit up as he cries out with surprising vehemence.>> No! ##<<A coughing fit overwhelms him.>>	<<弗罗斯特挣扎着想坐起来,喊声大得惊人。>>不!##<<一阵咳嗽淹没了他。>>
+CradleFrostD3	1	CradleFrostD3::English	<<He looks up at you.>> No. Don't stop for me. You must... hrrfff... reach Vela. Before it's too late.	<<他抬头看你。>>不。别为我停下。你必须……呵……赶到薇拉那里。趁还来得及。
+CradleFrostD4	1	CradleFrostD4::English	<<Frost grins weakly.>> No, I suppose you don't need a... hrff... a genius of natural philosophy... to tell you that I'm... nfff. Not long for this world.	<<弗罗斯特虚弱地一笑。>>不,我想不需要一位……呵……自然哲学天才……来告诉你,我……嗯呋……在这个世界上时日无多了。
+CradleFrostD5	1	CradleFrostD5::English	<<Frost gives you a weak but genuine grin, before coughing up blood.>> ##Hrfff. Heh. Go... go and fuck yourself, Confessor.	<<弗罗斯特给你一个虚弱却真诚的笑容,随后咳出血来。>>##呵呋。嘿。去……去他妈的自己吧,忏悔者。
+CradleFrostD6	1	CradleFrostD6::English	<<He grimaces.>> Not a... bad finish for old Caxton Frost, hm? A final stand. A heroic... hrrff... downfall. Not a d-dry eye... in the house. Dramatic... hrrfff... to the last. 	<<他龇牙咧嘴。>>对老卡克斯顿·弗罗斯特来说,这个……收场不算坏,嗯?最后一战。英勇的……呵……谢幕。满座……无一不落泪。戏剧性……呵……贯彻到底。
+CradleFrostD7	1	CradleFrostD7::English	But... the c-curtain's not fallen yet, eh d-darling? If you can... build something better... out of all these ashes, then... nrrgh. Then it won't have been for nothing. 	但是……大幕还没落下呢,对吧,亲……亲爱的?若你能……用这一片焦土……筑起更好的东西,那……嗯呃。这一切就不算白费。
+CradleFrostD8	1	CradleFrostD8::English	<<He reaches up and grips your hand tightly.>> ##Please, C-confessor. Activate the Angel. Make all this... hrrrfff... worth a damn.	<<他抬起手,紧紧抓住你的手。>>##求你了,忏……忏悔者。启动天使。让这一切……呵……有点价值。
+CradleFrostD9	1	CradleFrostD9::English	<<He releases your hand and slumps back, his strength failing.>> ##Oh, and... please t-tell Sam... that I'm sorry. I really d-did want... nrgh... to come back to him.	<<他松开你的手,向后倒下,力气渐渐流失。>>##哦,还有……请转告萨姆……对不起。我真的……嗯呃……真的很想……回到他身边。
+CradleFrostD9b	1	CradleFrostD9b::English	<<He slumps back, his strength failing.>> ##Oh, and... please t-tell Sam... that I'm sorry. I really d-did want... nrgh... to come back to him.	<<他向后倒下,力气渐渐流失。>>##哦,还有……请转告萨姆……对不起。我真的……嗯呃……真的很想……回到他身边。
+CradleFrostDP1	1	CradleFrostDP1::English	Hang in there, Frost. I'll get you back to the cutter.	撑住,弗罗斯特。我会把你带回快艇。
+CradleFrostDP2	1	CradleFrostDP2::English	I'm sorry, Frost. It doesn't look good.	对不起,弗罗斯特。情况不乐观。
+CradleFrostDP3	1	CradleFrostDP3::English	You finally swore. I'm proud of you.	你终于骂人了。我为你骄傲。
+CradleFrostDP4	1	CradleFrostDP4::English	I'll tell him. I promise.	我会告诉他的。我保证。
+CradleFrostDP5	1	CradleFrostDP5::English	You can tell him yourself.	你可以亲口告诉他。
+CradleBasaltD1	1	CradleBasaltD1::English	Looks like Frost has gotten that [[back door]] open. So what are you ((dallyin')) around here for? 	看来弗罗斯特已经把那道[[后门]]弄开了。你还在这儿((磨蹭))什么?
+CradleBasaltD1b	1	CradleBasaltD1b::English	Frost may be down, but we can't afford to dally. Get inside that [[pipe]] and find the [[Angel]] - for his sake!	弗罗斯特可能倒下了,但我们耽搁不起。钻进那条[[管道]],找到[[天使]]——为了他!
+CradleBasaltD1c	1	CradleBasaltD1c::English	The Duchess may be down, but we can't afford to dally. Get inside that [[pipe]] and find the [[Angel]] - for her sake!	女公爵可能倒下了,但我们耽搁不起。钻进那条[[管道]],找到[[天使]]——为了她!
+CradleBasaltD1d	1	CradleBasaltD1d::English	Our comrades may be down, but we can't afford to dally. Get inside that [[pipe]] and find the [[Angel]] - for their sake!	我们的同伴可能倒下了,但我们耽搁不起。钻进那条[[管道]],找到[[天使]]——为了他们!
+CradleBasaltD2	1	CradleBasaltD2::English	<<Basalt stares at you, brows furrowed.>> Confessor...	<<巴索特皱着眉盯着你。>>忏悔者……
+CradleBasaltD3	1	CradleBasaltD3::English	If he's really passed, you can't ((think)) on it 'til we're done here. He knew the stakes and he chose to come anyways. Now keep your mind sharp and get back to it.	他若真走了,在办完这里的事之前,你((不许))想这些。他知道风险,却依然选择前来。现在打起精神,继续干活。
+CradleBasaltD3b	1	CradleBasaltD3b::English	If he's really passed as well, you can't ((think)) on it 'til we're done here. He knew the stakes and he chose to come anyways. Now keep your mind sharp and get back to it.	他若也真走了,在办完这里的事之前,你((不许))想这些。他知道风险,却依然选择前来。现在打起精神,继续干活。
+CradleBasaltD4	1	CradleBasaltD4::English	<<You hear Basalt mutter under his breath.>> ##Poor lad...	<<你听见巴索特低声嘀咕。>>##可怜的孩子……
+CradleBasaltD5a	1	CradleBasaltD5a::English	Hmph, the ((Duchess)), cut down? Things... must be real hairy out there. 	哼,((女公爵))被砍倒了?外面……情形一定相当凶险。
+CradleBasaltD5b	1	CradleBasaltD5b::English	Shit, the ((Duchess)) is down too? Things... must be real hairy out there. 	该死,((女公爵))也倒了?外面……情形一定相当凶险。
+CradleBasaltD6	1	CradleBasaltD6::English	But if anyone knows how to piece 'emselves back together, it'd be her. Just keep focused on the task at hand. ((Find Vela)). 	但要说谁最懂得怎么把自己拼回去,那非她莫属。专心干手头的活。((找到薇拉))。
+CradleBasaltDP1	1	CradleBasaltDP1::English	Frost is dead.	弗罗斯特死了。
+CradleBasaltDP2	1	CradleBasaltDP2::English	The Duchess is... in pieces.	女公爵……碎成几块了。
+CradleBasaltDP3	1	CradleBasaltDP3::English	I... you're right. I'll get going.	我……你说得对。我这就去。
+CradleDuchessD1R	1	CradleDuchessD1R::English	Do not ((tarry)), Confessor. Find... Vela. Find the [[Angel]]. That... is all that matters now.	别再((耽搁))了,忏悔者。找到……薇拉。找到[[天使]]。如今……只有这最重要。
+CradleDuchessD1	1	CradleDuchessD1::English	<<The Duchess has been hacked to pieces; you see parts of her body scattered across the floor, like the remnants of some gruesome festival.>>	<<女公爵被砍成了碎块;你看见她身体的部件散落一地,宛如某场恐怖庆典的残余。>>
+CradleDuchessD2	1	CradleDuchessD2::English	<<In response to your voice, a finger starts pointing wildly. You follow its gesture to a pile of bodily components, and you pull a jaw from within.>>	<<回应你的声音,一根手指开始胡乱指划。你顺着它指的方向找到一堆身体部件,从中拉出一段下颚。>>
+CradleDuchessD3	1	CradleDuchessD3::English	I'm sorry... Confessor. Couldn't... hold them all back... 	对不起……忏悔者。没能……把他们都挡住……
+CradleDuchessD4	1	CradleDuchessD4::English	Heh. Did you... bring your needle and thread? What a... pleasing image. ##Alas, I fear there's... no time for any such thing.	呵。你……带针线了吗?真是一幅……动人的画面。##可惜,恐怕没……时间了。
+CradleDuchessD5	1	CradleDuchessD5::English	You'll do no such thing! No, Confessor, you... musn't make a fuss about me. There's simply... no time.	别做那种事!不,忏悔者,你……不必为我大动干戈。实在是……没时间了。
+CradleDuchessD6	1	CradleDuchessD6::English	Quite right, Confessor. You musn't... make a fuss about me. I've been... fussed over enough for... ten lifetimes.	说得对,忏悔者。你不必……为我操心。我这辈子……被人操心的次数,已经够……十辈子用了。
+CradleDuchessD7	1	CradleDuchessD7::English	I knew it would come to this, sooner or later. No doubt I... deserve it, after all that I've done. Perhaps it will even prove... an interesting change of pace, no?	我早知道迟早会有这一天。毫无疑问我……罪有应得,毕竟我做过那么多事。或许这还会是一段……有趣的插曲,不是吗?
+CradleDuchessD8	1	CradleDuchessD8::English	Just... find [[Vela]], and that [[Angel]] of hers. ##Now ((go)), Confessor! 	只要……找到[[薇拉]]和她那位[[天使]]。##现在((去吧)),忏悔者!
+CradleDuchessD9	1	CradleDuchessD9::English	<<For a moment you are confused to discover a ((third)) hand - until you realise that she must have brought her daughter along with her.>>	<<一时间,你困惑地发现一只((第三))只手——直到你意识到,她一定把女儿也带来了。>>
+CradleDuchessD10	1	CradleDuchessD10::English	Hmm? What's... all this now? What are you doing? I... told you, there's no time to fuss! 	嗯?这是……在做什么?你要干什么?我……说过了,没时间穷讲究!
+CradleDuchessD11	1	CradleDuchessD11::English	<<The two hands touch, and shiver in surprise. Then, after a moment's pause, their fingers intertwine.>> 	<<两只手相触,惊喜地颤抖。片刻停顿之后,十指相扣。>>
+CradleDuchessD12	1	CradleDuchessD12::English	<<Never before have you heard the Duchess's voice suffused with such feeling.>> ##Oh. ((Oh.)) My... darling. My petal. I've... I've got you. I've got you.	<<你从未听过女公爵的声音里浸透着这样的深情。>>##哦。((哦。))我……亲爱的。我的花瓣。我……找到你了。找到你了。
+CradleDuchessDP1	1	CradleDuchessDP1::English	Duchess? Can you... hear me?	女公爵?你能……听见我吗?
+CradleDuchessDP2	1	CradleDuchessDP2::English	I'm sorry, Duchess...	对不起,女公爵……
+CradleDuchessDP3	1	CradleDuchessDP3::English	Can we fix you?	我们能修好你吗?
+CradleDuchessDP4	1	CradleDuchessDP4::English	I'll send for help...	我去搬救兵……
+CradleDuchessDP5	1	CradleDuchessDP5::English	I'm sorry, but there's no time. 	对不起,没时间了。
+CradleDuchessDP6	1	CradleDuchessDP6::English	<<[Search through the Duchess's body parts for anything that might help.]>>	<<[在女公爵的身体部件中翻找可能有用的东西。]>>
+CradleDuchessDP7	1	CradleDuchessDP7::English	Goodbye, Duchess. Good luck.	再见,女公爵。祝你好运。
+CradleDuchessDP8	1	CradleDuchessDP8::English	<<[Place her daughter's hand alongside one of hers.]>>	<<[把她女儿的手放在她的一只手旁。]>>
+Angel1	1	Angel1::English	<<As you approach the Angel a pressure builds inside your skull, until it feels like your head might split in twain. Your body shivers with a nauseating energy; somehow you know the Angel is ((inside)) you.>>	<<当你接近天使,一股压力在你颅腔内积聚,直到你觉得脑袋要裂成两半。你的身体在一股令人作呕的能量中战栗;不知为何,你知道天使就在你((体内))。>>
+Angel2	1	Angel2::English	<<A needle of pain gouges through your mind. Memories of your childhood, of people and places you knew, all flash before your eyes; wrenched forth by the will of this creature. Is it trying to ((understand)) you?>>	<<一根疼痛之针剜过你的脑海。童年的记忆、你认识的人和去过的地方,尽数在眼前闪现;被这造物的意志生生拽出。它是在试图((理解))你吗?>>
+Angel3	1	Angel3::English	<<More pain - but this time, the memories are not your own. A sensation of limitless possibility, of incomprehensible freedom and unending ((time)), envelops you.>>	<<更多疼痛——但这一次,记忆不再属于你。一种无限可能、难以理解的自由与无尽((时间))的感觉将你包裹。>>
+Angel4	1	Angel4::English	<<For just a fraction of a moment you understand what it means to be truly ((infinite)) - to stretch beyond the limits of this reality. You realise the Angel is trying to... ((share)) its experience with you, though much is lost in translation.>>	<<就在一瞬之间,你懂得了真正((无限))意味着什么——延展到这个现实之外。你意识到天使正试图与你……((分享))它的体验,尽管许多东西在传递中散失。>>
+Angel5	1	Angel5::English	<<A confusion of sensations flash through your mind. An Emberian vessel invading your life essence, somehow latching onto you; ((pulling)) you through layers of reality until you are small, oh so small, and trapped in this cage.>>	<<纷乱的感觉掠过你的脑海。一艘余烬飞行器侵入你的生命本源,不知怎地攀附上你;((拖拽))着你穿过层层现实,直到你变得渺小,哦,如此渺小,被困在这牢笼之中。>>
+Angel5a	1	Angel5a::English	<<You understand, somehow, that the Angel is severely impaired in this world. The limits of time and space, the ((rules)) inherent in such a rigid existence, entrap the Angel in this corporeal form.>>	<<不知怎地,你明白天使在这个世界里严重受制。时间与空间的界限,这种僵硬存在所固有的((规则)),把天使困在这具躯壳之中。>>
+Angel6	1	Angel6::English	<<What you know of the World Rend - scraps of history, hearsay, and a pervasive cultural dread - rises to the forefront of your mind.>>	<<你对世界撕裂的了解——历史的残篇、道听途说,以及弥漫文化的恐惧——涌上你脑海的最前端。>>
+Angel7	1	Angel7::English	<<A note of confusion flows through you. The Angel doesn't seem to be sure. But you understand that, when it was brought here, another tried to merge with it - ((unsuccessfully)).>>	<<一丝困惑流经你身。天使似乎也不确定。但你明白,当它被带到此地时,曾有另一个存在试图与它融合——((未能成功))。>>
+Angel8	1	Angel8::English	<<In that moment, a simple cry of pain from either of them could have obliterated this world; just as a human could accidentally trample on a colony of insects.>> 	<<在那一刻,它们中任何一方一声痛苦的哀鸣,都可能抹除这个世界;就像人类可能不小心踩死一窝昆虫。>>
+Angel9	1	Angel9::English	<<Your body seethes with... ((impotence)) and impatience. Yes, you understand;  the Angel can do nothing on its own. Not in this reality, not in this ((body)): it is trapped here.>>	<<你的身体涌动着……((无力))与焦躁。是的,你明白;天使自己什么都做不了。在这个现实里,在这具((躯壳))里:它被困于此。>>
+Angel10	1	Angel10::English	<<It must merge with another - a sentient being from ((this)) material plane - if it is to have any agency here.>>	<<它必须与另一个存在融合——来自((这个))物质位面的有感知的存在——才能在此有所作为。>>
+Angel11	1	Angel11::English	<<It would need only be a moment, and the Angel could separate once more, peeling off from its new form and returning to the Void. ##Or it could stay, and weave a new reality within this one.>>	<<只需一瞬,天使便可再度分离,从新的形态中剥落,回归虚空。##或者它也可以留下,在这个现实之内编织一个新的现实。>>
+Angel12	1	Angel12::English	<<You see a corpse lowered into a grave - then a baby clawing its way out of the ((other side)) of the earth, covered in blood and placenta. To merge would be to die and be born anew.>> 	<<你看见一具尸体被放入坟墓——然后一个婴儿从大地的((另一侧))爬出,满身血污与胎衣。融合便是死去,而后新生。>>
+Angel13	1	Angel13::English	<<Then you see wine being poured into a strange, serpentine vessel. When the glass breaks, the wine remains, keeping the shape. To merge would also change the Angel, endowing it with all your own quirks and values.	<<接着你看见酒被倒入一个古怪的蛇形容器。玻璃碎了,酒却留存,保持着形状。融合也会改变天使,赋予它你的全部怪癖与价值观。
+Angel14	1	Angel14::English	<<Flowers blossom and decay all at once. Clouds boil away and fatten and burst. A moth flaps its wings and towers fall; it flaps again and the towers have always stood proudly. Uncertainty: the Angel cannot say for sure what will become of your world.>>	<<花朵同时绽放又凋零。云朵沸腾、增厚又爆裂。一只飞蛾扇动翅膀,高塔倾倒;它再度扇动,高塔又始终傲然矗立。不确定:天使无法断言你的世界将变成什么模样。>>
+Angel15	1	Angel15::English	<<A sense of responsibility comes over you. You think this means... that ((you)) must be careful. If you merge, you will be as one; and the power you wield will be terrifying.>>	<<一种责任感涌上你心头。你想,这意味着……((你))必须谨慎。若你融合,你们将合为一体;而你们掌握的力量将可怕至极。>>
+Angel16	1	Angel16::English	<<You feel a yearning for something like home; for the expanse of the infinite Void. But a wave of anxiety hits you: there will be no going back from this decision.>>	<<你感到一种对近似家园之物的渴望;对无限虚空之浩瀚的渴望。但一阵焦虑袭来:这个决定没有回头路。>>
+Angel17	1	Angel17::English	<<All the pity and despair, the tumult and the blood; the cyclical cruelty, and the pious theft. All of it will go on, alongside whatever joy the people of the Skyrealms can carve from the crooked bough of mere existence. Is that your will?>> 	<<所有的怜悯与绝望,动荡与鲜血;循环往复的残酷,与假虔诚之名的掠夺。这一切都将延续,与天空领域的人们能从纯粹存在的扭曲枝干上刻出的每一分欢乐同在。这是你的意愿吗?>>
+Angel18	1	Angel18::English	<<Your body is engulfed in a warm tingling that soon becomes a tearing, agonising pain. Your vision distorts, then seems to blend with your other senses; like your very consciousness is dissolving into water.>>	<<你的身体被一阵温暖的酥麻吞没,旋即化作撕裂般的剧痛。你的视觉扭曲,继而似乎与其它感官融为一体;仿佛你的意识正溶解于水中。>>
+Angel19	1	Angel19::English	<<The Angel is borrowing your mortal essence, so that it may leave this reality. Your last coherent thought is a desperate hope that you made the right choice.>> 	<<天使正借用你的凡人本质,以便离开这个现实。你最后一条连贯的思绪,是一个孤注一掷的愿望:愿你做出了正确的选择。>>
+Angel20	1	Angel20::English	<<A soothing sensation engulfs you. The Angel waits patiently.>>	<<一股抚慰的感觉将你吞没。天使耐心地等待着。>>
+Angel21	1	Angel21::English	<<You feel a sense of opportunity; of excitement in the unknown, and of starting anew. But a surge of dread engulfs you: there will be no going back from this decision.>>	<<你感到一种机遇之感;对未知的兴奋,与重新开始的悸动。但一阵恐惧将你吞没:这个决定没有回头路。>>
+Angel22	1	Angel22::English	<<Even if humanity survives, will we recognise ourselves? And why should you be the one who chooses for them? Are you so just, so righteous, that you should set the pattern of their existence? Are you prepared to claim that power?>> 	<<就算人类幸存,我们还认得出自己吗?凭什么由你来替他们做选择?你难道如此公正、如此正义,竟要为他们设定存在的范式?你准备好攫取那份力量了吗?>>
+Angel23	1	Angel23::English	<<Your body is engulfed in a warm tingling that soon becomes a tearing, agonising pain. Your vision distorts, then seems to blend with your other senses; like your very consciousness is dissolving into water.>>	<<你的身体被一阵温暖的酥麻吞没,旋即化作撕裂般的剧痛。你的视觉扭曲,继而似乎与其它感官融为一体;仿佛你的意识正溶解于水中。>>
+Angel24	1	Angel24::English	<<You are merging with the Angel, so that two become one. Your last coherent thought is a desperate hope that you made the right choice.>> 	<<你正与天使融合,二将合一。你最后一条连贯的思绪,是一个孤注一掷的愿望:愿你做出了正确的选择。>>
+Angel25	1	Angel25::English	<<A soothing sensation engulfs you. The Angel waits patiently.>>	<<一股抚慰的感觉将你吞没。天使耐心地等待着。>>
+Angel26	1	Angel26::English	<<A warmth washes over you. The Angel waits for your query.>> 	<<一股暖意漫过你全身。天使等待着你的询问。>>
+Angel27	1	Angel27::English	<<A sensation of calm. The Angel feels no sense of urgency, it seems. If only the same were true for you.>>	<<一种平静的感觉。天使似乎毫无紧迫感。但愿你也能如此。>>
+Angel28	1	Angel28::English	<<A tingling of anticipation suffuses your body. The Angel awaits your decision.>>	<<一阵期待的酥麻遍布你的身体。天使等待着你的决定。>>
+AngelP1	1	AngelP1::English	Get out of my ((head!))	滚出我的((脑袋!))
+AngelP2	1	AngelP2::English	((Clench your teeth.))	((咬紧牙关。))
+AngelP3	1	AngelP3::English	What ((are)) you?	你((究竟))是什么?
+AngelP4	1	AngelP4::English	Why are you here?	你为何在此?
+AngelP5	1	AngelP5::English	You caused the World Rend, didn't you? 	世界撕裂是你引发的,对吧?
+AngelP6	1	AngelP6::English	I want you to leave.	我要你离开。
+AngelP7	1	AngelP7::English	I want to use your power. 	我想借你的力量一用。
+AngelP7a	1	AngelP7a::English	So... what happens now?	那么……接下来会怎样?
+AngelP7b	1	AngelP7b::English	Let me ask you something else.	让我问你点别的。
+AngelP8	1	AngelP8::English	If we merge... what would happen to ((me))?	若我们融合……((我))会怎样?
+AngelP9	1	AngelP9::English	Could this cause another World Rend?	这会引发又一次世界撕裂吗?
+AngelP10	1	AngelP10::English	I want to banish you back to the Void. 	我要把你放逐回虚空。
+AngelP11	1	AngelP11::English	I want to merge with you, and make a Heaven of my own. 	我想与你融合,建造我自己的天堂。
+AngelP12a	1	AngelP12a::English	I need to know more before I can choose.	在做选择之前,我需要了解更多。
+AngelP12b	1	AngelP12b::English	I still need to know more before I can choose.	在做选择之前,我仍需了解更多。
+AngelP12c	1	AngelP12c::English	Actually, wait. I still have questions.	等等。我还有问题。
+AngelP13	1	AngelP13::English	I need to think this over. 	我需要好好想想。
+AngelP13b	1	AngelP13b::English	Actually, I need to think this over. 	其实,我需要好好想想。
+AngelP14	1	AngelP14::English	Yes, you must return to the Void. 	是,你必须回归虚空。
+AngelP15a	1	AngelP15a::English	No, let me think about this.	不,让我想想。
+AngelP15b	1	AngelP15b::English	No, wait, let me consider this.	不,等等,让我考虑一下。
+AngelP16	1	AngelP16::English	Yes, I will create my own Heaven.	是,我要创造我自己的天堂。
+AngelP17	1	AngelP17::English	I think I'm ready to choose.	我想我准备好做选择了。
+underCharmHologram1	1	underCharmHologram1::English	Cipher network severed: Critical memory failure: Power levels dangerously low. 	密文网络断开:关键记忆故障:能量水平危险过低。
+underCharmHologram2	1	underCharmHologram2::English	FURTHER: Multiple organic anomalies detected: Reality distortion in progress. ##Additional  information restricted to Class-C citizens and above.	另:检测到多处有机异常:现实扭曲进行中。##附加信息仅限C级及以上公民。
+underCharmHologram3	1	underCharmHologram3::English	@@Look around, machine. Everyone is dead. You want a ((classy)) person? I'm the best you're gonna get. 	@@看看四周吧,机器。人都死光了。你要找((有身份))的人?我就是你能找到的最好的了。
+underCharmHologram4	1	underCharmHologram4::English	%%ANALYSING: Speaker's statement is correct. Population drastically reduced. Situation Critical.	%%分析中:发言者所述属实。人口锐减。状况危急。
+underCharmHologram5	1	underCharmHologram5::English	ADDITIONAL INFORMATION REQUEST GRANTED. 	附加信息请求已批准。
+underCharmHologram6	1	underCharmHologram6::English	City of Albertus population decrease: Estimated 99.99%. ##Fungal growth in city limits: Critical Saturation.##ANOMALY DETECTED: Analysing. 	阿尔贝图斯市人口减少:估计99.99%。##市区真菌生长:临界饱和。##检测到异常:分析中。
+underCharmHologram7	1	underCharmHologram7::English	Certain fungi contain human genetic material: Traces of cipher channelling detected: Reality is being distorted nearby.	部分真菌含有人类基因物质:检测到密文传导痕迹:附近现实正在被扭曲。
+underCharmHologram8	1	underCharmHologram8::English	CONCLUSION: Speaker should pay special attention to the environment around humanoid fungi. All may not be as it seems. ##Ceasing communication. 	结论:发言者应特别留意人形真菌周围的环境。一切未必如表面所见。##终止通讯。
+underCharmHologram9	1	underCharmHologram9::English	&&ANALYSING: Speaker is not a citizen: Estimated Class-Z (Alien; Immigrant; Etcetera). ##Ceasing communication immediately. 	&&分析中:发言者非公民:估计为Z级(异类;移民;等等)。##立即终止通讯。
+underCharmHologram10	1	underCharmHologram10::English	This is pointless.	毫无意义。
+cradleCharm1	1	cradleCharm1::English	CRADLE network breached: Security protocols overwritten: Control of mechanical humanoids severed. 	摇篮网络被入侵:安全协议被覆写:机械人形控制被切断。
+cradleCharm2	1	cradleCharm2::English	FURTHER: Containment compromised for Prime Specimen (CODE: ANGEL): Entity is attempting to replicate. Access to CRADLE-WOMB sealed until threat nullified. ##Additional information restricted to Class-A citizens and above.	另:主要样本(代号:天使)收容被破坏:实体正试图复制。摇篮-母巢入口已封锁,直至威胁解除。##附加信息仅限A级及以上公民。
+cradleCharm3	1	cradleCharm3::English	@@All your ((citizens)) have been dead for hundreds of years. If you want to stop this Angel Spawn, I'm your only chance.	@@你的((公民))们已经死了几百年了。你想拦住这个天使子体,我就是你唯一的机会。
+cradleCharm4	1	cradleCharm4::English	((Leave)). 	((离开))。
+cradleCharm5	1	cradleCharm5::English	%%ANALYSING: Class-A population count: Zero. #Class-B population count: Zero. #Class-C population count: Zero. 	%%分析中:A级人口计数:零。#B级人口计数:零。#C级人口计数:零。
+cradleCharm6	1	cradleCharm6::English	ANALYSING: Threat level critical. Without containment: Prime Specimen replication will trigger Disaster Event Tier 0: Destruction of Reality.	分析中:威胁等级危急。若收容失效:主要样本复制将触发0级灾难事件:现实毁灭。
+cradleCharm7	1	cradleCharm7::English	ADDITIONAL INFORMATION REQUEST GRANTED. 	附加信息请求已批准。
+cradleCharm8	1	cradleCharm8::English	Prime Specimen (CODE: ANGEL) is attempting to replicate: The resulting Sub Specimen (CODE DESIGNATION: ANGELSPAWN) is located in the Power Relay Chamber. 	主要样本(代号:天使)正试图复制:产生的子样本(代号命名:天使子体)位于电力中继室。
+cradleCharm9	1	cradleCharm9::English	Sub Specimen (CODE: ANGELSPAWN) is capable of distorting reality: Designated CLASS-A THREAT: Use of force not advised.	子样本(代号:天使子体)具有扭曲现实的能力:定为A级威胁:不建议使用武力。
+cradleCharm10	1	cradleCharm10::English	CONCLUSION: Overloading the Power Relay Chamber may result in Sub Specimen's destruction without unnecessary conflict: Speaker should look for the FOUR (4) override terminals: high technical skill required. ##Ceasing communication.	结论:使电力中继室过载,或可无需不必要的冲突便摧毁子样本:发言者应寻找四(4)个越权终端:需要高超的技术能力。##终止通讯。
+cradleCharm11	1	cradleCharm11::English	&&ANALYSING: Speaker is not a citizen: Estimated Class-Z (Alien; Immigrant; Etcetera). ##Ceasing communication immediately. 	&&分析中:发言者非公民:估计为Z级(异类;移民;等等)。##立即终止通讯。
+cradleCharm12	1	cradleCharm12::English	@@You need to reset security protocols if you want to regain control of the situation.	@@你要想重新控制局面,就得重置安全协议。
+cradleCharm13	1	cradleCharm13::English	%%ANALYSING: Speaker assessment correct. Resetting security protocols. Setting speaker (CODE: SPEAKER_467e) to status: NON-THREAT. 	%%分析中:发言者评估正确。正在重置安全协议。将发言者(代号:SPEAKER_467e)状态设为:非威胁。
+cradleCharm14	1	cradleCharm14::English	CONCLUSION:  mechanical humanoids will now attack all THREATS on sight, including those designated CODE: VELA_KICKS_ASS. ##Ceasing communication.	结论:机械人形现将对所有目视范围内的威胁发动攻击,包括被标记为代号:VELA_KICKS_ASS 的目标。##终止通讯。
+cradleCharm15	1	cradleCharm15::English	CRADLE network stable. Security protocols functioning correctly.	摇篮网络稳定。安全协议运转正常。
+cradleCharm16	1	cradleCharm16::English	FURTHER: Containment secure for Prime Specimen (CODE: Angel).  	另:主要样本(代号:天使)收容稳固。
+cradleCharm17	1	cradleCharm17::English	Tell me again how to defeat this so-called ((Angel Spawn.))	再说一遍,怎么打败这个所谓的((天使子体))。
+VelaCradleAngry1	1	VelaCradleAngry1::English	<<Vela stands over the lifeless body of her once-friend Orlaith, her sword still dripping with blood and her face twisted with fury.>> ##((You!))	<<薇拉站在昔日好友奥莱丝毫无生气的躯体旁,她的剑还在滴血,面容因愤怒而扭曲。>>##((你!))
+VelaCradleAngry2	1	VelaCradleAngry2::English	You should be ((dead)). I stuck my sword into your heart, I saw your body fall. It would have taken a ((god)) to stop you from	你本该((死))了。我把剑捅进你的心脏,我亲眼看着你倒下。除非有((神))出手,才能拦住你不——
+VelaCradleAngry3	1	VelaCradleAngry3::English	<<Her eyes narrow.>> Oh, now I get it, Confessor. You really ((have)) been following in my footsteps, haven't you? 	<<她眯起眼。>>哦,我明白了,忏悔者。你还真是一直((在))步我的后尘,是吧?
+p101	1	p101::English	You... ((killed)) Orlaith?	你……((杀))了奥莱丝?
+VelaCradleAngry4	1	VelaCradleAngry4::English	She attacked me; I had no ((choice)). And if it wasn't for ((you))...	她攻击我;我别无((选择)).而且若不是((你))……
+p102	1	p102::English	What's happened to your arm? Your ((face))?	你的手臂怎么了?你的((脸))?
+VelaCradleAngry5	1	VelaCradleAngry5::English	<<She flexes her arm, its black flesh pulsing with eldritch energy.>> ##Merely a byproduct of the ((unprecedented)) work we have been doing here. 	<<她弯曲手臂,漆黑的血肉中脉动着诡异的能量。>>##不过是我们在此进行的((史无前例))工作的副产品罢了。
+p103	1	p103::English	Vela, let's ((talk)) about this...	薇拉,我们((谈谈))吧……
+VelaCradleAngry6	1	VelaCradleAngry6::English	No more ((talk)), Confessor. Not after everything you've done. 	别再((谈))了,忏悔者。在你做过这一切之后,免谈。
+p104	1	p104::English	In the name of the Inquisition, I will cut you down. 	以宗教裁判所之名,我会砍倒你。
+VelaCradleAngry7	1	VelaCradleAngry7::English	If a fight is what you want, I will ((gladly)) give it. 	你若想要一场战斗,我((乐意奉陪))。
+VelaCradleAngry8	1	VelaCradleAngry8::English	((You)) turned my comrades against me, forcing my hand. Their blood is on ((your)) conscience as much as my own. 	((你))挑拨我的同伴与我为敌,逼我出手。他们的血,((你))的良心和我的一样,都洗不净。
+p105	1	p105::English	They abandoned your cause long ago, Vela. 	他们早就背弃你的事业了,薇拉。
+VelaCradleAngry9	1	VelaCradleAngry9::English	<<She scoffs.>> They were just afraid of real change. None of them tried to ((assassinate)) me until you showed up.	<<她嗤笑。>>他们只是害怕真正的改变。在你出现之前,可没有一个想((刺杀))我。
+p106	1	p106::English	Can't you just ((bring them back)) with that Angel of yours? 	你就不能用你那位天使((把他们救回来))吗?
+VelaCradleAngry10	1	VelaCradleAngry10::English	<<Vela frowns, turning her head away.>> That... would be up to ((them)), not ((I)). And Orlaith... made clear her desire to eschew my vision of Heaven. 	<<薇拉皱眉,别过头去。>>那……得由((他们))说了算,不是((我))。而奥莱丝……已明确表示她不愿接受我的天堂愿景。
+p107	1	p107::English	If you had only let me ((help)) you... 	你当初若肯让我((帮))你……
+VelaCradleAngry11	1	VelaCradleAngry11::English	<<Vela snarls.>> Oh yes! If I'd only stayed in the ((Navy)) like a good little girl. If I'd only done what I was ((told)). If, if, ((if!))	<<薇拉咆哮。>>哦是啊!我要是乖乖待在((海军))里该多好。我要是乖乖听((话))该多好。如果,如果,((如果!))
+VelaCradleAngry12	1	VelaCradleAngry12::English	<<She points her sword at you, Orlaith's blood still dripping from it.>> ##Get ready, Confessor. I won't let ((you)) nor the Inquisition get in the way of what comes next - for the sake of ((humanity)). 	<<她用剑指着你,奥莱丝的血还在剑上滴落。>>##准备好,忏悔者。我绝不允许((你)),也不允许宗教裁判所,阻拦接下来的一切——为了((人类))。
+VelaCradleAngry13	1	VelaCradleAngry13::English	En garde!	看剑!
+p108	1	p108::English	So be it.	那便如此。
+p109	1	p109::English	Don't you mean for the sake of ((Isabet)), your sister? That's what this is ((really)) about.	你不该说是为了((伊莎贝特)),你妹妹吗?这才是这一切的((真正))原因。
+VelaCradleAngry14	1	VelaCradleAngry14::English	<<Vela glares at you with a newfound fury.>> How ((dare)) you mention her name! You know ((nothing)) of her soul - of my ((family)).	<<薇拉带着前所未有的怒火瞪着你。>>你((怎敢))提起她的名字!你对她的灵魂((一无所知))——对我的((家人))一无所知。
+VelaCradleAngry15	1	VelaCradleAngry15::English	Isabet was... she meant more to me than... ##<<Vela closes her eyes for a long moment.>>	伊莎贝特她……她对我而言,比……##<<薇拉闭了很久的眼睛。>>
+VelaCradleAngry16	1	VelaCradleAngry16::English	Isabet and my mother ((burned alive)) in my father's mansion. That Isabet was taken so young, and I alone should live, speaks plainly of the injustice of this world. I won't ((apologise)) for wanting to change that.	伊莎贝特和我母亲在我父亲的宅邸里((被活活烧死)).伊莎贝特那么年轻就殒命,而我独独活了下来,这明明白白诉说着这个世界的不公。想改变这一切,我((不会道歉))。
+p110	1	p110::English	What of the people who suffered for your vision? People like Caer, who you left to ((die))? 	那些为你的愿景受苦的人呢?像凯尔那样被你弃之((等死))的人?
+VelaCradleAngry17	1	VelaCradleAngry17::English	<<Vela stutters, now stumbling over her words.>> Caer... ((betrayed)) me. I... I would have given my ((life)) for that girl, but she... She... 	<<薇拉结巴起来,话语磕磕绊绊。>>凯尔……((背叛))了我。我……我本可以为那个女孩献出((生命)),可她……她……
+VelaCradleAngry18	1	VelaCradleAngry18::English	@@ And now here you are, surrounded by the corpses of your ((new)) family. Was it worth it? Was Orlaith's death ((just?)) 	@@而如今你在这里,被你((新))家人的尸体包围。值得吗?奥莱丝的死((公道吗?))
+VelaCradleAngry19	1	VelaCradleAngry19::English	%% <<Vela stutters.>> I... they... They betrayed ((me!)) If only they had ((listened)), instead of... instead of... ##I didn't ((want)) to kill her. I... only meant to...	%%<<薇拉结巴。>>我……他们……他们背叛了((我!))要是他们肯((听我的)),而不是……而不是……##我没((想))杀她。我……只是想……
+VelaCradleAngry20	1	VelaCradleAngry20::English	&& <<Vela's eyes go wide with shock - then narrow into slits of pure molten fury.>> ##I gave her the chance to stand down. I would have ((forgiven)) her. A privilege I will ((not)) grant ((you)).	&&<<薇拉的双眼因震惊而睁大——随即眯成两条熔化的怒火。>>##我给过她停手的机会。我本会((原谅))她。这份优待,我((不会))给((你))。
+p111	1	p111::English	Forget it. We'll finish this with our weapons. 	算了。我们用武器来了结这一切。
+VelaCradleAngry21	1	VelaCradleAngry21::English	<<Vela's sword drops from her hands and clatters on the floor. Tears stream from her eyes, though she betrays not a sob.>> 	<<薇拉的剑从她手中滑落,哐当砸在地板上。泪水从她眼中涌出,她却没发出一丝呜咽。>>
+VelaCradleAngry22	1	VelaCradleAngry22::English	That's... what I always say, isn't it? 'I didn't want to'. 'They made me do it'. 'I had no choice'. ##<<She turns her gaze to the ceiling, blinking away tears.>> ((Damn)) you, Confessor... 	这就是……我一直说的话,不是吗?"我不想这样"。"是他们逼我的"。"我别无选择"。##<<她把目光转向天花板,眨去泪水。>>((该死))的你,忏悔者……
+VelaCradleAngry23	1	VelaCradleAngry23::English	Do you... have any ((idea)) how long ((never)) is? Never to see my sister again. Never to hear her stupid little laugh. ##Godsdamnit, all I ((ever)) wanted - <<She screws up her eyes.>>	你……((知道))((永远))有多长吗?再也见不到我妹妹。再也听不到她那傻乎乎的小笑声。##神啊,我((从来))只想——<<她眯紧双眼。>>
+VelaCradleAngry24	1	VelaCradleAngry24::English	When I found that map it was like a fucking ((Djinn)) had answered my wish. Do you understand? Like a message from the universe, saying: maybe she died so I could save ((everyone)).	当我找到那张地图,就像一个该死的((灯神))应了我的愿。你明白吗?像宇宙捎来的口信,说:也许她死了,就是为了让我能拯救((所有人))。
+VelaCradleAngry25	1	VelaCradleAngry25::English	And at every step since then, I've made the same choice. Every principle twisted. Every dead friend. The Angel could make it right. ##So my debt kept growing, and growing, until...	从那之后的每一步,我都做了同样的选择。扭曲每一条原则。失去每一位挚友。天使能把它纠正过来。##于是我的债越欠越多,越欠越多,直到……
+VelaCradleAngry26	1	VelaCradleAngry26::English	<<Vela is silent for a long time. When she turns back to you it is with a despairing smile, her voice cracking with the desperate abandon of confession.>> ##I am so deep in blood that I can't even see the surface anymore.	<<薇拉沉默良久。当她转回身面对你时,带着一个绝望的微笑,声音因孤注一掷的忏悔而破裂。>>##我陷在血里太深,连水面都看不见了。
+VelaCradleAngry27	1	VelaCradleAngry27::English	<<Vela gestures hopelessly at the Angel.>> So you win, Confessor, the Angel will answer to the first mortal who speaks with it. If you think me a fool, then ((destroy)) it. 	<<薇拉朝天使无力地一挥手。>>所以你赢了,忏悔者,天使会回应第一个与它交谈的凡人。你若觉得我是傻瓜,那就((毁掉))它。
+VelaCradleAngry28	1	VelaCradleAngry28::English	Just... whatever you do, do it ((quickly)). Before I change my mind again. 	只是……无论你做什么,((快点))做。趁我还没再次改变主意。
+p112	1	p112::English	Thank you, Vela. 	谢谢你,薇拉。
+p113	1	p113::English	((Just nod and leave.))	((只是点头,然后离开。))
+VelaCradleAngry29	1	VelaCradleAngry29::English	<<Vela wheezes and coughs, blood dribbling from her lips.>> ##It seems... I'm not the swordswoman... I used to be.	<<薇拉喘息咳嗽,鲜血从唇边滴落。>>##看来……我已经不是当年那个……剑客了。
+VelaCradleAngry30	1	VelaCradleAngry30::English	<<She grins weakly, showing teeth glazed in red.>> I guess it's up to ((you)) now, Confessor. The Angel... awaits.	<<她虚弱地咧嘴,露出染红的牙齿。>>我想现在就看((你))的了,忏悔者。天使……在等着。
+VelaCradleAngry31	1	VelaCradleAngry31::English	Just consider... what I said. You could ((use)) it... to... ((save)) this broken world... 	只要想想……我说的话。你可以((用))它……来……((拯救))这个破碎的世界……
+VelaCradleAngry32	1	VelaCradleAngry32::English	<<Vela breaks into more coughing, straining to keep herself upright.>>	<<薇拉又咳嗽起来,竭力撑住身体。>>
+VelaCradleAngry33	1	VelaCradleAngry33::English	What's this - ((you)) again? 	这是怎么了——((又是))你?
+VelaCradleAngry34	1	VelaCradleAngry34::English	That damned ((death god))! When I'm done with you, I will cut off its ((head))!	那该死的((死神))!等收拾完你,我就去砍了它的((脑袋))!
+VelaCradleSad1	1	VelaCradleSad1::English	<<Vela cradles Orlaith in her arms as her body shakes with silent sobs, tears flowing down her cheeks.>>	<<薇拉把奥莱丝搂在怀中,身体因无声的啜泣而颤抖,泪水顺着她的脸颊流下。>>
+VelaCradleSad2	1	VelaCradleSad2::English	<<She looks up at you with red eyes, all too human after all.>> ##So it's ((you)). Funny... I would've thought a sword through the heart would've proven more of a ((setback)). 	<<她红着眼睛抬头看你,终究还是如此有血有肉。>>##原来是((你)).真有趣……我还以为一剑穿心会让人更加((一蹶不振))呢。
+p120	1	p120::English	I had help from a ((friend)) of yours.	我得了你一位((朋友))的帮助。
+VelaCradleSad3	1	VelaCradleSad3::English	I should've known you'd find ((that)) one. Quite the boon... ##<<She smiles weakly.>> Union don't know what they're missing. 	我早该料到你会找到((那))一位。真是难得的助力……##<<她虚弱地一笑。>>联盟可不知道他们错过了什么。
+p121	1	p121::English	I'm full of surprises.	我浑身都是惊喜。
+VelaCradleSad4	1	VelaCradleSad4::English	Aren't you just, Confessor. 	可不是嘛,忏悔者。
+VelaCradleSad5	1	VelaCradleSad5::English	I... didn't want to kill her, you know. She came at me full force. I... only meant to disarm... 	我……不想杀她的,你知道吗。她是全力扑向我。我……本只想缴她的械……
+VelaCradleSad6	1	VelaCradleSad6::English	<<Vela closes her eyes, overwhelmed by a deep exhaustion.>> ##That's what I always say, isn't it? 'I didn't want to'. 'They made me do it'. 'I had no choice'.	<<薇拉闭上眼睛,被深深的疲惫吞没。>>##这就是我一直说的话,不是吗?"我不想这样"。"是他们逼我的"。"我别无选择"。
+VelaCradleSad7	1	VelaCradleSad7::English	You were right, I think. About me and Isabet. I wasn't chasing this dream for anyone but ((myself)). For that mute, stunned little girl, standing in the ashes of her home.	我想你是对的。关于我和伊莎贝特。我追逐这个梦想,从来不是为了别人,只是为了((我自己)).为了那个站在家园灰烬里、哑然失声的小女孩。
+VelaCradleSad8	1	VelaCradleSad8::English	Do you have any ((idea)) how long ((never)) is? Never to see her again. Never to hear her stupid little laugh. ((Never.)) ##Truly, I don't know if ((anyone)) ever comes to terms with that.	你((知道))((永远))有多长吗?再也见不到她。再也听不到她那傻乎乎的小笑声。((永远)).##说真的,我不知道((有谁))能真正与此和解。
+VelaCradleSad9	1	VelaCradleSad9::English	So I sailed around, pretending to be a saviour. Loosing my anger on whoever would play the villain. ##When I found that map... gods,  it was like a fucking ((Djinn)) granted my wish. Like a message from the universe, saying: maybe she died so you could do ((this)).	于是我四处航行,假装自己是救世主。把怒火倾泻在每一个肯当反派的人身上。##当我找到那张地图……神啊,就像一个该死的((灯神))实现了我的愿望。像宇宙捎来的口信,说:也许她死了,就是为了让你能做((这件事))。
+VelaCradleSad10	1	VelaCradleSad10::English	Because really, who could dispute that logic? What price could outweigh saving everyone, forever? ##<<She shakes her head.>> Even Jack knew better than to gamble on credit.	说真的,谁能反驳这种逻辑?什么代价能大过永远拯救所有人?##<<她摇头。>>就连杰克都懂得不该赊账赌博。
+VelaCradleSad11	1	VelaCradleSad11::English	The more principles I twisted, the more blood I spilled, the more ((friends)) I led to their deaths... the more my debt grew. And the more the Angel seemed like the ((only)) solution.	我扭曲的原则越多,洒下的血越多,带去送死的((朋友))越多……我的债就越深。而天使就越像是((唯一))的解法。
+VelaCradleSad12	1	VelaCradleSad12::English	<<Vela meets your gaze again, eyes welling up, voice cracking with the desperate abandon of confession.>> ##So ((I)) can't be the one to make this choice. Not anymore. I am so deep in blood that I can't even see the surface.	<<薇拉再度迎上你的目光,眼眶湿润,声音因孤注一掷的忏悔而破裂。>>##所以((我))不能是做这个选择的人。再也不能。我陷在血里太深,连水面都看不见了。
+VelaCradleSad13	1	VelaCradleSad13::English	<<She lets her head fall to Orlaith's body again.>> Please. Go to the Angel. It'll answer to you. If you wish to ((destroy)) it, I won't stop you. 	<<她再次把头垂落在奥莱丝的躯体上。>>求你。去找天使吧。它会回应你。你若想((毁掉))它,我不会阻拦。
+p122	1	p122::English	Thank you, Vela. 	谢谢你,薇拉。
+p123	1	p123::English	You're a prisoner of the Inquisition, now.	你现在是宗教裁判所的囚犯。
+VelaCradleSad14	1	VelaCradleSad14::English	<<Vela says nothing as she rocks her best friend back and forth like a baby, wracked every now and then by spasms of grief.>>	<<薇拉一言不发,像摇晃婴儿一样前后摇着她最好的朋友,不时被悲痛的痉挛击中。>>

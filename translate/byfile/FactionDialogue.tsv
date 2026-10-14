@@ -1,0 +1,158 @@
+ID	Col	CellKey	English	Chinese
+p1	1	p1::English	Goodbye.	再见。
+p2	1	p2::English	I could do with your help. Will you follow me?	我需要你的帮忙。你愿意跟着我吗?
+p3	1	p3::English	@@Just this once. You won't regret it. 	@@就这一次。你不会后悔的。
+p4	1	p4::English	Okay, I'll be going.	好,我先走了。
+p5	1	p5::English	Okay, you can stop following me now.	好,你现在可以不用跟着我了。
+union1	1	union1::English	Hmph, I've heard of you. Rotten no-gooder. Go on, get out of here.	哼,我听说过你。一无是处的渣滓。滚吧,离开这儿。
+union2	1	union2::English	You want me to follow you into battle? You must be joking. I wouldn't follow you into an alehouse.	你想让我跟你上战场?你在开玩笑吧。跟你去酒馆我都嫌。
+union3	1	union3::English	Hail, peasant. The Apostatic Union shines on us today.	你好,贱民。叛教联盟今日照耀我们。
+union4	1	union4::English	I'm sorry, friend - I can't lend my sword to just anyone. Only to those who have some status within the Union. 	抱歉,朋友——我的剑不能随便借人。只借给在联盟内有身份的人。
+union5	1	union5::English	%%Hmm, well I suppose it can't hurt... ((just)) this once. Lead on.	%%嗯,我想应该无妨……就((这么))一次。带路吧。
+union6	1	union6::English	&&I'm sorry, rules are rules. Now off with you.	&&抱歉,规矩就是规矩。走吧你。
+union7	1	union7::English	Ah, I've heard of you. You've been doing great things in Hallowshire, I must say.	啊,我听说过你。不得不说,你在哈洛郡干了不少大事。
+union8	1	union8::English	If there's trouble afoot, I'll take your word for it. Lead the way.	若有麻烦要处理,我信你。带路吧。
+union9	1	union9::English	It looks like our work is done, then.	看来咱们的活干完了。
+outlaw1	1	outlaw1::English	Oi, you're that rotter, aren't you? Well, you can fuck right off. 	喂,你就是那个烂人,对吧?那你他妈赶紧滚。
+outlaw2	1	outlaw2::English	I'd sooner stick my knife in yer gut. Now get gone before I go an' do just that.	我倒想先把刀捅进你肚子。趁我没动手,赶紧滚。
+outlaw3	1	outlaw3::English	Hmph. Got nothing to say to the likes of you. 	哼。跟你这号人没话说。
+outlaw4	1	outlaw4::English	You think I'm gonna take orders from someone like you? Go on - sod off.	你以为我会听你这种人的号令?滚——滚开。
+outlaw5	1	outlaw5::English	%%Well if there's loot involved, I guess I may as well see what's what.	%%嗯,要是有油水,那我不妨去看看怎么回事。
+outlaw6	1	outlaw6::English	&&I'd sooner stick my knife in yer gut. Now get gone before I go an' do just that. 	&&我倒想先把刀捅进你肚子。趁我没动手,赶紧滚。
+outlaw7	1	outlaw7::English	Hey, I've 'eard of you. You're alright, you know that?	嘿,我听说过你。你人不错,知道吗?
+outlaw8	1	outlaw8::English	Aha, well if there's something going down, I'll 'ave my piece of the action, for sure.	啊哈,要是有大事发生,我肯定得捞上一份。
+outlaw9	1	outlaw9::English	Alright. It's been a laugh, y'know.	行。跟你混还挺乐呵的,知道吧。
+wikkan1	1	wikkan1::English	We've heard of you. You've committed great misdeeds against our coven. I will say no more on the matter. 	我们听说过你。你对我们教团犯下大恶。此事我不愿多言。
+wikkan2	1	wikkan2::English	With a flick of my wrist I could fill your eyesockets with maggots. Pester me no more.	我手腕一抖,就能让你的眼窝爬满蛆虫。别再来烦我。
+wikkan3	1	wikkan3::English	I am an acolyte of the Wikkan Coven of the Worm. Forgive me, stranger, if I do not tarry long; there is much occupying my thoughts.	我是维坎蠕虫教团的侍祭。恕我,陌生人,无法久留;心中之事繁多。
+wikkan4	1	wikkan4::English	I am afraid I cannot lend my assistance to just anyone. I hope you understand.	恐怕我不能随便助人。希望你能理解。
+wikkan5	1	wikkan5::English	%% There is a whisper from my inner-worm, that your words have weight. Very well. I will accompany you.	%%我心之虫低语,说你的话有分量。好吧。我随你去。
+wikkan6	1	wikkan6::English	&& My inner-worm tells me not to trust you. Now, begone.	&&我心之虫叫我别信你。现在,滚吧。
+wikkan7	1	wikkan7::English	Ah, I have heard tales of you. You have done a great service to Paeguth; and for that I am ever in your debt. 	啊,我听过你的传闻。你为帕古斯立下大功;为此我永远欠你一份情。
+wikkan8	1	wikkan8::English	I would gladly assist you, friend.	我很乐意助你一臂之力,朋友。
+wikkan9	1	wikkan9::English	Very well. I hope I was of some use.	好了。希望我帮上了点忙。
+wikkan10	1	wikkan10::English	Greetings, traveller. ##Have you seen the spiked [[godshells]] around here? I'm a collector of the precious [[godlets]] that dwell within.	你好,旅人。 ##你见过这附近带刺的[[神壳]]吗?我是壳中珍贵[[稚神]]的收藏者。
+p21	1	p21::English	I have some godlets to sell. 	我有些稚神要卖。
+wikkan11	1	wikkan11::English	Most wonderful. For every godlet you give me, the [[Wikkan Coven of the Worm]] will grant you favour.	妙极了。你每交给我一枚稚神,[[维坎蠕虫教团]]便会施予你恩惠。
+p22	1	p22::English	Here's one godlet.	这是一枚稚神。
+p23	1	p23::English	Here's five godlets. 	这是五枚稚神。
+p24	1	p24::English	Take all the godlets I have.	把我所有的稚神都拿去。
+wikkan12	1	wikkan12::English	Ah, a most generous donation. Please, take this in recompense; the Wikkan Coven of the Worm is ((most)) grateful.	啊,真是慷慨的奉献。请收下这份回礼;维坎蠕虫教团((不胜))感激。
+p25	1	p25::English	Actually, I've changed my mind.	其实,我改主意了。
+wikkan13	1	wikkan13::English	Please; be careful with those godlets, traveller. We hope you will reconsider...	请务必;小心那些稚神,旅人。我们希望你重新考虑……
+p26	1	p26::English	Uh, what exactly is a godlet? 	呃,稚神究竟是什么?
+wikkan14	1	wikkan14::English	In centuries past, the skyrealms thrived with all manner of gods. Every city, every town would be under the thrall of some deity, and we Wikkans negotiated the contracts between god and mortal.	过去几个世纪,天空领域诸神繁盛。每座城、每个镇都臣服于某位神明,而我们维坎教徒则在神与凡人之间商定契约。
+wikkan15	1	wikkan15::English	But during the God War, so many gods were struck down. So many lost! ##Although... it is very difficult to actually ((kill)) a god, so long as faith remains...	可在神之战中,太多神明被击倒。太多失落! ##不过……只要信仰尚存,要真正((杀死))一位神,其实非常困难……
+wikkan16	1	wikkan16::English	So, we nurture those lost deities back into a physical form. The [[godshells]] protect the gestation period; and when they are ready, we harvest their precious bounty. 	于是,我们培育那些失落的神明,使之重具形体。[[神壳]]守护着孕育期;待它们成熟,我们便收获珍贵的馈赠。
+wikkan20	1	wikkan20::English	Greetings, most venerable friend. The [[Wikkan Coven of the Worm]] has been watching you for some time; and we are most pleased. 	你好,最可敬的朋友。[[维坎蠕虫教团]]观察你有一阵子了;我们非常满意。
+wikkan21	1	wikkan21::English	By all means, make yourself at home in this place. It is reserved only for those loyal to our cause.	请务必把这里当作自己家。这里只留给忠于我们事业的人。
+wikkan22	1	wikkan22::English	The [[grimoire]] over there will prove a great boon to your [[Lore]] skill. You may also rest in the [[bed]] downstairs, and help yourself to whatever [[items]] you find here. 	那边的[[魔法书]]对你的[[博识]]技能大有裨益。你也可以在楼下的[[床]]上休息,随便取用你在这里发现的[[物品]]。
+outlaw10	1	outlaw10::English	Yer boots look well worn, friend. ##Don't s'pose you've seen any [[spiky green shells]] around these parts? I'm lookin' to buy the [[tiny critters]] inside 'em. Godlets, they're called.	你这靴子磨得够旧啊,朋友。 ##没料到你在这附近见过[[带刺的绿壳]]?我想买壳里的[[小玩意]]。叫稚神来着。
+outlaw11	1	outlaw11::English	Ah, I knew I 'ad the measure of ya. Right, let's see 'em; I'll give you a fair price, and even put in a good word with [[some friends o' mine]].	啊,我就知道你识货。好,拿出来看看;我给你个公道价,还会替你在[[我那些朋友]]面前美言几句。
+outlaw12	1	outlaw12::English	That'll do nicely. Right then, 'ere's your pay. Keep 'em coming and this could open doors for you, friend.	这样正好。那么,这是你的报酬。多多益善,这能为你打开门路,朋友。
+outlaw13	1	outlaw13::English	Look, you won't get a better deal nowhere else, see? So, I'll be 'ere when you change yer mind.	听着,别处你可找不到更好的价钱,懂吗?所以,你改主意时我就在这儿。
+outlaw14	1	outlaw14::English	Y'know, I 'aint got a clue. <<She lets out a raspy chuckle.>>	你知道吗,我哪儿知道。<<她发出沙哑的低笑。>>
+outlaw15	1	outlaw15::English	All I know is, both the Union and the Wikkans want 'em bad. And ((that)) means they're worth summin'. So, bring me more o' the critters and I'll see you get a fair share of the profit.	我只知道,联盟和维坎教徒都急着要这玩意。((那))就说明它们值钱。所以,多带点小玩意来,我保证你分得公平的利润。
+outlaw20	1	outlaw20::English	Eheh, you're what passes for an [[outlaw]] these days? <<He spits on the floor by your feet.>>	呃嘿,如今[[法外之徒]]就是你这号的?<<他朝你脚边的地上啐了一口。>>
+outlaw21	1	outlaw21::English	Well, no matter. The bosses say you're alright. So, I guess you're alright.	嗯,无所谓。头目们说你人还行。那,我猜你人还行。
+outlaw22	1	outlaw22::English	You'll be wanting to practise your [[Lockpick]] skills on that chest over there. Or grab some shuteye in the [[bed]] there. Help yourself to [[anything else]] you might find useful.	你可以去那边的箱子上练练[[开锁]]技能。或者在那张[[床]]上眯一会儿。有用的[[东西]]随便拿。
+union10	1	union10::English	Hail, peasant. Are you in need of work? ##[[Godshells]] have been found in the region. They contain [[godlets]]; dangerous, occult specimens. We want them brought to us. ((All)) of them. 	你好,贱民。需要活干吗? ##本地区发现了[[神壳]]。里面装着[[稚神]];危险、神秘的标本。我们要你把它们带来。((全部))带来。
+union11	1	union11::English	Excellent; hand them over. Know that the [[Apostatic Union]] will reward its most loyal subjects.	很好;交上来。要知道[[叛教联盟]]定会赏赐它最忠诚的臣民。
+union13	1	union13::English	Yes, yes; this looks about right. Here's your coin. I've made a note of your contribution in my ledger.	对,对;差不多是这个数。这是你的硬币。我已把你的贡献记入账册。
+union14	1	union14::English	Need I remind you that those godlets pose a grave threat? You must hand them over at once!	需要我提醒你那些稚神构成重大威胁吗?你必须立刻上交!
+union15	1	union15::English	A godlet is a pathetic remnant of a once terrible entity - a god. Though we destroyed many in the God War, they have a tendency to sprout again like weeds. 	稚神是曾经可怖的存在——神——留下的可怜残迹。虽然我们在神之战中摧毁了许多,它们却总会像杂草一样再度萌生。
+union16	1	union16::English	Pockets of Wikkan resistance still linger in Hallowshire, and it seems they are trying to revive their most foul and nefarious deities.	哈洛郡仍有零星的维坎残党盘踞,看来他们正试图复活最污秽邪恶的神明。
+union17	1	union17::English	Needless to say, this is a threat to the safety of the Oneiric Isles, and the Apostatic Union as a whole. It is our duty to eradicate these verminous godlets.	不言而喻,这对梦幻群岛的安全、对整个叛教联盟都是威胁。根除这些害虫般的稚神,是我们的职责。
+union20	1	union20::English	Ah, welcome. This room is normally reserved for dignitaries visiting from Riova, but I understand the polymath has made an exception on account of your... ((services)) to the [[Apostatic Union]].	啊,欢迎。这房间通常只留给从里奥瓦来访的要人,但据我所知,博学家为你在[[叛教联盟]]的……((功绩))破了例。
+union21	1	union21::English	The enchanted mask over there will grant a boon to your [[Charm]] Skill, should you require it. You may also help yourself to the [[amenities]], or rest in the [[bed]] over there.	那边的魔法面具会在你需要时增益你的[[魅惑]]技能。你也可以随意使用[[设施]],或在那边的[[床]]上休息。
+union22	1	union22::English	Just - would you please, uh, remove your most ((elegant)) footwear? We wouldn't want to get mud all over the furnishings now, would we...?	只是——能不能请你,呃,脱下你那双最((优雅))的鞋子?我们可不想让家具上沾满泥,对吧……?
+hallowshireoutlaw1	1	hallowshireoutlaw1::English	You can stay, but if you hear those little bastards coming for the barricades, lend a hand, aye? No freeloaders here.	你可以留下,但要是听见那些小杂种朝路障冲来,就搭把手,行吗?这儿不养闲人。
+hallowshireoutlaw2	1	hallowshireoutlaw2::English	Goblins out for your blood, moth eggs on every damn thing, never seeing daylight…still, it could be worse. Least we're our own bosses down here.	哥布林要你的命,飞蛾卵粘得哪儿都是,永远见不着日光……不过,还不算最糟。至少在这儿我们自己当家做主。
+hallowshireoutlaw3	1	hallowshireoutlaw3::English	Was that a moth?! Catch it, catch it, splat the thing!	那是飞蛾吗?!抓住它,抓住它,拍扁这玩意!
+hallowshireoutlaw4	1	hallowshireoutlaw4::English	Come to sample our famous hospitality, eh? It's not much, but it's…an abandoned mine.	来体验我们闻名遐迩的款待了,嗯?条件不算好,但这里……是座废矿。
+hallowshireoutlaw5	1	hallowshireoutlaw5::English	Watch yer head. And yer back.	当心头。还有背后。
+hallowshireoutlaw6	1	hallowshireoutlaw6::English	Can't talk. I'm on watch.	没空聊。我在放哨。
+hallowshireoutlaw7	1	hallowshireoutlaw7::English	Buy us a drink, will yer? Boss has cut me off.	给我们买杯酒,行不?老板不让我赊账了。
+hallowshireoutlaw8	1	hallowshireoutlaw8::English	Come down to sneer at us, have you? How are things up there then, with the Inquisition breathing down your neck and every island more dead than the last? Perhaps you should stay a while, learn what freedom looks like.	下来嘲笑我们的吧?上面怎么样啊,宗教裁判所掐着你的脖子,每座岛比上一座更死气沉沉?也许你该住一阵,见识见识自由长什么样。
+wizardoutlaw	1	wizardoutlaw::English	What are you doing up here? If you don't know how to mitigate the curvature lag effect for a field-defined velocity cantrip - and looking at you, I'm guessing you don't - then you can't help me, so get out of my way.	你上来干什么?要是你不懂如何消减场域定速戏法的弧度滞后效应——看你这模样,我猜你不懂——那你就帮不了我,别挡道。
+wizardoutlaw2	1	wizardoutlaw2::English	Off to see the wizard? He's upstairs. Go on up, I don't care.	去见那位法师?他在楼上。上去吧,我不管。
+wizardoutlaw3	1	wizardoutlaw3::English	Hm. Guess you're not a threat. Don't think I won't second-guess that if I need to, mind.	嗯。看来你不是威胁。但别以为我需要时不会重新掂量,听着。
+wizardoutlaw4	1	wizardoutlaw4::English	I wonder if there's a spell to conjure up a feather bed?	不知道有没有能变出一张羽绒床的咒语?
+wizardoutlaw5	1	wizardoutlaw5::English	His Wizardliness isn't keen on visitors - that's why we're here.	法师大人不爱见客——所以我们才在这儿。
+rustburgoutlaw1	1	rustburgoutlaw1::English	Don't worry, I'm not gonna go sticking this in your guts. Not getting paid enough for that. Those lads up the road might not be so gentle, though, and I reckon there's more driving them than just coin. But that's none of my business, I 'spect.	别担心,我不会把这玩意捅进你肚子的。那点钱不值得。不过路上那帮家伙可能没那么客气,而且我猜驱使他们的不只是钱。但那不关我的事,我想。
+rustburgoutlaw2	1	rustburgoutlaw2::English	Rustberg's ours now. Not like anyone else wants it, after all.	锈堡现在是我们的了。反正也没别人想要这地方。
+rustburgoutlaw3	1	rustburgoutlaw3::English	Keep movin'. That's right.	继续走。这就对了。
+rustburgoutlaw4	1	rustburgoutlaw4::English	Come to look for buried treasure, have you? Well, you're too late. Firstly, it's all ours, and second, it's not treasure, it's junk.	来找埋藏的宝藏,嗯?那你来晚了。第一,全是我们的;第二,那不是宝藏,是破烂。
+rustburgoutlaw5	1	rustburgoutlaw5::English	Easy now.	放松点。
+rustburgoutlaw6	1	rustburgoutlaw6::English	If you're just passing through, then go ahead and do that. Otherwise turn right round.	你要只是路过,那就继续过。否则请原路返回。
+rustburgoutlaw7	1	rustburgoutlaw7::English	The folk in Rustberg used to make their living from scrap, you know. Now it's just us, and we make our living from scrapping. Heh.	你知道,锈堡的人从前靠收破烂过活。现在就剩我们了,靠干架过日子。呵。
+rustburgoutlaw8	1	rustburgoutlaw8::English	Where have you come from, then? Want to swap with me? I'll go exploring the wide world and you can sit here and let your arse rust.	那你从哪儿来?想跟我换换吗?我去闯荡大千世界,你坐在这儿让屁股生锈。
+houseoutlaw1	1	houseoutlaw1::English	This is a nice little bolthole we've got here, so don't go telling anyone about it.	我们这个藏身窝相当不错,所以别到处跟人说。
+houseoutlaw2	1	houseoutlaw2::English	Look how these rich bastards used to live! The place I grew up in was smaller than the outhouse here. Still, it's ours now...	瞧瞧这些有钱的混蛋从前是怎么过的!我长大的地方比这儿的茅厕还小。不过,现在归我们了……
+airshipGuild1	1	airshipGuild1::English	<<The woman casts you an indifferent gaze.>> Greetings traveller. Welcome to the... Ah... <<She yawns, then rubs her temples.>> ...The Pwyll port of the Winged Merchants Guild. ##I'm the local harbourmaster. Can I help you? 	<<女人漠然地瞥了你一眼。>>你好,旅人。欢迎来到……啊……<<她打了个哈欠,揉着太阳穴。>>……飞翼商会普威尔港。 ##我是本地港务长。有什么可以帮您?
+airshipGuild2	1	airshipGuild2::English	Pwyll Harbourmaster of the Winged Merchants Guild, pleased to make your acquaintance. <<She blinks sleepily.>> Uh, again. 	飞翼商会普威尔港务长,幸会。<<她睡眼惺忪地眨眨眼。>>呃,又幸会。
+p101	1	p101::English	What does the Guild do here in Pwyll?	商会在普威尔做些什么?
+airshipGuild3	1	airshipGuild3::English	<<She takes a sharp intake of breath, as if the question was a particularly confounding riddle.>> Well; we oversee the transfer of goods, impose tariffs, check for contraband - that sort of thing. 	<<她倒吸一口气,仿佛这问题是什么特别费解的谜语。>>呃;我们监管货物转运、征收关税、查缉违禁品——诸如此类。
+airshipGuild4	1	airshipGuild4::English	Pwyll is a pretty... ((quiet)) place, so we don't get much traffic. Once a week a merchant ship - usually a cog or a sloop - comes from Hallow Town with exports from the Union heartlands. Maybe, ((maybe)) once in a while we'll get a dhow from Al-Asfara.	普威尔是个挺……((安静))的地方,所以没什么船来往。每周有一艘商船——通常是柯克船或单桅帆船——从哈洛镇带来联盟腹地的出口货。偶尔,((偶尔))会有一艘三角帆船从阿斯法拉开来。
+airshipGuild5	1	airshipGuild5::English	And after we unload their goods, what do they want? Scryshroom. Always fucking scryshroom! I swear, if I have to winch one more crate of the stuff...	卸完他们的货,他们要什么?窥菇。永远是他妈的窥菇!我发誓,再要我用绞盘吊一箱那玩意……
+p102	1	p102::English	I want to purchase a ship, and I have a writ of permission right here. 	我想买条船,飞行许可状就在这儿。
+airshipGuild6	1	airshipGuild6::English	<<She snatches the document and eyes it suspiciously.>> What the... ##Well, it looks like you really ((do)) have permission to buy a ship. ##But, all we have is a small cog, and that'll still set you back some [[200 coin]]. 	<<她一把抓过文件,狐疑地端详。>>什么…… ##嗯,看来你真((有))买船的许可。 ##不过,我们只有一艘小柯克船,也得花掉你[[200 硬币]]。
+p103	1	p103::English	Okay, I'll take it. 	好,我要了。
+airshipGuild7	1	airshipGuild7::English	Hmph - looks like you don't have enough coin. 	哼——看来你硬币不够。
+airshipGuild8	1	airshipGuild8::English	Alright, well... first thing, take this [[deed]] to your airship. It's legal proof of ownership, so don't lose it!	好,那么……首先,收下这份[[飞艇契约]]。那是所有权的法律凭证,可别弄丢了!
+airshipGuild9	1	airshipGuild9::English	Next, I'll arrange for the cog to be brought to this port. You should be able to see it [[docked at the jetty]] outside when we're done here. 	接着,我会安排把柯克船调到这个港口。等我们这儿办完,你应该就能看到它[[停靠在外面的栈桥]]了。
+airshipGuild10	1	airshipGuild10::English	Now, if you have this writ of permission, I assume you're well versed in the nuances of sailing and the intricacies of Union trade law, or the polymaths would never have approved you. ##But just in case... do you have any questions? 	既然你持有这份飞行许可状,我猜你对航行的门道和联盟贸易法的细则烂熟于心,不然博学家们绝不会批准你。 ##不过以防万一……你有什么问题吗?
+p104	1	p104::English	Actually, I've changed my mind.	其实,我改主意了。
+airshipGuild11	1	airshipGuild11::English	Okay, well do come back if you want to make the purchase. 	好,想买的时候再来。
+p105	1	p105::English	I want to purchase airship upgrades.	我想购买飞艇升级部件。
+airshipGuild12	1	airshipGuild12::English	Of course. Just let me get the ledger... 	当然。让我拿一下账册……
+p106	1	p106::English	How can I get my ((own)) airship? 	怎么才能拥有我((自己))的飞艇?
+airshipGuild13	1	airshipGuild13::English	<<She smirks.>> What, you think we just ((hand them out)) to bright-eyed travellers? ##It takes a lot of coin to buy a sailing vessel, you know. Most Union merchants only have ((shares)) of the ships they use. 	<<她窃笑。>>怎么,你以为我们随手就((派船))给天真的旅人? ##买条船要花好多硬币,你知道吗。大多数联盟商人手里只有所雇船只的((股份))。
+airshipGuild14	1	airshipGuild14::English	Plus, even if you had a bulging coinpurse under those... <<She vaguely gestures at your clothes,>> ((fine garments)) you're wearing, these days you need a writ of permission from the Riovan Port Authority. ##And ((trust me)), you're not gonna find one of those lying around out here in the sticks. 	再说,就算你那身……<<她含糊地朝你的衣服比划,>>((华服))底下揣着鼓鼓的钱袋,如今你也需要里奥瓦港务局签发的飞行许可状。 ##((相信我)),在这种穷乡僻壤,你可捡不着那玩意。
+p107	1	p107::English	I want to ask about sailing and maintaining my vessel. 	我想问问航行和船只养护的事。
+airshipGuild15	1	airshipGuild15::English	What would you like to know?	你想了解什么?
+p108	1	p108::English	Can you tell me the basics of sailing a ship?	能讲讲驾船的基础知识吗?
+airshipGuild16	1	airshipGuild16::English	Your ship can lay anchor at any [[Airship Dock]], like this one, which are found in every major town. ##Every dock also has an [[Airship Upgrade Station]], where you can modify your vessel.	你的船可以在任何[[飞艇码头]]下锚,比如这个,每座大镇都有。 ##每座码头还有[[飞艇升级站]],你可以在那里改装船只。
+airshipGuild17	1	airshipGuild17::English	You can also [[lay anchor]] almost anywhere in the world. Just stop your vessel and, if you're courageous or foolhardy enough, you can [[climb down the chain]] to get to ground level. When you're ready to depart, just [[climb back up]] again.	你也可以在世界几乎所有地方[[下锚]]。只要停住船,若你胆子够大或者够莽,就能[[顺着锚链爬下去]]到地面。准备离开时,再[[爬回去]]就行。
+airshipGuild18	1	airshipGuild18::English	And remember that If you ever lose track of where your airship is, you can [[recall]] it to any  [[Airship Upgrade Station]]. 	还要记住,若你忘了飞艇在哪,可以把它[[召回]]到任何[[飞艇升级站]]。
+p109	1	p109::English	How do I upgrade my vessel?	怎么升级我的船?
+airshipGuild19	1	airshipGuild19::English	Every dock has an [[Airship Upgrade Station]] where you can outfit your ship with different components. ##New components can be [[bought from a harbourmaster]] like myself. 	每座码头都有[[飞艇升级站]],你可以在那里为船只装配不同部件。 ##新部件可以[[向港务长购买]],比如我。
+airshipGuild20	1	airshipGuild20::English	There are three component types: [[Hull]], [[Sails]] and [[Cabin]]. You'll find that, as well as altering how your airship looks, they will also change how it handles in the skies.	部件分三类:[[船体]]、[[船帆]]和[[船舱]]。你会发现,它们不只改变飞艇的外观,还会改变它在天上的操纵性能。
+airshipGuild21	1	airshipGuild21::English	Also, remember that different harbourmasters have different types of upgrades for sale. Always check in at your local [[Airship Dock]] to see if they've something you want. 	还有,记住不同的港务长出售不同的升级部件。记得常去当地的[[飞艇码头]]看看有没有你想要的。
+p110	1	p110::English	That's all I wanted to know.	我想知道的就这些。
+airshipGuild22	1	airshipGuild22::English	Excellent. Was there anything else? 	好极了。还有别的事吗?
+p111	1	p111::English	Farewell. 	告辞。
+airshipGuild23	1	airshipGuild23::English	<<The man beams at you with well-practised hospitality.>> Greetings friend. On behalf of the Winged Merchants Guild, I humbly welcome you to the [[Airship Dock]] of Hallow Town. 	<<男人以练达殷勤的笑容望着你。>>你好,朋友。我谨代表飞翼商会,恭迎您莅临哈洛镇[[飞艇码头]]。
+airshipGuild24	1	airshipGuild24::English	I am the harbourmaster here. <<He opens a leather-bound book, revealing pages of elegant handwriting.>> ##Now tell me, will you be importing? Exporting? Do you have customs to declare, or...?	我是这里的港务长。<<他翻开一本皮面簿册,露出满页优雅的字迹。>> ##请讲,您是进口?出口?有需要报关的货物吗,还是……?
+airshipGuild25	1	airshipGuild25::English	<<He eyes you up and down, then swallows.>> You ((are)) a member of the Guild, are you not? 	<<他上下打量你,然后咽了口唾沫。>>您((是))商会会员,对吧?
+p112	1	p112::English	I want to purchase a ship, and I have a writ of permission right here. 	我想买条船,飞行许可状就在这儿。
+p113	1	p113::English	Wait, which Guild was that again?	等等,刚才说的是哪个商会来着?
+p114	1	p114::English	Uh,of course. I just left my airship... at home. 	呃,当然。我刚好把飞艇……落在家里了。
+p115	1	p115::English	...No.	……不是。
+airshipGuild26	1	airshipGuild26::English	<<He carefully closes the book, letting out an exasperated sigh.>> ((Well.)) I suppose I could spare some time to elucidate the curiosity of a non-Guild member. But, please be brief, as these jetties won't manage themselves... 	<<他小心地合上书,发出一声恼怒的叹息。>>((好吧。))我想我可以抽点时间,为一位非会员解释解惑。但请长话短说,这些栈桥可不会自己打理……
+airshipGuild27	1	airshipGuild27::English	<<The harbourmaster dabs his forehead with an expensive-looking handkerchief>>. Ah, you again. You'll have to excuse my exasperation - our esteemed guildmaster Vernon Berwig has been... <<He clears his throat.>> ((Unable)) to attend to his duties, of late. Things are quite chaotic here. 	<<港务长用一块看着就很贵的手帕擦了擦额头>>。啊,又是您。请恕我失态——我们尊敬的商会会长弗农·伯维格近来一直……<<他清了清嗓子。>>((无法))履行职责。这里的事情相当混乱。
+airshipGuild28	1	airshipGuild28::English	<<The harbourmaster sighs, then feigns a cheerful smile.>> ##Ah, you again. How may I help?	<<港务长叹了口气,随即挤出一个愉快的假笑。>> ##啊,又是您。有何吩咐?
+p116	1	p116::English	What does the Guild do here in Hallow Town?	商会在哈洛镇做些什么?
+airshipGuild29	1	airshipGuild29::English	Oh, I assure you we are quite busy. As the principle port in the Oneiric Isles, Hallow Town receives regular shipments from the Apostatic Union heartlands. ##Our most common imports include wines from Byonne, olives and spices from Vena, Textiles from Lundel and raw iron from the mines of Slev.	哦,我向您保证我们非常繁忙。作为梦幻群岛的首要港口,哈洛镇定期接收来自叛教联盟腹地的货船。 ##我们最常见的进口包括拜昂的葡萄酒、维纳的橄榄与香料、伦德尔的纺织品,以及斯列夫矿井的原铁。
+airshipGuild30	1	airshipGuild30::English	Our exports include Pwyllian scryshroom tea that lets one divine events yet to pass; the latest poetry from the tomb-cities of the Endless, and - when we can get our hands on any - the potent vision bottles of the Clockwork Kingdom that imbue the most fantastical dreams. 	我们的出口包括普威尔窥菇茶——能让人预知未发生之事;无尽者墓城最新的诗作;还有——如果能弄到手的话——发条王国效力强劲的瓶装幻象,能带来最奇幻的梦境。
+p117	1	p117::English	I want to purchase a ship, and I have a writ of permission right here. 	我想买条船,飞行许可状就在这儿。
+airshipGuild31	1	airshipGuild31::English	<<He inspects the document without concealing his surprise.>> My, my - I think this is actually ((genuine)). ##Well, in that case - I have a small cog for [[200 coin]], if it pleases you? 	<<他检查文件,难掩惊讶。>>哎呀——我想这居然((是真的))。 ##那么——我有一艘小柯克船,[[200 硬币]],您意下如何?
+p118	1	p118::English	How can I get my ((own)) airship? 	怎么才能拥有我((自己))的飞艇?
+airshipGuild32	1	airshipGuild32::English	Well, I can assure you they are... <<He clears his throat>>, ((rather)) expensive. ##We also cannot trade vessels with anyone who does not have a writ of permission from Riova, for matters of Union security, etcetera.  I'm ((quite)) sorry. 	嗯,我向您保证,它们……<<他清了清嗓子,>>((相当))昂贵。 ##而且出于联盟安全等事务考虑,我们无法与任何没有里奥瓦飞行许可状的人交易船只。我((十分))抱歉。
+airshipGuild33	1	airshipGuild33::English	Welcome to the Winged Merchants Guild, breather. What'chya after?	欢迎来到飞翼商会,呼吸者。想要点什么?
+p119	1	p119::English	What does the Guild do here in Sepulchre?	商会在陵墓城做些什么?
+airshipGuild34	1	airshipGuild34::English	<<He chuckles.>> Surprised to see a Guild establishment out here with us rotters? I can't blame 'ya. But, since relations have improved with the Union, we've been getting a fair bit of traffic. 	<<他轻笑。>>看到商会分号跟我们这些烂骨头待一块儿,吃惊吧?我不怪你。不过,自从跟联盟关系好转,我们的生意还挺红火。
+airshipGuild35	1	airshipGuild35::English	At first, the guild insisting on this place havin' a flesh-and-blood harbourmaster. Only, they kept quitting! Something, I gather, about the cuisine...	起初,商会坚持这里必须有个血肉之躯的港务长。只是他们接连辞职!我猜,是因为伙食……
+airshipGuild36	1	airshipGuild36::English	So, they relented an' allowed ((yours truly))... <<He feigns a bow>>, into the Guild. An' they were bloody right to do so! I've been a captain since the time of the Hooded King, an' in the past six centuries I've sailed more ships than the rest of the Guild lumped together! 	于是,他们松了口,让((在下))……<<他假意一躬,>>入了商会。而且他们真是做对了!兜帽王时代我就是船长,过去六个世纪里,我跑过的船比商会其他人加起来还多!
+p120	1	p120::English	I want to purchase a ship, and I have a writ of permission right here. 	我想买条船,飞行许可状就在这儿。
+airshipGuild37	1	airshipGuild37::English	<<He looks at the slip of paper and nods.>> Yup, this looks legit. Well then breather - you wanna become a captain of y'er own ship, or what? I can sell you a cog for [[200 coin.]]	<<他看看那张纸,点点头。>>对,看着是真的。那么,呼吸者——你想当自己船的船长,还是怎么着?我可以[[200 硬币]]卖你一艘柯克船。
+p121	1	p121::English	How can I get my ((own)) airship? 	怎么才能拥有我((自己))的飞艇?
+airshipGuild38	1	airshipGuild38::English	<<He clicks what's left of his tongue>>. Unfortunately breather, you won't get one without a writ of permission from Riova. An' trust me - they don't give 'em out easy. 	<<他用残存的舌头咂了咂嘴>>。抱歉了,呼吸者,没有里奥瓦的飞行许可状,你买不着。相信我——那玩意可不容易搞到。
+airshipGuild39	1	airshipGuild39::English	Welcome to the Ferropolis [[Aircraft Dock]]. As a certified harbourmaster of the Winged Merchant Guild, I'll do what I can to help.	欢迎来到铁城[[飞行器码头]]。作为飞翼商会的认证港务长,我会尽力帮忙。
+p122	1	p122::English	What does the Guild do here in Ferropolis?	商会在铁城做些什么?
+airshipGuild40	1	airshipGuild40::English	<<She sighs.>> In recent months, not a lot. The King has disallowed free passage into the Clockwork Kingdom, so only a handful of captains are licensed to ferry goods.	<<她叹了口气。>>近几个月,没多少。国王禁止自由进入发条王国,所以只有寥寥几位船长有执照运货。
+airshipGuild41	1	airshipGuild41::English	Welcome to the Winged Merchants Guild. As harbourmaster, how can I assist you? 	欢迎来到飞翼商会。作为港务长,我能为您做些什么?
+p123	1	p123::English	I want to purchase a ship, and I have a writ of permission right here. 	我想买条船,飞行许可状就在这儿。
+airshipGuild42	1	airshipGuild42::English	Ah, well if all the paperwork is correct, I can sell you a small cog for [[200 coin.]] What do you say? 	啊,要是文件都齐全,我可以[[200 硬币]]卖你一艘小柯克船。怎么样?
+p124	1	p124::English	How can I get my ((own)) airship? 	怎么才能拥有我((自己))的飞艇?
+airshipGuild43	1	airshipGuild43::English	Unfortunately, only those bearing a writ of permission from Riova may purchase a vessel. I'm terribly sorry. 	很遗憾,只有持有里奥瓦飞行许可状者才能购买船只。实在抱歉。

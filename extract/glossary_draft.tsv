@@ -1,0 +1,496 @@
+类别	英文	中文	备注
+游戏名	Dread Delusion	恐惧妄想	暂定名；Steam 无官方中文，待定
+核心机制	Delusion	妄想	玩家成长资源/点数
+核心机制	Glimmer / Glimmer of Delusion	妄想微光	收集品，集齐合成一个妄想点
+核心机制	godlet	稚神	幼年神体
+核心机制	Void Scalpel	虚空手术刀	神战时期杀神一次性武器
+核心机制	Terminus Prism	终末棱镜	裁判所杀神装置
+核心机制	Entice	诱惑	控制敌人成为同伴的法术
+核心机制	Charm challenge	魅惑考验	对话技能检定
+核心机制	cipher	密文（魔法）	魔法体系统称，cipher magic=密文魔法
+核心机制	metacipher	元密文	增强密文的密文
+核心机制	Sixfold Cipher	六重密文	发条王国密文学教科书
+核心机制	Voidspeak	虚空语	无尽者语言列
+历史事件	The World Rend	世界撕裂	世界破碎成天空岛屿的灾变
+历史事件	God War	神之战	人类 vs 诸神的战争
+历史事件	Cadaver Crusades	尸骸十字军	无尽者猎食活人的黑暗时代
+历史事件	Years of Devouring	吞噬之年	活人焚烧无尽者的年代
+地理	Skyrealms / skyrealms	天空领域	漂浮岛屿世界统称
+地理	The Oneiric Isles	梦幻群岛	主舞台群岛
+地理	The Underlands	地下之地	被诅咒的地表废墟
+地理	Hallowshire	哈洛郡	第一区域
+地理	Hallow Town	哈洛镇	哈洛郡主城
+地理	Hallow Castle	哈洛城堡	帕古斯巢穴所在
+地理	Hallow Belltower	哈洛钟楼	邪教据点
+地理	Hallow Mines	哈洛矿坑	土匪盘踞
+地理	Rustburg	锈堡	余烬遗迹小镇
+地理	Thornwood Manor	荆棘木庄园	玩家房产（Hallowshire）
+地理	Pwyll	普威尔	森林区域
+地理	Pwyll Village	普威尔村	Scryshroom Tea 产地
+地理	The Sacred Shroom	神圣蘑菇	巨型蘑菇神殿
+地理	God War Fort	神战堡垒	被涂改为烂洋葱营地
+地理	The Endless Realm	无尽领域	不死族国度
+地理	Sepulchre	陵墓城	无尽者主城（Sepulchre=圣墓）
+地理	Sepulchre House	陵墓屋	玩家房产（无尽）
+地理	Castle of Ribs	肋骨城堡	无尽地标
+地理	Cadaver Keep	尸骸要塞	尸骸派老巢
+地理	The Rhydder Estate	里德尔庄园	Lord Rhydder 宅邸
+地理	Flesh Farms	血肉农场	无尽者食物产地
+地理	Penitent's Sanctum	忏悔者圣所	Penitent Thaw 居所
+地理	Endless Mines / The Crystal Mines	无尽矿坑/水晶矿坑	水晶女神教团
+地理	The Clockwork Kingdom	发条王国	蒸汽朋克国度
+地理	Ferropolis	铁城	发条王国国都（ferro=铁）
+地理	Upper Ferropolis	上铁城	上城区
+地理	the Conduits	导管区	铁城下城区
+地理	Machinarium	机械殿	发条王居所
+地理	The Corrupted Lands	腐化之地	被腐化吞噬的废都
+地理	Lost City of Progress	进步废都	被隔离的废墟城市
+地理	The Object Graveyard	物件墓场	被抹除物品的坟场
+地理	Library of Untruths	虚言图书馆	收录被抹除事物的秘密档案馆
+地理	The Royal Vision Works	皇家幻象工坊	工业化收割梦境
+地理	Royal Beacon	皇家信标	通讯塔
+地理	Morozov's Tower	莫罗佐夫之塔	颅腔工程师居所
+地理	Istrik Oblast	伊斯特里克州	Project Horoscope 实验地（Oblast=俄语州）
+地理	The Blinding Light	炫光要塞	Vela 的堡垒（实为飞艇）
+地理	Vela's Fortress	薇拉的堡垒	同上（UI 用名）
+地理	Aristide's Rock	亚里士提德之岩	神战古战场
+地理	Desert Island	荒漠岛	Rasmussen Sphere 所在
+地理	Creature Island	生物之岛	巨兽 Cephalok
+地理	Drifting Island	漂流岛	水晶骷髅挑战
+地理	Dredgetown	挖掘镇	生物之岛矿工镇
+地理	The Intestinal Mines	肠道矿坑	巨兽体内矿场
+地理	Castle of the Coven of the Mollusc	软体魔团城堡	生物之岛女巫城堡
+地理	The Cradle	摇篮	余烬巨构，天使栖所
+地理	Riova	里奥瓦	联盟政治中心（飞城）
+地理	the Citadel of Doubt	怀疑堡	里奥瓦的纪念碑建筑
+地理	Vena	维纳	联盟城市
+地理	Bayonne	巴约讷	联盟城市
+地理	Lundel	伦德尔	联盟城市
+地理	Slev	斯列夫	犯罪之地（毒品/刺客）
+地理	Byonne	拜昂	大学城
+地理	Kardova	卡尔多瓦	机器制造古国，发条王国前身
+地理	Emberia	余烬国	远古余烬帝国
+地理	Thwyf	斯威夫	古代地表王国
+地理	Dual Crags	双峰崖	刊物梗（双峰塔）
+聚落/商店	The Wobbly Noggin	摇晃酒馆	哈洛郡酒吧（Noggin=脑袋/杯）
+聚落/商店	The Lost Purse	失包黑店	窃贼工会门面（Lost Purse=丢失的钱包）
+聚落/商店	The Rotten Coffin	烂棺材	陵墓城酒馆
+聚落/商店	Emporium of Oddities	奇物商场	哈洛镇商店
+聚落/商店	Glorious Garments	华服店	哈洛镇服装店
+聚落/商店	The Mouldy Cauldron	霉锅店	陵墓城商店
+聚落/商店	Winged Merchants Guild	飞翼商会	贸易公会
+聚落/商店	Order of Three and One	三一商会	神秘贸易公会（Trade Guild Mask）
+聚落/商店	Aetherists' Guild	乙太师公会	杰罗姆所属
+聚落/商店	Machinists' Guild	机械师公会	发条王国统治集团
+聚落/商店	The Scryshroom Company	窥菇公司	普威尔茶叶商行
+势力	The Apostatic Union	叛教联盟	人类主流政权（Apostatic=背弃神明的）
+势力	the Union	联盟	简称
+势力	Inquisition	宗教裁判所	联盟镇压机构
+势力	Wikkans	维坎教团	神信徒阵营（coven=女巫团）
+势力	Outlaws	法外之徒	罪犯阵营
+势力	Dark Star Company / Dark Stars	黑星佣兵团	薇拉的佣兵团
+势力	Endless	无尽者	不死族
+势力	Endless Royalists	无尽保皇派	白银女王派系
+势力	Endless Cadavers	无尽尸骸派	主战派系
+势力	the Cadavers	尸骸派	简称
+势力	Clockwork Rebels	发条反叛军	Reza 所属
+势力	Ferropolis (faction)	铁城（派系）	UI 派系名
+势力	Emberians	余烬人	远古帝国遗民
+势力	Crystal Children	水晶之子	水晶女神教团
+势力	Rotten Onion Mercs / Rotten Onion Mercenary Company	烂洋葱佣兵团	喜剧向佣兵团
+势力	Goblins	哥布林	戴木面具的忏悔种族
+势力	Undead	亡灵	统称
+势力	Machines	机械	敌对造物
+势力	the Chained God	锁链神	玩家的守护神
+人物	Vela Callose	薇拉·卡洛斯	主线追捕目标
+人物	Jack Basalt	杰克·巴索特	Vela 前军需官，同伴
+人物	The Emberian	余烬人	同伴外号（全身余烬铠甲）
+人物	The Endless Duchess	无尽女公爵	同伴（Duchess）
+人物	The Duchess	女公爵	简称
+人物	Caxton Frost	卡克斯顿·弗罗斯特	同伴，化名霍勒斯·梅特卡夫
+人物	Horace Metcalfe	霍勒斯·梅特卡夫	Frost 的化名
+人物	Sammol	萨莫尔	Frost 的爱人（发条王国）
+人物	High Confessor	至高忏悔者	联盟领袖（职衔）
+人物	Caer	凯尔	至高忏悔者的幽灵
+人物	Inquisitor Ignavius / Ignavus	伊格纳修斯审判官	原文拼写不统一
+人物	Isabet	伊莎贝特	Vela 亡妹
+人物	Orlaith	奥莱丝	幽灵向导（Vela 旧识）
+人物	Queen of Silver	白银女王	无尽者君主
+人物	the Seneschal	总管	白银女王的总管（职衔）
+人物	the Entombed One	墓中人	白银女王的创伤幽灵
+人物	the Hooded King	兜帽王	无尽者先王（亡故）
+人物	Penitent Thaw	忏悔者·索	血肉农场主（Endless）
+人物	Maggotson	马戈特森	血肉农场看守
+人物	Lord Rhydder	里德尔勋爵	尸骸派首领
+人物	the Duchess' daughter / Ellyn	艾琳	女公爵之女（只余断手）
+人物	the Fanged Door	獠牙之门	肋骨城堡地宫守门者
+人物	the Crypt Wyrm	墓穴蠕虫	收集骨灰瓮的巨虫
+人物	the Way of All Flesh	众生肉道	有自我意识的血肉农场
+人物	the Fertile One	育生者	帕古斯邪教头目
+人物	Paeguth	帕古斯	哈洛郡古神
+人物	Anguin	安圭因	普威尔暴君神（Aenguin 为讹写）
+人物	the Duke of Hallowshire	哈洛公爵	诅咒城堡线
+人物	the Wikkan priest	维坎祭司	城堡里的祭司
+人物	Vierme	维尔姆	食梦寄生虫/荆棘木庄园地下室
+人物	Aphra Myshkin	阿芙拉·米什金	改革派首席释经官 = Oleg 之女
+人物	Chief Interpreter Aphra	首席释经官阿芙拉	职衔名（Interpreter=释经官）
+人物	Oleg Igorovich	奥列格·伊戈罗维奇	铁城边防兵
+人物	B. Morozov	莫罗佐夫	隐居颅腔工程师
+人物	Reza	雷扎	市场摊贩=破坏者（the Saboteur）
+人物	Sunil	苏尼尔	国王代言人（King's Speaker）
+人物	Its Majesty, the King	国王陛下	发条王（原文故意用 Its 非人称，翻译需体现）
+人物	Machinus Rex	机械王	发条王的拉丁语自称
+人物	Doctor Carl von Pripp	卡尔·冯·普里普医生	皇家幻象工坊
+人物	Vidal	维达尔	幻象商人
+人物	Nadja	娜佳	幻象成瘾少女
+人物	Yasmeen	亚斯敏	娜加之母
+人物	Youssef	优素福	瓶装幻象托付人
+人物	Bina	宾娜	优素福之妻
+人物	Mikhail	米哈伊尔	走私飞艇船夫
+人物	Giovanni	乔瓦尼	首席制图师
+人物	Jerome Verrier	杰罗姆·维里耶	首席乙太师（囚禁神明的元凶）
+人物	Dohn	多恩	首席炼金师
+人物	Natalya	娜塔莉亚	首席工程师
+人物	Ghlem	格莱姆	首席历史学家
+人物	the Union Polymath	联盟博学家	猎神任务委托人
+人物	the Council Clerk	议会书记员	卖庄园的人
+人物	Lludd	卢德	普威尔青年（献祭线）
+人物	Culwych	卡尔威奇	秤量官（weighmaster）
+人物	Olwen	奥尔温	普威尔镇长
+人物	Dwynn	德温	普威尔前佣兵
+人物	Nudd	纳德	普威尔前佣兵
+人物	John Birdbark	约翰·伯德巴克	烂洋葱头目
+人物	Drangorg	德兰戈格	神战老兵
+人物	Innogen	因诺根	失 purse 黑店女主
+人物	Bardolph / Bardolf	巴道夫	销赃人（原文两拼）
+人物	Vernon Berwig	弗农·伯维格	飞翼商会会长
+人物	Ghutrid	古特里德	对话人物
+人物	Emyr	埃米尔	对话人物
+人物	Lucia, Holy Sculptor	露西亚·圣雕师	水晶 sculptor
+人物	the Crystal Goddess	水晶女神	无尽矿坑新神
+人物	Danu	达努	生物之岛人物
+人物	Xanarrib	萨纳里布	生物之岛相关人物
+组织专名	Project Horoscope	星象计划	发条王抹人实验
+组织专名	the Library of Untruths	虚言图书馆	见地名
+组织专名	Sacramental Duty	圣礼职责	发条王颁布的差事
+组织专名	the Apostatic Union Geological Society	联盟地质学会	漂流岛告示署名
+物品	Union Passport	联盟护照	过关卡桥用
+物品	gatebridge	关卡桥	区域检查站
+物品	Airship Deed	飞艇契约	
+物品	Writ of Aerial Permission	飞行许可状	
+物品	Autocoach	自动车厢	余烬遗迹轨道车
+物品	Autocoach Key	自动车厢钥匙	
+物品	bottled vision	瓶装幻象	装瓶出售的梦
+物品	Dream Crown	梦境之冠	家用收割梦境装置
+物品	Rasmussen Sphere	拉斯穆森球体	破盾装置
+物品	Cranial Moderator	颅腔调节器	听懂发条王的植入体
+物品	clockwork skull implant	发条颅骨植入体	听懂腐化者
+物品	punchcard	打孔卡	发条王国的"卷轴"（ spells encoded ）
+物品	Freight Capsule	货运舱	Oleg 奖励
+物品	Sacrificial Poison	献祭之毒	城堡线
+物品	Necklace of Sacrifice	献祭项链	白银女王遗物
+物品	Vial of Happiest Memories	至乐记忆瓶	Penitent Thaw 给的
+物品	Blood of a Loyal Servant	忠仆之血	过獠牙之门
+物品	Urn of Anguish	悲恸之瓮	墓穴蠕虫收集品
+物品	Filtration Mask	过滤面罩	地下之地防护
+物品	Emberian Key	余烬钥匙	（多把同名，注意上下文）
+物品	Hymnal Key	圣咏钥匙	水晶矿坑
+物品	Cadaver Keep Key	尸骸要塞钥匙	
+物品	Paeguth's Key	帕古斯之钥	
+物品	Aspect of Paeguth	帕古斯面相	神的身体碎片
+物品	Old Ruin Key	古遗迹钥匙	
+物品	Triangle Key / Square Key	三角钥匙/方孔钥匙	进步城
+物品	Key of the Moon Twin / Sun Twin	月神之钥/日神之钥	双子神墓
+物品	Temporal Pickaxe	时序镐	挖枯竭矿脉
+物品	Journal / Cartography Notebook	日记/制图笔记	
+物品	Cipher-Chart	密文海图	
+物品	Academy Recommendation	学院推荐信	
+物品	Academy Portal	学院传送门	
+物品	portal key	传送门钥匙	
+物品	Incriminating Notebook	罪证笔记	杰罗姆的
+物品	Inquisition Journal	宗教裁判所日志	
+物品	Dream Journal	梦境日记	Perchance to Dream 任务
+物品	Oleg's Locket	奥列格的吊坠	
+物品	Oleg's Candle	奥列格的蜡烛	
+物品	Aphra's Punchcard	阿芙拉的打孔卡	改革咒
+物品	Saboteur's Punchcard	破坏者打孔卡	毁灭咒
+物品	Metal Machine Music	金属机器音乐	音乐打孔卡
+物品	Graveyard Noise Transcript	墓场噪音抄本	
+物品	Music Box Cylinder	音乐盒圆筒	进步城纪念品
+物品	Apostatic Amulet	叛教护符	
+物品	Charm of the Dead God	亡神护符	
+物品	Trade Guild Mask	商会面具	
+物品	Goblin Mask	哥布林面具	
+物品	Hypnotic Brooch	催眠胸针	强化诱惑时长
+物品	False Monstrance	伪圣物匣	强化诱惑单位攻击
+物品	Emberian Spectacles	余烬眼镜	高亮博识互动点
+物品	Caged Familiar	笼中使魔	
+物品	Emberian Calculator	余烬计算器	永久+博识
+物品	Charisma Augment	魅力增幅器	永久+魅惑
+物品	Canine of Commerce	商务犬齿	金牙，永久+交易
+物品	Quickstep Socks	疾步袜	永久+敏捷
+物品	Arcane Accumulator	奥术蓄能器	永久+施法
+物品	Epoch Crystal Shard	纪元水晶碎片	
+物品	Sleeper Mask	安眠面具	
+物品	Vampiric Amulet	吸血护符	
+物品	Blood Syphon Ring / Mind Syphon Ring	汲血戒指/汲心戒指	
+物品	Invigorating Locket	健力吊坠	
+物品	Parrying Buckler	格挡小盾	
+物品	Weightless Glove	失重手套	
+物品	Alluring Perfume	迷情香水	
+物品	Summoner's Earring / Ring	召魂耳环/召魂戒指	
+物品	Sadist's Glove	虐待狂手套	
+物品	Mechanical Lockpick	机械开锁器	
+物品	Lockbug	锁虫	
+物品	Speed Shoes	疾行之靴	
+物品	Cosmos Cloak	星海斗篷	
+材料	Iron Ore / Fine Ore	铁矿/精矿	
+材料	Emberian Ore	余烬矿	
+材料	Shroomweave Ore	菌织矿	
+材料	Clockwork Ore	发条矿	
+材料	Void Ore	虚空矿	
+材料	Silk Thread / Glorious Silk	丝线/华丽丝绸	
+材料	silkslug	丝蛞蝓	产丝生物
+材料	bosilwok worm	博西沃克虫	产华丽丝绸
+草药	Eye of Paeguth	帕古斯之眼	疗伤草药
+草药	Paradoxicus	悖论花	法力药原料
+草药	Jitterseed	颤籽	体力药/毒药原料
+草药	Death's Veil	死亡之幕	传奇蘑菇
+药剂	Health / Mana / Stamina Potion	生命/法力/体力药水	
+药剂	Truth Potion	真言药水	破幻
+药剂	Elixir of Luck	幸运灵药	
+药剂	Elixir of Restoration	复原灵药	
+药剂	Elixir of Spellcast / Regen	施法灵药/回复灵药	
+药剂	Shielding Potion	护盾药水	
+武器品质	Rusty / Steel / Fine	锈蚀/钢制/精良	
+武器品质	Shroomweave	菌织	施法加速材质
+武器品质	Clockwork	发条	可变形武器
+武器品质	Void / Voidsteel	虚空/虚空钢	吸光导魔材质
+武器品质	Emberian	余烬	帝国科技材质
+武器	Sword / Dagger / Greatsword / Bow	剑/匕首/巨剑/弓	
+武器	Leucosic / Xanthosic / Iosic Bomb	白啸弹/黄啸弹/紫啸弹	投掷炸弹（希腊语颜色词根）
+敌人	skysnail	天蜗牛	飞艇船体选项
+敌人	cephalok	头颅兽	巨型生物
+敌人	nautilob	鹦鹉螺妖	 illusory 巨怪
+敌人	Myrmidon	斯堤尔兵	发条王国机器兵（Myrmidon Petition）
+敌人	Rapid Myrmidon Petition	迅捷斯堤兵征召令	召唤物道具
+敌人	the Corruption / Corrupted One	腐化 / 腐化者	发条王国灾变
+敌人	Phage-Spider	噬疫蛛	
+敌人	Crypt Wyrm	墓穴蠕虫	（同 the Crypt Wyrm）
+地点杂	Death Shrine	死亡神龛	复活点
+地点杂	Crystal Point	水晶锚点	存档/回蓝点
+地点杂	Airship Dock / Airship Station	飞艇码头/飞艇站台	
+地点杂	Airship Cove	飞艇湾	
+地点杂	Property Station	房产工作站	升级房产
+地点杂	Alchemy Station	炼金台	
+地点杂	Crafting Station	锻造台	
+地点杂	Skiff Dock	小艇码头	
+地点杂	Cleanup Camp	清理营地	腐化之地
+地点杂	the Rotten Onion Camp	烂洋葱营地	
+地图标注	MAP_* / LMRK_* / DIRECTION_*	（地名为主，套用上面定名）	
+UI 属性	Might	力量	属性
+UI 属性	Guile	灵巧	属性
+UI 属性	Wisdom	智慧	属性
+UI 属性	Persona	人格	属性（社交人格）
+UI 技能	Attack / Defence	攻击/防御	
+UI 技能	Lockpick	开锁	
+UI 技能	Lore	博识	
+UI 技能	Charm	魅惑	
+UI 技能	Agility	敏捷	
+UI 技能	Spellcast	施法	
+UI 技能	Barter	交易	
+UI 状态	Fatigued	疲劳	
+UI 状态	Cursed	被诅咒	
+UI 状态	Poisoned	中毒	
+UI 状态	Lucky	幸运	
+UI 状态	Drunkenness	醉酒	
+UI 货币	coin	硬币	通用货币
+UI 货币	glimmer	微光	（GLIM_NEEDED 语境为建材时=辉光岩，写回时按上下文）
+系统	Save / Slot	存档/存档位	
+系统	Journal	日志（主菜单）	
+系统	Character Creation	角色创建	
+系统	Difficulty Mode	难度模式	
+系统	Belief is everything	信念即一切	妄想属性描述开头
+法术	Reknit Flesh	重织血肉	治疗
+法术	Agility's Addendum	敏捷补遗	防摔
+法术	Advance Time	跨越时间	
+法术	Slow	迟缓	
+法术	Teleport	传送	
+法术	Dispel	驱散	
+法术	Fade	隐没	隐身
+法术	Summon Skeleton (Archer/Mage/Guard)	召唤骷髅（弓手/法师/卫兵）	
+法术	Immolation Incantation	自燃咒	火球
+法术	Cipher Spear	密文长矛	魔法弹
+法术	Ethereal Flechette	虚体镖	快速魔法弹
+法术	Plague Flechette	疫病镖	毒系魔法弹
+法术	Cypher Star	密文星	大招（原文 Cypher/Cipher 混用）
+法术	Return Home	归乡	回水晶锚点
+法术	Spectral Shield	幽灵之盾	
+法术	Emergency Airship Reembarkation	紧急重返飞艇	
+法术	Reveal Truth	揭示真相	
+书籍	South Wind Prayer	南风祈祷	书
+书籍	On Wikkan Tyranny	论维坎暴政	
+书籍	The Tragedy of King Tristwich	特里斯维奇王悲剧	
+书籍	The World Rend	世界撕裂	书同名
+书籍	On Paeguth	论帕古斯	
+书籍	The Hidden Truth of Cipher	密文的隐秘真相	
+书籍	A Guide to the Oneiric Isles	梦幻群岛指南	
+书籍	Recollections from the God War	神战回忆录	
+书籍	A Foolhardy Voyage	莽夫之航	
+书籍	Cadish Rakehill Vol.1-3	卡迪什·雷克希尔 1-3 卷	小说三部曲
+书籍	On Remembrance	论追忆	
+书籍	Buried Guilt	深埋的罪	
+书籍	A History of Kardova	卡尔多瓦史	
+书籍	The Romance of the Scarab, Part IV	圣甲虫罗曼史·第四部	
+书籍	Introduction to Sixfold Cipher	六重密文入门	
+书籍	Scribing Orb of the Yellow Priest	黄衣祭司的誊写宝珠	
+书籍	Journal in the Belly of a Beast	兽腹中的日记	
+书籍	Coven of the Mollusc Sermon	软体魔团布道词	
+书籍	Official Record of Junior Commitologist Pugh	初级提交学官皮尤的官方记录	（Commitologist 杜撰词，暂译"提交学官"）
+书籍	Dispatch No. 533: WHAT IS CORRUPTION?	第533号急报：何为腐化？	
+书籍	Dispatch No. 486: TRAITOR FROST DEAD AT LAST!	第486号急报：叛徒弗罗斯特终伏诛！	
+结局系统	banished / joined	放逐/合入	两大结局分支
+结局系统	Order / Liberty / Self	秩序/自由/自我	玩家结局倾向
+结局系统	Heaven	天堂	合一结局新建之城
+物品	Leech of Truth	真理之蛭	帕古斯寄生饰品，看破幻象
+物品	Eldritch Focus	邪异法器	余烬护符（施法+/防御-）
+物品	Mana Syphon	法力虹吸	物攻吸蓝护符
+组织	Order of Interpreters	释经官会	机械师公会下属，Chief Interpreter 所属
+地点	Verdant	苍翠	苍翠森林，无尽者故地（《论追忆》）
+地点	Roaming Factory	游走工厂	发条王国北部农田的机械工厂
+职衔	Royal Factor	皇家事务官	铁城检查站官员(女性);进步镇代理职
+人物	Director Huang / Cleanup Leader Huang	黄主管（清理队长黄）	腐化之地清理营地负责人
+人物	Cleanup Worker Cohen	清理工人科恩	清理营地看守腐化者的人
+人物	Chiasma	奇亚斯玛	NPC 名
+专名	Golden Typhos	黄金热瘴号	飞翼商会商船
+敌人	Angel Spawn	天使幼体	摇篮中天使的自我复制体
+商店	The Bubbling Brew	咕嘟酿造铺	哈洛镇药店
+商店	A Fair Blade	公道之刃	哈洛镇武器店
+人物	Madame Lascaux	拉斯科夫人	发条王国人物
+人物	Baba Xenia	泽尼娅婆婆	发条王国人物
+人物	Shady Mac	鬼祟麦克	发条王国人物
+人物	Jaczemir	雅采米尔	发条王国武器商
+人物	Lord Romulous Chairon VII	罗穆路斯·凯隆七世	无尽矿坑贵族（原矿主）
+人物	Zayneb	扎伊娜布	进步城书信作者、幸存者领袖
+人物	D. Hange	D. 汉格	《双峰崖》连载作者（双峰塔梗）
+人物	John Phlegming	约翰·弗莱明	卡迪什·雷克希尔小说作者
+人物	Chirrius	克里乌斯	《论追忆》作者
+人物	Vleklum	弗莱克鲁姆	《深埋的罪》作者
+人物	Myghar	米加尔	NPC 名
+人物	Ol' Rotter	老腐坏	NPC 名（锈堡）
+人物	Haggles	哈格尔斯	哈洛镇商人 NPC 名
+人物	Chaffer	查弗	哈洛镇商人 NPC 名
+人物	Quarshie	夸希	瓶装幻象作者之一（A. Quarshie）
+概念	neuron star	神经元星	原文系 neutron star 之误写;保留 neuron(神经元)异拼风味
+神明	Cernun	塞尔努	被薇拉杀死的小神
+神明	Den-Mother	兽穴之母	卡尔多瓦远古守护神
+神明	Elswyn	艾尔温	爱与战之神,哭泣之战挑起者
+神明	The Mollusc	软体	软体魔团信奉的大女神(本体即生物之岛)
+神明	Mute God	缄默之神	圣甲虫罗曼史中的沉默神明
+神明	Djinn	灯神	可实现愿望的灵体
+神明	Tammuz	塔穆兹	黄衣祭司故事中的神
+神明	Shamash	沙玛什	太阳神;沙玛什密文=其护盾
+神明	Abatur	阿巴图尔	黄衣祭司故事中的神
+神明	Alhalam Aleazim	阿尔哈拉姆·阿莱阿济姆	寂静城之神
+人物	Admiral Callose	卡洛斯上将	薇拉之父,联盟海军
+人物	Confessor XVII	忏悔者十七世	玩家的裁判所代号
+人物	Thomas Harwicke	托马斯·哈威克	哈洛公爵之子
+人物	Ezra Thornwood	艾兹拉·荆棘木	维尔姆本名,荆棘木庄园建造者
+人物	Cornelius	科尼利厄斯	德兰戈格的炮组指挥官
+人物	Pulmona	普尔莫纳	亚里士提德之岩的移动商人
+人物	Kaea	凯亚	软体体内的抵债矿工
+人物	Orbaith	奥贝丝	梦境日记老人失踪的女儿
+人物	Biddle	比德尔	挖掘镇青年矿工,卢卡的学生
+人物	Magda Chowdhury	玛格达·乔杜里	弗罗斯特已故同事,首席乙太师
+人物	Sam	萨姆	弗罗斯特对萨莫尔的爱称
+人物	Gavelkind Pugh	加维尔金德·皮尤	进步镇初级提交学官
+人物	Fiontann Pinsky	菲奥南·平斯基	进步镇高级提交学官
+人物	Zayneb Muir	扎伊娜布·缪尔	进步镇车床工
+人物	Austell Cicerone	奥斯泰尔·西塞罗内	机械师公会首席召唤师
+人物	Pierre Kobliska	皮埃尔·科布利斯卡	高级释经官,教科书合著者
+人物	Bela Morozov	贝拉·莫罗佐夫	莫罗佐夫的本名(高级召唤师)
+人物	Aphra Grey	阿芙拉·格雷	阿芙拉注册用名(初级释经官)
+人物	Beatrice Webb	比阿特丽斯·韦伯	史学家,主张宽待神崇拜
+人物	Joan Toussaint	琼·图森	史学家(原文拼写有 Toussant 变体)
+人物	Al-Himarrh	阿尔-希马尔	古代旅行家
+人物	Milo Casimir	米洛·卡西米尔	圣甲虫罗曼史作者
+人物	Niccolo Lopo	尼科洛·洛波	梦幻群岛指南作者
+人物	Juliana Liddell	朱莉安娜·利德尔	神战回忆录作者
+人物	Stultus Navigatio	斯图尔图斯·纳维加提奥	莽夫之航作者
+人物	Nelio Conicus	内利奥·科尼库斯	论维坎暴政作者
+人物	Theodore Hubert	西奥多·休伯特	论帕古斯作者
+人物	Fiana Constanza	菲亚娜·康斯坦扎	六重密文发明者
+人物	Acheron Twisp	阿刻戎·特威斯普	六重密文早期整理者
+人物	Jinesh	吉内什	海盗船长
+人物	Ishtar	伊什塔尔	优素福与宾娜的孩子
+人物	Nour	努尔	优素福与宾娜的孩子
+人物	Hakim	哈基姆	黄衣祭司故事中的同伴
+人物	Samarra	萨马拉	黄衣祭司故事中的同伴
+人物	Amhara	阿姆哈拉	黄衣祭司失去的爱人(原文不标性别)
+势力	Kingdom of Verdant	翠绿王国	无尽领域合入天使后的新名
+势力	Cadaver Corsairs	尸骸海盗	重启战争后的无尽掠袭者
+势力	Coven of the Worm	蠕虫女巫团	生物之岛的维坎女巫团
+势力	Greaseguards	润滑卫队	卡尔多瓦战时军团(第十七卫队)
+势力	Vitalists	生机派	卡尔多瓦反机械师派系
+组织专名	Erudite Academy	博识学院	漂浮学府,巡回联盟各境,行政在里奥瓦
+组织专名	Astral College	星象学院	拜昂学府
+组织专名	Symposium	研讨学会	阿尔贝图斯研究议会
+组织专名	Supervisors	监督者	余烬行政监管者
+组织专名	Munro Expedition	门罗探险队	35年失踪于地下之地的远征
+组织专名	Chronos Guild	时序公会	旧历守护者
+组织专名	Royal Dispatch	皇家急报	发条王国官方报纸
+组织专名	The Weekly Wail	每周哀号	里奥瓦小报
+组织专名	Vagrant Hospice	流浪者济贫院	收容流浪者的慈善组织
+组织专名	Council of Covens	女巫团议会	维坎诸团协调机构
+组织专名	Cloud Rider tribe	驭云部族	天空住民史前部族
+地理	Puria	普利亚	远方岛屿,纱丽产地
+地理	Al-Asphra	阿斯弗拉	贸易地
+地理	Saracolco	萨拉科尔科	战时围城地
+地理	Albertus	阿尔贝图斯	余烬第三大城市(地下之地所见)
+地理	Krasnagrad	克拉斯纳格勒	神战战场
+地理	Aunpur	奥恩普尔	神战战场
+地理	Teren	特伦	血男爵之地
+地理	Istriksburg	伊斯特里克堡	旧卡尔多瓦都城
+地理	Kruve	克鲁夫	伦德尔森林之城
+地理	Rorke	罗克	伦德尔赌城
+地理	Nodlem	诺德勒姆	余烬城市
+地理	Cloudpine Oblast	云杉州	发条王国辖州
+地理	Wikkanlaw / Wikkanrule	维坎法之地	旧维坎控制区泛称
+地理	the tongue	兽舌之地	头颅兽体内的区域
+地理	Behistun Alasaamit	贝希斯敦·阿拉萨米特	神之寂静城
+历史事件	The Shattering	大破碎	世界撕裂的余烬人称呼
+历史事件	War of Weeping	哭泣之战	中世纪大陆战争,斯威夫之祸
+历史事件	Battle of the Gates	诸门之战	神战战役
+历史事件	Black Restday	黑色休日	神战战役
+历史事件	Great Revival	大复兴	撕裂后复苏时代
+核心机制	Mortal Principle	凡人法则	禁止复活亡者的密文规则
+核心机制	syntax cascade	句法级联	引发世界撕裂的魔法灾变
+核心机制	counterworship	反崇拜	裁判所反邪教职能
+核心机制	understorm	地底风暴	地表永恒风暴
+核心机制	semioclausal symmetry	符句对称	六重密文特性:符号数=符句长度
+核心机制	glyph	符文	密文语言基本符号
+核心机制	clause	符句	标准符号组
+核心机制	cipher transposition	密文置换	密文的翻译形态
+核心机制	Metachromatic Scale	变色音阶	既有密文置换
+核心机制	second self	第二自我	哥布林面具信仰
+核心机制	haruspex	肠卜师	观内脏占卜者
+物品	transpositional supply tent	置换补给帐篷	女公爵的营地道具
+物品	thaumometer	奇术测量仪	门罗探险队仪器
+物品	Polymath's Pardon	博学家的赦免	策反黑星的赏格
+物品	ANGELSPAWN	天使子体	摇篮中天使的复制体
+物品	Djinn compass	灯神罗盘	黄衣祭司故事的占卜罗盘
+物品	Universal Steward	万能管家	蛛形机械劳役机器人
+物品	Wraithmould	幽灵霉	致幻真菌;六重密文成因
+物品	ardentine ore	阿登廷矿	引发卡尔多瓦崛起的矿藏
+物品	Cutter (airship)	快艇飞艇	地下之地远征突击艇
+物品	aeration pipe	通气管道	摇篮公用入口
+物品	fail-safe switch	保险开关	摇篮停机开关
+物品	Void Knife	虚空刀	至高忏悔者所赠杀神刀
+头衔	Grand Inquisitor	大审判官	裁判所最高职衔
+头衔	Emberian Knight	余烬骑士	余烬人同伴的尊称
+头衔	Lieutenant-Artificer	技师中尉	德兰戈格军衔
+头衔	Senior / Junior Interpreter	高级释经官/初级释经官	机械师公会译师职级
+头衔	Chief Summoner	首席召唤师	机械师公会职衔
+头衔	Queen of the Sky Pirates	天空海盗女王	薇拉的通缉称号
+船只	Black Goblin	黑哥布林号	海盗大帆船,后归黑星
+船只	Popinjay	波品杰号	被击沉的商货船

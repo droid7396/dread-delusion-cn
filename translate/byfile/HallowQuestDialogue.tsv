@@ -1,0 +1,698 @@
+ID	Col	CellKey	English	Chinese
+ino0	1	ino0::English	I'm counting on you, now.	现在就指望你了。
+ino1	1	ino1::English	<<Bright eyes shine from an unwashed face. You catch the girl's attention.>> ##Hey, you wouldn't wanna help a girl out, would you?	<<明亮的眼睛在一张没洗的脸上闪闪发光。女孩注意到你。>> ##嘿，你不会介意帮一个小姑娘吧？
+pq1	1	pq1::English	Goodbye.	再见。
+p1	1	p1::English	What's the problem?	出什么事了？
+p2	1	p2::English	Sorry, I've got somewhere to be.	抱歉，我有地方要去。
+ino2	1	ino2::English	<<She wipes sweat from her brow>>. ##I've gotta deliver these Byonne silks to my guy at the Wobbly Noggin. But after lugging these here, my own noggin's not doing too good. ##<<She flashes you a smile.>>	<<她擦去额头的汗。>> ##我得把这批拜昂丝绸送到摇晃酒馆给我的人手上。可扛着这些一路走来，我自己的脑袋都快撑不住了。 ##<<她冲你一笑。>>
+p3	1	p3::English	Alright, I'd be happy to help.	好吧，乐意效劳。
+p4	1	p4::English	I'll make your delivery... for a cut of the profit. 	我帮你送货……要抽成。
+p5	1	p5::English	No thanks, you're on your own.	不用了，你自己想办法吧。
+ino3	1	ino3::English	Oh, that's great! I owe you one, I really do. 	哦，太好了！我欠你一个人情，真的。
+ino4	1	ino4::English	<<She hands you a wooden box.>> ##Just ask around for Bardolph. He's usually in the small room... if he's not got himself kicked out. ##<<She winks.>>	<<她递给你一个木箱。>> ##找人问巴道夫就行。他一般在小房间……如果他没被轰出去的话。 ##<<她眨眨眼。>>
+ino5	1	ino5::English	You know the way to the Wobbly Noggin?	知道去摇晃酒馆的路吗？
+p6	1	p6::English	I'll just ask a guard if I get lost. 	迷路了我就问卫兵。
+ino6	1	ino6::English	<<You notice a slight frown.>> Really, there's no need for that. It's the pub with the giant skull, just over the bridge. You can't miss it.	<<你注意到她微微皱眉。>>真没必要。就是桥那边那个有大骷髅的酒馆。你不会错过的。
+p7	1	p7::English	Yeah, I know the way. Goodbye. 	行，我认路。再见。
+ino7	1	ino7::English	<<Her smile fades a little.>> ##Of course, that's only fair. You'll get paid.	<<她的笑容淡了一点。>>##当然，这倒也公道。你会拿到报酬的。
+ino8	1	ino8::English	Oh, hey again. <<She beams.>> ##I've still got some deliveries for the Wobbly Noggin'. Fancy helping a girl out? 	哦，又见面了。<<她眉开眼笑。>> ##我还有几批货要送摇晃酒馆。愿意帮个小姑娘吗？
+gd0	1	gd0::English	Hold it. <<He looks at your box.>> ##What you got there?	站住。<<他看着你的箱子。>> ##那是什么？
+p8	1	p8::English	I'm making a delivery for a friend.	我在帮朋友送货。
+gd1	1	gd1::English	<<He chuckles.>> Like I've not heard that one before. You know we've got a real problem with smugglers in Hallow. Lotta illegal goods slippin' through the net. So I'll ask again. What's in the box? 	<<他轻笑。>>别以为我没听过这套。你知道吗，哈洛的走私犯可是个大麻烦。大量违禁品漏网。所以我再问一遍。箱子里是什么？
+p9	1	p9::English	@@Byonne Silks. My friend is a respected tailor, and this delivery is urgent. 	@@拜昂丝绸。我朋友是个有名望的裁缝，这批货很急。
+gd2	1	gd2::English	%%Alright, alright, I've just gotta ask, is all. On your way now. 	%%好了好了，我就是例行问问。走吧。
+gd3	1	gd3::English	&&Sure, and I'm the duke of Lundel. Let's have a look inside. 	&&是啊，我就是伦德尔公爵。打开看看。
+p10	1	p10::English	I was told they were silks, but I've not looked.	别人跟我说的是丝绸，我没看过。
+gd4	1	gd4::English	Silks my arse. Let's have a look, then.	丝绸个屁。那就打开看看。
+p11	1	p11::English	The box is mine. Bugger off. 	箱子是我的。滚开。
+p12	1	p12::English	Mind your own business. 	管好你自己的事。
+gd5	1	gd5::English	Feisty one, eh? I'll be having none o' that. Hand over that box. 	挺横啊？我可不吃这套。把箱子交出来。
+gd6	1	gd6::English	Sure, and I'm the duke of Lundel. Let's have a look inside. 	是啊，我就是伦德尔公爵。打开看看。
+gd7	1	gd7::English	<<He cracks open the box. A writhing, tentacled creature stares up with an assortment of eyes.>> ##Yup, this here's a [[typhos]]. Nasty creature from [[Lundel]], used for poisons.	<<他撬开箱子。一只挥舞着触手的生物用一簇眼睛瞪着他。>>##没错，这是一只[[提福斯]]。[[伦德尔]]来的恶心的东西，用来制毒的。
+gd8	1	gd8::English	<<He takes the money and sighs.>> ##Look, I'm giving you a warning this time. We're watching you, though - and next time it'll be a prison cell. 	<<他接过钱叹了口气。>>##听着，这次我放你一马。不过我们盯着你呢——下次就是牢房了。
+p13	1	p13::English	These are silks from Byonne.	这是拜昂的丝绸。
+gd9	1	gd9::English	Alright, alright, I've just gotta ask, is all. Lot's of smugglers in Hallow, y'see. Carry on, now.	好了好了，我就是例行问问。哈洛走私犯多嘛，你懂的。走吧走吧。
+gd10	1	gd10::English	Now what's a vagrant like you doing with such a thing, eh?##I can tell you, the [[inquisitors]] won't be kind. You'll be hung from the gallows by weeks end.	像你这样的流浪汉拿着这种东西做什么，嗯？##我告诉你，[[裁判官]]不会手下留情。不到周末你就上绞架了。
+p_gd1	1	p_gd1::English	I was set up! I didn't know what was in the box!	我被陷害了！我不知道箱子里是什么！
+gd11	1	gd11::English	<<He rolls his eyes.>>##Don't bother. You've wandered into the spider's web either way.	<<他翻了个白眼。>>##省省吧。不管怎样你都已经撞进蜘蛛网了。
+p_gd2	1	p_gd2::English	Would [[5 coins]] change your mind?	[[5 枚硬币]]能不能改变你的主意？
+p_gd3	1	p_gd3::English	Would [[20 coins]] change your mind?	[[20 枚硬币]]能不能改变你的主意？
+gd12	1	gd12::English	<<He perks up at the sound of the high offer>>##Yes, I dare say it might.	<<听到高价他来了精神>>##嗯，我敢说能。
+gd13	1	gd13::English	Hmph. Make it [[10 coins]] and I'll consider it.	哼。[[10 枚硬币]]，我就考虑考虑。
+p_gd4	1	p_gd4::English	[[10 coins]] seems fair.	[[10 枚硬币]]挺公道的。
+p_gd5	1	p_gd5::English	I refuse!	我拒绝！
+p_gd6	1	p_gd6::English	Please, take whatever you want, just let me go.	拜托，你想要什么随便拿，放我走。
+gd14	1	gd14::English	<<You quickly realizing that you do not have as much gold as you'd offered...>>	<<你很快意识到自己没有那么多金币……>>
+gd15	1	gd15::English	Pathetic. You vagrants, criminals and pagans ought to be quartered.	可悲。你们这些流浪汉、罪犯和异教徒都应该被分尸。
+gd16	1	gd16::English	<<Without a word he grabs a variety of valuables from your bag.>>##Now listen. I'm in a good mood so I'm going to let you off. But your little box is staying with me.	<<他一言不发地从你包里抓走各种值钱物。>>##听着，我心情好所以放你走。但你那个小箱子归我了。
+gd17	1	gd17::English	<<After exchanging the money, He hands the box back to you with a nod.>>##Carry on now.	<<交换金币后，他点头把箱子递还给你。>>##走吧。
+gd18	1	gd18::English	And I'm afraid I'll be keeping your little "pet" here.##<<He gestures towards the box, which suddenly lurches as if in response.>>	还有，你的小"宠物"我要留下了。##<<他指指箱子，箱子突然猛地一动，像是在回应。>>
+p_gd7	1	p_gd7::English	@@I'm an agent of the inquisition. Stand aside.	@@我是宗教裁判所的探员。让开。
+gd19	1	gd19::English	%%<<You tell him briefly of your mission>>##Wow! The inquisition asked you to hunt the [[Queen of the Sky Pirates]] herself? That's incredible! ... Please don't let me keep you any longer!	%%<<你简短地跟他讲了你的任务>>##哇哦！宗教裁判所让你追捕[[天空海盗女王]]本人？太厉害了！……那我就不多留你了！
+gd20	1	gd20::English	&&Enough theatrics. You're wearing on my patience.	&&够了，别演了。你在耗我的耐心。
+bar1	1	bar1::English	<<The man cracks you a thin, yellow smile.>> ##Name's Bardolph. I don't think I know you, friend. So unless you got business here, I'd suggest you trot on. 	<<那人朝你挤出一个泛黄的薄笑。>> ##我叫巴道夫。我不认识你，朋友。所以除非你在这儿有正事，我劝你快走。
+p20	1	p20::English	I was asked to deliver some Byonne Silks to you. 	有人让我给你送一些拜昂丝绸。
+bar2	1	bar2::English	Ah! Innogen's newest recruit, eh? ##<<His smile grows; teeth like shattered glass.>> ##You should've said.	啊！因诺根新招的人，嗯？ ##<<他的笑容扩大；牙齿像碎玻璃。>> ##你该早说的。
+p21	1	p21::English	She never mentioned her name.  	她没提她叫什么。
+bar3	1	bar3::English	And ruin her mysterious allure? Of course not. That's not her style.	毁了她的神秘魅力？当然不会。那不是她的风格。
+p22	1	p22::English	Here's your delivery.	这是你的货。
+bar4	1	bar4::English	<<He prises the box open. A cluster of tentacles burst forth, and he slams it shut again.>> ##Aha! Fine silks, fine silks indeed. These'll make a lucky noble very... comfortable.	<<他撬开箱子。一团触手爆出，他又猛地关上。>> ##啊哈！好丝绸，真是好丝绸。这些会让某位幸运的贵族非常……舒服。
+p23	1	p23::English	Wait, what was that thing? 	等等，刚才那是什么东西？
+bar5	1	bar5::English	<<His expression snaps into anger.>> ##You said yourself, friend. Byonne silks.	<<他的表情霎时转为恼怒。>> ##你自己说的，朋友。拜昂丝绸。
+p24	1	p24::English	Glad to be of service.	很高兴为您效劳。
+bar6	1	bar6::English	That's what I like to hear. You're alright, you know.	我就爱听这话。你不错，知道吧。
+p25	1	p25::English	Your goods were confiscated. Innogen never mentioned the silks were... sentient. 	你的货被没收了。因诺根从没说过那些丝绸是……活的。
+bar7	1	bar7::English	<<He bursts into a wheezy laugh>>. ##Ah, I'd love to have seen the look on that guard's face. Innogen will be pissed at losing her commission, but it's no skin off my back. You've proved yourself willing, at least. 	<<他爆发出一阵哮喘般的笑>>。 ##啊，真想看看那卫兵脸上的表情。因诺根丢了佣金会气疯，但跟我没关系。至少证明你胆子够大。
+bar10	1	bar10::English	Look, we're always in need of folk like yourself. If you want more work, head down to the slums, past the docks. Look for a bust of a skeleton in one of the houses. 	听着，我们永远需要你这种人。还想接活就去码头那边的贫民窟。在一栋房子里找一个骷髅半身像。
+bar11	1	bar11::English	Give it a yank. It'll let you through to the Lost Purse. Find Innogen there and she'll have more work for you. 	拉一下它。它会放你进失包黑店。在那里找因诺根，她还有活给你。
+p26	1	p26::English	Innogen mentioned something about payment?	因诺根提过报酬什么的？
+bar12	1	bar12::English	Knowing her, I'd wager she wasn't the first to mention it, eh? 	了解她的话，我敢说她不是第一个提这茬的，嗯？
+bar13	1	bar13::English	Anyway, here's a few coins for your troubles.	总之，这几个硬币是给你跑腿的。
+bar0	1	bar0::English	Go on, get lost.	走吧，滚吧。
+p27	1	p27::English	Thanks Bardolph.	谢了巴道夫。
+p28	1	p28::English	I nearly got arrested thanks to your poisonous tentacle cargo. 	托你那有毒触手的货，我差点被抓。
+p29	1	p29::English	Bye, 'friend'. 	再见，"朋友"。
+ino10	1	ino10::English	<<It's the same girl from the docks, but her friendly disposition has gone. She eyes you with a cold stare.>>	<<还是码头那个女孩，但她友好的态度不见了。她冷冷地盯着你。>>
+p30	1	p30::English	Innogen, right? Bardolph said you'd have more work for me.	因诺根，对吧？巴道夫说你还有活给我。
+ino11	1	ino11::English	You made the delivery, huh? Not bad. When I saw you walking off with it, I was sure you'd be hung up in some prison by the end of the day. Those things are really illegal, you know.	你把货送到了，嗯？不赖。看你拿着它走的时候，我还笃定你当天就得进监狱呢。那些东西可是真违法的，你知道吗。
+ino12	1	ino12::English	You've got some nerve, y'know. You got any idea how much that typhos was worth? It's been smuggled from the poison swamps of Lundel, and you just gave it to a guard.	你胆子真大，知道吗。你知道那只提福斯值多少钱吗？它是从伦德尔的毒沼泽走私来的，你倒好，直接交给了一个卫兵。
+ino13	1	ino13::English	And you're asking for more work? I outta gut you right here!	你还想要活干？我该当场把你开了！
+p31	1	p31::English	It would have helped if you'd told me what was in it.	你要是告诉我里面是什么，事情就不一样了。
+ino14	1	ino14::English	You really are an idiot, huh? The box was bloody writhing around. And what kinda silk smells like a rotting corpse?	你真是个傻子，对吧？那箱子他妈的自己在动。哪种丝绸闻起来像腐烂的尸体？
+p32	1	p32::English	I'll get it right this time.	这次我会注意的。
+ino15	1	ino15::English	Yeah well, you'd better. For your sake.	是嘛，你最好。为你自己好。
+ino16	1	ino16::English	Just so you know - if it was up to me, you'd be lying in a gutter right about now. But Bardolph calls the shots, so I guess I've got work for you. 	先说好——如果由我决定，你现在已经躺在水沟里了。但巴道夫说了算，所以算我还有活给你。
+p33	1	p33::English	That package was not silk. It could've killed me!	那包裹才不是丝绸。它差点杀了我！
+ino17	1	ino17::English	You really are an idiot, huh? The box was bloody writhing around. And what kinda silk smells like a rotting corpse?	你真是个傻子，对吧？那箱子他妈的自己在动。哪种丝绸闻起来像腐烂的尸体？
+ino18	1	ino18::English	Anyway, Bardolph told me to give you another job, so speak to me again when you're ready.	总之，巴道夫让我再给你派个活，准备好了再来找我。
+ino19	1	ino19::English	Anyway, Bardolph told me to give you another job, so here we go.	总之，巴道夫让我再给你派个活，来吧。
+ino20	1	ino20::English	So, there's this wealthy merchant called Vernon Berwig. He runs the winged merchants guild and lives on a fancy street up in Hallow. He's a collector of strange artifacts, and our client wants their hands on a particular one.	有个有钱的商人叫弗农·伯维格。他经营飞翼商会，住在哈洛上城一条气派的街上。他收藏奇怪的造物，我们的客户想要其中一件。
+ino21	1	ino21::English	Now, I already had someone scout out his property. There's a chamber downstairs that's barred from the other side. The item's gotta be in there, but a lockpick's not gonna cut it.	我已经派人踩过他的点了。楼下有间密室，从另一侧锁死的。那件东西一定在里面，但开锁器搞不定。
+ino22	1	ino22::English	So, there must be a secret way into Vernon Berwig's house, that leads to that chamber. Find the secret entrance, recover the strange artifact. Simple, huh?	所以，一定有一条通往那间密室的秘道，通进弗农·伯维格的房子。找到秘道入口，取回奇怪的造物。简单，对吧？
+ino23	1	ino23::English	Wow, you stole that artefact from Berwig's house? I gotta admit, I'm impressed. I had you down as a quitter, for sure.	哇，你从伯维格家把造物偷出来了？不得不承认，我刮目相看。我本来笃定你是个半途而废的。
+ino24	1	ino24::English	The client's gonna be real happy with this. You've earned your pay, and then some.	客户看到这个会非常满意。你的报酬挣到了，绰绰有余。
+king1	1	king1::English	<<The man squints at you for a moment.>> ##Ah, you were here earlier, yes? I remember you.	<<那人眯眼打量了你一会儿。>> ##啊，你之前来过，对吧？我记得你。
+king2	1	king2::English	<<The man jolts awake from a daze. Though he is not old, his eyes betray a weariness.>> ##...Orbaith, is that you? ##Oh, I'm sorry, stranger. I must have been dreaming again. I seem to do little else these days.	<<那人从恍惚中惊醒。他不算老，眼中却透着疲惫。>> ##……奥贝丝，是你吗？ ##哦，抱歉，陌生人。我又在做梦了。这些天我好像只做这个。
+king3	1	king3::English	Now, let me just - oh, damn, damn. Where is it?	好了，让我——哦，该死，该死。它去哪了？
+king4	1	king4::English	My dream journal - I've lost it again. I must have dropped it when running from those goblins on the mountain. Say, if you're wandering these parts, would you mind keeping an eye out for it?	我的梦境日记——又丢了。肯定是在山上躲那些哥布林时掉的。要是你在这附近转，介意帮我留心一下吗？
+pKing1	1	pKing1::English	What's this about your journal?	你的日记是怎么回事？
+king5	1	king5::English	Yes, yes - I've lost my dream journal. I think it's been dropped near the goblins that inhabit the mountain east of here. ##Go past the fortress and look for a lake; then follow the river upstream. You should find them there.	对，对——我的梦境日记丢了。应该掉在这东边山上住着的哥布林附近了。 ##走过要塞找一个湖；然后沿河逆流而上。你该能在那儿找到它们。
+king6	1	king6::English	I've noticed they sometimes clear off at night. If you want to avoid a fight, you could rest a while in my bed. Approach when the neuron star has shrunk and they might be gone.	我注意到它们有时夜里会离开。想避开打斗的话，可以在我床上歇一阵。等神经元星变小了再过去，它们可能就不在了。
+pKing2	1	pKing2::English	I've found your journal.	我找到你的日记了。
+king7	1	king7::English	<<He leafs through the pages excitedly.>> ##Yes, it's all here - Orbaith. The war. The machine-age. Please, take this, along with my sincerest thanks.	<<他兴奋地翻着纸页。>> ##对，都在这儿——奥贝丝。战争。机器时代。请收下这个，连同我最诚挚的感谢。
+pKing3	1	pKing3::English	Can I ask you something?	我能问你点事吗？
+king8	1	king8::English	You may certainly try, but things tend to slip from my mind of late - and these old bones won't carry me far.	你当然可以试，不过近来什么事都容易从我脑子里溜走——而这把老骨头也带不了我走多远。
+king9	1	king9::English	Have you heard of Vela Callose? 	你听说过薇拉·卡洛斯吗？
+king10	1	king10::English	Vela, Vela... Oh, you mean that young commander? Leads that band of mercenaries, up in that old fortress?	薇拉，薇拉……哦，你是说那位年轻的指挥官？带着一帮佣兵，占着那座旧要塞的那个？
+king11	1	king11::English	I was a bit worried when they took over that place. I thought they might cause some trouble - but honestly, other than the noise, they've been no bother.	他们占了那地方时我还有点担心。我以为他们会惹麻烦——但说实话，除了吵闹，他们没碍着什么。
+king12	1	king12::English	That Vela girl even visited me, once. She sat and listened to my dreams, and left me some food. Seemed a nice girl.	那个薇拉丫头甚至来看过我一次。她坐下来听我讲梦，还给我留了些吃的。像是不错的姑娘。
+pKing4	1	pKing4::English	Your bones don't look ((that)) old.	你的骨头看起来((没那么))老。
+king13	1	king13::English	<<He chuckles softly.>> Ah, yes, many people tell me that. In truth, I can't remember how old I am. My mind is foggy; my memories shrouded in mist.	<<他轻声笑。>>啊，是的，很多人这么说。说实话，我记不清自己多大了。我的脑子一片雾；我的记忆蒙在纱里。
+king14	1	king14::English	But my dreams? They are vivid. I dream of my daughter, Orbaith - and a terrible war. I keep a journal, in the hope of deciphering truth from dream.	可我的梦？它们鲜活得要命。我梦见我的女儿奥贝丝——和一场可怕的战争。我写日记，想从梦中分辨出真相。
+pKing5	1	pKing5::English	What can you tell me about these islands?	关于这些岛屿，你能告诉我些什么？
+king15	1	king15::English	Hmm. These are the Oneiric Isles, but I'm no local here myself. Let's see... we're circled by a small red neuron star, though you've probably noticed that already. ##Oh, yes - and lately folk have been making a great deal of fuss about some Apostatic Union.	嗯。这里是梦幻群岛，但我本人也不是本地人。想想看……我们被一颗小小的红色神经元星环绕，不过你大概已经注意到了。 ##哦对了——最近人们为一个叫叛教联盟的东西闹得沸沸扬扬。
+king16	1	king16::English	The Union renounced their gods, I believe - and even went as far to wage war on them. They've claimed these islands for their own, but not everybody agrees with their apostasy. Many folk won't give up their worship. 	联盟摒弃了他们的神，我记得——甚至发展到向诸神开战。他们把这些岛据为己有，但并非人人都赞同他们的背教。许多人不愿放弃信仰。
+king17	1	king17::English	That reminds me - I think I knew a god, once. Or... was that just a dream?	那让我想起——我记得我好像认识一位神。还是……那只是个梦？
+pKing6	1	pKing6::English	Farewell.	再会。
+vil1	1	vil1::English	Hmph. We don't get many travellers these days. Heed my words; I'd not tarry here long. Something is... amiss, here.	哼。近来旅客不多了。听我一句；别在这儿久留。这里有些……不对劲。
+vil2	1	vil2::English	Most of the village died of plague, a while back. Since then, folk've been acting strange.	村里大多数人不久前死于瘟疫。从那以后，人们的行为就开始怪异了。
+p40	1	p40::English	What do you mean, strange? 	什么叫怪异？
+vil3	1	vil3::English	I mean strange. Folk started hearing things. Started ((seeing)) things. Some even started to... ((change)). Most have left for good.	就是怪异。人们开始听见东西。开始((看见))东西。有些人甚至开始……((变))。大多数人都走了，再没回来。
+p41	1	p41::English	Who lives in that castle, up there?	上面那座城堡里住的是谁？
+vil4	1	vil4::English	That'd be the Duke. He used to be a fine fellow - but after the plague, folk saw him wandering alone at night in full armour, howling to himself like a beast. About a year ago, he locked himself in his castle and 'aint been seen since.	那是公爵。他从前是个体面人——可瘟疫之后，有人看见他深夜穿着全副盔甲独自游荡，像野兽一样嚎叫。大约一年前，他把自己锁进了城堡，从此再没人见过。
+p42	1	p42::English	Thanks. Farewell.	谢谢。再会。
+vil10	1	vil10::English	<<The villager's eyes are wide as he strokes his arms.>>	<<村民双眼圆睁，抚摸着自己的胳膊。>>
+vil11	1	vil11::English	Do you see? Do you see what I've become? ## ... disgust myself.	你看见了吗？你看见我变成什么了吗？##……我讨厌我自己。
+vil12	1	vil12::English	There's something in the air. That disguises the truth. ##But... Jitterseed and Paradoxius. Blend them together - then your eyes will be truly open.	空气里有东西。它掩盖真相。##但是……颤籽和悖论花。混在一起——你的眼睛就会真正睁开。
+vil13	1	vil13::English	The nightmare has stopped. Is... is it finally over?	噩梦停了。是……是终于结束了吗？
+wik1	1	wik1::English	<<Tired eyes peer from a weathered face. The man wears the garb of a Wikkan priest, old and tatty.>>	<<一双疲倦的眼睛从饱经风霜的脸上望来。那人穿着维坎祭司的服饰，又旧又破。>>
+wik2	1	wik2::English	Wh- what's this, an intruder? How did you get into the keep?	什——什么人，闯入者？你怎么进的城堡主楼？
+p43	1	p43::English	There wasn't exactly anyone to stop me.	反正也没人来拦我。
+wik3	1	wik3::English	But, the royal guard...? Bah, deserters, deserters all. Then... I suppose the ruination of this place is complete.	可是，王宫卫队……？呸，逃兵，全是逃兵。那么……我想这地方的毁灭已经彻底了。
+p44	1	p44::English	I've come to end this madness.	我是来终结这场疯狂的。
+wik4	1	wik4::English	So, the facade has finally crumbled? I suppose I knew this day would come. The ruination of this place is complete.	那么，假面终于碎了吗？我想我早知道会有这一天。这地方的毁灭已经彻底了。
+wik5	1	wik5::English	I tried to wreathe this place in [[illusion magic]], to conceal  the decay, but... there is only so much a simple charm can do.##The castle rots, its bones laid bare.	我试图用[[幻术]]笼罩这里，掩盖衰败，可……一个简单的咒术也就只能做到这么多。##城堡在腐烂，白骨毕露。
+p45	1	p45::English	How fares the castle?	城堡怎么样了？
+wik6	1	wik6::English	So, the Duke's son offered to bear the sacrificial burden? This brings me much sadness; he is a kind soul, not deserving of such torment.	所以，公爵之子主动承担了献祭之重担？这让我非常悲伤；他是个善良的灵魂，不该受这种折磨。
+wik7	1	wik7::English	But perhaps... It is for the best. Even now, the villagers return to normality.	但也许……这样是最好的。即便现在，村民们也在恢复正常。
+wik8	1	wik8::English	The Duke is dead? So then, the contract with Paeguth is severed. The madness has ended, but I fear the plague will take an even heftier fee.	公爵死了？那么，与帕古斯的契约就断了。疯狂结束了，但我怕瘟疫会索要更沉重的代价。
+p46	1	p46::English	What's wrong with this castle?	这座城堡出了什么事？
+wik9	1	wik9::English	<<The man lets out a long, haggard sigh.>> ##A dread bargain. It was supposed to save these people, not to... <<he gulps.>> Not to doom them.	<<那人长长地、憔悴地叹了口气。>> ##一桩可怕的交易。它本该拯救这些人民，而不是……<<他吞了口唾沫。>>而不是毁灭他们。
+wik10	1	wik10::English	Some years ago, this castle was beset with a terrible plague. Even the Duke's son was afflicted. The Apostatic Union wouldn't help, so the people turned to a local god. But Paeguth demanded tribute...	若干年前，这座城堡被可怕的瘟疫侵袭。连公爵之子也病倒了。叛教联盟不肯帮忙，人们便转向一位本地神祇。可帕古斯要收取献祭……
+wik11	1	wik11::English	...so, my coven sent me to facilitate a contract. Paeguth's spell would be sustained by a sacrifice. ##A sacrifice not of life, but of ((pain)).	……于是，我的女巫团派我来斡旋一份契约。帕古斯的法术将由一种献祭来维持。##不是献出生命，而是献出((痛苦))。
+wik12	1	wik12::English	The Duke obliged. Even now, a poison engulfs him in perpetual agony, so that the plague may be kept at bay. But his life force weakens, the god's spell finds new ways to take due payment, and the isle grows ever more cursed.	公爵应允了。直到现在，一种毒药让他陷于无尽的痛苦，好让瘟疫不敢靠近。可他的生命力在衰弱，神的法术找到了新的索取方式，整座岛日益受诅咒。
+wik13	1	wik13::English	I have deliberated for many months on what to do. My conscience is heavy with the weight of it. But for things to change, something awful must occur.	这事怎么办，我纠结了好几个月。我的良心被它的重量压着。但要改变现状，必须发生可怕的事。
+p47	1	p47::English	There must be a way to resolve this curse.	一定有办法解开这个诅咒。
+wik14	1	wik14::English	Hmph. Resolution? It is a... comforting thought, I admit. 	哼。解决？我承认，这是个……令人宽慰的想法。
+wik15	1	wik15::English	Behind that painting lies a secret room. It holds a [[sacrificial poison]], the same one that flows through the Duke's veins.	那幅画后面有一间密室。里面藏着[[献祭之毒]]，与公爵血管里流的是同一种。
+wik16	1	wik16::English	The dosage is exact. An overdose would be lethal. If the Duke were to drink more, he would die, voiding the contract entirely.  ##The madness would end, but the plague would return. 	剂量是精确的。过量即致命。如果公爵再多喝一些，他就会死，契约将彻底作废。 ##疯狂会结束，但瘟疫会卷土重来。
+wik17	1	wik17::English	But there is an alternative. If a second sacrificial victim could be found, the god would be satiated. Equilibrium could be established once more, though Paeguth's taint would never fully vanish.	但还有另一条路。如果能找到第二位献祭者，神就会满足。平衡可以重新建立，尽管帕古斯的污秽永远无法完全消除。
+wik18	1	wik18::English	But I grow weary of this business. I do not have the heart to inflict more pain.	可我已厌倦了这桩勾当。我没有心肠再施加更多痛苦。
+p48	1	p48::English	@@I could administer the poison, on your behalf.	@@我可以替你投放毒药。
+p49	1	p49::English	I found the poison. I could administer it, on your behalf. 	我找到了毒药。我可以替你投放。
+wik19	1	wik19::English	%%<<He is silent a while.>> ##Perhaps... perhaps that is the wisest choice?	%%<<他沉默了片刻。>> ##也许……也许那才是最明智的选择？
+wik20	1	wik20::English	My indecision has let this castle rot. Perhaps you could be the one to save it. Very well, I will open the door to the poison. ##The Duke is at the top of the keep. To enter, you must walk through an illusory wall.	我的犹豫让这座城堡烂到了今天。也许你才是能救它的人。很好，我去打开藏毒药的门。 ##公爵在主楼顶层。要进去，你必须穿过一堵幻墙。
+wik21	1	wik21::English	&&A kind offer, but this burden is mine alone. I could not in good conscience let you do this.	&&好意心领，但这份重担只属于我一人。凭良心我不能让你去做。
+p50	1	p50::English	You're a Wikkan, no? Why are you here?	你是维坎教徒，对吧？你为什么在这里？
+wik22	1	wik22::English	Hmph, well I suppose there's no point in hiding it. That would be an insult to us both.	哼，我想瞒着也没意义了。那对我们俩都是侮辱。
+wik23	1	wik23::English	I am an emissary of the Wikkan Coven of the Worm, sent to oversee godly contracts. Even a simple prayer to a lowly deity can be a dangerous thing, and a Wikkan priest can act as a... middleman, of sorts.	我是蠕虫女巫团的使者，派来监理神明契约。哪怕向一位低微神祇的简单祈祷也可能是危险的事，而维坎祭司可以充当……某种中间人。
+wik24	1	wik24::English	Of course, these days it is a dangerous business. Since the God War our covens are scattered and secretive. Each one of us could face a terrible death were the Union to find us.	当然，如今这行当很危险。神之战以来，我们的女巫团四散且隐秘。一旦被联盟发现，我们每个人都可能死得很难看。
+wik25	1	wik25::English	Unless things change, it is only a matter of time before the inquisition finds me here. I will, of course, be tortured. I will, of course, tell them everything. If I had the courage I would end my life now, but I am a coward.	除非时局改变，宗教裁判所找到我只是时间问题。我当然会被拷打。我当然会全招了。要是我有勇气，现在就该结束自己的生命，可我是个懦夫。
+wik26	1	wik26::English	Ahem. Was there anything else?	咳咳。还有别的事吗？
+p51	1	p51::English	Farewell. 	再会。
+duke1	1	duke1::English	<<Pained groans emanate from the helmet. The man writhes, clearly in agony. He does not seem to notice your presence.>>	<<痛苦的呢吟从头盔里传出。那人在翻滚挣扎，明显在受难。他似乎没有注意到你。>>
+duke2	1	duke2::English	<<Seeing you, the man lets out a dreadful howl, which reverberates through the castle walls.>> ##You... condemned my son... to this fate?	<<那人看见你，发出一声可怕的嚎叫，回荡在城堡的墙壁之间。>> ##你……把我儿子……害成这样？
+duke3	1	duke3::English	I would... kill you... if I could.	我会……杀了你……如果我能。
+p52	1	p52::English	Uh... Greetings?	呃……你好？
+duke4	1	duke4::English	<<The man inhales sharply, his head slowly turning towards your own.>> ##I am... the Duke of Hallowshire. State... your business.	<<那人猛吸一口气，头缓缓转向你。>> ##我是……哈洛公爵。说……你的来意。
+p53	1	p53::English	What's wrong with you?	你怎么了？
+duke5	1	duke5::English	<<For a moment, the Duke simply releases a pained moan.>>##I am... offering a sacrifice, of my own... ((pain...)) so that my dukedom, and... my son... may live.	<<有那么一刻，公爵只是发出痛苦的呻吟。>>##我在……献祭，献出我自己的……((痛苦……))好让我的领地，和……我的儿子……活下去。
+p54	1	p54::English	Uh, can I help?	呃，我能帮忙吗？
+duke6	1	duke6::English	Only... that bastard Wikkan... may help me now.	如今……只有那个混账维坎教徒……能帮我了。
+p55	1	p55::English	I have the Wikkan's poison. I could end your pain.	我有维坎人的毒药。我可以结束你的痛苦。
+duke7	1	duke7::English	<<For a moment there is silence, but for the Duke's hoarse breathing.>>	<<有那么一刻，四下寂静，只听得见公爵嘶哑的呼吸。>>
+duke8	1	duke8::English	For so long... have I ached for death. Though it may doom my dukedom... I am too weak... to refuse. ##Please... kill me.	这么久以来……我一直渴求死亡。虽然这会毁灭我的领地……但我太虚弱了……无法拒绝。 ##请……杀了我。
+p56	1	p56::English	<<Poison the Duke.>>	<<毒杀公爵。>>
+duke9	1	duke9::English	<<You slip the vial past the Duke's helmet and let the liquid trickle past his lips. After a moment he begins to shake violently, his armour rattling.>>##<<And then he is still. >>	<<你把小瓶塞过公爵的头盔，让液体流入他的唇间。片刻后他开始剧烈颤抖，盔甲咔咔作响。>>##<<然后他不动了。>>
+p57	1	p57::English	Actually, I've changed my mind.	其实，我改主意了。
+duke10	1	duke10::English	Damn... you...	该死的……你……
+p58	1	p58::English	You're... clearly busy. Farewell.	你……显然很忙。告辞。
+dson1	1	dson1::English	Greetings. I don't often get many visitors up here. 	你好。这儿不常有客人来。
+dson2	1	dson2::English	I am Thomas Harwicke, son of the Duke of Hallowshire. Pleased to make your acquaintance. 	我是托马斯·哈威克，哈洛公爵之子。幸会。
+p59	1	p59::English	There is something very wrong here.	这里有些地方非常不对劲。
+dson3	1	dson3::English	Indeed. We are trapped in a spell - a contract with the god Paeguth, negotiated by the Wikkan in this castle. So long as my father bears a burden of sacrificial pain, the castle and the surrounding village will be free from the plague.	确实。我们被困在一个法术里——与神帕古斯缔结的契约，由这座城堡里的维坎教徒斡旋达成。只要我父亲承受着献祭之痛的负担，城堡和周围的村庄就不会闹瘟疫。
+dson4	1	dson4::English	Except... the spell has changed over time. As my father weakens, his subjects develop increasingly bizarre habits and deformities. Not dissimilar... to those monsters that roam the ruins to the west.	只是……法术随时间变了。随着我父亲衰弱，他的臣民出现越来越怪异的习性和畸形。跟西边废墟里游荡的那些怪物……颇为相似。
+dson5	1	dson5::English	I'm fearful of the future. If I could lend my aid in some way, I would do so gladly. Even if it would mean bearing the pain that my father endures.	我对未来感到恐惧。若有什么我能出力的地方，我很乐意效劳。哪怕那意味着承受我父亲所忍受的痛苦。
+p60	1	p60::English	I have a vial of poison, from the Wikkan.	我有一瓶毒药，从维坎人手里拿的。
+dson6	1	dson6::English	Oh my... is this... the sacrificial poison? ##<<He studies the vial with curiosity.>>	哦天哪……这是……献祭之毒？##<<他好奇地端详小瓶。>>
+dson7	1	dson7::English	Every day, I watch my father suffer. I feel useless by his side, unable to help. But with this... perhaps our conjoined sacrifices would repair the spell. Perhaps the land would be free from both plague ((and)) corruption.	每一天，我都看着父亲受苦。守在他身边却无能为力，我觉得自己没用。可有了这个……也许我们父子共同的献祭能修复法术。也许这片土地能同时摆脱瘟疫((和))怪异。
+dson8	1	dson8::English	I beseech you - let me partake of this poison. I would do my duty - to my father, and his subjects.	我恳求你——让我服下这毒。我要尽我的本分——对我父亲，对他的臣民。
+p61	1	p61::English	<<Give him the poison.>>	<<把毒药给他。>>
+dson9	1	dson9::English	<<The vial in his hand, he hesitates for a moment. Then, he drinks it in a single gulp.>>	<<他手握小瓶，迟疑了片刻。然后，一饮而尽。>>
+dson10	1	dson10::English	<<For a moment, nothing happens. Then, he lets out a piercing scream.>>	<<有一瞬间毫无动静。然后，他发出一声刺耳的尖叫。>>
+dson11	1	dson11::English	Oh, Paeguth! What pain is this? The agony! The... aaarghh! ##Is this... what my father has endured? It is... unbearable. Unbearable!	哦，帕古斯！这是什么痛苦？这煎熬！这……啊啊啊！##这就是……我父亲一直忍受的吗？这……无法忍受。无法忍受！
+p62	1	p62::English	No, the burden would be too great. 	不，那份负担太重了。
+p63	1	p63::English	Thanks. Farewell.	多谢。再会。
+dson12	1	dson12::English	<<The man looks deathly pale, and boils cover his skin. He lets out a burst of coughs as you approach.>> ##Please... stay back. I am not well.	<<那人面色死灰，皮肤上长满疖疮。你走近时他一阵咳嗽。>>##请……别过来。我病得不轻。
+dson13	1	dson13::English	With my father's death, the curse has been lifted. But the plague... that has lain dormant in my blood... has returned.	父亲死后，诅咒解除了。可那场瘟疫……潜伏在我血液里的那场……复发了。
+dson14	1	dson14::English	Still... perhaps this is for the best. I would rather die free... than live cursed.	不过……也许这样更好。我宁愿自由地死去……也不愿被诅咒地活着。
+p64	1	p64::English	Actually, I wanted to ask something else. 	其实，我想问点别的。
+dson15	1	dson15::English	Was there anything else?	还有别的事吗？
+dson16	1	dson16::English	I see...	这样啊……
+servant1	1	servant1::English	Greetin's, stranger. If I were you, I'd leave this accursed place. Leave and not look back.	你好啊，外乡人。换我是你，我就离开这个遭天谴的地方。头也不回地走。
+p65	1	p65::English	What's wrong with this castle?	这座城堡出了什么事？
+servant2	1	servant2::English	Can you not sense it? Hallow Castle has been stricken with a terrible curse. Foul creatures stalk the land while our Duke writhes in agony.	你感觉不到吗？哈洛城堡中了可怕的诅咒。污秽的怪物在领地上游荡，我们的公爵在痛苦中翻滚。
+servant3	1	servant3::English	It all started when that [[damned Wikkan]] came to our aid. I'll tell ya, the ((plague)) was better than this...	全都是那个[[该死的维坎教徒]]来"帮忙"之后开始的。我跟你说，((瘟疫))都比这强……
+servant4	1	servant4::English	If you insist on lingering, a word of advice: things are not what they seem. [[Those large paintings]] are mere illusion; you can walk right through them.	你要是非要多留，给你个忠告：眼见并非为实。[[那些大油画]]只是幻象；你可以直接穿过去。
+servant5	1	servant5::English	If you have some [[Jitterseed]] and [[Paradoxius]], you could brew a potion to see through the illusion. 	你要是有[[颤籽]]和[[悖论花]]，就能调一瓶看破幻象的药水。
+p66	1	p66::English	Who are you?	你是谁？
+servant6	1	servant6::English	Just a humble servant. The last in the Duke's employ, it would seem. Anyone with any sense has already fled.	不过是个卑下的仆人。公爵雇用的最后一个了，看起来。有点脑子早跑了。
+p67	1	p67::English	I'll be going.	我先走了。
+servant7	1	servant7::English	Remember, stranger; [[The paintings]] are not what they seem.	记住，外乡人；[[那些画]]不是看上去的样子。
+servant8	1	servant8::English	So, the Duke is dead? ##At least his howls of pain will haunt these halls no more.	那么，公爵死了？##至少他的痛嚎不会再回荡在这些大厅里了。
+servant9	1	servant9::English	The horrors have subsided, of late. Did you have a hand in that, stranger? ##Though, these halls still echo with agonised cries. I fear we will never be truly free.	近来恐怖的事消停了。外乡人，其中有你一份力吗？##尽管，这些大厅里仍回荡着痛苦的哀号。我怕我们永远不会真正自由。
+dstarDrunk1	1	dstarDrunk1::English	<<The Dark Star mercenary languishes, an ale in one hand. She barely registers your presence.>>	<<黑星佣兵委顿着，一手拎着麦酒。她几乎没注意到你。>>
+dstarDrunk2	1	dstarDrunk2::English	Hmph. So are you with the inquisition? Or some petty thief come to pick at our corpses?	哼。你是宗教裁判所的？还是来从我们尸体上捡便宜的小贼？
+dstarDrunk3	1	dstarDrunk3::English	Hmph, back again?	哼，又来了？
+p70	1	p70::English	I'm hunting your leader - Vela Callose.	我在追捕你们首领——薇拉·卡洛斯。
+dstarDrunk4	1	dstarDrunk4::English	Do as you please; I'll not hamper you. That wench has led us into enough trouble. ##<<She swigs the ale, most of it splashing down her face.>>	随便你；我不拦你。那婆娘把我们祸害得够呛。##<<她灌着麦酒，大半洒在了脸上。>>
+p71	1	p71::English	I'm just passing through; I've no quarrel with you.	我只是路过；跟你们没仇。
+dstarDrunk5	1	dstarDrunk5::English	Damn straight. Any funny business and I'll lop off your head. ##<<She swings an arm in a vague gesture, spilling her ale in the process.>>	这倒是。敢耍花样我就剁了你的脑袋。##<<她胡乱挥了挥胳膊，麦酒洒了一身。>>
+p72	1	p72::English	What can you tell me about Vela Callose?	关于薇拉·卡洛斯，你能告诉我些什么？
+dstarDrunk6	1	dstarDrunk6::English	<<she squints at you, her head swaying from the booze.>> ## ...you can keep a secret, right?	<<她眯眼看你，脑袋被酒熏得直晃。>>##……你能保密的，对吧？
+dstarDrunk7	1	dstarDrunk7::English	She leads the Dark Star Mercenaries, and so I'm supposed to tip my hat and call her 'boss'. But between you and me, she's gonna get us all killed. Maybe already has.	她是黑星佣兵团的首领，所以我理应碰碰帽檐叫她"老板"。可咱俩私下说，她早晚会害死我们所有人。说不定已经害了。
+dstarDrunk8	1	dstarDrunk8::English	She speaks of mad prophecies. Of breaking reality itself, to make some sort of deathless heaven. Nonsense and lies, the lot.	她满嘴疯狂的预言。什么打破现实本身，造一个不死的天堂。通通是鬼话和谎言。
+p73	1	p73::English	@@If you don't care for Vela, let me in the storeroom below. 	@@ 你既然不在乎薇拉，就让我进下面的储藏室吧。
+dstarDrunk9	1	dstarDrunk9::English	%%You know what - why do I always get the shitty jobs? Sure, you can loot the whole place, for all I care. That'll show Vela a thing or two. ((Hic.))	%% 你知道吗——为什么倒霉差事总轮到我？行，整个地方你随便搬，我才不关心。也算给薇拉点颜色看看。((嗝。))
+dstarDrunk10	1	dstarDrunk10::English	&&It's true I've  no love for Vela; but it's another thing to betray the Dark Star company. They're still my... ((hic)) ...brethren. 	&& 我确实不喜欢薇拉；可背叛黑星是另一回事。他们还是我的……((嗝))……弟兄。
+p74	1	p74::English	I'll leave you to your ale.	不打扰你喝酒了。
+shroomMan1	1	shroomMan1::English	Breathe deep, stranger. Let the earthy scent fill your lungs...	深呼吸吧，外乡人。让这泥土的气息充满你的肺……
+p80	1	p80::English	Smells awful.	难闻死了。
+p81	1	p81::English	Uh... what am I smelling, exactly?	呃……我闻到的到底是什么？
+shroomMan2	1	shroomMan2::English	How dare you! This is the finest scent in all the skyrealms. 	你好大的胆子！这是全天空领域最高贵的气味。
+shroomMan3	1	shroomMan3::English	Spores fill this place. I cultivate mushrooms - the most ancient and beautiful thing that grows from this earth. 	这里满是孢子。我栽培蘑菇——这片大地所生长的最古老、最美丽的东西。
+shroomMan4	1	shroomMan4::English	With one shroom cap I could grant you wondrous visions. With another - an agonising death. It's no wonder the Wikkans covet them so. 	一朵蘑菇伞能赐你奇妙的幻象。另一朵——能给你痛苦的死亡。难怪维坎人这么觊觎它们。
+shroomMan5	1	shroomMan5::English	Ah, the mushrooms foretold you would return. ##Although, they also foretold I'd give birth to my own father.	啊，蘑菇预言过你会回来。##虽然，它们还预言过我会生下我自己的父亲。
+p82	1	p82::English	Do you have any shrooms for sale?	你有蘑菇卖吗？
+p83	1	p83::English	@@Can I see your mushrooms?	@@ 我能看看你的蘑菇吗？
+shroomMan6	1	shroomMan6::English	%%Ah, a fellow connoisseur, I see? I'll unlock the door for you. Just don't go tamperin' with the lil' orange ones, unless you want your fingers to fall off. 	%% 啊，原来是同好？我给你开门。只是别去碰那些小橙菇，除非你想让手指头掉下来。
+shroomMan7	1	shroomMan7::English	&&Sorry, stranger. I can't just let anyone go rootin' around in my shroom farm. 	&& 抱歉了外乡人。我可不能随便让人在我的蘑菇农场里乱翻。
+p84	1	p84::English	What can you tell me about mushrooms?	关于蘑菇，你能告诉我些什么？
+shroomMan8	1	shroomMan8::English	Before the World Rend, mushroom forests covered the planet; thriving in the dank shadows of the flying isles.	世界撕裂之前，蘑菇森林覆盖着整颗行星；在飞岛的阴湿暗影里蓬勃生长。
+shroomMan9	1	shroomMan9::English	They entwine together underground, formin' great colonies. When you look upon a vast mushroom forest, you might just be looking at a single, giant shroom.	它们在地下彼此缠绕，形成巨大的群落。你望见一片浩瀚的蘑菇森林时，看到的可能只是一株巨大的蘑菇。
+shroomMan10	1	shroomMan10::English	It's why the Wikkans used them to communicate with the gods. In the old times, they'd hollow out the greatest of them; using them as temples... spaces of truths and terrors. 	这就是为什么维坎人用它们与诸神交流。古时候，他们把最大的蘑菇掏空；当作神庙……真理与恐惧之所。
+p85	1	p85::English	I'll leave you to your shrooming. 	不打扰你侍弄蘑菇了。
+troll1	1	troll1::English	<<The creature looks at you from sunken eyes. It shifts behind its massive jaw; it appears physically incapable of lifting its head.>>	<<那生物用凹陷的眼睛看着你。它在那巨大的下颚后面挪动；它似乎生理上就无法抬头。>>
+troll2	1	troll2::English	Be still, human. Only those who embrace their wretchedness may claim their second self. 	安静，人类。唯有拥抱自身悲惨的人，方可领取他们的第二自我。
+p90	1	p90::English	Wait, what's a second self?	等等，什么是第二自我？
+troll3	1	troll3::English	Long ago, the goblins of this forest perpetrated a heinous evil. To this day, their kind still bears the burden of this guilt.	很久以前，这片森林的哥布林犯下滔天罪恶。时至今日，他们的族群仍背负着这份罪疚。
+troll4	1	troll4::English	So they carve themselves a new self, in the form of a mask. When the goblins wear these, they appear to be... altered. If it is by some magic, or merely an act, I cannot say.	于是他们以面具的形式为自己雕刻一个新的自我。哥布林戴上这些面具后，显得……变了个人。是某种魔法，还是仅仅装出来的，我无从断言。
+troll5	1	troll5::English	We all carry some guilt, human. If you wish to acknowledge your own wrongdoings, you may claim a mask for yourself. 	我们人人心中都有些罪疚，人类。如果你愿意承认自己的过错，你可以领取一顶属于你的面具。
+p91	1	p91::English	@@I have embraced my wretchedness. May I pass? 	@@ 我已拥抱了我的悲惨。我可以过去了吗？
+troll6	1	troll6::English	%%You seem sincere in your penance. Very well, you may claim your second self. The door is open.	%% 你的忏悔看起来是真诚的。很好，你可以领取你的第二自我了。门开着。
+troll7	1	troll7::English	&&It is one thing to say the words, it is another to truly comprehend their significance. I do not believe you are ready, human.	&& 说这些话是一回事，真正领会其分量是另一回事。我认为你还没有准备好，人类。
+p92	1	p92::English	Who are you?	你是谁？
+troll8	1	troll8::English	I am... one of the last of my kind. Most of us were killed long ago, and those of us that survived are... forever cursed. 	我是……我族最后的存在之一。我们大多数早被杀光了，活下来的那些……被永远诅咒了。
+troll9	1	troll9::English	As you can see, I possess no grace. If I were to stand straight, my neck would snap. Moving even small distances is... difficult.	如你所见，我没有一丝优雅。我要是站直了，脖子就会断。哪怕挪动一小段距离也……很困难。
+troll10	1	troll10::English	But still - I breathe, and that is enough. I have found peace in this forest, and the goblins protect me. 	但无论如何——我还在呼吸，这就够了。我在这片森林里找到了安宁，哥布林们保护着我。
+orderMan1	1	orderMan1::English	<<The old man coughs violently, his body lurching with each expulsion. He spits blood and phlegm on the floor.>>	<<老人剧烈地咳嗽，身体随着每次咳出而前倾。他把血和痰吐在地上。>>
+orderMan2	1	orderMan2::English	My life flickers, my vision is gone... who goes there? ##Are you the Third, come to relieve me?	我的生命摇曳将熄，我的视力已失……谁在那里？##你是来接替我的"第三"吗？
+p100	1	p100::English	Who are you?	你是谁？
+orderMan3	1	orderMan3::English	Oh, no, no... we cannot tell... cannot divulge. That would betray the code. Betray the order.	哦，不，不……我们不能说……不能透露。那会背叛会规。背叛商会。
+orderMan4	1	orderMan4::English	There are always three, you see - three and one. One to lead, the others to follow. But we cannot divulge our true names. No, we work in secrecy.	永远都是三个人，你明白——三加一。一人领头，其他人跟随。但我们不能透露真名。不能，我们秘密行事。
+orderMan5	1	orderMan5::English	I have travelled the skyrealms for the Order, you see. Finding contacts, seeking buyers - striking trade deals...	我为商会走遍天空领域，你明白。寻找人脉、物色买家——敲定交易……
+orderMan6	1	orderMan6::English	I have visited lands scorched by the brightest neuron stars and desolate islands made of the most brilliant, beautiful ice. All in the name of profit. For the Order of Three and One.	我去过被最亮的神经元星烤焦的土地，也去过由最璀璨美丽的冰构成的荒凉岛屿。一切为了利润。为了三一商会。
+orderMan7	1	orderMan7::English	<<The old man is still for a while - silent except for his strained, wheezing breath.>> ## ...I'm sorry, I must have dozed off. What was the question?	<<老人静了好一会儿——除了吃力喘息，一片沉默。>> ##……抱歉，我一定是打了个盹。你刚问什么？
+p101	1	p101::English	@@Yes, I am the Third.	@@ 对，我就是"第三"。
+orderMan8	1	orderMan8::English	%%Then it is time. The One has finally replaced me. I will unlock the door, and you can claim your new guise.	%% 那时候到了。"一"终于来接替我了。我去开门，你可以领取你的新身份。
+orderMan9	1	orderMan9::English	&&Ah, but how can I be sure? Was there a password, or somesuch? Oh, damn this memory of mine...	&& 啊，可我怎么确信呢？是不是有什么暗号之类的？唉，我这记性……
+p102	1	p102::English	Rest easy, old man.	好好休息，老人家。
+chainedGod1	1	chainedGod1::English	Welcome to my prison, human. ## <<The words smash against your skull with dread portent. There's no mistaking it; you're speaking to a god.>>	欢迎来到我的囚笼，人类。 ##<<那句话带着可怖的预示砸在你的头骨上。错不了；你在跟一位神说话。>>
+chainedGod2	1	chainedGod2::English	Ah, I sense it in you. That abject horror; that searing shock. Your heart beats so fast it might burst, human...	啊，我在你身上感觉到了。那种彻骨的恐惧；那种灼人的震惊。你的心跳快得要炸开了，人类……
+p110	1	p110::English	Wait, did I... am I dead?	等等，我……我死了吗？
+chainedGod3	1	chainedGod3::English	<<The entity laughs; great pulses of eldritch energy reverberate through your bones.>> ##No, human - you are not dead. Not yet.	<<那存在笑了；诡异的能量巨脉冲撼动你的骨髓。>>##不，人类——你没死。还没死。
+p111	1	p111::English	How did I get here?	我是怎么到这儿来的？
+chainedGod4	1	chainedGod4::English	You were moments from death. I plucked you from certain peril, as easily as your kind would pull a weed. 	你离死只差片刻。我把你从必死的险境里摘了出来，就像你们拔一根草那么容易。
+chainedGod5	1	chainedGod5::English	But it was not an act of kindness. I require something in return.	但这不是善举。我要你拿东西来换。
+p112	1	p112::English	I did not ask to be saved. 	我又没求你救。
+chainedGod6	1	chainedGod6::English	And I did not seek your consent. Make no mistake, human - your life means little. Without me, you would be just another pile of bones sinking into the dirt. 	我也没征求你的同意。别搞错了，人类——你的命不值几个钱。没有我，你不过是又一堆烂进泥里的骨头。
+chainedGod7	1	chainedGod7::English	You will help me, or you will perish. 	你要么帮我，要么死去。
+p113	1	p113::English	So what do you want?	那你想要什么？
+chainedGod8	1	chainedGod8::English	Vela Callose, in her ((arrogance)), chained me here in shackles of voidsteel. I wish to be free, and so she must die. 	薇拉·卡洛斯仗着((傲慢))，用虚空钢的镣铐把我锁在这里。我渴望自由，所以她必须死。
+chainedGod9	1	chainedGod9::English	You hunt Vela, correct? Without my aid, your mission is futile; you will surely meet a gruesome demise.	你在追捕薇拉，对吧？没有我的相助，你的使命是徒劳的；你必将死得凄惨。
+chainedGod10	1	chainedGod10::English	So I will save you. I will pluck you from the precipice of oblivion, again and again, until the deed is done.	所以我会救你。我会一次次把你从湮灭的悬崖边摘回来，直到事情了结。
+chainedGod11	1	chainedGod11::English	Welcome back, human.	欢迎回来，人类。
+p114	1	p114::English	Who are you?	你是谁？
+chainedGod12	1	chainedGod12::English	How times have changed, that a human would ask such a thing.	世道变了啊，人类竟然会问这种问题。
+chainedGod13	1	chainedGod13::English	There were times, in ages past, when my shrines were in a thousand settlements. When every Wikkan knew my name. When my mind rang with the prayers of your kind.	往古之时，我的神龛遍布千座聚落。每个维坎人都知道我的名字。我的头脑里回荡着你们族类的祈祷。
+chainedGod14	1	chainedGod14::English	I will not stoop to introducing myself. But know this; There are still those loyal to me, who preserve my hidden shrines. It is to these places that I will summon you, should your death be imminent. 	我不屑于自我介绍。但你要知道：仍有效忠于我的人，守护着我隐秘的神龛。你的死期若至，我便会把你召到那些地方。
+p115	1	p115::English	Why did Vela capture you?	薇拉为什么囚禁你？
+chainedGod15	1	chainedGod15::English	Why else? She craved my power. I am unique in the pantheon of major gods, as I can sense the moment of one's demise... and steal them from their fate.	还能为什么？她觊觎我的力量。在主神谱系中我是独一无二的——我能感知一个人死亡的时刻……并把死亡从其命运中偷走。
+chainedGod16	1	chainedGod16::English	But in her arrogance, this was not enough; for I cannot revive someone who is long dead. There are no gods who can, save - perchance - the dreamers themselves.	但在她的傲慢里，这还不够；因为我无法复活死去已久的人。没有任何神能做到——除了，兴许——那些织梦者本身。
+chainedGod17	1	chainedGod17::English	So she kept me chained here. Such is the sorry state of the world, that no followers came to save me. Not even the Wikkans came to my aid. ((Damn)) that cursed God War. 	于是她把我锁在这里。世道可悲至此，竟没有信徒来救我。连维坎人都没来搭救。((该死))的神之战。
+p116	1	p116::English	Farewell.	再会。
+chainedGod18	1	chainedGod18::English	Remember our bargain, human. 	记住我们的交易，人类。
+paganScribe1	1	paganScribe1::English	Did you see the huge statue, outside?	看见外面那座巨大的雕像了吗？
+paganScribe2	1	paganScribe2::English	It's an ancient Wikkan artefact. It was built long ago, before the World Rend. Back when only mad occultists dared set foot in the skyrealms.	那是一件古维坎造物。很久以前造的，世界撕裂之前。那时只有疯了的秘术师才敢踏足天空领域。
+paganScribe3	1	paganScribe3::English	They may have been erected to mark important Wikkan ritual sites but... that is only a theory.	它们可能是用来标记维坎重要仪式场所的……但这也只是个猜想。
+paganScribe4	1	paganScribe4::English	Wikkans often [[disguise the truth of things]] with powerful magic, so it's incredibly hard to tell for sure.	维坎人常用强大的魔法[[掩盖事物的真相]]，所以想完全确认极难。
+bina1	1	bina1::English	<<The woman looks aged beyond her years, as if weighed down by an exhaustion that sleep can't cure.>> Are you fleeing Hallowshire too? We had the same idea, until our damned Steward went kaput.	<<这个女人看上去比实际年龄苍老，仿佛被睡眠无法治愈的疲惫压垮。>>你也在逃离哈洛郡吗？我们本来也是这个打算，直到我们那台该死的管家坏了。
+p120	1	p120::English	That I am. Do you know the best route out?	正是。你知道出去的最佳路线吗？
+bina2	1	bina2::English	Wish I did, stranger. We're hoping anywhere is better than here. I'd offer you a ride, but... <<She gestures hopelessly at the machine.>> ##Maybe the Endless will take us in, though the tales we've heard of them chill the blood.	真希望我知道，外乡人。我们盼着哪儿都比这儿强。倒想让你搭车，可……<<她绝望地指指那台机器。>>##也许无尽者会收留我们，虽然听来的传闻让人胆寒。
+p121	1	p121::English	Why would I be fleeing Hallowshire?	我为什么要逃离哈洛郡？
+bina3	1	bina3::English	You're braver than we are, stranger. Or maybe you're new here? ##If it were only this [[famine]], we could manage. But between the Inquisition's crackdown and the anger they've stirred... <<she shivers.>> No, no. We've seen how this goes.	你比我们勇敢，外乡人。还是说你是新来的？##要是只有这场[[饥荒]]，我们还能撑。可宗教裁判所的镇压加上他们激起的民愤……<<她打了个寒颤。>>不，不。这种事怎么收场，我们见过。
+bina4	1	bina4::English	We came here six years ago from the [[Clockwork Kingdom]]. Leaving was the hardest decision of my life. We hoped Hallowshire would be a safer place for our children... and it was, for a little while. ##<<She sighs.>> I just wish...	我们六年前从[[发条王国]]来的。离开是我此生最难的决定。我们指望哈洛郡对孩子们更安全……确实，安生了一阵。##<<她叹气。>>我只是希望……
+bina6	1	bina6::English	<<The woman looks back at you with a tired smile.>> Children are a gift, eh? ##Oh, where are my manners? I'm Bina, and my husband there is Youssef. If you're resting for a tick, can I offer you some tea?	<<妇人回头看你，带着疲惫的笑。>>孩子是天赐的礼物，嗯？##哎呀，瞧我这记性。我叫宾娜，那边是我丈夫优素福。你要是歇一会儿，我请你喝茶好吗？
+p122	1	p122::English	I would love some tea.	那就太好了。
+bina7	1	bina7::English	Right you are. <<She turns and opens a panel on the cart, revealing a samovar with many valves and pipes. She bangs it a few times, then fills two fine old porcelain cups with steaming tea and hands you one.>>	<<她转身打开推车上的面板，露出一台有很多阀门的茶炊。她拍打几下，然后往两只精美的旧瓷杯里倒上热茶，递给你一杯。>>
+p123	1	p123::English	Thank you, but I'm all right.	谢谢，不用了。
+bina8	1	bina8::English	You won't mind if I get myself some, eh? <<She turns and opens a panel on the cart, revealing a samovar with many valves and pipes. She bangs it a few times, then fills a fine old porcelain cup with steaming tea.>>	那我自己来一杯你不介意吧？<<她转身打开推车上的面板，露出一台有很多阀门的茶炊。她拍打几下，然后往一只精美的旧瓷杯里倒上热茶。>>
+p124	1	p124::English	Alas, I can't stay. Good luck.	唉，我留不了。祝好运。
+bina9	1	bina9::English	I can tell you're a curious sort, so ask anything you like. It's not as if we're going anywhere for a while.	看得出你是好奇的人，尽管问。反正我们一时半会儿也走不了。
+bina10	1	bina10::English	Ask anything you like. We're not going anywhere for a while.	尽管问。我们一时半会儿也走不了。
+p125	1	p125::English	What is that thing, exactly?	那台东西到底是什么？
+bina11	1	bina11::English	The Steward? I suppose they're not exactly common here. An engine of iron and brass, animated by cipher magic. The Clockwork Kingdom built dozens of them, but you'd have to ask Youssef about the details. He's the engineer; I'm only a simple translator.	管家？确实，这儿不太常见。铁与黄铜造的引擎，由密文魔法驱动。发条王国造了几十台，细节你得问优素福。他是工程师；我只是个普通的翻译。
+p126	1	p126::English	What do you translate?	你翻译什么？
+bina12	1	bina12::English	Ancient Emberian, would you believe? It was much in demand in the Kingdom. Some of our... I mean, ((their)) most wondrous machines are based on old Emberian knowledge. They've gotten closer than anyone to reclaiming what was lost.	古余烬语，你敢信？在王国很吃香。我们一些……我是说，((他们))最了不起的机器，都是基于古余烬知识造的。他们比任何人都更接近找回失落的遗产。
+p127	1	p127::English	Why did you leave the Clockwork Kingdom?	你们为什么离开发条王国？
+bina13	1	bina13::English	Where to begin? At first, the [[Clockwork King]] worked wonderfully. Food and drink and fuel, and luxuries my parents never imagined, available to all... like one of those fairytales where some woodcutter finds a god in a cave that grants all their wishes.	从哪说起呢？起初，[[发条王]]运行得妙极了。饮食燃料，父母想都不敢想的奢侈品，人人可得……就像童话里那个樵夫在山洞里找到一位神，有求必应。
+bina14	1	bina14::English	Later, the King became... erratic. Perhaps the Machinists misinterpreted its commands, or fed it the wrong counsel... ##<<You realise she is reluctant to criticise the King directly, even now.>> Then people started vanishing, and everyone would act like they never existed.	后来，国王变得……反复无常。也许是机械师误解了它的命令，或者喂了错误的主意……##<<你意识到，即便现在她也不愿直接批评国王。>>然后人开始消失，而所有人都装作他们从未存在过。
+bina15	1	bina15::English	<<She sighs heavily.>> Last year was when I finally stopped keeping one eye on the exit. I'd actually started to feel at home here, you know?	<<她重重叹了口气。>>去年我才终于不再盯着出口提防。我真的开始有在家的感觉了，你知道吗？
+p128	1	p128::English	How did you get out?	你们怎么逃出来的？
+bina16	1	bina16::English	It wasn't easy. We scoured the black market for Apostatic Union passports, then a friend connected us to a sky smuggler. We left in the dead of night, like thieves.	不容易。我们翻遍黑市淘联盟护照，然后一位朋友把我们介绍给一个天海走私犯。我们像贼一样，在深夜里离开。
+bina17	1	bina17::English	We were lucky. We had enough money to bring most of our belongings. Some arrive in Hallowshire with naught but the clothes on their backs. We try to help them when we cross paths, but there's only so much we can spare.	我们算幸运。钱还够带上大部分家当。有些人到哈洛郡时身上只有一件衣服。遇到他们会帮一把，可我们自己也只有那么多。
+bina18	1	bina18::English	I never liked to think of myself as a refugee. Some kind of twisted pride, perhaps. But now that it's happening all over again, how can I deny it?	我从不愿意把自己当作难民。也许是某种扭曲的自尊吧。可如今一切重演，我怎么否认呢？
+p129	1	p129::English	I'm sorry.	对不起。
+p130	1	p130::English	Right.	这样啊。
+p131	1	p131::English	Is your husband all right? He looks like he's seen a ghost.	你丈夫还好吗？他看着像见了鬼。
+bina19	1	bina19::English	<<Care and distrust wrestle for a moment behind her eyes. Care wins.>> Honestly? I don't know. We got robbed by [[deserters]] a few nights ago, and he's still shaken, but there's something deeper too.	<<关切与提防在她眼底交战片刻。关切赢了。>>说实话？我不知道。几天前我们被[[逃兵]]抢了，他到现在还惊魂未定，但还有更深的原因。
+bina20	1	bina20::English	Between you and me, he's been spending more and more time in bottled visions – distilled dreams exported from the Kingdom. Under the circumstances I don't blame him, but I do worry. 	咱们私下说，他泡在瓶装幻象里的时间越来越长——那是从王国出口的蒸馏梦。这种情况下我不怪他，可我确实担心。
+bina21	1	bina21::English	I think he's looking for something in those visions. I wish he'd tell me what.	我觉得他是在那些幻象里找什么东西。希望他肯告诉我是什么。
+p132	1	p132::English	I'd better get moving. Good luck.	我该赶路了。祝好运。
+yous1	1	yous1::English	<<The man looks anxious and haunted, as if pursued by something that can't be outrun. He is examining the strange machine, oil-stained hands on his hips.>> ##Ach, first the famine, then the robbers, now this... when does it end?	<<那男人满脸焦虑、神色萦绕，像被什么甩不掉的东西追赶。他正检查那台怪机器，沾满油污的双手叉在腰上。>>##唉，先是饥荒，然后是劫匪，现在又是这个……什么时候是个头？
+p140	1	p140::English	Can I help you?	需要帮忙吗？
+yous2	1	yous2::English	No offence pal, but I doubt it. I've been an engineer for decades, and even I barely understand this contraption. Unless you've a spare aetheric voidsink on you? 	恕我直言伙计，恐怕你帮不上。我做了几十年工程师，连我都几乎看不懂这台鬼东西。除非你身上正好带着备用的乙太虚空槽？
+p141	1	p141::English	I have no idea what that is.	我完全不知道那是什么。
+yous3	1	yous3::English	King's truth, me neither. And if you ask me, nor do the arseholes who designed it. 	国王作证，我也不知道。要我说，设计它的那帮混蛋也不知道。
+p142	1	p142::English	I left it in my other coat.	我落在另一件外套里了。
+yous4	1	yous4::English	Hah! Some coat that must be. I hope it's lined with lead.	哈！那外套可真厉害。我希望它是铅衬的。
+p143	1	p143::English	What ((is)) that thing?	那东西((到底))是什么？
+yous5	1	yous5::English	This here's a Universal Steward... <<He kicks it in frustration,>> When it can be bothered. Standard arachnoid chassis, drudge configuration. Back home in the [[Clockwork Kingdom]] these do all the roughest jobs, so you or I don't have to.	这是一台通用管家……<<他懊恼地踢了它一脚，>>在它乐意的时候。标准蛛型底盘，苦役配置。在老家[[发条王国]]，这些家伙包揽最脏最累的活，你我都不用动手。
+yous6	1	yous6::English	But where are my manners? I'm Youssef, and that there's my lovely wife, Bina. I'm the finest engineer for hire in all Hallowshire, though not for much longer. We're taking the kids and leaving, soon as I get this bugger working.	瞧我，光顾着说话。我叫优素福，那位是我美丽的妻子宾娜。我是全哈洛郡最好的受雇工程师，虽然做不了多久了。我们打算带上孩子们离开，等我把这破玩意修好就走。
+yous7	1	yous7::English	<<A child's voice calls from inside the cart: "Baba! Ishtar keeps pulling my hair!>> ##<<The man shouts over his shoulder.>> Ishtar, you stop that right now or I'll come in there and explain linear algebra again! <<Another child laments: "Aw, Babaaa...!>>	<<车里传来孩子的喊声："爸爸！伊什塔尔又扯我头发！>>##<<那人扭头朝里喊。>>伊什塔尔，马上住手，不然我进来再给你讲一遍线性代数！<<另一个孩子哀叹："哎呀，爸——爸……！>>
+p144	1	p144::English	Youssef, can I ask you something?	优素福，我能问你点事吗？
+p145	1	p145::English	Tell me again about your stolen bottles.	再讲讲你被偷的瓶子吧。
+p146	1	p146::English	Sorry, I can't stop. Stay safe.	抱歉，我赶时间。注意安全。
+yous8	1	yous8::English	Well, my brain's more fried than one of Nour's attempts at breakfast. Time for a break anyway, and all the better with company.	唉，我的脑子比努尔做的其中一顿早餐还糊。反正该歇歇了，有伴儿更好。
+yous9	1	yous9::English	I'm in no rush to get back to work. Was there owt else?	我不急着回去干活。还有别的事吗？
+p147	1	p147::English	What did you say that machine was?	你刚说那台机器是什么来着？
+yous10	1	yous10::English	This here's a Universal Steward... <<He kicks it in frustration.>> When it can be bothered. Standard arachnoid chassis, drudge configuration. Back home in the [[Clockwork Kingdom]] these do all the roughest jobs, so you or I don't have to.	这是一台通用管家……<<他懊恼地踢了它一脚。>>在它乐意的时候。标准蛛型底盘，苦役配置。在老家[[发条王国]]，这些家伙包揽最脏最累的活，你我都不用动手。
+p148	1	p148::English	Did the Steward come with you from the Clockwork Kingdom?	管家是你们从发条王国带来的吗？
+yous11	1	yous11::English	<<He looks affronted.>> Now mind, we'd never steal from the Kingdom. I built this one myself after we left, out of scavenged bits and bobs. Wasn't sure I could do it from scratch, but I did it. <<He glances at it.>> I tried, anyway.	<<他一脸被冒犯的样子。>>注意了，我们绝不会从王国偷东西。这台是我走以后自己攒的，用捡来的零碎拼的。本来没把握能从零造出来，但我做到了。<<他瞥了它一眼。>>至少试着做到了。
+p148b	1	p148b::English	Okay, thanks for explaining.	好，谢谢你解释。
+p149	1	p149::English	What kind of machines did you work on?	你们在王国都造过什么机器？
+yous12	1	yous12::English	Mechanised farms, sowing and reaping on their own. Giant roving workshops on wheels, billowing smoke. Cipher shrines that summon bread straight from the bakery. Towers that send messages through the air on invisible wings. Things you can't imagine. And the Stewards, o' course.	机械化农场，自己播种自己收割。轮子上冒着烟的巨型移动工坊。能直接从面包房召唤面包的密文神龛。用看不见的翅膀在空中传信的塔。你想都想不到的东西。当然，还有管家。
+yous13	1	yous13::English	They say some of it's based on old Emberian lore. You'd have to ask Bina about that, though. She's the scholar; I'm only a simple tinker.	据说有些是根据古余烬秘传造的。不过那你得问宾娜。她是学者；我只是个普通的修理工。
+yous14	1	yous14::English	The Union's machines are primitive by comparison, but at least there was a living in fixing 'em. Then the famine began, and anything more complex than a door lock became worth less for its mechanism than for the grain it could buy.	联盟的机器比起来就是原始货，但至少修修它们还能糊口。后来饥荒来了，比门锁复杂点的东西，按机制卖就不如按能换的粮食卖了。
+yous15	1	yous15::English	My parents came to the Kingdom from the Wikkanlaw when I was only wee. Baba was a rag and bone man, Ma a shroom picker. I thought, look at me now – an engineer! But now look at us all, just poor mice scurrying for cover.	我爸妈在我很小的时候从维坎律地来到王国。爸爸收破烂，妈妈采蘑菇。我那时想，看看我——工程师！可现在再看看我们，全是一群逃难的穷耗子。
+p150	1	p150::English	Are you all right? You look like you've seen a ghost.	你还好吗？你脸色像见了鬼。
+p151	1	p151::English	I have a question about your stolen bottles.	关于你被偷的瓶子，我有个问题。
+p152	1	p152::English	That's all. Good luck with the machine.	就这些。机器修理顺利。
+yous15b	1	yous15b::English	Ach, thank you for asking. We got held up by deserters a few days ago, and we had to hand over my stock of bottled visions. Ever since then I've been struggling to sleep at night, and feeling cold and shivery all day.	唉，多谢关心。几天前我们被逃兵拦住，交出了我存的整批瓶装幻象。从那以后我夜里睡不着，白天又冷又发抖。
+yous16	1	yous16::English	You ever try a bottled vision? Intoxicating fantasies, distilled from people's dreams. Only the Clockwork Kingdom knows how to make 'em. Not many letters or books get out anymore, so they're my best way of keeping in touch with home.	你试过瓶装幻象吗？从人的梦里蒸馏出来的醉人幻想。只有发条王国知道怎么做。如今信和书都出不来了，所以那是我跟老家保持联系最好的方式。
+yous17	1	yous17::English	One of those stolen bottles was important. Really important. But, ach, there's nothing to be done.	被偷的那批里有一瓶很重要。真的很重要。可是，唉，没办法了。
+yous18	1	yous18::English	Ach, so it goes.	唉，就是这样吧。
+p153	1	p153::English	Why was one bottle so important? 	为什么那瓶这么重要？
+yous19	1	yous19::English	I... <<Youssef hesitates, unsure whether to tell you.>> I had a sister, back in the Clockwork Kingdom. [[Yasmeen]], her name was. And a niece. ##I don't know if they remember me. People who defy the King tend to get forgotten, somehow.	我……<<优素福迟疑着，不知该不该告诉你。>>我在发条王国还有一个妹妹。[[亚斯敏]]，她叫这个名字。还有一个侄女。##我不知道她们还记不记得我。违抗国王的人，总会在某种意义上被遗忘。
+yous20	1	yous20::English	A few months ago, I saw Yasmeen again in a vision. Older, so much tireder. She seemed to recognise me. I called out to her, but you know how dreams are. You never get the thing you want.	几个月前，我在一个幻象里又见到了亚斯敏。老了，疲倦多了。她好像认出了我。我朝她喊，可你也知道梦是怎么回事。你永远得不到你想要的东西。
+yous21	1	yous21::English	It made me realise: if I could get a vision to ((her)), she'd at least know I'm alive. ##So I started learning to distil my own dreams. Once you have a vision pipe, it's not hard to reverse-engineer a collector. 	这让我意识到：如果我能把一个幻象送到((她))手里，她至少能知道我还活着。##于是我开始学习蒸馏自己的梦。有了幻象烟斗之后，逆向破解一个采集器并不难。
+yous22	1	yous22::English	Anyway, now the bloody robbers have it.	结果呢，现在落在那帮该死的强盗手里了。
+p154	1	p154::English	Whose dream was it?	那是谁的梦？
+yous23	1	yous23::English	No way to tell. Did they know my sister, or just pass her by on the street one day? It felt recent, though. Like she was still alive when the dream was distilled.	无从得知。她们认识我妹妹，还是只是在街上路过她？不过感觉很近。像蒸馏那个梦时她还活着。
+p155	1	p155::English	Why not just send her a letter?	为什么不直接给她写信？
+yous24	1	yous24::English	Ach, Yasmeen never could read too well. Plus, a letter could be stopped or censored. The King's advisers are paranoid about spies, see? But visions aren't checked so closely – everyone knows they're not real anyway.	唉，亚斯芬识字一直不太行。再说，信可能被截或被审。国王的顾问们对间谍偏执得很，你懂吧？可幻象检查没那么严——反正人人都知道它们不是真的。
+p156	1	p156::English	You can't make another vision?	你不能再做一个幻象吗？
+yous25	1	yous25::English	Do you know how many nights it took to dream up something fit to send her? I could hardly give her a bloody nightmare... ##<<He looks sheepish.>> ...Let alone one of my dreams about Bina.	你知道我花了多少个夜晚才梦出一件配寄给她的东西？我总不能寄给她一个该死的噩梦……##<<他一脸赧然。>>……更别说那些关于宾娜的梦了。
+p157	1	p157::English	Maybe I can help you get it back.	也许我能帮你把它找回来。
+p158	1	p158::English	I'm sorry.	对不起。
+p159	1	p159::English	What do you know about the deserters?	关于那些逃兵，你知道些什么？
+yous26	1	yous26::English	You know the old classic: "Your money or your life." We didn't have much left, so we had to hand over my whole stash – either that or the Steward. They probably still have it, if they haven't used it all.	老一套："要钱还是要命。"我们没剩多少了，只好交出我整批存货——不然就交管家。要是他们还没用完，估计还在他们手里。
+yous27	1	yous27::English	The [[deserters]] looked like former Inquisition, or maybe those Dark Star sellswords the Union's been hunting. Whatever it was, they'd grown sick of it. I overheard them talk about a base camp, by that old tower over yonder.	那些[[逃兵]]看着像前宗教裁判所的人，也可能是联盟在追捕的黑星雇佣兵。不管原来是什么，他们干腻了。我偷听到他们说有个基地营，就在那边那座旧塔附近。
+p160	1	p160::English	What was it you needed me to do?	你刚才是要我做什么来着？
+p161	1	p161::English	Maybe I can help you get your bottles back.	也许我能帮你把瓶子要回来。
+yous28	1	yous28::English	Really? Are you sure? They're likely still in the hands of those [[deserters]]... but maybe you can handle a little trouble.	真的？你确定？它们多半还在那些[[逃兵]]手里……不过也许你能应付点小麻烦。
+p162	1	p162::English	I'll do what I can.	我尽力而为。
+yous29	1	yous29::English	Thank you, pal. You're too good for these cursed isles.	谢谢你，伙计。你太好了，不该来这些该死的岛。
+yous30	1	yous30::English	If you can find the stash, don't bring it back to me. There's a sky pilot called [[Mikhail]] in Hallow town who could smuggle it into the Kingdom. He knows me: he's the one who smuggled us out.	要是找到了存货，别拿回来给我。哈洛镇有个叫[[米哈伊尔]]的天上飞行员，能把它们偷运进王国。他认识我：当年就是他把我们偷运出来的。
+yous31	1	yous31::English	Ask him to deliver the bottle marked '[[Yasmeen]]' to my sister in the Kingdom. Hopefully he can find her. The rest of the stash will more than cover his fees – visions from outside are rare over there.	请他把标着"[[亚斯敏]]"的那瓶送给我在王国的妹妹。希望他能找到她。其余存货足够付他的费用——外来幻象在那边可稀罕了。
+yous32	1	yous32::English	I wish I could reward you, but we've nothing left to give. Maybe you can work something out with Mikhail. ##Please, pal. I miss my home. I miss my family.	真想报答你，可我们已经一无所有了。也许你可以跟米哈伊尔商量。##拜托了伙计。我想家。我想家人。
+p163	1	p163::English	Sorry, I don't think I'm up to this.	抱歉，我觉得我干不了这个。
+yous33	1	yous33::English	<<His face falls, and he nods.>> I get it. Not everyone can face down hooligans like them. Well, if you come across a bottled vision marked 'Yasmeen', please keep it safe.	<<他脸色一沉，点了点头。>>我懂。不是谁都敢跟那种无赖硬碰。嗯，如果你碰到标着"亚斯敏"的瓶装幻象，请替我保管好。
+p164	1	p164::English	I hope you sleep easier soon.	希望你早点睡踏实觉。
+p165	1	p165::English	Okay, that's all I wanted to ask.	好，我想问的就是这些。
+yous34	1	yous34::English	Aye, alright.	嗯，行。
+care1	1	care1::English	<<The old man sits whittling a block of wood. His eyes are buried behind bushy eyebrows and a thick moustache, and you wonder if he can even see his knife.>>	<<老人坐在那儿削一块木头。他的眼睛埋在浓眉和大胡子里，你都怀疑他看不看得见自己的刀。>>
+care2	1	care2::English	Hmph. Looks like we got ourselves a tresspasser, hmm? ##So tell me, stranger - what's your business creepin' round islands that are of no concern to you?	哼。看来来了个擅闯的，嗯？##说说吧外乡人——在跟你毫不相干的岛上鬼鬼祟祟，所为何来？
+p170	1	p170::English	I like to explore. It's kind of my thing. 	我喜欢探险。算是我的爱好。
+care3	1	care3::English	<<His knife stops.>> An' what gives you that right, hm? Some places are private. ((Forbidden)). 	<<他的刀停了。>>谁给你的权利，嗯？有些地方是私有的。((禁止入内))的。
+care4	1	care4::English	You give what you get, my old pa used ta' say. Sooner or later that freewheelin' attitude's gonna get you in trouble, mark my words...	我老爹常说，出来混迟早要还。你这种天不怕地不怕的做派，早晚惹祸上身，记住我的话……
+p171	1	p171::English	Sorry, I didn't realise this place was occupied.	抱歉，我不知道这里有人住。
+care5	1	care5::English	Pah! Well it is, you hear? For fifty years my family's looked after this manor. My father passed the duty to me, and I 'aint going nowhere. 	呸！有人住，听见没？五十年了，我家一直照料这座庄园。我父亲把差事交给了我，我不去任何地方。
+p172	1	p172::English	I go where I want, old man.	我想去哪就去哪，老头。
+care6	1	care6::English	<<He carefully places his wood, then his knife, on the table.>> ##But ah, who am I kiddin'. This place is a wreck. Time ago I'd've kicked you clean off this isle, but these days I ain't got the goad.	<<他小心地把木头、然后把刀放在桌上。>>##可是啊，我骗谁呢。这地方已经是个废墟了。换作从前，我早就把你扔下岛了，可这些天我连赶人的劲头都没了。
+care6-2	1	care6-2::English	Just don't go snoopin' inside the manor, y'hear? Even though the Union are tryin' to sell it, this manor's still got an owner -  an' someday she's gonna return.	只是别去庄园里面乱翻，听见没？虽然联盟正想把它卖掉，这座庄园还是有主人的——总有一天她会回来。
+care7	1	care7::English	Back again, eh?	又来了，嗯？
+p173	1	p173::English	What is this place?	这地方是什么？
+care8	1	care8::English	Time was, everyone in Hallowshire knew the name o' this estate. So grand were its gardens, so sturdy its walls, that even nobles from Byonne would sweat at the sight o' it.	想当年，哈洛郡无人不知这座庄园的大名。它的花园之华美、围墙之坚固，连拜昂来的贵族见了都要冒汗。
+care9	1	care9::English	But ah, that was before my time. Now it's a wreck, an' the lady of the manor has been gone so long, the damned Union have put it up for sale, the fools.	但唉，那是在我来之前的事了。现在就是个废墟，庄园女主人走了太久，该死的联盟把庄子挂牌出售了，一群蠢货。
+p174	1	p174::English	So the manor is for sale?	所以庄园在出售？
+care10	1	care10::English	Aye, the Apostatic Union holds the deeds, these days. They're offerin' 'em to the highest bidder, over at the [[Union council building]] in [[Hallow Town]]. ##I tried to tell 'em it's still occupied, but the bastards won't listen.	是啊，地契如今在叛教联盟手里。他们在[[哈洛镇]]的[[联盟议会大楼]]标价拍卖，价高者得。##我试着告诉他们这里还有人住，可那帮混账根本不听。
+p175	1	p175::English	Who would buy such a dump?	谁会买这种破烂？
+care11	1	care11::English	<<He eyes you with distaste.>> ##Summun would, I tell ye. Summun would.	<<他嫌弃地瞪你。>>##总有人会买的，我跟你说。总有人会。
+care12	1	care12::English	The Apostatic Union holds the deeds, these days. They're offerin' 'em to the highest bidder, over at the [[Union council building]] in [[Hallow Town]].	地契如今在叛教联盟手里。他们在[[哈洛镇]]的[[联盟议会大楼]]标价拍卖，价高者得。
+care13	1	care13::English	Only... nobody can buy it just yet. On account of that developer bein' slow.	只是……眼下还买不了。因为那个开发商太磨蹭。
+p176	1	p176::English	Wait... did you say developer?	等等……你说开发商？
+care14	1	care14::English	Aye, that property developer. Fancy man from Lundel, put in an offer a while back, but looks like the deal might fall through.	是啊，那个地产开发商。伦德尔来的讲究人，前阵子出了价，可看样子交易要黄。
+p177	1	p177::English	Okay, I get it.	好，我明白了。
+care15	1	care15::English	<<He says nothing, and returns to his whittling.>>	<<他一言不发，回去继续削他的木头。>>
+p178	1	p178::English	What are you doing here? 	你在这里做什么？
+care16	1	care16::English	I'm the [[caretaker]] of this island. I tend the grounds, maintain the house, only... 	我是这座岛的[[守园人]]。我照看场地，维护房子，只是……
+care17	1	care17::English	The manor's been empty a long time, y'see. The Apostatic Union's been tryin' to sell it, an' I ain't makin' it all pretty just on their account.	庄园空了很久了，你瞧。叛教联盟一直想卖掉它，我可不会只为他们就把这里收拾得漂漂亮亮。
+care18	1	care18::English	Of course, I'm sure my old man is turnin' in his grave. My family's been looking after this isle for generations, see. An' here I am, just whittling the time away. 	当然，我敢说我老爷子在坟里翻来覆去。我家世世代代照看这座岛，你明白。可现在呢，我就在这儿削木头消磨时间。
+p179	1	p179::English	What are you whittling, there?	你在那儿削什么？
+care19	1	care19::English	<<He grins.>> These are Voyna figures. You know it? A game for two players, played on a large board. 	<<他咧嘴一笑。>>这些是沃伊娜棋子。你知道吗？两个人玩的游戏，用一个大棋盘。
+care20	1	care20::English	Every now and again, an' old friend will come an' play me. Every... now an' again... 	隔三差五，有个老朋友会来陪我下。每……隔三差五……
+care21	1	care21::English	<<His eyes look past you, and he is silent for a long moment.>>	<<他的目光越过你，沉默了好一会儿。>>
+p180	1	p180::English	I'll leave you to your whittling. 	不打扰你削木头了。
+p181	1	p181::English	So wait, you said this manor has an owner?	所以等等，你说这座庄园有主人？
+care22	1	care22::English	Aye. It was built by a lady called Ezra Thornwood, some two hundred years ago. When my father took over as caretaker, her ancestor - the current lady of the manor - left to travel the skyrealms.	是啊。大约两百年前，一位叫艾兹拉·荆棘木的女士建了它。我父亲接任守园人的时候，她的后人——现任庄园女主人——离开去游历天空领域了。
+care23	1	care23::English	Someday she'll return and, with her family fortune, restore this place to how it used t' be. ##At least... if the damn Union doesn't sell it off. 	总有一天她会回来，用她家的财富把这里修回从前的模样。##至少……如果该死的联盟没把它卖掉的话。
+care30	1	care30::English	<<The old man sits whittling a block of wood, but when he sees you - he slams his instruments down on the table.>>	<<老人正削着一块木头，一看见你——他把工具砰地拍在桌上。>>
+care31	1	care31::English	So ((you're)) the bugger who bought this land, eh? I've been waitin' for ye...	原来((你))就是买下这块地的家伙，嗯？我等你半天了……
+care32	1	care32::English	You've made a mistake, y'hear? This manor ((has)) an owner. I may jes' be a caretaker, but the Thornwood family still own this land, and they'll be back!	你搞错了，听见了？这座庄园((有))主人。我或许只是个守园人，可荆棘木家族仍拥有这块地，他们会回来的！
+p182	1	p182::English	I paid good money for this place. It's mine now.	我花真金白银买下了这里。现在是我的了。
+care33	1	care33::English	Pah! So what if the Apostatic Union sold ye some fancy deed? This land ain't yours an' that's that!	呸！联盟卖给你一张花哨的地契又怎样？这块地不是你的，就这样！
+p183	1	p183::English	This place is clearly abandoned! 	这地方明明就是被废弃了！
+care34	1	care34::English	It ain't! I'm the caretaker of this 'ere manor, an' I'm tending the grounds 'till the lady returns!	才没有！我是这座庄园的守园人，女主人回来之前我都会照料这里！
+care35	1	care35::English	<<He slumps back in his chair.>> Ah, but I see there's no point in reasonin' with ye. You're here to stay an' that's that... 	<<他瘫回椅子里。>>唉，但我知道跟你讲理没用。你要住下就住下，就这样……
+care36	1	care36::English	So let me give you some advice, fer yer ((own good.))	那么让我给你一个忠告，为了你((自己好))。
+care37	1	care37::English	Ezra Thornwood built this place some four hundred years ago, but she had... ((dangerous)) secrets. There are places on these grounds that are locked up tight, like the basement. Never unlock 'em. ((Never)) enter 'em. 	艾兹拉·荆棘木大约四百年前建了这里，但她有……((危险))的秘密。庄园 grounds 上有些地方锁得死死的，比如地下室。永远别开锁。((永远))别进去。
+care38	1	care38::English	Promise me this an' we might just get along. 	答应我这个，我们也许还能和平共处。
+p184	1	p184::English	Wait, what's this dark secret? You have to tell me!	等等，这个黑暗的秘密是什么？你必须告诉我！
+care39	1	care39::English	Nay. I've sworn a vow of silence to the Thornwood family. My lips are sealed. 	不行。我对荆棘木家发过沉默的誓。我的嘴封着呢。
+p185	1	p185::English	I refuse to be locked out of my own property.	我拒绝被锁在自己的产业外面。
+care40	1	care40::English	((You're)) the one who's trespassing here. I don't care what kind of fancy slip  o' paper the Union gave you; the Thornwood family own this manor, and I've sworn to protect their secrets.	((你才是))这里的擅闯者。我才不管联盟给了你什么花哨的纸片；荆棘木家拥有这座庄园，我发过誓要守护他们的秘密。
+p186	1	p186::English	Fine. You have a deal.	好。成交。
+care41	1	care41::English	An' I'm glad to hear it.	很高兴听你这么说。
+care42	1	care42::English	Now begone with ye - enjoy your new ((purchase)). I'll even stick around and tend the grounds, just so long as ye heed my warning. 	现在走吧——好好享受你的新((产业))。我甚至会留下来继续照料 grounds，只要你听我的警告。
+care43	1	care43::English	<<The old man sits whittling a block of wood.>> Hmph. I see our ((owner)) is back, eh?	<<老人坐在那儿削木头。>>哼。我们的((主人))回来了，嗯？
+care44	1	care44::English	<<The old man sits whittling a block of wood.>> ##Greetin's. 	<<老人坐在那儿削木头。>> ##你好。
+care45	1	care45::English	<<He stares at you, his face contorted in rage.>> ((You!)) You've freed her, ain't ye? Ye broke the seal my father laid to trap that ((monster!))	<<他瞪着你，脸因愤怒而扭曲。>>((你！))是你放了她，对不对？你打破了我父亲封印那((怪物))的封印！
+care46	1	care46::English	For all my life I've guarded her here, protecting the skyrealms from that foul parasite. Do you have any idea what evil you've unleashed?	我这辈子都在这里守着她，保护天空领域不被那污秽的寄生虫祸害。你知不知道你放出了什么样的邪恶？
+care47	1	care47::English	Well I'll not tarry here a moment longer. It's not safe, thanks to you. Next time you come 'ere, I'll be gone. We ((ain't)) gonna meet again.	我不会在这里多待一刻了。拜你所赐，这儿不安全了。下次你来，我已经走了。我们((不会))再见面。
+care48	1	care48::English	<<He stares at you for a moment.>> ##You killed her, didn't ye?	<<他盯着你看了片刻。>>##你杀了她，是不是？
+care49	1	care49::English	I've guarded her all my life. She may have been a monster, but I swore an oath - to imprison her, but never to kill her. Such is the way of a kresnik.	我守了她一辈子。她也许是个怪物，可我发过誓——囚禁她，但绝不杀她。克雷斯尼克之道，便是如此。
+care50	1	care50::English	<<He sighs.>> But don't think I never considered it. Maybe it's for the best. Now we're ((all)) free of that parasite, I s'pose. 	<<他叹气。>>但别以为我从没动过那念头。也许这样最好。现在我们((全都))摆脱那寄生虫了，我想。
+p187	1	p187::English	There's a monster in the basement! 	地下室有怪物！
+p187b	1	p187b::English	About the vierme in the basement...	关于地下室那个维尔姆……
+care51	1	care51::English	<<He takes a deep breath.>> Aye. No point in hidin' it no longer.	<<他深吸一口气。>>是啊。再瞒下去也没意义了。
+care52	1	care52::English	Ezra Thornwood has owned this manor for two hundred years. Her, and only her. She's a ((vierme)).	艾兹拉·荆棘木拥有这座庄园两百年了。她，也只有她。她是一个((维尔姆))。
+care53	1	care53::English	That means she's had a parasite in her, all this time. Turned her into a ((monster)) that feeds on people's dreams while they sleep. 	也就是说，这么长时间里，她体内一直有寄生虫。把她变成了一个((怪物))，趁人熟睡时以人的梦为食。
+care54	1	care54::English	An' myself? I'm a kresnik, like my father before me. I've kept her imprisoned here, for the good of everyone. 	至于我自己？我是个克雷斯尼克，跟我父亲一样。为了大家，我一直把她囚禁在这里。
+care55	1	care55::English	Or at least I did -  before you laid her to rest. 	至少曾经是——在你让她安息之前。
+p188	1	p188::English	What's a... ((kresnik?)) 	什么是……((克雷斯尼克？))
+care56	1	care56::English	We're an ancient tribe of vierme hunters. We trace back to Slev, but many of us travel the skyrealms, hunting our quarry. 	我们是一个古老的维尔姆猎人家族。源出斯列夫，但我们许多人行走天空领域，追捕猎物。
+care57	1	care57::English	Most train all their lives for that single battle; to defeat a vierme in combat, so they can be imprisoned an' guarded.	大多数人穷一生训练只为那一战；在战斗中击败维尔姆，好把它囚禁起来看守。
+p189	1	p189::English	Why don't you just kill her?	为什么不干脆杀了她？
+care58	1	care58::English	We kresnik swear an oath not to kill the vierme we hunt. They are still thinkin' folk, at the end of the day. 	我们克雷斯尼克发过誓不杀追猎的维尔姆。说到底，它们仍是会思考的生灵。
+care59	1	care59::English	So we offer our own flesh to keep them alive. When a vierme feeds, you get a glimpse into their mind, their learnin'. Some kresnik even become... ((close)) to their vierme. 	所以我们以自身血肉供养它们。维尔姆进食时，你能窥见它们的心智、它们的学识。有些克雷斯尼克甚至与自己的维尔姆变得……((亲密))。
+care60	1	care60::English	<<He shrugs.>> It's tradition. I don't expect ye to understand. 	<<他耸耸肩。>>传统如此。我不指望你能理解。
+p190	1	p190::English	What if I were to free her?	要是我放了她呢？
+care61	1	care61::English	<<He shoots you a dark scowl.>> That would be a bad idea. A ((very)) bad idea.	<<他阴沉地瞪你。>>那可是个馊主意。((非常))馊的主意。
+care62	1	care62::English	A vierme, 'specially an old one like Ezra, is a dangerous creature. You don't wanna be loosin' that on the world.	一个维尔姆——尤其像艾兹拉这么老的——是危险的造物。你不会想把那种东西放给全世界。
+p191	1	p191::English	So what, I live with a monster now?	所以呢，我现在要跟一个怪物同居了？
+care63	1	care63::English	Hmph, I tried to warn ye, didn't I?	哼，我警告过你了，不是吗？
+p192	1	p192::English	Okay, I understand.	好，我明白了。
+care64	1	care64::English	Tell not a soul, y'hear?	一个字也别告诉别人，听见没？
+p193	1	p193::English	I wanted to ask about some... ((strange)) things in this manor. 	我想问问庄园里的一些……((怪事))。
+care65	1	care65::English	<<He scowls>>. I told ye to be wary, didn't I?	<<他皱眉。>>我叫你当心点，没说吗？
+p194	1	p194::English	I've been having strange dreams; restless sleep. 	我一直在做怪梦；睡觉不踏实。
+care66	1	care66::English	<<For a moment he freezes, staring past you, trapped in some realisation.>> ##...Dreams, eh?	<<有一瞬他僵住了，目光越过你，陷入某种了悟。>>##……梦，嗯？
+care67	1	care67::English	An' who am I, some Wikkan soothsayer? I care not about yer dreams.	我又是什么，维坎占卜师吗？你的梦不关我的事。
+p195	1	p195::English	I've found notes around the grounds. They speak of dark things.	我在庄园各处发现了一些字条。上面写着黑暗的事。
+care68	1	care68::English	Aye, probably my father's. He was obsessed with the occult; wanted to protect folk from evil things in the night. 	嗯，多半是我父亲的。他沉迷秘术；想保护人们不受黑夜中的邪物侵害。
+care69	1	care69::English	Pay 'em no mind. I should'a burned 'em, long ago. 	别放在心上。我早该把它们烧了。
+p196	1	p196::English	There's a statue in the basement.	地下室有一座雕像。
+care70	1	care70::English	Did I not tell ye to stay away? Ezra Thornwood collected dark things. ((Evil)) things. Just leave it be, for the love of the gods	我没叫你离远点吗？艾兹拉·荆棘木收集黑暗的东西。((邪恶))的东西。看在诸神的份上，别去碰它。
+p197	1	p197::English	That's all.	就这些。
+care71	1	care71::English	<<He grimaces, saying nothing.>>	<<他做了个鬼脸，一言不发。>>
+p198	1	p198::English	I want to upgrade the manor. 	我想升级庄园。
+care72	1	care72::English	Hmph. If I were you, I'd leave it be... ##But I'll admit, seein' it all fancy, like it used t'be? Maybe that'd be somethin'. 	哼。换我就随它去……##但我承认，要是它能变得像从前那样讲究？也许也是件好事。
+care73	1	care73::English	The Union installed a [[Property Station]] nearby. It'll let ye commission upgrades for the manor, for a price.	联盟在附近装了一座[[房产工作站]]。它可以让委托升级庄园，当然要花钱。
+care74	1	care74::English	Only... don't let no workmen near the basement, y'hear? There are places that shouldn't be tampered with. 	只是……别让任何工人靠近地下室，听见没？有些地方不该被乱动。
+p199	1	p199::English	What are you doing here? 	你在这里做什么？
+care75	1	care75::English	I'm the [[caretaker]] of this estate. I tend the grounds for the Thornwood family, only... s'pose I tend it for yerself now an' all. 	我是这片产业的[[守园人]]。我为荆棘木家照料 grounds，只是……现在大概也是替你照料了。
+p200	1	p200::English	I'll leave you to your whittling. 	不打扰你削木头了。
+clerk1	1	clerk1::English	<<The clerk's desk is buried under ink pots and parchment. His arms move wildly; grabbing papers and scribbling with his quill. Occasionally he'll mutter an obscenity, throw a document to the floor and stamp on it.>>	<<书记员的桌子埋在墨水瓶和羊皮纸下。他的双臂疯狂挥舞；抓纸、用羽毛笔涂写。偶尔他会骂一句脏话，把一份文件摔在地上踩。>>
+clerk2	1	clerk2::English	<<He notices you approaching.>> No, no no no! Never! Absolutely not! 	<<他注意到你走近。>>不，不不不！绝不！绝对不行！
+p211	1	p211::English	Yes. Absolutely, undoubtedly, unequivocally ((yes.))	是。绝对，毫无疑问，毫不含糊地((是))。
+clerk3	1	clerk3::English	No, I say! The neuron stars will all fizzle to dust before I do anything of the sort.	不行，我说不行！神经元星全部化成灰我也不会干那种事。
+p212	1	p212::English	Yes. A million times yes, you hear?	是。一百万个是，听见了吗？
+clerk4	1	clerk4::English	A curse upon your house! May it sprout legs and run away. Begone!	诅咒你的房子！愿它长出腿来跑掉。滚！
+p213	1	p213::English	Wait - what are we talking about? 	等等——我们在说什么？
+p214	1	p214::English	Uh, excuse me?	呃，不好意思？
+clerk5	1	clerk5::English	I know your type. You have a look about you. A look that says you're a ((legal nightmare)).	我认识你这种人。你身上有一种气质。一种写着((法律噩梦))的气质。
+clerk6	1	clerk6::English	Maybe your house has drifted into a different principality? Your name contains letters that don't exist? Or your doppleganger claims ownership of your cattle? Whatever it is, I ((don't care)).	也许你家漂进了另一个公国？你名字里有不存在的字母？还是你的二重身声称你的牛是他的？管它是什么，我((不在乎))。
+clerk7	1	clerk7::English	So unless you've come here to purchase that dilapidated old manor house for an outrageous sum of money, please ((sod off)).	所以除非你是来花一笔离谱的钱买那栋破旧老庄园的，请((滚))。
+p215	1	p215::English	I want to buy that manor house.	我想买那栋庄园。
+clerk8	1	clerk8::English	<<The clerk's eyes widen and his quill snaps, splattering ink across his desk.>>	<<书记员眼睛一瞪，羽毛笔啪地折断，墨水溅了满桌。>>
+clerk9	1	clerk9::English	((Ahem)). Yes, I believe I was saying that we have a ((luxurious)) new manor house for sale, at an entirely reasonable fee.	((咳咳))。对，我想我刚才是说，我们有一栋((豪华))的新庄园出售，价格完全合理。
+clerk10	1	clerk10::English	It's yours, for a mere 200 coin. A ((steal)), really. 	只卖 200 枚硬币，就是你的了。真是((白送))。
+p216	1	p216::English	Tell me about the manor house. 	给我讲讲那栋庄园。
+clerk11	1	clerk11::English	It's a handsome manor with an entire island as its grounds. An historic property; post-World Rend, about 200 years old. ##The island is accessible by a wooden lift at the southern edge of Hallowshire.	那是一座漂亮的庄园，整座岛都是它的庭院。历史产业；世界撕裂后建成，约两百年历史。##岛可通过哈洛郡南缘的一座木制升降梯到达。
+clerk12	1	clerk12::English	It is, uh, in need of a few... ((minor adjustments.)) But with a bit of coin you could have the whole thing refurbished in no time. ## Oh and there was another trifling detail...	它呢，呃，需要一些……((小修小补))。但花点钱，你很快就能把整座庄园翻修一新。##哦，还有一件小事……
+clerk13	1	clerk13::English	The land was recently reclaimed by the Apostatic Union, after it was found unoccupied - but some of the local rabble protested. Some nonsense about the owner still being... ((alive)). 	这片土地是叛教联盟最近收回的，之前发现无人居住——但一些当地刁民提出抗议。说什么主人还……((活着))之类的鬼话。
+clerk14	1	clerk14::English	Preposterous, of course. Pay it no heed.	当然荒谬。别理会。
+p217	1	p217::English	@@That's an outrageous price. I'll give you half. 	@@这价格太离谱了。我出一半。
+clerk15	1	clerk15::English	%% <<He swallows nervously.>> Yes, I suppose it is in need of a... few repairs. Okay, then. Half price. ##<<He snatches the purse from you.>>	%% <<他紧张地咽了口唾沫。>>嗯，确实是需要……一些修缮。好吧。半价。##<<他从你手里一把夺过钱袋。>>
+clerk16	1	clerk16::English	&&Quite preposterous! This is an historic manor, older than the mushrooms of these isles. Full price, and not a penny more.	&&荒谬至极！这可是历史庄园，比这些岛上的蘑菇还老。原价，一个子儿不能少。
+p218	1	p218::English	Okay, I'll take it. Here's the money. 	好，我买了。钱给你。
+clerk17	1	clerk17::English	<<He sighs.>> It looks like you don't have enough. Please return when you have a ((serious)) proposition. 	<<他叹气。>>看来你的钱不够。凑齐了再来提((像样))的建议吧。
+clerk18	1	clerk18::English	Splendid, splendid! Let me just take that from you... my, this purse has some heft to it, eh?	好极了，好极了！让我把那个拿来……哎呀，这钱袋还真有分量，嗯？
+p219	1	p219::English	Actually, I've changed my mind.	其实，我改主意了。
+clerk19	1	clerk19::English	I see. Please, don't waste my time with idle inquiries. 	明白了。请别拿无聊的询问浪费我的时间。
+p220	1	p220::English	I'll just be going.	我先走了。
+clerk20	1	clerk20::English	<<The clerk is still busy with his mountain of paperwork.>> ##Hm, you again? Please, make it quick. 	<<书记员还在忙他那一山 paperwork。>>##嗯，又是你？请长话短说。
+p221	1	p221::English	I have questions about the manor I bought. 	关于我买的庄园，我有几个问题。
+clerk21	1	clerk21::English	Ah yes, that old -- uh, I mean that wonderful thing. What did you want to know?	啊对,那个老——呃,我是说那个美好的地方。你想知道什么?
+p222	1	p222::English	Tell me about the manor. 	跟我讲讲那座庄园。
+p223	1	p223::English	You sold me a property owned by an ancient monster! 	你把一个上古怪物拥有的房产卖给了我!
+clerk22	1	clerk22::English	<<The man stares at you for a second, then bursts out laughing.>> ##My, I've heard some tall tales in my time, but nothing quite like that.	<<那男人盯着你看了一秒,随即爆笑出来。>>##哎呀,我这辈子听过不少天方夜谭,但还从没听过这种。
+clerk23	1	clerk23::English	I'm afraid the deal is done, no matter what nonsense you care to make up. 	恐怕交易已经完成,随你编什么鬼话都无济于事。
+p224	1	p224::English	How do I maintain my property, again?	我该怎么维护我的房产来着?
+clerk24	1	clerk24::English	Now that you're in possession of such an... ((esteemed)) property, you may want to consider certain refurbishments.	既然你拥有了这么一处……((尊贵))的房产,你或许该考虑某些翻新事宜。
+clerk25	1	clerk25::English	On the property grounds you will find a [[Property Station]]. You can use it to [[upgrade]] and [[decorate]] a property.	在房产范围内你会找到一个[[房产工作站]].你可以用它来[[升级]]和[[装修]]房产。
+clerk26	1	clerk26::English	There is also a [[caretaker]] who lives on the grounds. We do not pay him; in fact, we have asked him to leave numerous times. Perhaps you will have more luck.	还有一位[[管家]]住在庄园里。我们不付他工钱;实际上,我们已经多次请他离开。也许你的运气会好一些。
+p225	1	p225::English	How do I upgrade a property?	我怎么升级房产?
+clerk27	1	clerk27::English	Use a [[Property Station]] to see available upgrades. Any upgrade will have a cost attached; in both [[coin]] and [[resources]].	使用[[房产工作站]]查看可用的升级。任何升级都有代价;既需要[[硬币]]也需要[[资源]]。
+clerk28	1	clerk28::English	The first stage of any upgrade is usually to [[build]] it. You might want to build a [[Library]] annex, for instance - but you must pay the construction cost and wait for it to be completed.	任何升级的第一阶段通常是[[建造]].比如,你或许想建一座[[图书馆]]附楼——但你必须支付建造成本,并等待其完工。
+clerk29	1	clerk29::English	The second stage of an upgrade is to [[furnish]] it. This will provide furniture, trophies and - in some cases - special equipment. 	升级的第二阶段是[[布置家具]].这会提供家具、战利品,某些情况下还有特殊设备。
+clerk30	1	clerk30::English	All upgrades will share the same [[decorative style]] as the rest of the property. 	所有升级都会与房产的其余部分共享同一种[[装饰风格]]。
+p226	1	p226::English	How do I decorate a property?	我怎么装修房产?
+clerk31	1	clerk31::English	You may [[decorate]] your property in various styles. These styles must be unlocked by purchasing them; [[Apostatic Union decorations]], for instance, can be purchased from the [[tailor]] in town.	你可以用多种风格来[[装修]]你的房产。这些风格必须购买解锁;例如[[叛教联盟装饰]],可以从镇上的[[裁缝]]处购买。
+clerk32	1	clerk32::English	Only one [[decorative style]] can be applied to your property, and it will only take effect on parts of the property that have been [[furnished]]. You can't decorate if there is no furniture! 	你的房产只能应用一种[[装饰风格]],而且只会对已经[[布置了家具]]的部分生效。没有家具就无从装修!
+clerk33	1	clerk33::English	Certain [[special objects]] may change, along with the furniture. Experiment with different styles to see what I mean. 	某些[[特殊物件]]可能会随家具一同变化。试试不同的风格,你就明白我的意思了。
+p227	1	p227::English	How do I display trophies and artwork?	我怎么展示战利品和艺术品?
+clerk34	1	clerk34::English	Once a part of your property has been [[furnished]], various [[trophy mounts]] will appear. Interact with them to change the type of trophy displayed.	房产的某个部分一经[[布置家具]],就会出现各种[[战利品底座]].与之互动,即可更换展示的战利品种类。
+clerk35	1	clerk35::English	Though trophies must be [[unlocked]] before they can be displayed. 	不过战利品必须先[[解锁]]才能展示。
+clerk36	1	clerk36::English	As to the manner in which you can discover them? I cannot say. ##I once knew a fellow who won a drinking contest, and thereafter his house was filled with gaudy paintings of beer mugs. 	至于要如何发现它们?我就不得而知了。##我曾认识一个家伙,他赢了一场喝酒比赛,从此他家就挂满了花里胡哨的啤酒杯画。
+p228	1	p228::English	Thanks, I think I've got it.	谢了,我想我明白了。
+clerk37	1	clerk37::English	Yes, yes. Was there anything else?	好,好。还有别的事吗?
+p229	1	p229::English	Goodbye.	再见。
+vierme1	1	vierme1::English	<<The creature stares at you with a chilling intensity. Its words hiss through sharp teeth, but it speaks slowly - methodically.>> 	<<那造物以令人发冷的专注凝视着你。它的话语从尖牙间嘶嘶吐出,却说得缓慢——有条不紊。>>
+vierme2	1	vierme2::English	Greetings, trespasser. I have been watching you for some time; trampling on my grounds, desecrating my home, erecting your petty trinkets. 	你好啊,闯入者。我观察你有一阵子了;你践踏我的地盘,亵渎我的家,竖起你那些无聊的小玩意。
+vierme3	1	vierme3::English	And I have watched you as you sleep. I have savoured your flesh; drunk from your blood; tasted your dreams. 	我也看着你入睡。我品尝过你的血肉;啜饮过你的鲜血;回味过你的梦。
+vierme4	1	vierme4::English	I thought you would flee in terror, but still you linger where you do not belong. So I ask you, trespasser - why do you torment me so? 	我以为你会吓得逃走,但你偏偏还赖在你不属于的地方。所以我问你,闯入者——你为何如此折磨我?
+p240	1	p240::English	((I'm)) tormenting ((you?)) There's a monster in my basement!	((我))折磨((你?))我的地下室里有个怪物!
+vierme5	1	vierme5::English	<<The creature releases a guttural sigh.>> Monster, indeed. It has been many a century since I could hold my own gaze in a mirror. 	<<那造物发出一声低沉的叹息。>>怪物,的确。已经许多个世纪,我不敢在镜中与自己对视了。
+vierme6	1	vierme6::English	But monster or no, this is ((not)) your basement. 	但怪物也好,不是也罢,这里((不是))你的地下室。
+p241	1	p241::English	I'm no trespasser, I bought this house fair and square.	我不是什么闯入者,这房子是我光明正大买下的。
+vierme7	1	vierme7::English	Oh? And what thief brokered this deal? 	哦?那么是哪个贼促成的这笔交易?
+p242	1	p242::English	Prepare to die, parasite. 	准备去死吧,寄生虫。
+vierme8	1	vierme8::English	Would you be so quick to slaughter another living, breathing soul? Listen but a moment, trespasser, before you draw your blade. 	你就这么急着宰掉另一个活着的、呼吸着的灵魂吗?拔剑之前,听我说片刻,闯入者。
+vierme9	1	vierme9::English	These grounds are my prison; but they are also my home. I saw these timbers raised some two hundred years ago and I have dwelled here ever since. 	这片土地是我的监狱;但也是我的家。两百年前我看着这些梁木立起,自那以后我便一直住在这里。
+vierme10	1	vierme10::English	You may have purchased a scrap of paper for a considerable sum. Perhaps it bears the signature of some foppish noble? I care not. These lands are mine.	你或许花了一大笔钱买下一张废纸。也许上面还有某个富得流油的贵族签名?我不在乎。这片土地是我的。
+vierme11	1	vierme11::English	<<She takes a deep breath.>> ((But)). There are things more valuable than even a home. Such as one's ((freedom)).	<<她深吸一口气。>>((但是)).有些东西比家更宝贵。比如一个人的((自由))。
+vierme12	1	vierme12::English	I am shackled here, trespasser; held captive within my own grounds, by powerful cipher magic. If you would help me win my freedom, I would recognize your claim to this manor. ##What do you say? 	我被锁在这里,闯入者;被强大的密文魔法囚禁在我自己的地盘之内。若你帮我赢得自由,我便承认你对这座庄园的所有权。##你觉得如何?
+p243	1	p243::English	You attacked me while I slept! Why should I trust you? 	你在我睡觉时袭击了我!我为什么要信你?
+vierme13	1	vierme13::English	I admit we may have got off to a wrong start. But remember, trespasser, that you cast the first stone. It is natural to act rashly when threatened. 	我承认我们也许开场不太愉快。但记住,闯入者,是你先动的手。受到威胁时行事鲁莽,乃人之常情。
+p244	1	p244::English	Let's say I ((do)) help. Will you leave me alone? 	就算我((帮))了你。你会放过我吗?
+vierme14	1	vierme14::English	Alas, there are few places for a creature like me to live safely. If you grant me freedom, I would permit you governance of the manor, staying myself in these underhalls.	唉,像我这样的造物,能安全栖身的地方寥寥无几。若你赐我自由,我准许你掌管庄园,我自己则住在这些地下厅堂里。
+vierme15	1	vierme15::English	But oh, what wonders freedom would bring! I would be much enriched by my travels, and would grant you great boons after feasting on your flesh. 	但哦,自由会带来何等奇迹!我的游历将使我大为丰富,而我大啖你的血肉之后,会赐你丰厚的恩惠。
+p245	1	p245::English	Hold on - you'd still drink my blood?	等等——你还是要喝我的血?
+p246	1	p246::English	You really are a monster! 	你果然是个怪物!
+vierme16	1	vierme16::English	Oh, the kiss of a vierme is nothing so crude as merely ((sucking blood)). It is a tender union of two souls. 	哦,维尔姆之吻可没这么粗鄙,不只是((吸血))而已。那是两个灵魂温柔的交融。
+vierme17	1	vierme17::English	My worm-tongue bonds with your nervous system, and for a beautiful moment our minds are as one. The dreams you have seen? They are my own. A gift, in exchange for sustenance. 	我的蠕舌与你的神经系统相连,在美好的片刻里,我们的心智合而为一。你看见的那些梦?那是我自己的。以梦为礼,换取养分。
+vierme18	1	vierme18::English	With my freedom, in exchange for a portion of your [[Health]] - you would be [[invigorated]] after waking here. Your senses heightened; your reflexes sharpened. 	换取我的自由,只需付出你的一部分[[生命]]——在此醒来后,你会[[神清气爽]].感官更敏锐,反应更迅捷。
+p247	1	p247::English	Very well, I'll help.	好,我帮你。
+vierme19	1	vierme19::English	Excellent. Here is what you must do.	太好了。你须如此行事。
+vierme20	1	vierme20::English	In the forest of [[western Hallowshire]] there is a decrepit house, not dissimilar to my own. I once frequented that place; [[this key]] will unlock it. 	在[[哈洛郡西部]]的森林里,有一座破败的屋子,与我这里并无二致。我曾常去那地方;[[这把钥匙]]可以打开它。
+vierme21	1	vierme21::English	A vierme lived there, once; I do not know if they remain. But I know this; that they were captive like me, and cast off their oppressor. Recover their [[spellbook]] and I might do the same. 	曾有一位维尔姆住在那里;我不知道它是否还在。但我知道这一点:它和我一样被囚,却摆脱了压迫者。取回它的[[咒法书]],我或许也能如法炮制。
+p248	1	p248::English	Okay, but I have some questions first.	好吧,但我先有几个问题。
+vierme22	1	vierme22::English	By all means. 	请便。
+p249	1	p249::English	I'll get going, then.	那我这就去。
+vierme23	1	vierme23::English	Thank you, and good luck.	谢谢,祝你好运。
+p250	1	p250::English	And what if I say no?	我要是说不呢?
+vierme24	1	vierme24::English	Then I suppose we would settle this matter as animals, with tooth and claw. But beware, trespasser; my bite is more dangerous in your waking hours. 	那么我想,我们就像野兽一样,用爪牙解决这件事。但当心,闯入者;你醒着的时候,我的咬噬更危险。
+p251	1	p251::English	No deal, monster. Prepare to die. 	没得谈,怪物。准备受死吧。
+vierme25	1	vierme25::English	So be it. Savour these moments, trespasser, for they are your last. 	那便如此。细细品味这些时刻吧,闯入者,因为这是你最后的时光。
+vierme26	1	vierme26::English	You have returned.	你回来了。
+vierme27	1	vierme27::English	It is good to see you again, my friend. 	很高兴再见到你,我的朋友。
+p252	1	p252::English	Tell me again how I can free you. 	再跟我说一遍怎么才能解救你。
+p253	1	p253::English	Where can I find that spellbook, again? 	那本咒法书在哪儿来着?
+p254	1	p254::English	I've brought the spellbook.	我把咒法书带来了。
+vierme28	1	vierme28::English	I had worried it was lost. This is an exquisite gift, mortal. 	我还担心它失传了。这是件精美的礼物,凡人。
+vierme29	1	vierme29::English	<<The vierme flicks to a certain page of the book and tears it free. She speaks a flurry of cipher and the air turns cold. A sound reverberates in your mind like a thousand glasses smashing.>>	<<维尔姆翻到书中某一页,将其撕下。她念出一串密文,空气骤然变冷。一个声音在你脑海中回荡,宛如千只玻璃杯同时碎裂。>>
+vierme30	1	vierme30::English	Oh, I feel it already - a great weight has been lifted! ##I have my freedom, and you have my sincerest thanks. 	哦,我已经感觉到了——一副千斤重担终于卸下!##我重获自由,你也得到我最诚挚的谢意。
+vierme31	1	vierme31::English	I will fly through the skyrealms once more, to take in wonders and beauty both. The kiss of a free vierme is a wonderful thing, mortal; you will share in my euphoria when you wake in your bed.  	我将再度翱翔于天空领域,饱览奇观与美景。自由维尔姆之吻是何等美妙,凡人;当你躺在床上醒来时,便会分享我的狂喜。
+p255	1	p255::English	Uh... thanks.	呃……谢了。
+p256	1	p256::English	My pleasure.	我的荣幸。
+p257	1	p257::English	How does it feel to be free?	自由的感觉如何?
+p258	1	p258::English	What sort of creature are you? 	你是什么样的造物?
+vierme32	1	vierme32::English	I am a vierme - named after the parasite that lives inside me. It hungers for more than just flesh. Human thoughts, feelings, emotions - these are its sustenance. And so my kind stalks through the night, feeding on dreams. 	我是一名维尔姆——因寄居于我体内的寄生虫而得名。它渴求的不只是血肉。人类的思想、感受、情感——这些才是它的食粮。因此我的同类在夜里潜行,以梦为食。
+p259	1	p259::English	I think I'm a vierme, too. 	我想我也是维尔姆。
+vierme33	1	vierme33::English	<<The vierme sniffs the air with a quizzical look.>> Ah,  yes; I can smell it now. Very faint; you must have been infected recently... 	<<维尔姆满脸狐疑地嗅了嗅空气。>>啊,对;我现在闻到了。非常淡;你一定是最近才被感染的……
+vierme34	1	vierme34::English	A word of advice. If you can find some way to rid yourself of it, do it quickly. Over the years it will merge with your flesh, until the mortal and the monster are one.	一句忠告。若你能找到什么办法摆脱它,尽快去做。年深日久,它会与你的血肉融合,直到凡人与怪物合为一体。
+vierme35	1	vierme35::English	Look at me, young vierme - look at your wretched fate. You do not want this. ##Grow old, and happy, and die with pride. 	看着我吧,年轻的维尔姆——看看你这可悲的命运。你不会想要这个的。##慢慢变老,快快乐乐,骄傲地死去。
+p260	1	p260::English	Tell me about this parasite. 	跟我讲讲这种寄生虫。
+vierme36	1	vierme36::English	The vierme parasite is a long, serpent-like maggot. It festers in unseemly places and drops on its prey - quickly forcing itself inside their mouth. 	维尔姆寄生虫是一条细长的、蛇形的蛆虫。它在阴暗不洁之处滋生,落在猎物身上——迅速钻进它们的嘴里。
+vierme37	1	vierme37::English	It slithers down their throat and lodges in their bowels. Its toxins cloud their mind, veiling the latent horror with a false euphoria. 	它滑入喉管,盘踞在肠腑之中。它的毒素迷障心智,用虚假的欣快遮蔽潜藏的恐怖。
+vierme38	1	vierme38::English	The parasite cannot survive on normal food; it will force its host to choke it back up. Instead, in the dead of night, they crave the warmth of human skin. When the parasite feeds, it emerges from the host's mouth and uses its own teeth. 	这种寄生虫无法靠寻常食物存活;它会逼迫宿主把食物吐出来。反之,在夜深人静之时,宿主会渴求人类肌肤的温暖。寄生虫进食时,会从宿主口中钻出,用自己的牙齿。
+vierme39	1	vierme39::English	For the first century or so, the host appears not to age. But with time, the parasite merges with its host, until the two become one, and they look like... me. 	头一百年左右,宿主看似不会衰老。但随着时间推移,寄生虫与宿主逐渐融合,直到二者合为一体,变成……我这副模样。
+p261	1	p261::English	What sort of life have you led?	你过着怎样的生活?
+vierme40	1	vierme40::English	I have lived for four hundred years; but I was not always the twisted vierme before you. Long ago I was a human girl, not so different from any other. 	我活了四百年;但我并非生来就是你眼前这个扭曲的维尔姆。很久以前,我是一个人类女孩,与其他女孩并无不同。
+p262	1	p262::English	Tell me about your 'youth'. 	跟我讲讲你的"少年时代"。
+vierme41	1	vierme41::English	As a girl I was called... Ezra Thornwood. I have not spoken that name for a long time.	当女孩时,我叫……艾兹拉·荆棘木。这个名字我已经很久没有说出口了。
+vierme42	1	vierme42::English	My parents and I were refugees from the World Rend, if you can believe such a thing. We were lucky enough to be aboard an Emberian skyship which crashed on these isles. I was five years old. 	我和父母是世界撕裂的难民,如果你能相信的话。我们幸运地搭上了一艘余烬飞船,它坠毁在这些岛屿上。那年我五岁。
+vierme43	1	vierme43::English	Few remember it now, but Hallow Town started as a camp of those survivors. As a young girl, my parents gave me a harp and taught me the old Emberian songs. Beautiful stories of the great cities that I, nor anyone else, would ever see again. 	如今鲜有人记得,但哈洛镇最初就是那些幸存者的营地。我还是小女孩时,父母送了我一架竖琴,教我古老的余烬歌谣。那些歌谣讲述着宏伟都市的美丽故事——无论我还是别的什么人,都再也见不到了。
+vierme44	1	vierme44::English	It was in the woods that it... entered my throat. The parasite. I choked, retched - but to no avail. My parents would not consult the local Wikkans, as the Emberians were proud, secular folk. That night they found me feeding on my mother, the parasite half-emerged from my mouth.	就是在树林里,它……钻进了我的喉咙。寄生虫。我窒息,干呕——但无济于事。父母不肯去求助当地的维坎人,因为余烬人是骄傲的世俗之民。那天夜里,他们发现我正在啃食我的母亲,寄生虫半截探在我的嘴外。
+vierme45	1	vierme45::English	I fled, and never saw my parents again. 	我逃了,从此再没见过我的父母。
+p263	1	p263::English	Tell me about your life as a vierme.	跟我讲讲你身为维尔姆的生活。
+vierme46	1	vierme46::English	I travelled the skyrealms for a long time, moving from island to island. When I returned to my childhood home of Hallow Town I was more than a century old, though I looked not a day over twenty.	我在天空领域游荡了很久,辗转于各岛之间。当我回到童年的家哈洛镇时,我已年过百岁,看上去却不过二十。
+vierme47	1	vierme47::English	Everyone I knew was dead. I remember sitting at the graves of my parents for days, trapped in a silent grief. 	我认识的每一个人都死了。我记得在父母的墓前坐了好几天,困在无声的悲恸之中。
+vierme48	1	vierme48::English	I found my old harp for sale - an antique. I bought it and played at the tavern, but everyone had forgotten the old songs. Folk followed the Wikkan ways; the Emberian cities had faded into myth. 	我发现我那架旧竖琴在出售——成了古董。我买下它,在酒馆里弹奏,但所有人都忘了那些古老的歌谣。人们追随维坎之道;余烬的城市早已湮没为神话。
+vierme49	1	vierme49::English	I doubt you can understand what it feels like to be a stranger in your own home. ##But I settled here, in Hallowshire. Made my fortune. Built this manor.	我怀疑你无法体会,在自己家中沦为异乡人是何种滋味。##但我还是在这里安顿下来,在哈洛郡。发了财。建起了这座庄园。
+vierme50	1	vierme50::English	With time the parasite merged with my body. I was human no more; an elder vierme. ##It was harder to hide, and eventually, that damned kresnik found me here. 	随着时间流逝,寄生虫与我的身体融为一体。我不再是人类;成了一位高龄维尔姆。##藏身变得越来越难,最终,那个该死的克雷斯尼克在这里找到了我。
+p264	1	p264::English	Thank you for your story. 	谢谢你讲的故事。
+vierme51	1	vierme51::English	That's quite alright. If I am honest, I enjoyed telling it to someone. Thank you, for that. 	不碍事。说实话,能讲给人听,我也很开心。为此谢谢你。
+p265	1	p265::English	That's all I wanted to know.	我想了解的就这些了。
+vierme52	1	vierme52::English	Very well. 	很好。
+p266	1	p266::English	How did you become imprisoned here? 	你是怎么被囚禁在这里的?
+vierme53	1	vierme53::English	You may have met the... ((caretaker)) that skulks on my grounds. Do not be fooled; that man is a [[kresnik]], a hunter of my kind.	你或许见过那个……在我地盘上鬼鬼祟祟的((管家)).别被蒙蔽;那人是[[克雷斯尼克]],专门猎杀我同类的人。
+vierme54	1	vierme54::English	They claim to hunt parasites, but there is irony in that. For they do not kill their quarry but entrap them; bind them in their homes and live in their place.	他们号称猎杀寄生虫,其中却自有讽刺。因为他们并不杀死猎物,而是将其囚禁;把他们锁在自己的家中,取而代之住在里面。
+vierme55	1	vierme55::English	It is more than simple theft. The kiss of a vierme is coveted by some. He comes to me, often enough - offering his flesh so this farce may continue. 	这可不只是简单的偷窃。维尔姆之吻为某些人所觊觎。他时常来找我——献上他的血肉,好让这出闹剧继续演下去。
+vierme56	1	vierme56::English	It has been fifty years now. First his father, who passed it to the son - they hunt in packs, you see. This infernal cipher seal prevents me from harming him, and the further I move from it the weaker I become. If I were to leave this island I would surely die. 	至今已有五十年。起初是他的父亲,再传给儿子——你看,他们成群结队地狩猎。这可恶的密文封印使我无法伤害他,而我离它越远就越虚弱。若我离开这座岛,必死无疑。
+vierme57	1	vierme57::English	That infernal cipher seal prevented me from harming him, and the further I moved from it, the weaker I became. But with your help -after thirty years of entrapment - I am finally free. 	那可恶的密文封印使我无法伤害他,而我离它越远就越虚弱。但多亏你的帮助——在被囚三十年之后——我终于自由了。
+p267	1	p267::English	Farewell. 	告辞。
+FrostFix1	1	FrostFix1::English	<<You wake up breathless and drenched in sweat, your thoughts racing. You know where you must go.>>	<<你从梦中惊醒,气喘吁吁,浑身是汗,思绪飞转。你知道自己必须去哪里。>>
+FrostFix2	1	FrostFix2::English	<<You know from the vision; from flying over the [[Corrupted Lands]] with Vela. Past the [[abandoned diggers]], down to the very [[south-eastern tip]]; to the [[Lost City of Progress]]. ((That)) is where Horace's memories lie.>>	<<你从幻象中知道;从与薇拉飞越[[腐化之地]]的那一幕。越过[[废弃的挖掘机]],一路向着[[东南角]];去往[[进步废都]].((那里))便是霍勒斯的记忆所在。>>
+SkiffHinter1	1	SkiffHinter1::English	<<The man, dressed in elegant fineries, is grumbling over a weathered map .>> ##...This thing is more useless than a ((bloated god-corpse...))	<<那男人衣着华丽,正对着一张磨损的地图嘟囔。>>##……这东西比一具((胀气的神尸))还没用……
+SkiffHinter2	1	SkiffHinter2::English	<<Suddenly he notices you.>> Ah! You there! Perchance could you help a ((humble)) merchant in his time of need, eh? 	<<他突然注意到你。>>啊!那边那位!可否帮帮一位((卑微))商人渡过难关,嗯?
+SkiffHinter3	1	SkiffHinter3::English	II have a sizeable delivery of Scryshroom Tea, bound for the Clockwork Kingdom. ##Now before you say it, I know, I know - the border crossing is [[locked up tight.]] But you see, I've been in contact with the only fellow around here who has an [[import permit]] for this bloody kingdom of cogs, or what-have-you. 	我有一大批窥菇茶要送到发条王国。##你先别说,我知道,我知道——边境关卡[[锁得死死的]].但你看,我一直在联系这一带唯一有此齿轮王国[[进口许可证]]的家伙,诸如此类。
+SkiffHinter4	1	SkiffHinter4::English	What was his name - M... Mika? Makka? Ah, it escapes me. ##But, the point is I can't bloody well ((find)) him, can I? This old map is all wrong! 	他叫什么来着——米……米卡?马卡?啊,想不起来了。##但问题是,我他妈就是((找))不到他,对吧?这张旧地图全错了!
+SkiffHinter5	1	SkiffHinter5::English	So, if you've seen the chap, will you let me know? There'll be coin in it for you. 	所以,你要是见过那家伙,能告诉我吗?有硬币酬谢。
+p301	1	p301::English	Mikhail? Yes, he's due south of here - along the cliffside. 	米哈伊尔?对,他就在这里南边——沿着崖边。
+SkiffHinter6	1	SkiffHinter6::English	Ah, my saviour! Fat lot of good this map did me, eh? They should get ((you)) to pen the bloody things.	啊,我的救星!这地图可真帮了大忙,嗯?真该让((你))来画这些破玩意。
+SkiffHinter7	1	SkiffHinter7::English	As promised, here's some [[coin]] for your trouble - well earned, I must say. 	说到做到,这是给你跑腿的[[硬币]]——受之无愧,我得说。
+SkiffHinter8	1	SkiffHinter8::English	 Now, since my assistant has left me in the lurch, I suppose I'll have to shift this cargo myself. <<He pauses.>> ## ...Ah, ((godsdamnit...))	好了,既然我的助手撂挑子了,看来这批货只能我自己搬了。<<他顿了顿。>>##……啊,((神啊……))
+p302	1	p302::English	Sure, I'll let you know if I see him. 	好的,我见到他会告诉你的。
+SkiffHinter9	1	SkiffHinter9::English	<<He nods.>> You are most kind. In the meantime, I'll return to deciphering this ((blasted)) map...	<<他点头。>>你真是太好了。在此期间,我继续破译这张((该死))的地图……
+p303	1	p303::English	Hold on - do you think he can get ((people)) into the Kingdom?	等等——你觉得他能把((人))弄进王国吗?
+SkiffHinter10	1	SkiffHinter10::English	<<The merchant frowns.>> Well, I dare say there isn't any ((other)) way to get into that blasted place - if you were desperate, it'd be worth a punt.	<<商人皱眉。>>嗯,我敢说,要进那鬼地方也没有((别的))办法——你要是豁出去了,值得一试。
+SkiffHinter11	1	SkiffHinter11::English	But why ((anyone)) would want to go there is beyond me. By all accounts, the King's policies have plunged the kingdom into turmoil. A loaf of bread is said to be worth more than a skyship! Why do you think I'm trying to flog this tea?	但((谁))会想去那种地方,我就搞不懂了。人人都说,国王的政策已把王国搅得天翻地覆。据说一个面包比一艘飞船还值钱!不然你以为我为什么拼命卖这茶?
+SkiffHinter12	1	SkiffHinter12::English	Ahem. Anyhow, do let me know if you see him, won't you?	咳咳。总之,见到他记得告诉我,好吗?
+p304	1	p304::English	I'm not some hired hand. 	我可不是什么雇工。
+SkiffHinter13	1	SkiffHinter13::English	<<He looks you up and down.>> Hmph. No, I ((suppose)) not. ##Well, good day to you. 	<<他上下打量你。>>哼。不,我想((确实))不是。##好吧,祝你愉快。
+SkiffHinter14	1	SkiffHinter14::English	Ah, we meet again. I don't suppose you've caught sight of that fellow with an [[import permit to the Clockwork Kingdom]]?	啊,又见面了。你没碰见那个有[[发条王国进口许可证]]的家伙吧?
+p305	1	p305::English	No, not yet.	还没。
+SkiffHinter15	1	SkiffHinter15::English	<<He nods.>> I see, I see. Well, back to the map, I suppose. Maybe it's upside down...	<<他点头。>>明白,明白。好吧,我想还是接着研究地图。也许它拿倒了……
+cwkGatebridge1	1	cwkGatebridge1::English	Greetin's traveller. I'm sorry, but if you're a Clockwork citizen lookin' for refuge in the Apostatic Union, y'er gonna need an [[Apostatic Union Passport]] to cross this gatebridge. 	你好啊,旅行者。抱歉,若你是发条王国的国民,想逃往叛教联盟避难,你需要一份[[叛教联盟护照]]才能过这座关卡桥。
+cwkGatebridge2	1	cwkGatebridge2::English	Y'see, lots'a folk have been tryin' to flee the chaos of the Clockwork King, 'an this gatebridge 'as been designated to help Union folk - an' ((only)) Union folk - make the crossing. Nobles in Hallowshire reckon the place has enough problems without an influx of refugees. 	你瞧,好多人都在逃离发条王的乱局,而这座关卡桥是专门帮联盟的人——((只有))联盟的人——过桥的。哈洛郡的贵族们认为,这地方没有难民涌入已经够多麻烦了。
+casSurvivorA1	1	casSurvivorA1::English	Have you come from outside? It's not safe out there!	你是从外面来的吗?外面不安全!
+casSurvivorA2	1	casSurvivorA2::English	There's...things out there, I saw them out my window. They were like...like... 	外面有……东西,我从窗户看见它们了。它们就像……就像……
+casSurvivorB	1	casSurvivorB::English	<<The woman gives a series of sputtering, rattling coughs. >>##Augh...I'd stay back, if I was you. I'm...##<<The rest of her words are unintelligible, lost again in a spasm of coughs.>>	<<那女人发出一连串噼啪作响的咳嗽。>>##呃啊……我要是你,就离远点。我……##<<她接下来的话含混不清,又淹没在一阵咳嗽里。>>
+casSurvivorC1	1	casSurvivorC1::English	It's so clear out here! So clean!##You...you were the one who came from outside...did you do this? 	外面这么明朗!这么干净!##你……你是从外面来的那个……是你干的吗?
+casSurvivorC2	1	casSurvivorC2::English	Thank you, then! A thousand thank yous!##Here, take this.	那真是太感谢了!千恩万谢!##给,收下这个。
+casSurvivorC3	1	casSurvivorC3::English	But, if you don't mind my asking.. how did you do it?	不过,恕我冒昧……你是怎么做到的?
+casSurvivorC4	1	casSurvivorC4::English	<<Her bright face falters as you unfold your tale.>>##I...I cannot say I am not grateful, but you'll excuse me if...that is... Leave us, please! You've...you've done enough!	<<你讲述经过时,她明朗的脸色黯淡下来。>>##我……我不能说我不感激,但请原谅我……就是说……请离开吧!你……你做得够多了!
+casSurvivorC5	1	casSurvivorC5::English	Leave us, please! You've...you've done enough!	请离开吧!你……你做得够多了!
+casSurvivorC6	1	casSurvivorC6::English	<<She looks at you bright-eyed.>>##Thank you so much. For everything.	<<她目光清亮地看着你。>>##太感谢你了。感谢一切。
+casSurvivorCP1	1	casSurvivorCP1::English	Just happy to be of service.	能帮上忙就好。
+casSurvivorCP2	1	casSurvivorCP2::English	<<Do not answer>>	<<不作回答>>
+casSurvivorCP3	1	casSurvivorCP3::English	<<Tell her what you've done.>>	<<告诉她你做了什么。>>
+casSurvivorCP4	1	casSurvivorCP4::English	<<Leave out the dark parts>>	<<略去黑暗的部分>>
+secretAdv1	1	secretAdv1::English	Hm, what's this? ((Another)) would-be adventurer on this drifting rock? I dare say, it's getting crowded here.  	嗯,这是什么?这座漂流岩上((又))来了一位准冒险家?我看,这里越来越挤了。
+secretAdv2	1	secretAdv2::English	So, out with it, then - are you ((also)) seeking the [[treasure]] that lies behind that stone door? 	那么,直说吧——你((也))在寻找那扇石门后的[[宝藏]]吗?
+secretAdv3	1	secretAdv3::English	Uh, I guess so.	呃,大概是吧。
+secretAdv4	1	secretAdv4::English	Well, this just can't do! We can't ((both)) claim ownership of whatever lies beyond that door - imagine the embarrassment of admitting to the Riovan Spelunker's Guild that you had ((help!))	哎,这可不行!门后无论是什么,我们不能((俩人))都认领——想想看,要是向里奥瓦洞穴探险家协会承认你((有帮手)),多难为情!
+secretAdv5	1	secretAdv5::English	Uh, I have no idea what you mean.	呃,我不明白你在说什么。
+secretAdv6	1	secretAdv6::English	<<He squints.>> Hmm. Playing coy, are we? Well, let's assume you're telling the truth.	<<他眯起眼。>>哼。装傻是吧?好吧,就当你说的属实。
+secretAdv7	1	secretAdv7::English	I'll tell you what. If you help me get this door open - and stand aside when I lay claim to whatever waits within - I'll reward you ((handsomely)).	这样吧。你若帮我打开这扇门——在我认领门内之物时站到一边——我会((重重))酬谢你。
+secretAdv8	1	secretAdv8::English	Nothing from this ancient cave, of course- but you can have something [[truly priceless]] from my merchant vessel in recompense. 	这座古老洞穴里的东西自然归我——但作为报酬,你可以从我商船上挑一件[[真正的无价之宝]]。
+secretAdv9	1	secretAdv9::English	All you have to do is [[pull this lever]] here, which will start some sort of timer. Then, you need to find [[ten secret switches]] that will unlock the door mechanism, before the [[time runs out]].	你要做的就是[[拉下这根拉杆]],它会启动某种计时器。然后,你需要在[[时间耗尽]]之前找到[[十个秘密开关]],以解锁门的机关。
+secretAdv10	1	secretAdv10::English	Only, a catch: it seems as though the [[switches]] were themselves quite valuable, and have been plundered by the locals. For all we know, they could be [[scattered all over the Oneiric Isles.]]	只是有个麻烦:那些[[开关]]本身似乎也相当值钱,已经被当地人搜刮走了。谁知道呢,它们可能[[散落在梦幻群岛的各个角落]]。
+secretAdv11	1	secretAdv11::English	Quite a conundrum, eh? But remember - if you manage to open that door, I'll make it worth your while, and then some.	相当棘手,对吧?但记住——你若真能打开那扇门,我不会亏待你,只多不少。
+secretAdv12	1	secretAdv12::English	<<The adventurer yells furiously.>> ((Squidshit! Typhos-crap! Son of a silkslug! Confound it all!)) 	<<冒险家怒吼。>>((乌贼屎!提福斯粪!丝蛞蝓养的!统统该死!))
+secretAdv13	1	secretAdv13::English	Uh, are you okay?	呃,你还好吗?
+secretAdv14	1	secretAdv14::English	What's the matter?	怎么回事?
+secretAdv15	1	secretAdv15::English	The treasure! It's... it's...	宝藏!它是……它是……
+secretAdv16	1	secretAdv16::English	((It's a bloody I-O-U!))	((竟然是张该死的欠条!))
+secretAdv17	1	secretAdv17::English	Look, this tablet here. In the prehistoric writings of the skydweller tribes, this roughly translates as... 	看,这块石板。用天空部族的史前文字,这大致可以译为……
+secretAdv18	1	secretAdv18::English	((The great treasure hoard of...)) uh, I believe this translates as ((the Cloud Rider tribe))... ##((...has been loaned to our brethren of the Drifting Isles, for use of their... hot springs?)) 	((……大宝藏……))呃,我想这段译作((驭云部族))……##((……已借予漂流群岛的弟兄,以供其……温泉之用?))
+secretAdv19	1	secretAdv19::English	...##...	……##……
+secretAdv20	1	secretAdv20::English	...the bastards ((gave it away!)) 	……那帮混蛋((把它送人了!))
+secretAdv21	1	secretAdv21::English	<<He sighs.>> Well, you got the blasted thing open, so I suppose I should honour our deal. 	<<他叹息。>>好吧,你毕竟把那该死的门打开了,我想我应该履行我们的约定。
+secretAdv22	1	secretAdv22::English	You may have my [[Adventurers' Cabin]], and all that lies within. I ordered my servants to dismantle it for transport. 	我的[[冒险家小屋]]和屋内的一切都归你了。我已吩咐仆人把它拆解以便搬运。
+secretAdv23	1	secretAdv23::English	Now leave me. Perhaps there's still a gemstone left in the dirt, somewhere... 	现在让我一个人静静。说不定这泥地里还剩一颗宝石,在某处……
+cephalokAgent1	1	cephalokAgent1::English	I've been sent to keep track of this giant cephalok. It only turned up recently, and has some bigwigs in Hallowshire spooked. 	我被派来追踪这头巨大的头颅兽。它是最近才出现的,把哈洛郡的一些大人物吓得不轻。
+cephalokAgent2	1	cephalokAgent2::English	Apparently, legends tell of some wikkans who built a castle inside of a cephalok's shell - but, that sounds like nonsense to me. And what am I supposed to do, crawl inside of its throat? 	据说,传说里有维坎人在头颅兽的壳里造了座城堡——但在我看来简直是胡说。再说我要干什么,爬进它的喉咙里去吗?

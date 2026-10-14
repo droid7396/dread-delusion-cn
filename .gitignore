@@ -1,0 +1,36 @@
+# ===== 游戏资产（版权文件，不入库）=====
+# 原文提取基准（游戏文本全文）
+Text136/
+extract/all_texts.tsv
+extract/context_notes.txt
+extract/stats.txt
+
+# 写回产物（含游戏资产，且可由管线重新生成）
+Out136/
+resources.assets.new
+resources.assets.final
+*.assets.bak
+
+# ===== Unity 工程产物与第三方资源 =====
+UnityFontGen/Library/
+UnityFontGen/Logs/
+UnityFontGen/obj/
+UnityFontGen/Temp/
+UnityFontGen/UserSettings/
+UnityFontGen/Assets/Out/
+# TMP Essentials 为 Unity 官方包资源，首次打开工程时导入即可恢复
+UnityFontGen/Assets/TextMesh Pro/
+
+# ===== 本地环境 =====
+config.local.*
+*.log
+__pycache__/
+
+# ===== Unity 生成产物与重复大文件 =====
+UnityFontGen/Assets/CN_Font.asset*
+UnityFontGen/Assets/missing.txt*
+UnityFontGen/Assets/Out.meta
+# TMP Essentials 的目录与 .meta 均不入库
+UnityFontGen/Assets/TextMesh Pro*
+# 源字体与 fonts/ 重复，克隆后从 fonts/ 复制即可（见 README）
+UnityFontGen/Assets/fusion.ttf*

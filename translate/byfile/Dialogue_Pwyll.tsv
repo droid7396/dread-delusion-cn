@@ -1,0 +1,720 @@
+ID	Col	CellKey	English	Chinese
+p1	1	p1::English	Goodbye.	再见。
+p0	1	p0::English	Farewell.	告辞。
+pq1	1	pq1::English	Can I ask you some questions?	我能问你几个问题吗?
+pq2	1	pq2::English	Okay, I think I get it.	好,我明白了。
+pq3	1	pq3::English	Got it.	明白了。
+pq4	1	pq4::English	Actually, I had other questions.	其实,我还有别的问题。
+pq5	1	pq5::English	That's all I wanted to know.	我想知道的就这些。
+lludd1	1	lludd1::English	<<The youth looks at you with caution; wide eyes lodged in a gaunt face.>> Oh, a newcomer! Uh, w-w-welcome to [[Pwyll Village]]. My name's Lludd. Were you... um... involved in all that ((commotion)) over at the old fort? 	<<青年警惕地望着你;瘦削的脸上嵌着一双大眼睛。>>哦,新来的!呃,欢——欢迎来到[[普威尔村]]。我叫卢德。旧堡垒那边那场((骚动)),你……呃……有份参与吗?
+p10	1	p10::English	Sure. I've just killed more folk than you could count.	是啊。我刚杀了的人多到你数不过来。
+lludd2	1	lludd2::English	<<The young man's jaw hangs agape as he searches for words.>> ##Oh my. Oh wow. I suppose there would have been... um... <<He swallows.>> ...A lot of blood, and such? 	<<年轻人目瞪口呆,不知说什么好。>> ##天哪。哇哦。那应该会有……呃……<<他咽了口唾沫。>>……很多血之类的?
+p11	1	p11::English	Yes, of course there was fucking ((blood)). 	对,当然他妈的有((血))。
+lludd3	1	lludd3::English	<<He visibly flinches.>> Ah. Yes. Of course. I thought so. ##<<He looks around, as if for something to say.>> Did I mention... that our town is called [[Pwyll]]? 	<<他明显地瑟缩了一下。>>啊。对。当然。我就知道。 ##<<他四下张望,似乎在找话说。>>我提过……我们镇子叫[[普威尔]]吗?
+p12	1	p12::English	No, I killed them with harsh words.	不,我是用恶毒的话杀的。
+lludd4	1	lludd4::English	<<He nods quickly, as if this is a perfectly reasonable statement.>> Ah. Yes. Of course. ##<<He looks around, as if for something to say.>> Did I mention... that our town is called [[Pwyll]]? 	<<他飞快点着头,仿佛这话再合理不过。>>啊。对。当然。 ##<<他四下张望,似乎在找话说。>>我提过……我们镇子叫[[普威尔]]吗?
+p13	1	p13::English	Are you okay? You seem awfully faint. 	你还好吗?你脸色看着很差。
+lludd5	1	lludd5::English	<<He nods quickly, but he seems to have grown paler since you started talking.>> Um, I'm fine, thank you. Did you... want to know about [[Pwyll]]?	<<他飞快点着头,但自你开口以来他似乎更苍白了。>>呃,我没事,谢谢。你想……了解[[普威尔]]吗?
+p14	1	p14::English	I'm an Inquisition agent - hunting criminals of the Apostatic Union. 	我是宗教裁判所探员——正在追捕叛教联盟的罪犯。
+lludd6	1	lludd6::English	<<He shivers and looks you up and down.>> Oh! I'm sorry, I didn't realise. You don't much ((look)) like one of those agents - you must be... ((undercover)), right? <<he whispers,>>  ##Well, if it would help... I could tell you about our t-t-town? 	<<他打了个哆嗦,上下打量你。>>哦!抱歉,我没看出来。你看上去不太((像))那种探员——你一定是……((卧底)),对吧?<<他低声道,>> ##呃,如果用得上的话……我可以给你讲讲我们小——小镇?
+p15	1	p15::English	I'm just passing through; I won't cause you any trouble. 	我只是路过,不会给你添麻烦。
+lludd7	1	lludd7::English	<<The boy's shoulders slacken and he looks genuinely relieved.>> Oh, okay. I can tell you a little about our town, if you like? 	<<男孩肩膀松了下来,看上去真心松了口气。>>哦,好。如果你愿意,我可以给你讲讲我们镇子?
+lludd8	1	lludd8::English	We're just a humble village. <<He swallows.>> Have you heard of [[scryshroom?]] It's a mushroom that shows you the f-f-future. We grow it and sell it. Only... um... things aren't going so well, lately. People are worried.	我们只是个不起眼的小村。<<他咽了口唾沫。>>你听说过[[窥菇]]吗?是一种能让你看见未——未来的蘑菇。我们种它、卖它。只是……呃……近来情况不太妙。大家都很担心。
+p16	1	p16::English	What's going wrong, exactly? 	究竟出了什么问题?
+lludd9	1	lludd9::English	Well, the crop yield is... bad. Each year we've been growing less scryshroom. ##<<He scratches his head.>> Some people are getting worried...	呃,收成很……糟。每年我们的窥菇都种得更少。 ##<<他挠挠头。>>有些人开始担心了……
+lludd10	1	lludd10::English	<<He looks around, then leans in closer.>> I've heard some people are considering the ((old ways)). ##<<His eyes are practically bulging.>> You know, consorting with ((Wikkans)) and ((gods))? 	<<他四下看看,然后凑近。>>我听说有些人在考虑((老法子))。 ##<<他的眼睛几乎要瞪出来了。>>就是跟((维坎教徒))和((神明))勾勾搭搭那种?
+p17	1	p17::English	That's very stupid of them.	他们可真蠢。
+lludd11	1	lludd11::English	<<The boy nods furiously.>> Of ((course)). Very illegal! But also kind of ((exciting)), wouldn't you say? ##<<He seems to regret his choice of words.>> Oh, um, I just mean - it's very ((boring)) here sometimes... 	<<男孩拼命点头。>>((那当然))。非常违法!不过也有点((刺激)),你不觉得吗? ##<<他似乎后悔自己用词了。>>哦,呃,我只是说——这儿有时候很((无聊))……
+p19	1	p19::English	So what? 	那又怎样?
+lludd12	1	lludd12::English	Well, we're part of the Apostatic Union, see? So god-worship is very... ((illegal)). <<He gulps.>>	嗯,我们是叛教联盟的一员,懂吧?所以拜神是非常……((违法))的。<<他倒吸一口气。>>
+p20	1	p20::English	Actually, forget it.	其实,算了吧。
+lludd13	1	lludd13::English	<<He looks nervous.>> Oh, I've been waffling again, haven't I? Did you want to know anything else?	<<他显得紧张。>>哦,我又絮叨个没完,是吧?你还想知道别的吗?
+lludd14	1	lludd14::English	Anyway, the [[local weighmaster Culwych]] has gotten pretty spooked by it all. He's weighing everyone who comes by, just to make sure they're not a Wikkan. 	总之,[[本地秤量官卡尔威奇]]被这些事吓得够呛。每个路过的人他都要过秤,就为确保对方不是维坎教徒。
+lludd15	1	lludd15::English	But my mother [[Olwen]] - oh, um, she's the mayor, by the way - doesn't seem too bothered by it all. She's much too worried about something else. I heard her mumbling about [[some sort of monster]] lately...	但我母亲[[奥尔温]]——哦,呃,顺便说一句,她是镇长——对这一切倒不怎么在意。她有更要紧的事担心。我最近听见她喃喃念叨着[[什么怪物]]……
+lludd16	1	lludd16::English	<<He blinks.>> Oh, I'm sorry, I do tend to waffle, don't I? Is there... anything you'd like to know?	<<他眨眨眼。>>哦,抱歉,我确实容易絮叨,是吧?你还有……什么想了解的吗?
+p21	1	p21::English	Can you point me around town?	能带我认认镇上的路吗?
+lludd17	1	lludd17::English	Oh, um, I suppose so. <<He gestures behind him.>> Just in town you'll find the [[weigh house]]. The weighmaster C-C-Culwych, he's pretty respected around here. Nearby is the [[Scryshroom Company]], which sells scyrshooms of course. And, uh, other things. 	哦,呃,应该可以。<<他指指身后。>>镇上就有[[称量所]]。秤——秤量官卡尔威奇,他在这一带很受尊敬。旁边是[[窥菇公司]],当然卖窥菇。还有,呃,别的东西。
+lludd18	1	lludd18::English	Further up the hill is the [[mayor's house]]. That's where my mother - uh, I mean the ((mayor)) lives. She sometimes has work going. ##And further up is the old [[sacred shroom]]. Only, uh, it's dead. 	再往山上走是[[镇长宅邸]]。我母亲——呃,我是说((镇长))——就住在那儿。她有时有活儿找人做。 ##再往上就是古老的[[神圣蘑菇]]。只是,呃,它已经死了。
+p22	1	p22::English	What does the weighmaster do?	秤量官是做什么的?
+lludd19	1	lludd19::English	Oh, Culwych? He's pretty important. He went to Riova - the capital city of the Apostatic Union, that's ((really)) far away - to get certified as a weighmaster.	哦,卡尔威奇?他相当重要。他去过里奥瓦——叛教联盟的国都,那可((非常))遥远——去考取秤量官的认证。
+lludd20	1	lludd20::English	He weighs things for merchants and buyers to make sure the price is fair. Might not seem like much, but for a small town like us, it means we can trade with realms like Vena, Byonne and L-L-Lundel.	他为商人和买家称重,确保价格公道。听起来不起眼,但对我们这样的小镇来说,这意味着能跟维纳、拜昂和伦——伦德尔那些地方做生意。
+lludd21	1	lludd21::English	<<He leans closer, eyes wide.>> But he also weighs ((people)). Lately he's been real worried about [[Wikkan sympathisers]], and he has magic cipher scales that can ((tell)) if you're ((evil)).	<<他凑近,眼睛瞪得老大。>>但他也给((人))过秤。最近他为[[维坎同情者]]的事忧心忡忡,他有魔法密文天平,能((测出))你是不是((坏人))。
+lludd22	1	lludd22::English	<<He looks sheepish.>> He's not weighed me though. I guess he doesn't think I'm t-t-tough enough to be a criminal. 	<<他一脸窘迫。>>不过他还没给我称过。我想他觉得我不够强——强壮,当不了罪犯。
+p23	1	p23::English	Tell me about the Scryshroom Company.	跟我说说窥菇公司。
+lludd23	1	lludd23::English	Well, it's run by Dwynn, whose family's been growing scryshroom for generations. Without his company the town wouldn't really exist, mushrooms are kinda all there is around here. 	呃,公司是德温开的,他家世代种窥菇。没有他的公司,这镇子根本不会存在,这一带除了蘑菇几乎啥都没有。
+lludd24	1	lludd24::English	Mother won't let me drink the scyrshroom tea, even though ((she)) does all the time. She s-s-says it's too intense. That you have to be a responsible adult to see the future.	母亲不让我喝窥菇茶,尽管((她自己))天天喝。她——她说那玩意太猛。说必须有责任心的成年人才能看未来。
+lludd25	1	lludd25::English	I don't see the big deal, though. She mostly just hallucinates about having a bigger garden. 	可我不觉得有什么大不了。她多半只是幻想自己有个更大的花园。
+p24	1	p24::English	So your mother is the mayor?	所以你母亲是镇长?
+lludd26	1	lludd26::English	<<He nods.>> Not everyone likes her, because she comes from all the way over in Lundel. That's a faraway place with castles and windswept moors, in Union heartland. 	<<他点点头。>>不是人人都喜欢她,因为她来自远方的伦德尔。那是联盟腹地一个遥远的地方,有城堡和朔风猎猎的旷野。
+lludd27	1	lludd27::English	I was born here, so I've never been. <<He sniffs.>> 	我出生在这儿,所以从没去过。<<他吸了吸鼻子。>>
+p25	1	p25::English	Why is the Sacred Shroom dead?	神圣蘑菇为什么死了?
+lludd28	1	lludd28::English	Oh! Well that's because Culwych killed our god, of course. 	哦!那当然是因为卡尔威奇杀了我们的神。
+p26	1	p26::English	Of course. 	这还用说。
+lludd29	1	lludd29::English	<<He nods.>>	<<他点点头。>>
+p27	1	p27::English	Uh, would you care to elaborate?	呃,能详细说说吗?
+lludd30	1	lludd30::English	Oh, um, I'm sorry, I forget not everyone knows about it! <<He chuckles meekly.>> ##Our old god was Aenguin and he was really mean. Like he wanted people to sacrifice themselves at the Sacred Shrooms to make the scryshrooms grow good. 	哦,呃,抱歉,我忘了不是人人都知道这事!<<他怯怯地笑了笑。>> ##我们的旧神是安圭因,他特别刻薄。他要求人们在神圣蘑菇那儿献祭自己,好让窥菇长得好。
+lludd31	1	lludd31::English	So in the God War, Culwych and a few others sailed a huge Kardovan skyship and speared Aenguin in the eye. Because he was part of the Sacred Shroom on the hill, the mushroom died along with him.	于是在神之战中,卡尔威奇和几个伙伴驾着一艘巨大的卡尔多瓦天船,一矛刺穿了安圭因的眼睛。因为他是山上那株神圣蘑菇的一部分,蘑菇也就随他一起死了。
+lludd32	1	lludd32::English	<<He sniffs.>>But, that's also why the harvests are bad. Really, the only reason we had scryshrooms in the first place is because of our god. There's only one Sacred Shroom left, and if that goes we're... well... ((I'm not allowed to use that word.))	<<他吸了吸鼻子。>>不过,这也是收成差的原因。说真的,我们当初会有窥菇,全是因为我们的神。如今只剩一株神圣蘑菇,要是它也没了,我们就……那个……((那个词妈妈不让我说。))
+p28	1	p28::English	That's all I wanted to know.	我想知道的就这些。
+lludd33	1	lludd33::English	<<He nods.>> I hope I didn't w-w-waffle too much. 	<<他点点头。>>希望我没有太絮——絮叨。
+p29	1	p29::English	I've gotta get going, kid. 	我得走了,小子。
+lludd34	1	lludd34::English	Oh, um, of course. B-b-bye. 	哦,呃,当然。再——再见。
+lludd35	1	lludd35::English	Oh, hello again. Did you want me to p-p-point you around Pwyll? Or... I don't suppose... you're here to help with our problems? 	哦,又见面了。你想让我带你认——认认普威尔的路?还是……你不会是……来帮我们解决问题的吧?
+lludd36	1	lludd36::English	Oh, hello again. Was there s-s-something you wanted to ask?	哦,又见面了。你有什——什么想问的吗?
+p30	1	p30::English	Do you know anything about these Wikkan sympathisers? 	关于这些维坎同情者,你知道点什么吗?
+lludd37	1	lludd37::English	<<Lludd suddenly looks very pale.>> Oh, you mean people who are ((cavorting)) with ((god-worship))? ##<<A bead of sweat rolls down his face.>> T-t-they say it's a ((criminal act)), right? That you could be locked up forever?	<<卢德突然脸色煞白。>>哦,你是说那些((沉溺))于((拜神))的人? ##<<一滴冷汗从他脸上滚下。>>他——他们说那是((犯罪行为)),对吧?会被永远关起来的那种?
+lludd38	1	lludd38::English	<<He shakes his head.>> I'm sorry, but I don't know anything about it. You could try [[Nudd]], who's usually in the [[Scryshroom Company House]]. He used to be a mercenary and stuff. I'm sure he knows about such things. 	<<他摇摇头。>>抱歉,这我什么都不知道。你可以去试试[[纳德]],他通常在[[窥菇公司]]里。他从前当过佣兵什么的。这种事他肯定懂。
+lludd50	1	lludd50::English	<<The nauseating stench of bile engulfs the flesh-chamber. Before you, a huge digestional tract pulsates and throbs with corrosive acid. ##It would seem as though this mushroom has ((organs.))>>	<<令人作呕的胆汁恶臭充斥着血肉之腔。你面前,一条巨大的消化道随着腐蚀性的酸液搏动、抽搐。 ##看来这株蘑菇是有((器官。))>>
+lludd51	1	lludd51::English	<<Lludd writhes behind the digestive membrane, clearly in agony. When he sees you, he looks shocked.>> ##Y-y-you! 	<<卢德在消化膜后翻腾,显然痛苦不堪。见到你时,他一脸震惊。>> ##是——是你!
+p41	1	p41::English	We need to get you out of there.	我们得把你弄出来。
+lludd52	1	lludd52::English	((No))! <<A look of determination seizes Lludd.>> If I don't ((do)) this, the village w-w-will ((perish))! 	((不))!<<卢德脸上涌起一股决然。>>我要是不((做))这件事,村子就——就会((完蛋))!
+lludd53	1	lludd53::English	And if you cut me free, you'll be slicing into the mushroom's organs. You could [[kill it]]!	而且你要是割开救我,就会切到蘑菇的器官。你可能会[[杀死它]]!
+p42	1	p42::English	But you'll ((die)).	可你会((死))。
+lludd54	1	lludd54::English	D-d-don't you think I ((know)) that? 	你——你以为我((不知道))吗?
+p43	1	p43::English	Suit yourself. 	随你便。
+lludd55	1	lludd55::English	Even ((y-y-you)) don't take me seriously! 	连((你——你))都不把我当回事!
+p44	1	p44::English	Who did this to you? 	这是谁对你做的?
+lludd56	1	lludd56::English	((Nobody))! <<A look of determination seizes Lludd.>> 	((没人))!<<卢德脸上涌起一股决然。>>
+lludd57	1	lludd57::English	Everyone assumes I'm just some stupid k-k-kid. Just the mayor's idiot son. They don't take me ((seriously))! ##But now I can show I'm w-w-worth something. I can ((save)) the village, all by myself. 	人人都当我是某个笨小——小孩。就是镇长的傻儿子。没人把我((当回事))! ##但现在我能证明自己有——有价值。我能((拯救))村子,全靠我自己。
+lludd58	1	lludd58::English	I found the old Wikkan contract-rites, stashed in my mother's basement. I convinced Emyr to help me set it up, but it was ((me)) who whispered to Aenguin and felt his reply echo through my b-b-bones.	我找到了古老的维坎契约仪轨,藏在我母亲的地下室里。我说服埃米尔帮我布设,但向安圭因低语、感到他的回应在我骨——骨子里回荡的,是((我))。
+p45	1	p45::English	The village isn't worth ((dying)) for, kid. 	村子不值得你((死)),小子。
+lludd59	1	lludd59::English	S-s-says ((who))? Culwych is always talking of his war buddies, who died to liberate Pwyll. But w-w-why's that any different from this? Just because we're not at ((war))?	谁——谁((说的))?卡尔威奇总念叨他的战友,那些为解放普威尔而死的人。可那跟这有什——什么两样?就因为现在不在((打仗))?
+p46	1	p46::English	I'm getting you out of there, whether you like it or not. 	不管你愿不愿意,我都要把你弄出来。
+lludd60	1	lludd60::English	N-n-nobody lets me make my own ((decisions)). I've been planning this for m-m-months! It's my choice! 	没——没人让我自己做((决定))。这计划我筹划了好几——几个月!这是我的选择!
+p47	1	p47::English	I admire your guts, at least.	至少我佩服你的胆量。
+lludd61	1	lludd61::English	Pwyll is ((dying)). Everyone says so. Since Aenguin was killed, the soil's d-d-drying up. In another generation there'll be nothing ((left)). This is the ((only)) way to save the village. 	普威尔正在((死去))。人人都这么说。安圭因被杀之后,土壤正在干——干涸。再过一代人,就什么都不((剩))了。这是拯救村子的((唯一))办法。
+p48	1	p48::English	Some towns dry up, it's just the way it is. 	有些镇子就是会衰败,世道如此。
+lludd62	1	lludd62::English	That's e-e-easy for you to say, not being from here. Pwyll is the only place I've ever known. I won't ((survive)) anywhere else. 	你——你说得轻巧,你又不是本地人。普威尔是我唯一熟悉的地方。去别处我((活不下去))。
+p49	1	p49::English	@@ You don't know that. The Skyrealms are full of impossible places, beyond your ((wildest)) dreams. 	@@ 你怎么知道。天空领域遍地是难以置信的奇景,超越你((最狂野))的想象。
+lludd63	1	lludd63::English	&& I don't ((care)) about other places. I only have one home, and it's ((Pwyll)). 	&& 别的地方我((不在乎))。我只有一个家,那就是((普威尔))。
+lludd64	1	lludd64::English	%% <<He sniffs.>> I once tried some scryshroom tea, while my mother was out. I saw... I saw myself on a ship, flying through a shoal of skyfish, their scales shimmering in a rainbow of colour...	%% <<他吸了吸鼻子。>>有一次母亲出门,我偷偷试了点窥菇茶。我看见……我看见自己在一条船上,穿过一群天鱼,它们的鳞片闪着彩虹般的光泽……
+lludd65	1	lludd65::English	Mother always says the visions can be ((wrong)). So I thought it ((was)). But maybe... maybe it could be true?	母亲总说幻象会((出错))。所以我以为那是((假的))。可也许……也许它会是真的?
+lludd66	1	lludd66::English	Okay. ((Sniff.)) I'll go back, then.	好吧。((吸鼻子。))那我回去。
+lludd67	1	lludd67::English	<<You slice through the membrane and a torrent of foul-smelling acid pours forth. Lludd slides out of the muck, coughing and spluttering.>>	<<你割开膜层,一股恶臭的酸液喷涌而出。卢德从秽物中滑出来,咳嗽不止。>>
+lludd68	1	lludd68::English	Thank you, newcomer. Let me recollect myself and... I'll make my own way back to town. 	谢谢你,新来的。让我定定神,然后……我自己回镇上去。
+lludd69	1	lludd69::English	<<As you turn to leave, a violent tremor engulfs the whole mushroom as its organs undulate in agony. You realise that by slicing into its bowels, you may have just [[killed]] this ancient thing.>>	<<你转身欲走,整株蘑菇剧烈震颤,器官痛苦地蠕动。你意识到,割进它的内脏,你或许已经[[杀死]]了这古老的存在。>>
+p50	1	p50::English	Enough of this. <Cut him loose.>	够了。<割开膜放他出来。>
+p51	1	p51::English	So you ((really)) want to do this?	所以你((真))想这么做?
+lludd70	1	lludd70::English	<<You slice through the membrane and a torrent of foul-smelling acid pours forth. Lludd slides out of the muck, coughing and spluttering.>>	<<你割开膜层,一股恶臭的酸液喷涌而出。卢德从秽物中滑出来,咳嗽不止。>>
+lludd71	1	lludd71::English	You had no r-r-right! ##<<He shivers.>> The first thing I've done, truly by ((myself)), and you've ruined it. You had no ((right))...	你无——无权这样做! ##<<他瑟瑟发抖。>>这是我头一件真正((靠自己))做成的事,你却毁了它。你无((权))……
+p52	1	p52::English	People care about you, kid. You can't throw your life away. 	有人在乎你,小子。你不能拿命去扔。
+lludd72	1	lludd72::English	I thought... mother would be ((proud))...  ##<<The boy shivers and says no more.>>	我以为……母亲会((骄傲))…… ##<<男孩瑟瑟发抖,不再说话。>>
+p53	1	p53::English	You'll thank me in time.	早晚你会谢谢我的。
+p54	1	p54::English	I just like ruining people's plans. 	我就是喜欢毁掉别人的计划。
+lludd73	1	lludd73::English	<<The boy shivers and says nothing.>>	<<男孩瑟瑟发抖,一言不发。>>
+p55	1	p55::English	So you ((really)) want to do this? Knowing that you'll die? 	所以你((真))想这么做?明知会死?
+lludd74	1	lludd74::English	I've never been so sure of ((anything)) in my life. I want to save the village - I want Pwyll to live on, even if I have to die. 	我这辈子从没对((任何事))这么确定过。我想拯救村子——我想让普威尔活下去,哪怕我必须死。
+p56	1	p56::English	Well, I respect your decision. 	好吧,我尊重你的决定。
+lludd75	1	lludd75::English	Thank you. I'm glad, at least someone took me seriously, in the e-e-end. Can I ask you a final favour?	谢谢你。我很欣慰,至少最后有人把我当——当回事了。能请你帮我最后一个忙吗?
+p57	1	p57::English	Of course. 	当然。
+lludd76	1	lludd76::English	<<A hand pushes out from the membrane, slick with slime.>> Will you... hold my hand? ##<<You nod, and take his hand in your own. The sting of acid bites, and you feel him shiver.>>	<<一只手从膜中伸出,黏液淋漓。>>你愿意……握住我的手吗? ##<<你点点头,握住他的手。酸液的刺痛咬人,你感到他在发抖。>>
+lludd77	1	lludd77::English	<<You stay like this for a few moments, in silence, before his hand goes limp. You realise that Lludd is dead.>>	<<你们就这样静静待了片刻,然后他的手垂软下去。你意识到,卢德死了。>>
+p58	1	p58::English	No.	不。
+lludd78	1	lludd78::English	That's okay. Then will you at least... wait here, with me?	没关系。那你至少能……陪我在这儿等等吗?
+lludd79	1	lludd79::English	<<You nod and wait in silence for a few moments, until you notice the boy has gone very still. Yes, there's no denying it; Lludd is dead.>>	<<你点点头,静静等了片刻,直到你发觉男孩已然一动不动。是的,毫无疑问;卢德死了。>>
+lludd79b	1	lludd79b::English	<<There's no denying it; Lludd is dead.>>	<<毫无疑问;卢德死了。>>
+p59	1	p59::English	Still, I can't let you do this. 	可我还是不能让你这么做。
+lludd80	1	lludd80::English	Oh, it's you. ##I wanted to thank you, for what you did back in the Sacred Shroom. You saved my life. 	哦,是你。 ##我想谢谢你,感谢你在神圣蘑菇里做的一切。你救了我的命。
+lludd81	1	lludd81::English	I don't know what will happen to Pwyll. It makes me sad to think of it not being here, in the future... but maybe we can find somewhere else to call home. 	我不知道普威尔将来会怎样。想到它将来不在这儿了,我就难过……但也许我们能找个别的地方当家。
+lludd82	1	lludd82::English	Oh, it's you. ##I still can't forgive you, for interrupting the digestion. But seeing how relieved my mother was to have me back... I suppose I wasn't as worthless as I thought. 	哦,是你。 ##我仍然无法原谅你,坏了我被消化的过程。但看到母亲迎我回家时如释重负的样子……我想我并非自己想的那么一无是处。
+lludd83	1	lludd83::English	I don't know what will happen to Pwyll. It makes me sad to think of it not being here, in the future... but maybe we can find somewhere else to call home. 	我不知道普威尔将来会怎样。想到它将来不在这儿了,我就难过……但也许我们能找个别的地方当家。
+cul1	1	cul1::English	<<The man's eyes follow you with suspicion. His greying hair and weathered skin suggest he is older than most in the village, and a faded scar runs down his face.>>	<<那男人的目光满腹狐疑地跟着你。花白的头发和饱经风霜的皮肤显示他比村里多数人都年长,一道褪色的伤疤划过脸庞。>>
+cul2	1	cul2::English	Y're new to town, I gather? Well, I'm the local weighmaster - name's Culwych. And I'll have you know; before you engage in any business here in Pwyll, I'll be takin' yer weight.	我看你是新来的?嗯,我是本地秤量官——名叫卡尔威奇。你给我记住;在普威尔做任何买卖之前,我都得先给你过秤。
+cul3	1	cul3::English	So, without another word, please step on the scales. <<He gestures to the huge contraption behind him.>> Thankin' ye ((kindly)).	所以,别废话,请上秤。<<他指指身后那台巨大的装置。>>多谢((配合))。
+p100	1	p100::English	Wait, why do you want to ((weigh)) me?	等等,你为什么要给((我))过秤?
+cul4	1	cul4::English	<<He narrows his eyes.>> By decree of the Apostatic Union, all those seekin' to trade in its jurisdictions must prove they're of an ((ordinary)) disposition; that is, not physically altered by cipher magic or god devotion, nor bearing the guilt of unpunished crimes. 	<<他眯起眼睛。>>奉叛教联盟法令,凡欲在其辖境内经商者,必须证明自己((寻常))无异;也就是说,未被密文魔法或拜神行径改变肉身,亦无未受惩罚的罪愆在身。
+p101	1	p101::English	And you can tell that just by my ((weight))?	光凭我的((体重))你就能看出这些?
+cul5	1	cul5::English	Just step on the godsdamn scales, alright? 	快上那该死的秤,行不行?
+p102	1	p102::English	Alright, I suppose.	行吧,照做便是。
+cul6	1	cul6::English	<<He nods.>> Go ahead, then.	<<他点点头。>>那就请吧。
+p103	1	p103::English	There's no way I'm stepping on that thing.	我才不上那玩意呢。
+cul7	1	cul7::English	Well, you're welcome to refuse; but this village will be having nothin' to do with ye until you step on those damn scales.	嗯,你尽管拒绝;但不上那该死的秤,这村子跟你没得谈。
+cul8	1	cul8::English	As I already told ye, please step on the scales. <<He gestures to the huge contraption behind him.>> 	已经跟你说过了,请上秤。<<他指指身后那台巨大的装置。>>
+cul9	1	cul9::English	<<He studies the dials and symbols atop the machine, and scratches various notes on some parchment.>> ##Interesting. ((Very)) interesting.	<<他端详着机器顶上的表盘与符号,在羊皮纸上草草记下各种笔记。>> ##有意思。((非常))有意思。
+p104	1	p104::English	Uh... did I pass?	呃……我过关了吗?
+p105	1	p105::English	((Say nothing.))	((一言不发。))
+cul10	1	cul10::English	The prime glyph says you're a... ((criminal)). <<He shoots you a stern glance.>> The lesser glyphs are harder to parse. Let's see now... 	主符文说你是个……((罪犯))。<<他狠狠瞪你一眼。>>次级符文就难解了。让我看看……
+cul11	1	cul11::English	They say you ((killed a man)). Multiple witnesses. And, what's this - ((martial trauma)). ## <<He sighs.>> I'm sorry to say I've known plenty o' soldiers who lost their reason.	上面说你((杀过人))。证人多名。还有,这是什么——((战阵创伤))。 ##<<他叹了口气。>>很遗憾,我认识不少丧失理智的老兵。
+cul12	1	cul12::English	Says here y'er a ((deserter)). Don't say what from - these glyphs can be plenty vague. Still, can't say I blame anyone for running from a fight. 	这儿写着你是((逃兵))。没说从哪儿逃——这些符文含糊得很。不过,打仗开溜,我也不能怪谁。
+cul13	1	cul13::English	Hmm, I think this one's... ((fatal miscast)). Ah, so you're a dabbler in cipher magic, eh? A dangerous art, for certain. <<He pauses.>> Jus' be sure to keep any spellbooks ((closed)) in here, alright? I won't have you blowin' your fingers off in my vicinity. 	嗯,这个是……((致命施法事故))。啊,原来你玩过密文魔法?无疑是门危险的技艺。<<他顿了顿。>>在这儿可千万把法术书((合上)),行吗?别在我跟前把手指崩飞了。
+cul14	1	cul14::English	Hmm, illegal merchant. The goods seem to be- let's see - ((martial)) in nature. So you were an arms dealer, eh? 	嗯,非法商贩。货品似乎是——让我看看——((军用))物资。所以你是个军火贩子?
+cul15	1	cul15::English	Says here you were a petty criminal. The other glyphs say - hmm, let's see - you were found all beaten up. I assume you were betrayed by your own sort, eh? Serves you right. 	这儿写着你是个小罪犯。其他符文说——嗯,让我看看——你被发现时遍体鳞伤。我猜是被自己人出卖了吧?活该。
+cul16	1	cul16::English	They say you were a petty criminal. Other glyphs say you were tracked for years. Did you know that, I wonder? Did you live with one eye over yer shoulder? 	上面说你是个小罪犯。其他符文说你被追缉多年。这你知道吗?你是不是天天提心吊胆过日子?
+cul17	1	cul17::English	Crimes of a... ((magical)) nature. Says here you forced entry onto an Inquisition ship, via a... ((portal))? You're either the smartest or stupidest wizard I've ever heard of. 	性质……((魔法))的罪行。这儿写着你强行闯上一艘宗教裁判所的船,经由一个……((传送门))?你要么是我听说过的最聪明、要么是最蠢的法师。
+cul18	1	cul18::English	Hmm, plenty of damning glyphs 'ere. Seems like you were some sorta criminal ringleader. No wonder you were caught.	嗯,这儿的定罪符文可不少。看来你是什么犯罪头目。难怪被抓。
+cul19	1	cul19::English	Hm, what's this? ((Raider)) of... ((tombs))? Ah, so y'er in the business of plunderin' ancient relics, eh? Very dangerous - an' not to mention illegal. 	嗯,这是什么?((盗))……((古墓))的贼?啊,原来你是干盗掘古代遗物这行的?非常危险——更别提违法了。
+cul20	1	cul20::English	((Forbidden cipher)), eh? Ah, so you stumbled on one o' those ((illegal)) words? A strange crime no doubt, but one with good reason. You don't wanna be blowing up a town just 'cos you mispronounced one o' those. 	((禁咒)),嗯?啊,所以你撞上了某个((非法))之词?罪名无疑古怪,但设禁有理。你可不想就因为读错一个词,把整座镇子炸上天。
+cul21	1	cul21::English	Says here you caused a ((cipher rift)). I can't imagine what kinda foul cipheristry you were dabblin' with, but I'm mighty glad you didn't tear apart the skyrealms with your foolishness. 	这儿写着你在((密文))上撕出过裂隙。我无法想象你捣鼓的是何等污秽的密文邪术,但我非常庆幸你没用自己的蠢把天空领域撕个粉碎。
+cul22	1	cul22::English	Merchant of ((illegal goods)). Let's see here, you were tradin'... ((books))? Hmph, may seem innocent enough, but some dusty ol' tomes are more dangerous than a broadside of cannons. 	((违禁))商贩。让我看看,你交易的是……((书))?哼,看似无害,但有些积灰的古书比一轮舷炮齐射还危险。
+cul23	1	cul23::English	Hmm - ((corruption)). An' this glyph says - politics? Ah, so you probably rigged an election, right? I've 'eard those things can be brutal affairs with plenty o' bloodshed, so I can see why some would take a fall for the right price. 	嗯——((贪腐))。而这个符文说——政治?啊,所以你八成操纵过选举,对吧?我听说那种事狠辣得很,免不了流血,所以有人肯为好价钱顶罪,我也理解。
+cul24	1	cul24::English	Says here you're of ((noble)) blood. An', this is a strange glyph - I think it means ((disgrace))? Ah, so you're probably a runaway from one o' those corrupt noble families. 	这儿写着你是((贵族))血统。还有,这个符文很怪——我想是((耻辱))?啊,所以你八成是从哪个腐化贵族家里跑出来的。
+cul25	1	cul25::English	Well, this is a strange series of glyphs. Multiple... disrobings... through cipher? <<He thinks a moment, then erupts in hearty laughter.>> ##Oh, I heard about you. You're that idiot who turned a whole town naked, am I right? 	嗯,这一串符文真怪。多起……借密文……扒衣案?<<他想了想,随即放声大笑。>> ##哦,我听说过你。你就是把整座镇子扒光了的那个蠢货,对吧?
+cul26	1	cul26::English	They say you were a merchant - an' a wealthy one, at that. But this glyph means... ((forbidden relics))? Ah, so you were in the business of the ((occult)). No wonder they caught you. 	上面说你是个商人——还是个有钱的。但这个符文的意思是……((禁物))?啊,所以你干的是((秘术))营生。难怪被抓。
+cul27	1	cul27::English	Ah, but there's one more glyph. Inquisition... ((agent))? ##<<He looks up from his parchment, his face struck with puzzlement.>>	啊,还有一个符文。宗教裁判所……((探员))? ##<<他从羊皮纸上抬起头,满脸困惑。>>
+cul28	1	cul28::English	Beggin' yer pardon -  at first glance I thought you might be one o' those Dark Star mercenaries, running from the Inquisition raid. But you must 'ave been ((fighting)) those scoundrels, eh?	恕我失礼——乍一看我还以为你是哪个黑星佣兵,躲避宗教裁判所突袭呢。但你一定是((打))那些恶棍的,对吧?
+p106	1	p106::English	Yes, those crimes were just... uh... a ((cover story)).	对,那些罪名只是……呃……((掩护身份))。
+cul29	1	cul29::English	<<He gives a quick Union salute.>> Apologies, friend. This 'umble weighmaster didn't mean to delay Inquisition business with his lowly bureaucracy. ##I've approved your visit to Pwyll; you won't get any trouble. 	<<他行了个利落的联盟礼。>>抱歉,朋友。我这卑微的秤量官可无意用小吏的繁文缛节耽搁宗教裁判所的公务。 ##你访问普威尔的手续我已批准;不会有人找你麻烦。
+p107	1	p107::English	Yes, I'm a Confessor, atoning for my crimes.	对,我是个忏悔者,正在为自己的罪行赎罪。
+p108	1	p108::English	It's not by choice, I assure you. 	我向你保证,这并非我自愿。
+cul30	1	cul30::English	Well, far be it for me to delay Inquisition business. ##I've approved your visit to Pwyll; you won't get any trouble. 	嗯,我哪敢耽搁宗教裁判所的公务。 ##你访问普威尔的手续我已批准;不会有人找你麻烦。
+cul31	1	cul31::English	<<He thinks a moment.>> But, uh, say - in light of your ((profession)) - could lend this 'umble servant of the Apostatic Union a hand? There'd be an [[Apostatic Union Passport]] in it, for ye...	<<他想了想。>>不过,呃,我说——看在你的((职业))份上——能帮叛教联盟这个卑微仆人一把吗?事成之后,有张[[叛教联盟护照]]等着你……
+cul32	1	cul32::English	Y'see, the Inquisition raid ain't the ((only)) reason we've been so eager to weigh people of late. There's also fears of bloody ((god-worship)) among the townsfolk. After all we've been through! <<He looks distinctly peeved.>>	你瞧,近来我们急着给人过秤,可((不单))是为了宗教裁判所突袭。镇民中还担心出现该死的((拜神))勾当。我们都经历过那些了!<<他一脸恼火。>>
+cul33	1	cul33::English	Ah, welcome back. What can ol' Culwych do for ye? 	啊,欢迎回来。老卡尔威奇能为你做点什么?
+p109	1	p109::English	I'm looking for some Dark Star mercs, and I need to explore the Oneiric Isles. 	我在找几个黑星佣兵,而且我需要走遍梦幻群岛。
+cul34	1	cul34::English	<<Culwych taps his nose.>> Ah, ((Inquisition)) business, eh? Don't worry, ol' Culwych can keep a secret. 	<<卡尔威奇点了点鼻子。>>啊,((宗教裁判所))的公务,嗯?放心,老卡尔威奇守得住秘密。
+cul35	1	cul35::English	Well, you might try askin' [[Nudd]] who's the hired muscle over at the [[Scryshroom Company]]. Gotta say, he's a prickly fella an' I've never gotten on with him too well, but I know he used to work for the Dark Stars.	嗯,你可以去问问[[纳德]],[[窥菇公司]]雇的打手。说实话,那家伙一身刺,我一直跟他不对付,但我知道他从前替黑星佣兵团干过活。
+cul36	1	cul36::English	But to be honest, I doubt you'll find out much in ol' Pwyll. You'll be wantin' to reach [[Hallow Town]] in [[Hallowshire]], to the south. There's a Union Council building an' a bustling dock where all sorta skyships lay anchor. 	但说实话,在老普威尔恐怕查不出多少。你得南下,去[[哈洛郡]]的[[哈洛镇]]。那儿有联盟议事厅,还有个热闹的码头,各路天船都停泊。
+cul37	1	cul37::English	But to pass over the Union Gatebridge you'll need an [[Apostatic Union Passport]]. Each one'll grant you passage over a single bridge. 	但要过联盟关卡桥,你需要一张[[叛教联盟护照]]。每张护照只能过一座桥。
+cul38	1	cul38::English	As a certified weighmaster, I have one that I'm not usin' - but Inquisitor or not, you'll have to [[earn my trust]] if I'm gonna just hand it over. 	作为认证秤量官,我手里有一张闲置的——但不管你是不是审判官,要想让我白白交出来,你得先[[赢得我的信任]]。
+p110	1	p110::English	What can you tell me about this town? 	关于这个镇子,你能告诉我什么?
+cul39	1	cul39::English	Well, Pwyll is a quaint village these days. We've been growin' and sellin' [[scryshroom]] since the early days of the Skyrealms, an' shippin' 'em all over the place. 	嗯,如今的普威尔是个古雅的小村。自天空领域开辟之初,我们就种[[窥菇]]、卖窥菇,运往四面八方。
+cul40	1	cul40::English	Business may not be as good since the [[God War]] - ((killin' yer own deity will do that)) -  but we're better off for being in the Apostatic Union. I'd take the Union's tax levies over a Wikkan blood contract any day. 	自[[神之战]]后生意可能不复当年——((弑神的代价便是如此))——但身在叛教联盟,我们的日子好过多了。联盟的税收和维坎血契之间,我任何时候都选前者。
+p111	1	p111::English	Wait - you killed your own god? 	等等——你们杀了自己的神?
+cul41	1	cul41::English	Aye, forty years ago. Before then Pwyll was prosperous - and ((miserable)). We were trapped into a blood-contract with our tyrant-god Aenguin, and the terms were ((abysmal)).	对,四十年前。在那之前,普威尔富足——也((悲惨))。我们被一纸血契捆在我们的暴君神安圭因身上,条款((糟透了))。
+cul42	1	cul42::English	Oh, our harvest was bountiful, but the blood-price was high. Every year, dozens o' villagers disappeared into the [[sacred shrooms]] to appease that divine ((bastard)), never to be seen again. 	哦,我们收成是丰饶,可血的代价高昂。每年都有几十个村民被送进[[神圣蘑菇]],去平息那位神圣((杂种))的怒火,从此杳无音信。
+cul43	1	cul43::English	So when the Apostatics came callin' - askin' us to renounce our faith, an' join the fight against the Wikkans? We took up arms ((gladly)). I fought in the Pwyllian division, an' have the scars to show for it. 	所以当叛教者找上门——要我们背弃信仰、加入讨伐维坎教徒的战事?我们((欣然))拿起了武器。我打过普威尔师团,身上疤就是证明。
+p112	1	p112::English	What happened next?	后来呢?
+p113	1	p113::English	Okay, I get the picture. 	行,我明白了。
+cul44	1	cul44::English	Anythin' else you wanted? 	还想问什么?
+cul45	1	cul45::English	We crewed a Kardovan lancer ship an' impaled our own deity with a voidspear. For all the grief he caused my people, that bugger really didn't put up much of a fight. 	我们登上一艘卡尔多瓦长矛船,用虚空长矛把自己的神钉了个对穿。他给我族人带来那么多苦难,那家伙却没怎么挣扎。
+cul46	1	cul46::English	But the war still raged, so the Apostatics built that huge [[fortress]] on the hill to repel Wikkan counterattacks. O' course, when the dust cleared an' the war was over, the newfangled [[Apostatic Union]] let it fall into ruin...	但战事仍在肆虐,叛教者便在山上建起那座巨大的[[堡垒]],抵御维坎教徒的反扑。当然,硝烟散尽、战事平息后,新兴的[[叛教联盟]]任它沦为废墟……
+cul47	1	cul47::English	...until that mercenary lass ((Vela Callose)) took it over, o' course. Past few years, Pwyll 'as garnered quite the reputation for smugglin' and nefarious business, thanks to those damned [[Dark Stars]]. You'd think the Union would'a done somethin' about it sooner, but the larger the gears the slower they grind, I guess.	……直到那佣兵丫头((薇拉·卡洛斯))接手,当然。这几年,拜那些该死的[[黑星佣兵团]]所赐,普威尔在走私和不光彩行当上名声在外。你会觉得联盟早该管管了,不过我想,齿轮越大转得越慢嘛。
+cul48	1	cul48::English	...until that mercenary lass ((Vela Callose)) took it over, o' course. Past few years, Pwyll 'as garnered quite the reputation for smugglin' and nefarious business, thanks to those damned [[Dark Stars]].	……直到那佣兵丫头((薇拉·卡洛斯))接手,当然。这几年,拜那些该死的[[黑星佣兵团]]所赐,普威尔在走私和不光彩行当上可是名声在外。
+cul49	1	cul49::English	You'd think the Union would'a done somethin' about it sooner, but the larger the gears the slower they grind, I guess.	你会觉得联盟早该管管了,不过我想,齿轮越大转得越慢嘛。
+p114	1	p114::English	What's a Wikkan contract?	什么是维坎契约?
+cul50	1	cul50::English	Hmph, 'ave things gotten so comfy in the Union that people 'ave forgotten their ((history?)) Well I'll be damned. 	哼,联盟的日子过得太舒坦,连自己的((历史?))都忘了?真是见鬼。
+cul51	1	cul51::English	For as long as people can remember, Wikkans 'ave acted as mediators between god's an' their worshippers. ##<<He strokes his chin.>> Kinda like ((lawyers)) of the ((divine)), I guess.	自有记忆以来,维坎教徒就一直充当神明与其信徒之间的中介。 ##<<他摸着下巴。>>大概算是((神明))的((律师))吧。
+cul52	1	cul52::English	S'pposedly they acted in the best interests of both mortals ((an')) the gods - binding both in a magical contract that made sure neither got scuppered over. 'Cept, here in Pwyll our Wikkans ((fucked)) us; the terms were all in Aenguin's favour.	据说他们兼顾凡人((和))神明双方的利益——用一份魔法契约把双方绑在一起,确保谁也不会被坑。可是在普威尔,我们的维坎教徒((坑))了我们;契约条款全向着安圭因。
+cul53	1	cul53::English	We can't a' been alone, because forty years ago the apostatics started the God War, and we weren't the ((only)) place to slay their own god, let me tell ya. 	我们肯定不是孤例,因为四十年前叛教者们发动了神之战,而且我告诉你,弑神的((不只))我们一处。
+p115	1	p115::English	Are you happy being part of the Apostatic Union? 	身为叛教联盟的一员,你高兴吗?
+cul54	1	cul54::English	More than a lotta folk. I've met travellers who lament the passing of the gods - who claim the Union has swapped divine majesty for naught but politics an' paperwork.	比很多人都高兴。我遇过些旅人,哀叹诸神陨落——声称联盟把神圣威仪换成了政治与文书,一无是处。
+cul55	1	cul55::English	But here in Pwyll? Anyone old enough will remember the ((bad times.)) We've all lost friends an' family - the godsdamn soil was fertilised with their blood. 	可在普威尔?凡是上了年纪的都记得那些((坏年月。))我们都失去了亲朋——那该死的土壤,都是用他们的血浇肥的。
+cul56	1	cul56::English	Of course, for a long time bein' in the Union didn't mean much. Here in the [[Oneiric Isles]] we're on the fringes, y'see - an' for decades these isles were rife with outlaws, criminals and Wikkan refugees. 	当然,很长一段时间里,加入联盟没多大意义。要知道,我们在[[梦幻群岛]],地处边缘——几十年来,这些岛上法外之徒、罪犯和维坎难民横行。
+cul57	1	cul57::English	It's only lately that the Union's stepped up its presence an' built a council chamber in [[Hallowshire]]. Since then, trade in Pwyll's been boomin' - turns out plenty of folk wanna buy our shrooms. Now, If only our harvests could keep up with demand... 	直到近来联盟才加强驻在,在[[哈洛郡]]建了议事厅。从那以后,普威尔的贸易蒸蒸日上——原来想买我们蘑菇的人多得很。唉,要是收成能跟上需求就好了……
+p116	1	p116::English	What's this scryshroom you grow?	你们种的这窥菇是什么?
+cul58	1	cul58::English	Well, it's a mushroom that lets you scry the future, see? Shows you visions of what ((could)) come to pass. 	嗯,就是一种能让你窥视未来的蘑菇,懂吗?给你看那些((可能))成真的景象。
+cul59	1	cul59::English	Only, it's not always right. Sure, every now an' again someone sees a vision of something that absolutely, irrevocably comes true, an' everyone sings the praises of the humble scryshroom. But most of the time y'er just havin' a bad dream. 	只是它不总灵验。诚然,偶尔有人看到的幻象绝对、不可逆转地应验了,大家就把不起眼的窥菇夸上天。可大多数时候,你不过是做了场噩梦。
+cul60	1	cul60::English	<<He shrugs.>> Still, people all over the Skyrealms wanna buy it, so I'm not complainin' - puts food on my plate, after all. 	<<他耸耸肩。>>不过,天空领域各地的人都想买,所以我没什么可抱怨的——毕竟它让我吃上了饭。
+p117	1	p117::English	That's all I wanted to ask.	我想问的就这些。
+cul61	1	cul61::English	So be it. Was there anythin' else?	那就这样。还有别的事吗?
+p118	1	p118::English	How can you tell so much from those scales? 	你从那杆秤上怎么能看出这么多名堂?
+cul62	1	cul62::English	These are [[morality scales]]. You'll see there's only one visible; that's because it's magically linked at the fulcrum, through a bond of cipher, to a scale containin' the ((Moral Standard)).	这是[[道德秤]]。你会看到它只有一端可见;那是因为在支点处,它通过密文联结,与盛着((道德标杆))的另一端魔法相连。
+p119	1	p119::English	What's the Moral Standard - some kind of weight? 	道德标杆是什么——某种砝码?
+cul63	1	cul63::English	<<He grins.>> Oh, no - that would be preposterous! How could you tell so much about a person by weighin' 'em against a ((dead weight))? No, no - don't be stupid!	<<他咧嘴一笑。>>哦,不——那也太荒唐了!拿人跟一块((死砝码))较重,怎么能看出那么多门道?不,不——别犯傻!
+cul64	1	cul64::English	The Moral Standard is a ((person)). A carefully selected person who bears qualities deemed the epitome of Apostatic Union morality. By weighin' you against such perfect integrity, we can tell by what ((degree)) your character is lackin'. 	道德标杆是个((活人))。一位精心挑选的人,具备堪称叛教联盟道德典范的品质。拿你与这般完美的操守相较,我们就能看出你的品性((欠缺))几分。
+cul65	1	cul65::English	I think the current Moral Standard resides far off in Byonne University. They have to rest an' sleep between weighings, of course - which is why weigh houses only open at certain times.	我记得现任道德标杆远在拜昂大学。称量之间,他们当然得休息睡觉——所以称量所只在特定时间开放。
+p120	1	p120::English	Why does such a small town need to weigh people? 	这么小的镇子,为什么要给人过秤?
+cul66	1	cul66::English	Well, on account of bein' on the ((fringes)) of Apostatic Union territory, there are certain unseemly folk who've taken advantage of Pwyll in the past. Mercenaries like those Dark Stars in the fort over yonder, who've used us to smuggle ill-gotten goods into [[Hallowshire]] and beyond. 	嗯,正因为地处叛教联盟疆域的((边缘)),过去总有些不三不四的人占普威尔的便宜。就像那边堡垒里的黑星佣兵,借我们的地方把赃货运进[[哈洛郡]]和更远处。
+cul67	1	cul67::English	So havin' a certified weighmaster helps Pwyll attract reputable merchants to buy our [[scryshroom tea]]. Shows we can be trusted to pay our taxes, y'know?	所以有位认证秤量官,能帮普威尔招徕信誉良好的商人来买我们的[[窥菇茶]]。这表明我们交税守信,你懂吧?
+cul68	1	cul68::English	An', we don't ((just)) weigh people. Can also weigh shrooms an' grain. Or, well, anythin' really. 	还有,我们((不只))给人过秤。也称蘑菇和谷物。呃,其实是啥都称。
+p121	1	p121::English	That's enough about weighing things.	称重的事就问到这儿。
+cul69	1	cul69::English	Was there anythin' else?	还有别的事吗?
+p122	1	p122::English	I'll be going, then. 	那我先走了。
+cul70	1	cul70::English	Aye, until next time. 	行,下次见。
+p123	1	p123::English	So you need help tracking down god-worshippers?	所以你需要帮忙追查拜神者?
+cul71	1	cul71::English	<<He leans forward and speaks low.>> ((Aye.)) Folk've been a-feared recently, y'see. The soil's dyin' an' harvests are down. Merchants want to buy our scryshroom more than ever, but we can't meet demand. So some have been flirtin' with... the ((old)) ways. 	<<他俯身低语。>>((是。))最近乡亲们都怕了,你瞧。土壤在死,收成在跌。商人想买我们窥菇的劲头前所未有,可我们供不上货。所以有些人开始跟……((老))法子眉来眼去了。
+p124	1	p124::English	What makes the ((old)) ways so bad? 	((老))法子有什么不好?
+cul72	1	cul72::English	<<He sighs.>> It's been forty years since the God War. Forty years since the apostatics told the Wikkans an' their gods to go ((fuck)) 'emselves. ##Forty years since me an' the lads drove a voidspear through our ((own god's)) eye - that cruel, violent, ((bastard)) of a god: Aenguin.	<<他叹了口气。>>神之战已经过去四十年。叛教者叫维坎教徒和他们的神((滚蛋)),也过去四十年了。 ##我和弟兄们把虚空长矛捅进((我们自己的神))的眼窝,也四十年了——那个残暴嗜血的((杂种))神:安圭因。
+cul73	1	cul73::English	An' in those forty years, folk 'ave forgotten how ((bad)) it was under that divine tyrant an' his Wikkan lackeys. Sure, we had bountiful harvests and our purses were bulgin'. But our sons and daughters were taken from us, an' the soil was fertilised with their ((blood)).	而在这四十年里,乡亲们忘了在那位神圣暴君和他的维坎走狗治下,日子((多惨))。诚然,那时我们收成丰饶,钱袋鼓鼓。可我们的儿女被夺走,土壤是用他们的((血))浇肥的。
+cul74	1	cul74::English	Now, our ol' god Aenguin's been ((dead)) for long enough. But they say so long as people still ((believe)), some part of a god can live on. So there's been ((murmuring)) of some folk tryin' to... bring him ((back,)) an' that's got the rest o' us so scared shitless. 	如今,我们的老神安圭因((死))得够久了。但人们说,只要还有人((信)),神的一部分就能活下去。所以有((风声))说,有些人正试图……让他((复活,))这让我们其他人吓得魂飞魄散。
+p125	1	p125::English	Look, just tell me what you need. 	行了,直接说你需要什么。
+cul75	1	cul75::English	Alright, I'll tell it straight. As you know, god-worship an' consortin' with Wikkans or their gods is a heinous crime - but I've reason to believe there's some among us who are turnin' to it, to try an' fix our poor harvests. 	好,我就直说。你知道,拜神、与维坎教徒或他们的神勾结是滔天大罪——但我有理由相信,我们中间有人正转向此道,想补救可怜的收成。
+cul76	1	cul76::English	Trouble with a small town like this? We all know each other, an' the guilty parties won't talk to ((me)). But ((you))? You're an outsider, an' an Inquisition ((agent)) to boot. 	这种小镇的难处?大家彼此都认识,那些罪人不会跟((我))开口。可((你))?你是外乡人,还是宗教裁判所的((探员))。
+cul77	1	cul77::English	I need you to [[ask around]], an' try and find any [[Wikkan sympathisers]] - so we can sort this out ((quiet)) like, before the villagers start loppin' each others heads off in a frenzy. ##Find summin' out and I'll dispense you a [[Union Passport]] that'll grant passage to Hallowshire. 	我需要你[[四处打听]],设法找出任何[[维坎同情者]]——好让我们悄悄把这事((摆平)),免得乡亲们杀红了眼互相砍脑袋。 ##查出点什么,我就发你一张[[联盟护照]],凭它可以去哈洛郡。
+p126	1	p126::English	Alright, I'll see what I can do.	好,我尽力而为。
+cul78	1	cul78::English	<<He sighs in relief.>> You have my ((thanks)), newcomer. Just... as soon as you find summin' out of sorts, you let me know, y'hear? 	<<他如释重负地叹了口气。>>新来的,我((感谢))你。只是……一发现什么不对劲,你就告诉我,听见没?
+p127	1	p127::English	I get the whole ((god)) thing, but what exactly ((is)) a Wikkan?	((神))的事我懂了,可维坎教徒((到底))是什么?
+p128	1	p128::English	I'll think about it. 	我考虑考虑。
+cul79	1	cul79::English	<<He sighs.>> Look... if you hear of summin' out of sorts, just let me know, y'hear? 	<<他叹了口气。>>听着……一听说什么不对劲,就告诉我,听见没?
+p129	1	p129::English	So, about these god-worshippers...	那么,关于这些拜神者……
+cul80	1	cul80::English	<<He leans in.>> You heard anythin'?	<<他凑近。>>你听到什么了吗?
+p130	1	p130::English	What makes the old ways so bad, exactly? 	老法子究竟有什么不好?
+p131	1	p131::English	Do you have any idea who I should be asking?	你觉得我该去问谁?
+cul81	1	cul81::English	<<He strokes his chin.>> Well, you could try our Mayor, Owynn, but... honestly, she's often got her head so far in the clouds, I doubt she 'as a clue what's going on with her constituents. 	<<他摸着下巴。>>嗯,你可以去找我们镇长奥尔温,不过……说实话,她经常神游天外,我怀疑她对镇民的事一无所知。
+cul82	1	cul82::English	But seein' as this whole thing's tied up with the shroom trade, I'd try asking around in the [[Scryshroom Company]] down by the dock. Its owner, [[Dwynn]], certainly has a lot to ((gain)) from better harvests... 	不过这事儿既然跟蘑菇生意纠缠不清,我建议去码头边的[[窥菇公司]]打听打听。它的东家[[德温]],收成好转他((好处))可不少……
+p132	1	p132::English	About these Sacred Shrooms...	关于这些神圣蘑菇……
+p133	1	p133::English	That's all.	就这些。
+cul83	1	cul83::English	Fair 'nuff.	有道理。
+p134	1	p134::English	I've found evidence of god-worship in Pwyll. 	我发现了普威尔有人拜神的证据。
+cul84	1	cul84::English	<<He leans close.>> Oh yeah? ((Tell)) me then, why don't ya? 	<<他凑近。>>哦是吗?那你倒是((说))说看?
+p135	1	p135::English	I saw someone dressed in robes, lurking around at night.	我看见有人身穿长袍,夜里四处鬼祟。
+cul85	1	cul85::English	Hmm, that sure is mighty suspicious - but on its own, I can't do nought with this kinda evidence. Can ye try an' find where they were ((goin'?)) If they really ((were)) a Wikkan, there'd be some sorta... ((ritual)), maybe. Signs of someone tryin' ta rekindle the contract... 	嗯,这确实非常可疑——但光凭这个,这种证据我做不了什么。你能设法找到他们((去了哪儿?))要是真((是))维坎教徒,那总该有什么……((仪式))吧。比如有人想重续契约的迹象……
+p136	1	p136::English	There were occult instruments in the caverns below Pwyll.	普威尔地下的洞穴里有秘术法器。
+cul86	1	cul86::English	<<For a moment, he merely stares past you; lost in thought.>> ##This can only mean one thing.	<<一时间,他只是望着你身后出神。>> ##这只意味着一件事。
+cul87	1	cul87::English	If someone's conductin' rituals around Aenguin's corpse, that means they're tryin' to re-open the blood contract. ##But buried in those clauses was a ((terrible cost))... no less than [[human sacrifice]].	要是有人在安圭因的尸身旁举行仪式,那就是想重开血契。 ##而契约条款里埋着一笔((可怕的代价))……正是[[活人献祭]]。
+cul88	1	cul88::English	Here, take [[this key]]. It'll unlock the upper chamber in the [[Sacred Shroom to the west]].	给,拿着[[这把钥匙]]。它能打开[[西边神圣蘑菇]]的上层密室。
+cul89	1	cul89::English	That [[key]] you found? It'll unlock the upper chamber in the [[Sacred Shroom to the west]].	你找到的那把[[钥匙]]?它能打开[[西边神圣蘑菇]]的上层密室。
+cul90	1	cul90::English	There's no doubt in my mind. Someone's bein' taken to the Sacred Shroom to be metabolised - as per the contract's terms. ##You gotta [[go there an' ((save 'em!))]]	我毫不怀疑。有人正被带往神圣蘑菇,按契约条款去被消化吸收。 ##你得[[去那儿((救出他们!))]]
+p137	1	p137::English	Did you say ((metabolised))?	你说((消化吸收))?
+cul91	1	cul91::English	In the old days, there were Sacred Shrooms all over Pwyll. Each would spawn a whole forest 'o scryshrooms, but only... only if they'd recently metabolised a human.	古时候,普威尔遍地是神圣蘑菇。每一株都能孕育出整片窥菇林,但只有……只有在它们新近消化过一个活人之后。
+cul92	1	cul92::English	I 'aint sure if the scryshrooms ((use)) part of the human body to achieve their effect, or whether it was all just part o' Aenguin's divine ((mockery)) - but I know the scryshrooms used t'be more potent in the old days. 	我拿不准窥菇是不是((用))人体的某部分来达成药效,还是这一切只是安圭因神圣的((嘲弄))——但我知道,从前的窥菇药劲更大。
+cul93	1	cul93::English	Now, there's only one Sacred Shroom left - deep in the mushroom forest to the west. All the others shrivelled up an' died when we stopped feedin' 'em flesh. 	如今,只剩一株神圣蘑菇了——在西边蘑菇林深处。我们不再喂它们血肉之后,其余的都枯死了。
+p138	1	p138::English	How do I get into this... mushroom?	我怎么进到这……蘑菇里头?
+cul94	1	cul94::English	Well, you'll need to travel through the mushroom forest. You can't miss the shroom itself; it's prolly the biggest mushroom you've ever seen.	嗯,你得穿过蘑菇林。菇本身你绝不会错过;大概是你这辈子见过最大的蘑菇。
+cul95	1	cul95::English	On account o' it bein used by the Wikkans in the past, there's doors an' paths leadin' up around the shroom itself. The [[main doors]] will lead you through the central stem; but there might be a whole host o' nasty monsters waitin' to tear you a new one.	因为维坎教徒从前用过它,菇身周围有门有路直通而上。[[正门]]会领你穿过中央菇柄;不过可能有一大群恶心的怪物候着,要把你撕个稀烂。
+cul96	1	cul96::English	So you might try lookin' for a [[way round the back]]. It'll prolly be locked up tight, but you might have less o' a fight on yer hands that way. 	所以你可以试试找找[[后山的小路]]。多半锁得死死的,但那样你手上要打的架可能少些。
+p139	1	p139::English	Okay, I'll do my best.	好,我尽力。
+cul97	1	cul97::English	I'm relyin' on you, y'hear? 	我可全指望你了,听见没?
+p140	1	p140::English	I visited the Sacred Shroom and discovered what's going on. 	我去了神圣蘑菇,查明了其中的勾当。
+cul98	1	cul98::English	Was I right? Was there a ((sacrifice)) takin' place?	我说得对吗?那里在进行((献祭))?
+p141	1	p141::English	It was Lludd. He sacrificed himself so that Pwyll would prosper.	是卢德。他献祭了自己,好让普威尔兴旺。
+cul99	1	cul99::English	<<Culwych staggers back, aghast.>> Oh, not poor ((Lludd))? I was there at his ((namin')), looked after that lad like he was... <<He chokes on the words.>>	<<卡尔威奇踉跄后退,惊骇不已。>>哦,不会是可怜的((卢德))吧?他((命名礼))时我就在场,那孩子我看着长大,就像……<<他哽住了。>>
+cul100	1	cul100::English	Oh, that ((foolish)) boy. The harvests ain't worth Aenguin's ((blood price))-  ain't I always taught 'im that?	哦,这((傻))孩子。收成哪值得安圭因的((血的代价))——我不是一直这么教他的吗?
+cul101	1	cul101::English	<<He sighs heavily.>> Still, I s'pose you got to the bottom o' what's been goin' on, an' for that you have my thanks. 	<<他重重叹了口气。>>不过,你总算把这里的勾当查了个水落石出,为此我感谢你。
+p142	1	p142::English	It was Lludd. He tried to sacrifice himself, but I managed to talk him down. 	是卢德。他试图献祭自己,但我把他劝住了。
+cul102	1	cul102::English	<<Culwych gasps.>> Oh, that ((foolish)) boy! The harvests ain't worth Aenguin's ((blood price)) -  ain't I always taught 'im that?	<<卡尔威奇倒吸一口气。>>哦,这((傻))孩子!收成哪值得安圭因的((血的代价))——我不是一直这么教他的吗?
+cul103	1	cul103::English	But looks like you ((stopped)) him, newcomer; and for that you have my sincerest thanks. It's not much, but just as I promised... 	不过看来你((拦住))了他,新来的;为此我由衷感谢。东西不多,但正如我答应的……
+cul104	1	cul104::English	Here, take this [[Union Passport]]. It'll get you through the [[gatebridge to the south]], leadin' to [[Hallowshire]].	给,收下这张[[联盟护照]]。它能让你通过[[南边的关卡桥]],通往[[哈洛郡]]。
+cul105	1	cul105::English	Be careful down there, mind. If you think Pwyll's harvests are bad, you ain't see ((nothing)) yet. Hallowshire's in the midst of an awful famine, an' it seems the townsfolk 'an our poor Lludd 'ave had certain... ((ideas)) in common.	下面可要当心。要是你觉得普威尔的收成已经够糟,那你还没见过((更糟))的。哈洛郡正闹着可怕的饥荒,看来镇上的乡亲和我们可怜的卢德想到了一处……((不谋而合))。
+p143	1	p143::English	I found Wikkan antiques in Mayor Olwen's basement. 	我在奥尔温镇长的地下室发现了维坎古董。
+cul106	1	cul106::English	<<He strokes his chin and groans.>> ((Olwen)) you say? Could it be...? 	<<他摸着下巴,哼了一声。>>你说((奥尔温))?莫非是……?
+cul107	1	cul107::English	<<He shakes his head.>> But we'll need more to go on than jus' this - plenty o' these old houses have things knockin' about in 'em that'd make a Wikkan blush. I don't want to jump to conclusions; so we'll need ((more.))	<<他摇摇头。>>但光凭这个还不够——这些老房子里,能让维坎教徒脸红的东西多得是。我不想妄下结论;所以我们需要((更多))证据。
+cul108	1	cul108::English	Y'know, folk around here ain't stupid. I reckon any shady goings on will be happening under the [[cover of darkness]]. Why don't you try [[resting]] until nightfall? I know Dwynn [[rents a room]] for passersby. 	你知道吗,这附近的人可不傻。我看任何见不得光的勾当都会趁[[夜色掩护]]进行。你不如试试[[休息]]到天黑?我知道德温给过路人[[出租房间]]。
+olwen1	1	olwen1::English	<<The woman sits with her eyes closed, a pained expression on her face. Various medallions and necklaces hang around her neck, suggesting she holds some important position here in Pwyll.>>	<<那女人闭眼坐着,面露痛苦。她的脖子上挂着各式徽章与项链,显示她在普威尔身居要职。>>
+olwen2	1	olwen2::English	<<She mutters under her breath:>> Flames, oh the ((flames))! We have to douse the ((flames))...	<<她低声喃喃:>>火焰,哦那((火焰))!我们必须扑灭那((火焰))……
+p200	1	p200::English	Uh, is everything okay?	呃,你还好吗?
+p201	1	p201::English	((Say nothing)).	((什么也不说))。
+olwen3	1	olwen3::English	<<She continues to mutter to herself, shaking her head to and fro, until she startles herself awake.>>	<<她继续喃喃自语,摇头晃脑,直到猛然惊醒。>>
+olwen4	1	olwen4::English	Ahh! <<She looks at you with a frenzied intensity to her gaze.>> ##What are you doing? You've got to get ((out)) of here! The nautilob will ((burn you alive))!	啊!<<她目光狂乱地盯着你。>> ##你在干什么?你得((离开))这儿!鹦鹉螺妖会把你们((活活烧死))!
+p202	1	p202::English	What are you talking about?	你在说什么呢?
+olwen5	1	olwen5::English	Can't you ((see)) it? The monster rising above the flames? Oh, the ((horror...)) We have to...	你((看不见))吗?那从烈焰中升起的怪物?哦,多((可怕……))我们必须……
+p203	1	p203::English	Nothing's on fire, lady. 	女士,这儿什么都没着火。
+olwen6	1	olwen6::English	You fool, even ((you)) are ablaze! Oh, how the skin melts from your bones! We have to...	蠢货,连((你))都在燃烧!哦,你的皮肉正从骨头上熔化!我们必须……
+p204	1	p204::English	Not the ((nautilob))! Whatever's next - the ((phlanganip))?	别提((鹦鹉螺妖))了!下一个是什么——((弗拉加尼普))?
+olwen7	1	olwen7::English	You ((jest)), but the giant nautilob is no ((joke))! What do you think caused all this devastation? We have to...	你((打趣)),可巨型鹦鹉螺妖绝不((好笑))!你觉得这场浩劫是谁造成的?我们必须……
+olwen8	1	olwen8::English	<<She stops mid sentence and blinks, slowly. After a moment she says,>> ##...Nothing's on fire, is it?	<<她话说一半,缓缓眨了眨眼。片刻后她说:>> ##……没着火,对吧?
+p205	1	p205::English	No.	没。
+p206	1	p206::English	Are you kidding? I'm burnt to a crisp.	开什么玩笑?我都烧成脆皮了。
+olwen9	1	olwen9::English	Oh, how ((embarrassing))! I'm terribly sorry, you caught me in the middle of a divination. ##My name is [[Olwen]], mayor of this humble village of Pwyll. How do you do?	哦,真((难为情))!实在抱歉,你撞见我占卜占到一半了。 ##我叫[[奥尔温]],普威尔这座小小村落的镇长。幸会幸会?
+p207	1	p207::English	Did you say ((divination))? Are we going to die?	你说((占卜))?我们要死了吗?
+olwen10	1	olwen10::English	<<She chuckles nervously.>> Oh, by the Skyrealms, not at all! There is only a distinct ((possibility)) we will be burned alive.	<<她紧张地轻笑。>>哦,天空领域在上,绝不会!只是存在一种显著的((可能性)):我们会被活活烧死。
+p208	1	p208::English	Are hallucinogenic drugs part of your mayoral duties, or...?	迷幻药物也是镇长职责的一部分,还是……?
+olwen11	1	olwen11::English	<<She blinks at you.>> Well... of ((course))! Hallucinogenic drugs are our main export here in Pwyll. It would be remiss of me not to partake!	<<她冲你眨眨眼。>>呃……((当然))!迷幻药物是普威尔的主要出口商品。我不亲身尝试岂不是失职!
+p209	1	p209::English	Pleased to meet you.	幸会幸会。
+olwen12	1	olwen12::English	<<She performs a short curtsy.>> Thank you for your understanding. I've been rather anxious about the future, as you've no doubt observed...	<<她微微屈膝行礼。>>多谢你的体谅。我最近对未来颇为焦虑,想必你也看出来了……
+olwen13	1	olwen13::English	You see, I have found myself presented with quite the ((dilemma)). It's really ((nothing)) to worry about, so please don't cause a fuss! I have the whole thing ((quite)) under control.	要知道,我正面临一个相当((棘手))的困局。真的((没什么))可担心的,所以请别大惊小怪!整件事我((尽在掌握))。
+olwen14	1	olwen14::English	I was merely indulging in a scryshroom meditation to divine what manner of threat this [[giant monster]] could pose. And, uh, it turns out it's really not much of a problem at all. <<She gulps.>>	我只是在用窥菇冥想,占算这只[[巨型怪物]]可能构成何种威胁。呃,结果发现它其实根本不算什么大问题。<<她咽了口唾沫。>>
+p210	1	p210::English	Wait, what's this about a ((giant monster))? 	等等,((巨型怪物))是怎么回事?
+olwen15	1	olwen15::English	Oh, so it's not common knowledge? <<She looks genuinely relieved.>>##I thought the whole town would be talking about it by now... 	哦,这事还没人尽皆知?<<她如释重负。>> ##我还以为全镇早就在议论了……
+p211	1	p211::English	How ((reliable)) are these divinations?	这些占卜((有多可靠))?
+olwen16	1	olwen16::English	Oh, in Pwyll we pride ourselves on our scryshroom divinations ((always)) being reliable. Except, uh, for when they're not. ##Sometimes the drug can exacerbate the user's hopes and fears, making the vision more... ((fantastical)) than prophetic. 	哦,在普威尔,我们以窥菇占卜((向来))可靠而自豪。呃,除了不灵的时候。 ##有时药物会放大使用者的希望与恐惧,让幻象更像……((幻想)),而非预言。
+p212	1	p212::English	Well, you seem like you have the situation firmly under control.	嗯,看来局势已被你牢牢掌控。
+olwen17	1	olwen17::English	Wait! ##<<She screams the word, then laughs nervously.>> I mean, when I say it's not ((much)) of a problem, I was perhaps, ah, honey-coating the situation a little...	等等! ##<<她尖叫出这个词,又紧张地笑起来。>>我是说,当我说它((算不上))什么大问题时,我或许,呃,给情况涂了点糖衣……
+olwen18	1	olwen18::English	You see, a small mercenary band has made certain, um, demands. No, I don't mean Vela's Dark Stars - this lot are much less, uh, ((accomplished)) - which makes it all the more puzzling how they've got their hands on a [[giant nautilob]]. 	要知道,一支小佣兵团提出了些,呃,要求。不,我不是指薇拉的黑星佣兵团——这伙人远没那么((有本事))——这就更让人费解了,他们是怎么弄到一只[[巨型鹦鹉螺妖]]的。
+p213	1	p213::English	What's a nautilob, exactly?	鹦鹉螺妖到底是什么?
+olwen19	1	olwen19::English	<<She waves her hand dismissively.>> Just a Skyrealms mollusc that you find around these parts - easily recognisable by their shells. But, I had absolutely no idea they could get this ((big))!	<<她不以为意地摆摆手。>>不过是这片天空领域常见的一种软体动物,凭贝壳一眼就能认出。可我完全没想到它们能长这么((大))!
+p214	1	p214::English	So what - you want ((my)) help?	所以呢——你想((我))帮忙?
+olwen20	1	olwen20::English	Oh ((no))! I never said anything like that - as mayor of this place, I have everything completely under control. ##<<She narrows her eyes.>> Of course, that being said... 	哦((不))!我从没说过那种话——作为本地的镇长,一切都完全在我掌控之中。 ##<<她眯起眼睛。>>当然,话虽如此……
+olwen21	1	olwen21::English	Those mercenary scoundrels are threatening me with their huge nautilob. They claim they'll sack the town if I don't comply with their absurd demands. I ((really)) don't want to cause a panic in the town, so I'm at a loss at what to do. 	那些佣兵恶棍用他们的大鹦鹉螺妖威胁我。声称若我不答应他们的荒唐要求,就洗劫全镇。我((实在))不想在镇里引起恐慌,所以一时不知所措。
+olwen22	1	olwen22::English	But, If ((someone)) could sneak into their fortress to the [[south-east]], and ascertain whether this [[nautilob]] thing has any [[weakness]] we could exploit... well, let's just say that person would find themselves firmly within my favour. 	不过,要是((有人))能溜进他们[[东南边]]的堡垒,查清这只[[鹦鹉螺妖]]有没有可利用的[[弱点]]……这么说吧,那个人会稳稳得到我的青睐。
+p215	1	p215::English	I'll see what I can do. 	我尽力而为。
+olwen23	1	olwen23::English	<<She gives you a sly smile.>> Very well. ##Now, was there anything else? 	<<她冲你狡黠一笑。>>很好。 ##那么,还有别的事吗?
+p216	1	p216::English	What if those mercenaries were to ((disappear?)) 	要是那些佣兵((消失))了呢?
+olwen24	1	olwen24::English	Oh! Well that would be quite the tragedy. The idea of more blood being spilled on Pwyllian soil is a ((horrible)) thought.	哦!那可真是悲剧。让更多血洒在普威尔的土地上,这念头((可怕))极了。
+olwen25	1	olwen25::English	<<Her eyes narrow.>> But of course, it ((would)) rather solve the problem here, wouldn't it? And with so little funds to hire guards, it would be ((awfully)) hard to catch the perpetrator of such a crime... 	<<她眯起眼睛。>>不过当然,那((确实))能把眼前的问题解决得相当干净,不是吗?何况雇卫兵的经费少得可怜,要抓到这种罪行的元凶((想必))难如登天……
+olwen26	1	olwen26::English	<<She smiles suddenly.>> Oh, but pay me no mind! I'm merely thinking out loud. Now, was there anything else?  	<<她突然一笑。>>哦,别把我放在心上!我不过是自言自语。那么,还有别的事吗?
+p217	1	p217::English	I'll have nothing to do with this. 	这事我可不沾。
+olwen27	1	olwen27::English	<<She winks.>> Oh, of ((course)) you wouldn't. - I'd never dream of it! ##Now, was there anything else? 	<<她眨眨眼。>>哦,你((当然))不会沾。- 我做梦都不会这么想! ##那么,还有别的事吗?
+olwen28	1	olwen28::English	Ah, you're back. <<She sighs.>> I suppose I have a few moments to talk.	啊,你回来了。<<她叹了口气。>>我想我还有点时间可以聊聊。
+p218	1	p218::English	The mercenaries say you never paid them.	佣兵们说你从没付过钱。
+olwen29	1	olwen29::English	Well, I never paid them the full amount, no. But that's because they made a ((ghastly)) mess of the whole thing!	呃,我确实没付全款。但那是因为他们把整件事搞得((一塌糊涂))!
+olwen30	1	olwen30::English	I hired them to clear out a few nautilobs from the surrounding forest. They managed to kill a measly ((three)), and then had to retreat because one of their men tripped and fell on his own spear. I mean, what kind of idiots ((are)) they? 	我雇他们清剿周围森林里的几只鹦鹉螺妖。他们好歹才杀了区区((三只)),然后就得撤退,因为他们有个家伙绊了一跤,摔在自己的矛上。你说说,他们到底是((什么样))的蠢货?
+p219	1	p219::English	You won't have to worry about that giant nautilob anymore.	那只巨型鹦鹉螺妖你再也不用担心了。
+olwen31	1	olwen31::English	Oh, really? Why, this is ((splendid)) news! Please, tell me the details...	哦,真的?哎呀,这可是((大好))消息!快,跟我说说细节……
+p220	1	p220::English	Well, I killed their leader. I doubt they'll be troubling you any more. 	呃,我把他们头目杀了。想必他们不会再烦你了。
+olwen32	1	olwen32::English	Ah. Oh. Oh dear. 	啊。哦。哎呀。
+olwen33	1	olwen33::English	I mean, it's good that the problem has been resolved. Very good indeed. But just to be perfectly clear - I never ((asked)) you to kill anyone, correct?	我是说,问题解决了总是好的。再好不过了。不过把话说清楚——我从没((要求))你杀任何人,对吧?
+p221	1	p221::English	Actually, you strongly hinted that I could.	其实,你强烈暗示我可以这么做。
+olwen34	1	olwen34::English	Ahah. Hah. Well, that's ((your interpretation)) dear. Let's leave it at that, shall we? 	啊哈。哈。嗯,那是((你的解读)),亲爱的。就到此为止吧,好不好?
+p222	1	p222::English	Well you didn't say I ((couldn't)).	可你没说我不((能))。
+olwen35	1	olwen35::English	That's an interesting interpretation of my request. Let's just speak no more of the matter, shall we? 	你对我的要求倒有个有趣的解读。这事儿咱们就别再提了,好吗?
+p223	1	p223::English	Oh and, another thing - that giant nautilob? It was an illusion.	哦,还有件事——那只巨型鹦鹉螺妖?是幻象。
+olwen36	1	olwen36::English	<<A maniac smile spreads across her lips.>> Oh! That's just wonderful. We've butchered a bunch of mercenaries and it turns out they're ((innocent)).	<<一抹狂笑在她嘴角蔓延。>>哦!真是太好了。我们屠了一伙佣兵,结果人家((无辜))。
+olwen37	1	olwen37::English	I'll tell you what- I'm going to give you this [[reward]]. A truly well-earned reward for a job thoroughly well done. And as ((part)) of this reward, yes, we're going to never speak about this ((ever)) again, correct?	这样吧——我把这份[[赏金]]给你。活干得漂亮,受之无愧的赏金。而这份赏金的((一部分))是:对,这件事我们((永远))不再提起,对吧?
+olwen38	1	olwen38::English	<<A deadly serious expression engulfs her face.>> Not. To. ((Anyone)). 	<<她脸上骤然凝起极度的严肃。>>不。许。对((任何人))讲。
+olwen39	1	olwen39::English	<<She breaks into a jolly smile.>> Well, that's settled then, yes? 	<<她绽出愉快的笑容。>>好,那就这么定了,好吗?
+p224	1	p224::English	The nautilob was an illusion, nothing more. 	鹦鹉螺妖只是幻象,仅此而已。
+olwen40	1	olwen40::English	Oh! Oh my! ((Really?))	哦!天哪!((真的?))
+olwen41	1	olwen41::English	...I can't believe I didn't think of that! So the town is saved? We're not going to burn alive? Hurrah!	……我竟然没想到这个!所以全镇得救了?我们不会被活活烧死了?万岁!
+olwen42	1	olwen42::English	Anyway, please take this [[reward]] along with my heartfelt thanks. You've done Pwyll a fine service today. 	总之,请收下这份[[赏金]],连同我由衷的谢意。你今天为普威尔立了大功。
+p225	1	p225::English	About this giant nautilob...	关于那只巨型鹦鹉螺妖……
+olwen43	1	olwen43::English	Oh, yes... I'm presuming it's still ((there?))	哦,对……我猜它还在((那儿?))
+p226	1	p226::English	I'm looking for Dark Star mercenaries.	我在找黑星佣兵。
+olwen44	1	olwen44::English	Oh ((please.)) If I hear one more word about those bloody ((Dark Stars...)) <<She shakes her head.>>	哦((拜托。))那些该死的((黑星佣兵团))我再一个字都不想听……<<她摇摇头。>>
+olwen45	1	olwen45::English	We've always had our fair share of miscreants attracted to Pwyll - It turns out it's not only ((poets and horticulturalists)) who are attracted to the solitude of the countryside...	被普威尔吸引来的无赖,我们向来不少——原来迷恋乡野孤寂的((不只是诗人和园艺师))……
+olwen46	1	olwen46::English	But when that wretched ((Vela Callose)) moved in with her cohorts, you wouldn't ((believe)) the type of scoundrels we had prancing up and down our idyllic cobbled streets. ##<<She sighs.>> And now, on top of everything else, we have the ((Inquisition)) raiding the island! 	可当那个可恶的((薇拉·卡洛斯))带着她的同伙入驻后,在我们田园诗般的鹅卵石街上窜来窜去的无赖,你根本((想象不到))是些什么货色。 ##<<她叹了口气。>>而现在,更糟的是,((宗教裁判所))又在突袭本岛!
+olwen47	1	olwen47::English	So I'm sorry, but if you have dealings with those ruffians, I really can't help you. Maybe you'll have better luck with someone else around town.	所以抱歉,你要是跟那帮恶棍有来往,我可帮不上忙。镇上换别人问也许运气更好。
+p227	1	p227::English	Do you know about any ((Wikkan worship)) going on?	你知道这儿有((维坎崇拜))的动静吗?
+olwen48	1	olwen48::English	God-worship? In ((Pwyll))? Surely not. Most of the villagers who are old enough to remember actively ((relishing)) the death of their former god Aenguin, for all the horrible things he did. 	拜神?在((普威尔))?绝不会。凡是年纪够大、记得往事的村民,无不((庆幸))旧神安圭因的死——他干的坏事可太多了。
+p228	1	p228::English	I met your son, Lludd. 	我见过你儿子卢德。
+olwen49	1	olwen49::English	Oh! Yes, my ((darling)) boy. Was he just loitering around on the path again? I can never get that boy to pursue his ((studies)), no matter how hard I try... 	哦!对,我那((宝贝))儿子。他又在路上闲晃了?不管我多用心,那孩子就是不肯用功((读书))……
+olwen50	1	olwen50::English	<<She sighs.>> But, I shouldn't be too hard on him. There aren't any other children his age in Pwyll, and my mayoral duties keep me ((so)) busy...  ##((Oh, that reminds me - it's nearly time for my invigorating intonations...))	<<她叹了口气。>>不过,我也不该对他太严厉。普威尔没有别的同龄孩子,镇长职务又让我((实在))忙碌…… ##((哦,对了——快到我提神咏唱的时辰了……))
+p229	1	p229::English	About your son...	关于你儿子……
+olwen51	1	olwen51::English	Oh, so ((you're)) the vigilant stranger who saved my son? I really ((cannot)) thank you enough - I don't know what I would have done, had he... 	哦,原来((你))就是救了我儿子那位警觉的陌生人?我真((不知))怎么感谢你才好——要是他当时……我简直不敢想……
+olwen52	1	olwen52::English	<<She sniffs, tears in her eyes.>> I know I can be ((distracted)) sometimes, but it's only because I want Pwyll to be a perfect ((home)) for Lludd. I suppose I took it too far, considering what he tried to ((do))...	<<她抽了抽鼻子,眼含热泪。>>我知道自己有时((心不在焉)),但那只是因为我想让普威尔成为卢德完美的((家)). 想到他试图((做))的事,我想我是把劲使过头了……
+olwen53	1	olwen53::English	Please, I want you to have the most valuable thing I possess...	求你,把我拥有的最珍贵之物送给你……
+olwen54	1	olwen54::English	...these [[healing herbs]], from my garden. There really is nothing more precious than ((nature's bounty)),	……这些[[疗伤草药]],来自我的花园。世上确实没有什么比((大自然的馈赠))更珍贵了。
+olwen55	1	olwen55::English	Oh, so you heard about his... passing? <<She sniffs, tears in her eyes.>>	哦,你听说他的……死讯了?<<她抽了抽鼻子,眼含热泪。>>
+olwen56	1	olwen56::English	I just never expected he would ((do)) such a thing. Everything I've done here in Pwyll was for ((him)). To lose him like this, it's just so...	我从没想过他会((做))这种事。我在普威尔所做的一切都是为了((他)). 这样失去他,实在是……
+olwen57	1	olwen57::English	<<She wipes away tears.>> I'm sorry, but I need a moment... to myself... 	<<她拭去泪水。>>抱歉,我需要独自……静一静……
+p230	1	p230::English	I had questions about this town.	关于这个镇子我有几个问题。
+olwen58	1	olwen58::English	<<She sighs.>> As Pwyll's mayor I am of course ((exhaustively)) busy, but... <<She mumbles to herself.>> ...((I suppose I can postpone my meditative dance until later.))	<<她叹了口气。>>身为普威尔镇长,我自然((忙得不可开交))。但……<<她喃喃自语。>>……((我想我可以把冥想之舞推迟一下。))
+p230b	1	p230b::English	What's the story of this place?	这地方有什么来历?
+olwen59	1	olwen59::English	Well, before the [[God War]], Pwyll worshipped a deity named Aenguin. I must admit, this was all rather before my time - but I've heard it said that he was particularly ((cruel)) - probably why the villagers committed deicide by impaling the bugger with a voidspear. 	嗯,[[神之战]]之前,普威尔崇拜一位名叫安圭因的神明。我得承认,这些都远在我出生之前——但听人说,他特别((残暴)),恐怕正因如此,村民们才犯下弑神之举,用虚空长矛把那家伙钉了个透心凉。
+olwen60	1	olwen60::English	After the war, the nearby fortress fell into ruin and proved the perfect staging ground for brigands and mercenaries. Pwyll got caught up in a whole load of ((illicit)) business, culminating in the previous mayor getting imprisoned on extortion charges...	战后,附近的堡垒沦为废墟,倒成了土匪和佣兵理想的落脚点。普威尔卷入了一大堆((非法))勾当,最后前任镇长还因勒索罪锒铛入狱……
+olwen61	1	olwen61::English	You see, he pilfered a Wikkan artefact and grew six limbs, just as the inquisition were really cracking down on ((extortion)). 	要知道,他偷了一件维坎教团的圣物,长出了六条肢体,偏偏赶上宗教裁判所正大力整治((勒索))案。
+olwen62	1	olwen62::English	And that's when ((I)) happened to be passing through. The villagers of Pwyll had decided that a new mayor would be decided by a contest of horticulture. I cultivated a small garden of hymnal hydrangeas that could sing in three octaves, and ((that)) was ((that)).	而那时恰巧((我))路过此地。普威尔村民决定以园艺比赛选出新镇长。我培育出一小园能以三个八度歌唱的圣咏绣球花,((事情))就这么((定了))。
+olwen63	1	olwen63::English	Oh, Pwyll has a long and compelling history. Did you know that in all of the Apostatic Union, we have won ((by far)) the most agricultural competitions for the ((quality)) of our produce? Or that, though small, our scryshroom farms can rival the orchards of Byonne in yield?	哦,普威尔的历史悠久又引人入胜。你可知道,整个叛教联盟,凭农产品的((品质)),我们赢下的农业竞赛奖项((遥遥))领先?还有,别看地方小,我们窥菇农场的产量足以媲美拜昂的果园呢?
+olwen64	1	olwen64::English	<<She waves a hand.>> Oh, and there's also the drama of Pwyll's [[terrible god]] who was killed by his own worshippers - but it's all rather before my time, so you'd have to ask [[weighmaster Culwych]] about that I'm afraid.	<<她挥了挥手。>>哦,还有普威尔那位[[可怕的神]]被自己的信徒杀死的大戏——不过这都远在我出生之前了,恐怕你得去问[[秤量官卡尔威奇]]。
+olwen65	1	olwen65::English	You see, I became mayor of this place somewhat by ((accident.)) I was passing through just as the villagers were electing a new mayor - for the last one had been suddenly - if not ((unexpectedly)) - imprisoned on extortion charges.	要知道,我当上这地方的镇长多少出于((偶然。))当时我正好路过,村民正在选新镇长——因为前任突然——虽说算不上((出乎意料))——因勒索罪锒铛入狱。
+olwen65b	1	olwen65b::English	The mayoral contest was one of horticulture. I cultivated a small garden of hymnal hydrangeas that could sing in three octaves, and ((that)) was ((that)).	镇长之争是一场园艺赛。我培育出一小园能以三个八度歌唱的圣咏绣球花,((事情))就这么((定了))。
+p231	1	p231::English	So wait, you're not actually ((from)) Pwyll?	等等,你其实((不是))普威尔本地人?
+olwen66	1	olwen66::English	Oh, not in the least. I'm from a really rather important family in Lundel, and was only travelling around the Oneiric Isles to escape the frightfully ((dreary)) star cycles we have there. 	哦,完全不是。我来自伦德尔一个相当显赫的家族,周游梦幻群岛只是为了躲开我们那儿无聊得吓人的((星辰周期))。
+olwen67	1	olwen67::English	I can't say it's traditional for a village such as Pwyll to elect an outsider, but I think they've taken to the idea rather well. Only occasionally do I get a nautilob thrown through my window or a laxative spell nailed to my door. 	我不能说让普威尔这样的村子选个外乡人合乎传统,但我觉得他们已经相当适应这个主意了。只是偶尔会有鹦鹉螺妖砸穿我家窗户,或是通便咒被钉在我门上。
+p232	1	p232::English	Okay, I get the picture. 	好了,我明白了。
+olwen68	1	olwen68::English	Was there anything else? 	还有别的事吗?
+p233	1	p233::English	You seem quite smitten with this hallucinogenic tea. 	你似乎对这种迷幻茶情有独钟。
+olwen69	1	olwen69::English	<<She scrunches her nose.>> Pwyll's scryshroom is not merely ((hallucinogenic)); it submerges one's consciousness into the temporal current. In other words, it allows you to ((see the future)).	<<她皱起鼻子。>>普威尔的窥菇可不只是((迷幻药));它能把人的意识浸入时间之流。换句话说,它能让你((预见未来))。
+p234	1	p234::English	If that's true, why isn't everyone drinking it?	若真如此,怎么不是人人都在喝?
+olwen70	1	olwen70::English	Well, our soil is arid and our harvests are poor, so we can't meet demand! There's also the matter of, ((ahem)), its variable efficacy...	唉,我们土地贫瘠,收成又差,根本供不应求!还有个问题,((咳咳)),就是它的药效不太稳定……
+p235	1	p235::English	Sounds potent. 	听起来药性很猛。
+olwen71	1	olwen71::English	Oh, it's ((extremely)) potent! The visions are of such intensity that one can be forgiven for thinking they are ((really)) occurring. Though... it's important to interpret such visions with a pinch of caution. 	哦,((极其))猛烈!那些幻象强烈得让人不禁以为它们((真的))正在发生。不过……解读这类幻象时还是得留几分谨慎。
+olwen72	1	olwen72::English	You see, not ((everything)) the scryshrooms predict will come to pass. The cosmos is a web of infinite possibilities, and the future is not struck in stone. The users' hopes and fears can also ((taint)) the vision in, uh, ((rare)) cases. 	要知道,窥菇所预言的((一切))并非都会成真。宇宙是一张无限可能之网,未来并未刻在石头上。在某些,呃,((罕见))情况下,使用者的希望与恐惧也会((污染))幻象。
+olwen73	1	olwen73::English	They're also known to cause... <<She clears her throat, then quickly mumbles the words.>> ...((fainting, nausea, delusions of grandeur, extreme anxiety, abnormally bushy eyebrows, independently sentient limbs, and death)).	据说它们还会导致……<<她清了清嗓子,然后飞快地咕哝道。>>……((昏厥、恶心、妄自尊大、极度焦虑、眉毛异常浓密、肢体自主成精,以及死亡))。
+olwen74	1	olwen74::English	But all the more reason why we must use the scryshroom ((responsibly)), yes? And they really ((are)) quite good for digestion. 	但这也更说明我们必须((负责任地))使用窥菇,对吧?况且它们((确实))相当助消化。
+p236	1	p236::English	Did you know there was a mercenary band in that old fort?	你可知道那座旧堡垒里驻着一支佣兵团?
+olwen75	1	olwen75::English	Well, I wouldn't be much of a mayor if I ((didn't)) know that, would I? Under Union law, mercenaries are perfectly legal organisations. The trouble is that in peacetime they tend to lean towards more... ((illicit)) pursuits. 	我要是((连这))都不知道,还当什么镇长,对吧?依照联盟法律,佣兵团是完全合法的组织。麻烦在于,和平年代他们总爱转向更……((非法))的营生。
+olwen76	1	olwen76::English	Being so far from the capital city of Riova, Pwyll's attracted numerous types of ruffians over the years. They never caused ((too)) much trouble; at least until Vela's [[Dark Star]] mercenaries moved in. You'd never have guessed they were once the most respected sellswords in the Union, based on their recent behaviour! 	由于远离国都里奥瓦,这些年来普威尔招来了形形色色的无赖。他们倒也没惹过((太大))麻烦;至少在薇拉的[[黑星佣兵团]]入驻之前是如此。看看他们最近的行径,你绝想不到他们曾是联盟最受敬重的雇佣剑士!
+olwen77	1	olwen77::English	I'm sure you've noticed all that ruckus coming from the old God War fortress? The Apostatic Union has finally had enough, you see. It's about time they taught that ((Vela)) a lesson, but all those explosions are really disrupting my morning routine. 	相信你注意到那座神战旧堡垒传来的喧闹了吧?叛教联盟终于忍无可忍了,你瞧。是时候给那个((薇拉))一点教训了,可那些爆炸声实在搅扰了我晨间的惯例。
+p237	1	p237::English	Do you think any Dark Stars could be hiding in Pwyll?	你觉得会有黑星佣兵藏在普威尔吗?
+olwen78	1	olwen78::English	Well, we're quite used to the odd group of Dark Stars stumbling into the town for a drink or ten. But beyond that, I really wouldn't have the slightest clue. 	嗯,偶尔有几伙黑星佣兵晃进镇子喝上十来杯,我们早已司空见惯。但除此之外,我实在一无所知。
+olwen79	1	olwen79::English	I know [[Nudd]] has done some jobs for them. You can usually find him in the [[local shop]] - why don't you try bothering - uh, ((asking)) him about it? 	我知道[[纳德]]替他们干过些活。通常你能在[[本地商店]]找到他——你不如去打扰——呃,((问问))他?
+p238	1	p238::English	Thanks for the info. 	多谢告知。
+olwen80	1	olwen80::English	<<She sighs.>> Was there anything else?	<<她叹了口气。>>还有别的事吗?
+p239	1	p239::English	Farewell.	告辞。
+olwen81	1	olwen81::English	Goodbye. You can see yourself out, yes? 	再见。你自己能找到出去的路,对吧?
+p240	1	p240::English	I found Wikkan antiques in your basement. The ((illegal)) kind.	我在你地下室发现了维坎古董。((非法))的那种。
+olwen82	1	olwen82::English	<<She frowns.>> First of all, what the fuck have you been doing in my basement? I've allowed you into my house as a ((guest)), not for you to go digging through my possessions!	<<她皱起眉头。>>首先,你他妈在我地下室干什么呢?我准你进我家是把你当((客人)),不是让你来翻我的东西!
+olwen83	1	olwen83::English	And as for those ((antiques)), they were simply left here by the previous mayor. I have absolutely ((nothing)) to do with them!	至于那些((古董)),不过是前任镇长留下的。我跟它们((毫无))干系!
+olwen84	1	olwen84::English	Now if you'll excuse me, I think you should make yourself scarce. 	恕我失陪,我觉得你最好识相点,赶紧消失。
+dwynn1	1	dwynn1::English	Ah! Welcome, welcome; pull up a stool. If yer lookin' for scryshroom, you've come to the right place. ##<<He leans on the counter and thrusts a bulging eye in your direction.>> D'ya know what scryshroom ((does)), newcomer? 	啊!欢迎欢迎,拉把凳子坐。要是找窥菇,你可来对地方了。##<<他倚在柜台上,朝你瞪起一只凸出的眼睛。>>知道窥菇((是干嘛的))吗,新来的?
+p300	1	p300::English	Yes.	知道。
+dwynn2	1	dwynn2::English	Then you'll have 'eard it shows you the ((future)). But, see, that puts some folk ((off)), as they're scared of what they might see. I'm here to tell 'ya it ain't ((like)) that. 	那你该听说过它能让你看见((未来))。可你瞧,这就把一些人((吓退))了,他们怕看见不该看的。我来告诉你,根本((不是))那么回事。
+p301	1	p301::English	No.	不知道。
+dwynn3	1	dwynn3::English	Well, where've you been stuffin' your noggin? Scryshroom shows you your ((future)), in all its brilliant glory!	嘿,那你脑袋平日都塞的什么?窥菇能让你看见自己的((未来)),辉煌壮丽,一览无余!
+dwynn4	1	dwynn4::English	There ain't no cipher spell in the Great Library of Byonne that can do what scryshroom does. It plunges y'er into the ((river)) of ((time)), so you can see the bends an' the currents rushin' towards ya. 	拜昂大图书馆里没有任何密文法术能做到窥菇的本事。它把你浸入((时间))的((长河)),让你看清前方的河湾与扑面而来的激流。
+dwynn5	1	dwynn5::English	D'ya know how I grew this business? Not with ((luck)), my friend - oh ((no)). I used the 'umble scryshroom to ((outsmart)) my rivals, and now my company ships 'em to every corner o' the Apostatic Union.	知道我这生意是怎么做大的吗?靠的可((不是))运气,我的朋友——哦((绝不))是。我用这不起眼的窥菇((算计))得对手团团转,如今我的商行把它们卖到叛教联盟的每个角落。
+dwynn6	1	dwynn6::English	So whad'ya say - you buyin'? 	所以怎么样——买不买?
+p302	1	p302::English	So wait - do these visions always come ((true))?	等等——这些幻象都会((应验))吗?
+dwynn7	1	dwynn7::English	<<He squirms a little.>> Well now, I can't say they're ((always)) right. The future can be ((changed)), see? An' I won't be held accountable for any foolishness or failures you get yerself into after you use 'em. 	<<他有点局促不安。>>这个嘛,我可不敢说它们((回回))都准。未来是能((改变))的,明白吗?你用了之后自己犯傻倒霉,我可一概不负责。
+p303	1	p303::English	Okay, you've convinced me - what're you selling? 	行,你说动我了——你卖什么?
+p304	1	p304::English	Actually, I wanted to ask you some questions... 	其实,我想问你几个问题……
+dwynn8	1	dwynn8::English	<<He frowns, disappointed.>> Hmph, alright. Whad'ya want to know? 	<<他失望地皱起眉头。>>哼,行吧。你想知道什么?
+dwynn9	1	dwynn9::English	Always good to see a returnin' customer. What can I do for ya? We got [[scryshroom tea]] brewin', an' I've a [[room to rent]] upstairs. 	老顾客上门总是高兴。能为你做点什么?我们有[[窥菇茶]]正煮着,楼上还有[[房间出租]]。
+p305	1	p305::English	Have you heard the rumours of ((god-worshippers)) in Pwyll? 	你听说过普威尔有((拜神者))的传闻吗?
+dwynn10	1	dwynn10::English	<<He frowns.>> Now look, that's a pretty nasty accusation to be throwin' around willy nilly. What ((exactly)) are yer gettin' at, ((newcomer))? 	<<他皱起眉头。>>喂,听着,这种恶毒的指控可不能满嘴乱放。你((究竟))想说什么,((新来的))?
+p306	1	p306::English	Of all the people in Pwyll, ((you)) stand the most to gain from a better harvest, no?	普威尔上下,收成好转时((你))获益最大,不是吗?
+dwynn11	1	dwynn11::English	You ((dare)) accuse me of such a thing in my ((own)) shop? Now listen 'ere you runt; I 'ad family who sacrificed themselves to that cunt of a god, just so we could be 'ere today. 	你((竟敢))在我((自家))店里指控我这种事?给你这小子听好了;我有家人为向那狗娘养的破神献祭送了命,才换来我们今天还在这里。
+dwynn12	1	dwynn12::English	I remember bein' just a boy, and seein' my uncle - who raised me like I was his ((own)) - walk into the Sacred Shroom, never to come back. If I knew of ((anyone)) who was cavortin' with Wikkans, I'd... ((I'd...)) 	我记得自己还是个孩子的时候,眼看着我叔叔——他把我当((亲生))骨肉养大——走进神圣蘑菇,再也没回来。要是让我知道((有谁))跟维坎教团勾勾搭搭,我会……((我会……))
+p307	1	p307::English	I'm not accusing anyone; just asking a harmless question...	我没指控谁;只是问个无伤大雅的问题……
+dwynn13	1	dwynn13::English	Damn ((right)) y'er not accusin' anyone. 'Cos I'm old enough to have lost family to that bastard god, like plenty other folk round 'ere. The thought o' bringing him back sends a chill through my bones.  	你最好((没))指控谁。我这把年纪,像这儿不少人一样,都有亲人丧命于那杂种神之手。一想到要让他复活,我就寒透骨髓。
+dwynn14	1	dwynn14::English	<<He sighs heavily.>> It's true the business 'as been ((hurtin')) lately. The soil's not what it was when I was a boy, an' each year the yield gets leaner... 	<<他重重叹了口气。>>生意近来((不景气))倒是真的。土壤不复我小时候那般肥沃,收成一年比一年薄……
+dwynn15	1	dwynn15::English	But I'd sooner pack the whole thing in, an' be beggin' on the streets of Hallowshire, than subject Pwyll to that tyrant god again.	但我宁可把这摊子整个关掉,去哈洛郡的街头要饭,也不愿再让普威尔屈服于那个暴君神。
+dwynn16	1	dwynn16::English	<<He lowers his voice to a hushed whisper.>> If there really (('are)) folk around 'ere praying to Aenguin - an' I'm not saying there ((are)) - they'd be doin' it under the [[cover of darkness]], I'd wager.	<<他压低声音,悄声耳语。>>要是这附近真((有))人向安圭因祈祷——我可没说((有))——我敢打赌,他们会趁着[[夜色掩护]]行事。
+dwynn17	1	dwynn17::English	Only last night I saw someone [[lurkin' in the dark]] as I was packin' up. Now, if someone were to [[rest until nightfall]], they might be able to get a better look...	就在昨晚,我收摊的时候看见有人在[[暗处鬼鬼祟祟]]。嗯,要是有人肯[[休息到夜幕降临]],兴许能把那看个仔细……
+dwynn18	1	dwynn18::English	But that'll be all I'll say on the matter. So don't be askin' me again, y'hear?	这事儿我就说到这儿。别再问我了,听见没?
+p308	1	p308::English	Did you know there are mercenaries with a ((monster)) outside town?	你可知道镇外有佣兵带着一头((怪物))?
+dwynn19	1	dwynn19::English	<<He grumbles some curses under his breath.>> I 'eard as much from one o' our regular merchants. He said summin' about a beast floatin' over the ol' fort...	<<他低声咒骂了几句。>>我们的老主顾商人跟我说过一嘴。他说有什么畜生飘在旧堡垒上空……
+dwynn20	1	dwynn20::English	It's those Rotten Onion lads again, 'aint it? Always trialin' some hairbrained scheme - all the while scarin' off my tradin' partners! 	又是那帮烂洋葱小子,是不是?净折腾些脑残计划——还把我生意伙伴全吓跑了!
+p309	1	p309::English	I'd like to peruse your services. 	我想看看你这儿的服务。
+dwynn21	1	dwynn21::English	That's what I like to 'ear. I've got a pot of [[scryshroom tea]] on the brew, an' we've also got a few other odds an' ends if y'er hankerin' for supplies. ##I've also a [[room to rent]] upstairs, for two coin, if you need some rest. 	这就爱听。我有一壶[[窥菇茶]]正煮着,要是你想补给点杂物,我们这儿也有几样小玩意。##楼上还有[[房间出租]],两个硬币,你要歇脚的话。
+p310	1	p310::English	Let's see what you have for sale.	让我看看你卖什么。
+dwynn22	1	dwynn22::English	Alright, 'ere's what we got... 	好嘞,瞧瞧这些货……
+p311	1	p311::English	I want to rent the room. 	我要租那间房。
+dwynn23	1	dwynn23::English	Thankin' ye. It's just up the stairs there. ##I'll try an' keep the ruckus down in the morning, when we're packin' up the goods.	多谢。就在那边楼梯上去。##早上装货的时候,我会尽量压着点动静。
+dwynn23b	1	dwynn23b::English	Aye, It's yours for two coins.	好嘞,两个硬币,归你了。
+dwynn24	1	dwynn24::English	Looks like you don't have the coin, there. Come back when y'eve scraped some together. 	看来你钱不够啊。攒够了再来。
+p312	1	p312::English	Actually, never mind. 	其实,算了。
+dwynn25	1	dwynn25::English	Changed yer mind, eh? Well will there be anythin' else? 	改主意了,嗯?那还有别的事吗?
+p313	1	p313::English	I have some questions for you. 	我有几个问题想请教你。
+dwynn26	1	dwynn26::English	Well, if you wanna know about scryshrooms, I'm the person to ask. Been growin' an' tradin' 'em since I was ((this)) high. 	呃,想了解窥菇,问我就对了。打从我((这么))高的时候,我就种菇卖菇了。
+p314	1	p314::English	How's the scrysrhoom trade? 	窥菇生意怎么样?
+dwynn27	1	dwynn27::English	Oh, demand's never been better. This shop I run's just outta respect for the village; but really, I make my money sellin' shrooms in bulk to merchants. And there's a real penchant for the stuff. 	哦,需求空前的好。我开这家店纯粹是给村里面子;实际上,我的钱都是大批卖给商人挣的。这玩意儿可是紧俏货。
+dwynn28	1	dwynn28::English	These days, peddlers, poets and polymaths alike are drinkin' the stuff from Lundel to Vena. In the tearooms of Byonne, ladies an' gents are seein' their futures unfurl before 'em... 	如今,从伦德尔到维纳,小贩、诗人、博学家都喝上了这玩意。拜昂的茶室里,淑女绅士们看着自己的未来在眼前展开……
+dwynn29	1	dwynn29::English	But, I'd be lyin' if I said it was ((all)) good news. The harvest's been down lately, an' each year we're growin' less of the stuff. ##<<He speaks low, suddenly sullen.>> If uncle were here, he'd know what to do...	不过,要我说这((全是))好消息,那就是撒谎了。近来收成一直下滑,每年种的菇越来越少。##<<他声音低沉下来,忽然闷闷不乐。>>叔叔要是在,他知道该怎么办……
+dwynn30	1	dwynn30::English	Y'know, it's the strangest thing. The scryshroom fields 'ave suddenly started sproutin' like never before! I think Pwyll's luck might be changin'... 	你知道吗,真是怪事一桩。窥菇田突然疯长起来,前所未见!我看普威尔的运气要转了……
+p315	1	p315::English	I heard Pwyll had a certain reputation for ((smuggling))...	我听说普威尔在((走私))方面颇有点名声……
+dwynn31	1	dwynn31::English	<<He shoots you an angry glance.>> Lotta folk talk about that. Lotta folk don't know what they're ((talkin')) about.	<<他恼火地瞪了你一眼。>>很多人爱嚼这舌头。很多人根本不知道自己在((胡扯))什么。
+dwynn32	1	dwynn32::English	Sure, a lot of mercenaries 'ave set up shop around these parts. And yeah, we trade with 'em. But here in Pwyll we pay our taxes jus' like ((anyone)) in the Union. That's why ol' Culwych went to Riova to learn t'be a weighmaster, an' all. 	没错,很多佣兵在这一带扎了营。是,我们跟他们做买卖。但在普威尔,我们跟联盟里((任何))人一样照章纳税。老卡尔威奇还专门去里奥瓦学当秤量官呢,就是这么回事。
+dwynn33	1	dwynn33::English	<<His eyes narrow.>> An' if you've been snoopin' around and seen some things you don't like the look of, I'd advise you to ((keep yer trap shut)). I don't pay Nudd over there just for his looks, y'know? He ((protects)) my business interests. Hear me? 	<<他眯起眼睛。>>要是你到处窥探,看见什么不顺眼的东西,我劝你((把嘴闭紧))。我付钱给那边的纳德,可不只是看他长得俊,知道吗?他((护着))我的生意。听明白了吗?
+p316	1	p316::English	Is there anywhere I can buy an Apostatic Union Passport? 	哪里能买到叛教联盟护照?
+dwynn34	1	dwynn34::English	Only union officials an' certified traders can dispense 'em. You'll be wantin' to talk to our [[local weighmaster, Culwych]], over at the weigh house - but he won't just hand 'em out for anyone. 	只有联盟官员和认证商人才能发护照。你得去找我们的[[本地秤量官卡尔威奇]],就在称量所——但他可不会随便见人就发。
+p317	1	p317::English	You look like a resourceful merchant. I have ((coin)), and I'm willing to pay... 	你看着就是个门路多的商人。我有((硬币)),也愿意出钱……
+dwynn35	1	dwynn35::English	<<He narrows his eyes.>> Careful, now. Yer suggestin' an ((illegal)) trade. That sorta talk could see us ((both)) rottin' in an inquisition cell...	<<他眯起眼睛。>>小心点。你这是在提议((非法))交易。这种话说出去,((咱俩))都得烂在宗教裁判所的牢房里……
+p318	1	p318::English	@@Don't worry, you can trust me.	@@别担心,你可以信我。
+dwynn36	1	dwynn36::English	%%<<He is silent a moment, staring into your eyes.>> ##...Alright. But a hint of this to anyone, an' Nudd over there will be addin' some new ((kneecaps)) to his collection.	%%<<他沉默片刻,直盯着你的眼睛。>> ##……好吧。但这事你敢跟任何人露一丝口风,那边的纳德就会往他的收藏里添几副新的((膝盖骨))。
+dwynn37	1	dwynn37::English	Go to the windmill; there's a locked door leadin' to the basement. [[This key]] will get you in, an' you'll find my [[business associate]] down there. She'll sort you out...  	去风车磨坊;有扇上锁的门通向地下室。[[这把钥匙]]能开门,我的[[生意伙伴]]就在下面。她会替你打点好……
+dwynn38	1	dwynn38::English	Now, get outta my sight. We never (('ad)) this conversation, y'hear?	现在,从我眼前消失。今天这番对话((根本))没发生过,听见没?
+dwynn39	1	dwynn39::English	&&((Squidshit)). I 'aint trustin just anyone who walks through my doors.	&&((鱿鱼屎))。凡是从我店门进来的,我可谁都不轻信。
+p319	1	p319::English	Okay, never mind. 	好吧,当我没说。
+p320	1	p320::English	Okay, thanks.	好,谢谢。
+dwynn40	1	dwynn40::English	<<He nods.>> Anythin' else? 	<<他点点头。>>还有事吗?
+p321	1	p321::English	Farewell.	告辞。
+dwynn41	1	dwynn41::English	<<He nods.>> Come again now. 	<<他点点头。>>常来啊。
+nudd1	1	nudd1::English	<<The man sips his tea and studies you intently.>> New face, eh? If you've got business here, talk to Dwynn at the counter. He's the proprietor of this business; I'm really only employed to make sure things go ((smoothly)).	<<那人啜了口茶,仔细打量你。>>生面孔,嗯?有生意上的事,找柜台的德温。他是这买卖的东家;我受雇只是确保一切((顺利))运转。
+p350	1	p350::English	You don't seem like the rest of the villagers.	你看起来跟其他村民不太一样。
+nudd2	1	nudd2::English	<<He betrays a thin smile.>> My, you're ((perceptive)), eh? 	<<他掠过一丝浅笑。>>哎呀,你真((敏锐)),是吧?
+p351	1	p351::English	And how do you make sure things go smoothly, exactly?	那你到底是怎样确保一切顺利的呢?
+nudd3	1	nudd3::English	Well, the details are of such a nature that I wouldn't feel comfortable discussing them... <<he takes a sip,>> over ((tea)).	嗯,那些细节的性质,让我觉得不太适合……<<他啜了口茶,>>边((喝茶))边谈。
+nudd4	1	nudd4::English	I'm a mercenary, you see. I've fought with the Byonne Serpents, the Lundel Black Guard; and even the ((Dark Stars)), for a time. 	要知道,我是个佣兵。我效力过拜昂巨蟒团、伦德尔黑卫队;甚至短暂待过((黑星佣兵团))。
+nudd5	1	nudd5::English	And now... <<he sips his tea,>> I protect the business interests of this fine gentleman, nothing more. So please, pay me no heed. 	而现在……<<他啜了口茶,>>我只是保护这位好先生的生意利益,仅此而已。所以请别把我放在心上。
+nudd6	1	nudd6::English	<<He sips his tea quietly.>> Was there something else? 	<<他静静啜着茶。>>还有什么事吗?
+p352	1	p352::English	Do you know of any... ((god-worshippers)) here? 	你知道这儿有什么……((拜神者))吗?
+nudd7	1	nudd7::English	Ah, so has old Culwych got you hunting down would-be Wikkans, then? <<He smirks.>>	啊,原来老卡尔威奇让你来猎捕准维坎教徒了?<<他得意一笑。>>
+nudd8	1	nudd8::English	I really don't like to get involved in such matters. What people ascribe to - be it legal or otherwise - is no business of mine. I'm no lawman, after all. 	我实在不喜欢掺和这种事。人们信奉什么——合法也罢,不合法也罢——与我无关。毕竟我又不是执法的。
+nudd9	1	nudd9::English	<<He swirls his tea in its cup for a moment.>> Of course, it hardly needs stating that if I ((were)) looking for people involved in ((illicit)) deeds, I'd probably keep an eye out for what happens [[after nightfall]]. ##But that would just be stating the obvious.	<<他晃了晃杯中的茶。>>当然,不必多说,假如我((真要))找那些干((非法))勾当的人,多半会留意[[夜幕降临之后]]的动静。 ##不过这只是句大白话罢了。
+p353	1	p353::English	Some mercenaries are threatening Pwyll with a giant nautilob.	有些佣兵用巨型鹦鹉螺妖威胁普威尔。
+nudd10	1	nudd10::English	<<He lets out a single, chuckle.>> You mean that bunch of idiots down in the ruins? Don't make me ((laugh)).	<<他轻轻嗤笑一声。>>你是说废墟里那群蠢货?别逗我((笑))了。
+nudd11	1	nudd11::English	Firstly, they're hardly fit to call themselves mercenaries. The mayor hired them to clear out monsters from the forest - a trifling task - and the show they put on was more fitting of a comedy troupe than professional sellswords. 	首先,他们根本不配自称佣兵。镇长雇他们清剿森林里的怪物——不过小事一桩——结果那场表演更像是喜剧班子,而非职业雇佣剑士。
+nudd12	1	nudd12::English	And secondly, there's [[no such thing as a giant nautilob]]. At least, I've sailed far and wide in my time, and never even heard of one larger than a silkslug. So the idea that those buffoons managed to ((capture)) one is preposterous. 	其次,[[根本没有什么巨型鹦鹉螺妖]]。至少,我这辈子航海四方,从没听说过比丝蛞蝓更大的。所以那群小丑居然((抓住))了一只,简直是天方夜谭。
+nudd13	1	nudd13::English	I'm guessing the mayor has asked you to look into the matter, hmm? Well, if I were you, I'd make use of [[your wits]] before drawing your sword. I sense there's some trickery at play, here.	我猜镇长是让你来查这件事的,嗯?换作是我,拔剑之前先动动[[脑子]]。我感觉到这里面有诈。
+p354	1	p354::English	Is that scryshroom tea you're drinking?	你喝的是窥菇茶吗?
+nudd14	1	nudd14::English	<<He is quiet a moment, and merely takes a sip.>> ##Indeed.	<<他沉默片刻,只是啜了一口。>> ##没错。
+nudd15	1	nudd15::English	Tell me, did ol' Dwynn over there give you his speech about how he ((outsmarted)) his business rivals by drinking the stuff?	说说看,那边老德温有没有跟你吹嘘过,他怎么靠喝这玩意((智胜))生意对手?
+p355	1	p355::English	null	null
+nudd16	1	nudd16::English	null	null
+nudd17	1	nudd17::English	null	null
+p356	1	p356::English	Yes.	说过。
+nudd18	1	nudd18::English	<<He smirks.>> I thought as much. 	<<他得意一笑。>>我就知道。
+p357	1	p357::English	No.	没说过。
+nudd19	1	nudd19::English	<<He smirks.>> Well I'm sorry for ((spoiling)) the tale for you. 	<<他得意一笑。>>很抱歉((剧透))了这个故事。
+nudd20	1	nudd20::English	The funny thing is, he doesn't touch the stuff. It's more of a... sales tactic, you might say. Whenever he ((does)) drink scryshroom tea, he tends to get rather emotional and... <<He grins.>> ...empties his bowels prematurely. 	有趣的是,他自己碰都不碰那玩意。那更像是……推销手段吧。每当((真))喝下窥菇茶,他就容易情绪激动,而且……<<他咧嘴一笑。>>……提前把肠子倒空。
+nudd21	1	nudd21::English	You see, scryshroom may be a popular drug - but that's ((all)) it is to most people. A party trick or a quick high. The truth is, most can't ((see the future)) from drinking it. The shroom has such a potent psychedelic effect any premonitions are lost within the fantasy.	要知道,窥菇或许是大受欢迎的迷幻药——但对大多数人而言也就((仅此而已))。宴会上的把戏,或是一时的快感。事实上,大多数人喝了它((看不见未来))。这菇的迷幻效果太过强烈,任何预感都迷失在幻境之中。
+nudd22	1	nudd22::English	But the premonitions ((are)) there. You just need a low dosage and a certain... discerning eye. That's why, if you were to - ((say)), reach for your blade right now - I'd have my ((knife at your throat)) before you knew it. 	但预感((确实))存在。你只需要小剂量,再有一双……挑剔的眼睛。所以,假如你——((比方说))——现在伸手去摸剑,我会在你察觉之前就把((刀架上你的喉咙))。
+nudd23	1	nudd23::English	<<He smiles warmly.>> Now, was there anything else? 	<<他温和地一笑。>>好了,还有别的事吗?
+p358	1	p358::English	Tell me about your time as a mercenary. 	跟我讲讲你当佣兵的日子吧。
+nudd24	1	nudd24::English	<<Nudd tilts his head back and drums his fingers on his cup.>> Well, in my youth I toured with various mercenary companies in the Apostatic Union heartland; there's a tale or two there. ##I ended up with the Dark Stars here in Pwyll; a name I'm ((sure)) you've heard of.	<<纳德仰起头,手指在杯上轻敲。>>嗯,年轻时我在叛教联盟腹地跟着各路佣兵团四处征战;故事有一箩筐。 ##最后我跟着黑星佣兵团来到普威尔;这名字你肯定((听说))过。
+nudd25	1	nudd25::English	But lately I've been freelancing in these [[Oneiric Isles]]; taking on all sorts of jobs before settling in with Dwynn, here. Of all the realms I've been to, these isles host some of the strangest. 	但近来我在这些[[梦幻群岛]]打零工;接了各式各样的活,最后才落脚到德温这儿。我去过的所有国度里,这些群岛的怪事最多。
+p359	1	p359::English	I'm looking for some former Dark Star mercenaries. 	我在找几个黑星佣兵团的前佣兵。
+nudd26	1	nudd26::English	Well, as I told you, I used to sail with those lot - up until the [[mutiny]] that saw many of us take umbrage with Vela's unchecked ambition. 	嗯,跟你说过了,我曾跟他们同船共渡——直到那场[[哗变]],我们许多人都受不了薇拉那失控的野心。
+nudd27	1	nudd27::English	<<He narrows his eyes.>> Oh, is that ((so?)) ##Well, your motives better be pretty ((fucking)) congenial, 'cos it's no secret that I'm a former Dark Star merc myself.	<<他眯起眼睛。>>哦,((是吗?)) ##那你最好图谋((他妈的))够正派,因为我本人就是前黑星佣兵,这不是什么秘密。
+nudd28	1	nudd28::English	Of course, I haven't sailed with them in ((years.)) I left after the [[mutiny]], once it became clear that Vela's ambitions - once so ((intoxicating)) - were likely to get us all ((killed)). 	当然,我已经((多年))没跟他们同船了。[[哗变]]之后我就离开了,当时薇拉的野心——曾经那么((令人陶醉))——显然要把我们全都((送上死路))。
+nudd29	1	nudd29::English	<<He clears his throat.>> Well, ((out)) with it, then. Exactly ((who)) are you looking for? 	<<他清了清嗓子。>>那么,((说))吧。你到底在找((谁))?
+p360	1	p360::English	I'm hunting Vela Callose.	我在追捕薇拉·卡洛斯。
+p361	1	p361::English	Tell me about Vela Callose.	跟我说说薇拉·卡洛斯。
+nudd30	1	nudd30::English	<<He chuckles heartily.>> Ah, now ((that's)) a good one. You're just gonna stride up to the boss lady herself and claim that Union bounty, are you? 	<<他放声大笑。>>哈,这个((好笑))。你要大摇大摆走到那位大姐头面前,去领联盟的悬赏,是吧?
+nudd31	1	nudd31::English	Now, don't get me wrong. I never really ((knew)) the woman - I was too low rank to be clinking my tankard with her. But I've been privy to some of her deeds, and, well...	别误会。我从不曾真正((了解))那女人——我级别太低,没资格跟她碰杯。但我亲眼见识过她的些手段,呃……
+nudd32	1	nudd32::English	...let's just say you don't ((ever)) want to cross swords with ((Vela Callose)).	……这么说吧,你((永远))别想跟((薇拉·卡洛斯))刀剑相向。
+nudd33	1	nudd33::English	As for where she's gone, I haven't the slightest idea - and I wouldn't tell you if I ((did)). ##That woman has plans in motion that I couldn't begin to comprehend, and I won't be found complicit in trying to ((thwart)) her efforts, for the sake of my own neck. 	至于她去了哪儿,我半点不知——就算((知道))也不会告诉你。 ##那女人谋划着一些我根本无从理解的大计,为了我自己的小命,我可不想被发现在((阻挠))她。
+p362	1	p362::English	I'm meeting with Jack Basalt.	我要去见杰克·巴索特。
+p363	1	p363::English	I want to know about Jack Basalt.	我想了解杰克·巴索特。
+nudd34	1	nudd34::English	Ah, good ol' Jack? <<He smirks.>> In the Union they still call him ((shame of the Navy)), after he abandoned his rank and station to join Vela's ((merry)) band.	啊,好老杰克?<<他得意一笑。>>联盟里至今还叫他((海军之耻)),因为他抛下军衔职位,投了薇拉那帮((快活))人马。
+nudd35	1	nudd35::English	In battle the man was a ((demon)) - when his voice bellowed across the deck of a skyship, sword raised high, you made sure to ((heed)) it...	战场上这人是个((魔神))——当他的咆哮响彻天船甲板,手中长剑高举,你可得((依令))而行……
+nudd36	1	nudd36::English	But below decks, he always found time to share a drink with those under his command. Learning their names, their troubles - not ((every)) merc captain does that. 	但在甲板之下,他总能抽出空来与部下共饮。记得他们的名字,他们的难处——可不是((每个))佣兵队长都做得到。
+nudd37	1	nudd37::English	Of course, I don't know if that was thanks to a kind heart, or his weakness for the ((strong stuff)). Let me guess... you're meeting in a pub, right? ##<<He grins.>>	当然,我说不好那是出于一副好心肠,还是他对((烈酒))的嗜好。让我猜猜……你们约在酒馆见面,对吧? ##<<他咧嘴一笑。>>
+p364	1	p364::English	I'm looking for The Emberian.	我在找余烬人。
+p365	1	p365::English	I'd like to hear about The Emberian.	我想听听余烬人的事。
+nudd38	1	nudd38::English	Ah, I served under her on the [[Black Goblin]]. I think her real name was [[Orlaith]], but we just called her ((captain.))	啊,我在[[黑哥布林号]]上做过她的部下。她本名好像叫[[奥莱丝]],但我们只叫她((船长))。
+nudd39	1	nudd39::English	She was always wearing that ancient [[Emberian Armour]], and was fascinated by anything of its like. We'd often stop off at some old rusty ruin so she could have a peek around. ##Some of the lads even got it in their heads that she really ((was)) an Emberian, somehow still alive after hundreds of years.	她总穿着那身古老的[[余烬铠甲]],对类似的物件痴迷不已。我们常在生锈的古代废墟落脚,好让她四处瞧瞧。 ##有些弟兄甚至认定她((真))是余烬人,不知怎么活了几百年。
+nudd40	1	nudd40::English	I heard she was in [[Hallowshire]] somewhere, still scouring the countryside for rust-riddled relics. She was always a mysterious sort, so I doubt she'll be staying at a public house - but you'll probably want to ask the locals in [[Hallow Town]] if they've seen her. 	听说她在[[哈洛郡]]某处,还在乡间四处搜寻锈迹斑斑的遗物。她向来神秘,我怀疑她不会住在酒馆——不过你可以去[[哈洛镇]]问问当地人有没有见过她。
+p366	1	p366::English	I need to find The Duchess.	我得找到女公爵。
+p367	1	p367::English	What do you know about The Duchess?	关于女公爵你知道些什么?
+nudd41	1	nudd41::English	Ah, that [[Endless]] woman? I had few dealings with her, to be honest. She was ancient royalty ((and)) a cipher wizard - which made her ((doubly)) pretentious in my book. 	啊,那个[[无尽者]]女人?说实话,我跟她没多少交集。她既是古老王族((又))是密文法师——在我看来,这就让她((加倍))地装腔作势。
+nudd42	1	nudd42::English	I heard she had some sort of [[ancestral home]] in the [[Endless Realm.]] I've only been to those islands once or twice, so you'll have to ask around in the city of [[Sepulchre]] if you want to know more.	听说她在[[无尽领域]]有座[[祖宅]]。那些岛我只去过一两次,想了解更多,你得去[[陵墓城]]城里四处打听。
+p368	1	p368::English	Do you know of Caxton Frost? 	你可知道卡克斯顿·弗罗斯特?
+nudd43	1	nudd43::English	Oh, that eccentric fellow? Handsome and ((clearly)) a genius? He was part of Vela's inner circle, so I only spoke to him once - and that night was kind of a ((blur)). 	哦,那个怪人?英俊,而且((显然))是个天才?他在薇拉的核心圈子里,我只跟他说过一次话——那一晚有点((模糊))。
+nudd44	1	nudd44::English	We were in the Wobbly Noggin and he rambled for hours about his theories on Emberian engineering. By the end of the night he was singing me songs from his native Kardova - that is, what the [[Clockwork Kingdom]] used to be called.	我们在摇晃酒馆,他絮絮叨叨讲了几个小时余烬工程学的理论。到了深夜,他给我唱起故乡卡尔多瓦的歌——也就是[[发条王国]]从前的名字。
+nudd45	1	nudd45::English	I haven't heard a word about him since the mutiny. If he didn't die in the battle, maybe he returned to the [[Clockwork Kingdom]] - but that place is locked down, as of late.	哗变之后我就再没听过他的消息。要是他没死在那场仗里,也许回[[发条王国]]去了——但那地方近来封锁严密。
+nudd46	1	nudd46::English	I did a job smuggling bottled visions from there a few star cycles back. Used a chap named [[Mikhail]] to ferry me across, but it was a fucking dangerous job - I wouldn't recommend it without good reason. 	几个星辰周期前,我干过一单从那儿走私瓶装幻象的活。雇了个叫[[米哈伊尔]]的家伙渡我过去,但那活计他妈的危险——没有充分的理由,我劝你别碰。
+p369	1	p369::English	That's all I wanted to know. 	我想知道的就这些。
+p370	1	p370::English	That's enough about Dark Stars. 	黑星的事就问到这儿。
+nudd47	1	nudd47::English	<<He holds his tea by his chest and says nothing.>>	<<他把茶捧在胸前,一言不发。>>
+p371	1	p371::English	I'll be going, then.	那我先走了。
+nudd48	1	nudd48::English	<<He smiles politely, but says nothing.>> 	<<他礼貌地笑笑,却什么也没说。>>
+nudd50	1	nudd50::English	Good. And let me be plain - you didn't hear any of this from ((me)), are we clear?	很好。让我把话说明白——这些话你可都是从((别人))那儿听来的,清楚吗?
+onion1	1	onion1::English	Stop right there! This is the esteemed mercenary company headquarters of the [[Rotten Onions]]. None may pass without authorisation from our captain, [[John Birdbark]].	站住!这里是尊贵的[[烂洋葱佣兵团]]总部。未经我们的队长[[约翰·伯德巴克]]授权,任何人不得通过。
+p400	1	p400::English	What kind of name is the ((Rotten Onions?))	((烂洋葱佣兵团?))这算什么名字?
+onion2	1	onion2::English	It's a ((very fine name)), I'll have you know! Birdbark is an esteemed scholar and battle-wizard, as well as our captain. It's ((his)) reasonin' that it's a name designed to strike ((fear)) in our enemies.	你给我听好了,这可是个((响当当的名字))!伯德巴克是德高望重的学者兼战斗法师,还是我们的队长。((他))认为,这名字天生就能让敌人((闻风丧胆))。
+p401	1	p401::English	And how does ((that)) work?	那((是))怎么个威慑法?
+onion3	1	onion3::English	Well... it's seni... um, semiobtic... ((semiotics)), see? Like words an' their meaning an' stuff?	呃……这是符……呃,符号家……((符号学)),懂吗?就是文字啊、含义啊之类的?
+p402	1	p402::English	Yes, but why do onions strike fear into the hearts of your enemies?	是,可为什么洋葱能让敌人闻风丧胆?
+onion4	1	onion4::English	<<The guard tilts his head and scratches his jaw.>> Well, people don't ((like)) onions, see? They makes you cry. And rotten ones are even ((worse)).	<<卫兵歪着头,挠了挠下巴。>>呃,人们((讨厌))洋葱,懂吗?洋葱让人流泪。烂洋葱就更((糟))了。
+p403	1	p403::English	Never mind, I give up.	算了,我放弃。
+onion5	1	onion5::English	<<The guard nods, evidently satisfied.>>	<<卫兵点点头,显然很满意。>>
+p404	1	p404::English	Right. Yes. ((Sure)).	对。是。((当然))。
+onion6	1	onion6::English	<<The guard nods, evidently satisfied.>>	<<卫兵点点头,显然很满意。>>
+p405	1	p405::English	It's a stupid name.	这名字真蠢。
+onion7	1	onion7::English	<<The guard looks visibly hurt.>> W-w-well you don't ((have)) to think it's clever. We'll just stab you all the same.	<<卫兵一脸受伤。>>那——那你也((不必))觉得它聪明。反正我们照捅不误。
+p406	1	p406::English	What's with that giant monster?	那只巨型怪物是怎么回事?
+onion8	1	onion8::English	Oh, it's a [[giant nautilob]]. Pretty ((scary)) huh? <<He leans close and chuckles, but you don't quite get the joke.>>	哦,那是只[[巨型鹦鹉螺妖]]。挺((吓人))的吧?<<他凑近轻笑,但你没太懂笑点在哪。>>
+onion9	1	onion9::English	Y'see, the [[mayor of Pwyll]] hired us to do a job, but she's refusin' to pay up. So we're gonna sack the place unless she hands over the coin.	你瞧,[[普威尔镇长]]雇我们干活,可她赖着不付钱。所以她不交出硬币,我们就洗劫这地方。
+p407	1	p407::English	I found that ledger you wanted.	我找到了你们要的账本。
+onion10	1	onion10::English	Really? Hand it over! ##<<He rifles through the pages of the ledger.>> Yeah, this looks about right. Oh boy, is the captain gonna be pleased with this!	真的?交出来! ##<<他哗啦啦翻过账本的页。>>对,就是它。天哪,队长见到这个准乐坏了!
+onion11	1	onion11::English	Well, I guess you can walk on through, then. I'll shout to the boys an' let 'em know you're alright.  	嗯,那你可以过去了。我朝弟兄们喊一嗓子,告诉他们你没危险。
+p408	1	p408::English	I want to get inside your headquarters.	我想进你们的总部。
+onion12	1	onion12::English	Well, you can't. <<He scratches his jaw.>> Unless... you get us the [[mayor's ledger]].	呃,不行。<<他挠挠下巴。>>除非……你把[[镇长的账本]]弄来。
+p409	1	p409::English	What's this about a ledger?	账本是怎么回事?
+onion13	1	onion13::English	Well, the mayor of Pwyll hired us to clear out some monsters in the shroom forest. Sure, we ran into some ((difficulties)), but a job's a job. An' she's not payin' up!	呃,普威尔镇长雇我们清剿蘑菇林里的几只怪物。诚然,我们碰上了些((麻烦)),但活就是活。可她赖账不付!
+onion14	1	onion14::English	So, captain reckons if we steal her [[ledger]], we'll have proof an' can take it to the Riovan Court of Slaw.	所以,队长琢磨着,要是偷来她的[[账本]],我们就有证据,可以呈交里奥瓦凉拌法庭。
+p410	1	p410::English	Court of ((slaw))?	((凉拌))法庭?
+onion15	1	onion15::English	Yup. It's a type of side dish.	对。凉拌是种配菜。
+p411	1	p411::English	I think you mean ((court of law)).	我想你想说的是((正式法庭))。
+onion16	1	onion16::English	<<He shoots you an angry glare.>> I know what I meant, ((friend)). The Riovan Court of Slaw.	<<他恼火地瞪你。>>我清楚自己想说什么,((朋友))。里奥瓦凉拌法庭。
+p412	1	p412::English	Never mind.	当我没说。
+onion17	1	onion17::English	<<He nods victoriously.>>	<<他得意地点点头。>>
+p413	1	p413::English	And how can I get this ledger?	那我怎么拿到这本账本?
+onion18	1	onion18::English	Well, I'd sneak in [[at night]] while the mayor's asleep, of course. Then bring it back to me, an' you'll officially be a friend of the Rotten Onions.	嗯,当然要趁镇长睡觉时[[夜里]]溜进去。然后把它带回来给我,你就正式成为烂洋葱佣兵团的朋友了。
+onion19	1	onion19::English	@@I'm just a huge fan of the Rotten Onions. I'd ((love)) to see where you work.	@@我就是烂洋葱佣兵团的超级粉丝。我((非常想))看看你们工作的地方。
+onion20	1	onion20::English	%%<<He looks flattered.>> You've heard of us? You really have? ##<<He thinks a moment.>> Well, there's only one of you, so I reckon a quick snoop can't hurt...	%%<<他一脸受宠若惊。>>你听说过我们?真的? ##<<他想了想。>>呃,你就一个人,我想快速参观一下应该无妨……
+onion21	1	onion21::English	Alright, you're free to go in.	行,你可以进去了。
+onion22	1	onion22::English	&&Ha! I'm not fallin' for ((that)) one. ##...uh, not ((again)), anyway.	&&哈!我可不会((上当))。 ##……呃,至少不会((再))上当。
+p414	1	p414::English	Well maybe I'm just gonna walk in anyway.	那我说不定就直接闯进去了。
+onion23	1	onion23::English	H-h-hold it! If you just ((stride)) in there, I'm gonna have no ((choice)) but to... um... cut you down! So don't go tryin' anything stupid, right? 	站——站住!你要是就这么((大摇大摆))闯进去,我就没有((办法)),只能……呃……把你砍倒!所以别想干蠢事,听见没?
+p415	1	p415::English	Alright, I get the picture.	行,我明白了。
+onion24	1	onion24::English	<<He nods.>>	<<他点点头。>>
+p416	1	p416::English	Okay, I'll be going.	好,我先走了。
+onion25	1	onion25::English	Greetins again, friend. Feel free to walk right on in. 	又见面了,朋友。请随意进去吧。
+onion26	1	onion26::English	Godsdamnit. Some pillock let slip that our giant monster's actually jus' an ((enchanted balloon)), so looks like it's still gonna be boot leather for dinner.	该死。某个蠢货走漏了风声,说我们那只巨型怪物其实只是个((施了法的气球)),看来晚餐还是只能啃靴子皮了。
+onion27	1	onion27::English	Well, captain's not so bothered about security right now, seein' as he's mostly weepin' in his chambers, so I reckon you can go right on in. 	呃,队长眼下顾不上安保,他正在房间里抹眼泪呢,所以我想你可以直接进去。
+onion28	1	onion28::English	<<You realize that the>> [[Ledger]] <<is missing from your pockets. How strange...>>	<<你发现>>[[账本]]<<不在你口袋里了。真奇怪……>>
+onionCap1	1	onionCap1::English	Hmph, I don't recall admitting any visitors! I'm the esteemed captain of the Rotten Onion mercenary group, John Birdbark - and I do ((not)) remember summoning you into my bedchambers. 	哼,我可没记得放行过任何访客!我是尊贵的烂洋葱佣兵团队长约翰·伯德巴克——我((绝对))没记得传召你进我的寝帐。
+onionCap2	1	onionCap2::English	Hmph, it's ((you)) again.	哼,又是((你))。
+p450	1	p450::English	I gave your guard the mayor's ledger.	我把镇长的账本交给你的卫兵了。
+onionCap3	1	onionCap3::English	Ah, so that was ((you))? Splendid, splendid! It will provide ample fuel for my fireplace.	啊,原来是((你))?好极了,好极了!它够我壁炉烧一阵子了。
+p451	1	p451::English	Wait, you're not going to ((do)) anything with it? 	等等,你不打算拿它((做))点什么?
+onionCap4	1	onionCap4::English	Well, I spun the company some silly yarn about being able to get ((compensation)), or somesuch. But really I just wanted to cause that damned mayor a significant ((inconvenience)). Oh, I wish I could see her face - how ((mildly annoyed)) she must be! 	嗯,我跟团里那帮人胡扯了一通什么能拿到((赔偿))之类的鬼话。但其实我只想给那个该死的女镇长添个大((麻烦)). 哦,真想看看她的表情——她一定((微微恼火))得很!
+p452	1	p452::English	Uh... no problem. 	呃……没关系。
+onionCap5	1	onionCap5::English	Now, are you going to... leave? 	那么,你要不要……离开?
+p453	1	p453::English	I wanted to ask about that giant monster.	我想问问那只巨型怪物。
+onionCap6	1	onionCap6::English	Hmm, oh yes! Quite the ((frightful)) thing, eh? I'm sure it's giving that wretched mayor a sleepless night or two. <<He chuckles.>> 	嗯,哦对!相当((骇人))的东西,对吧?我敢说那可恶的女镇长得为它失眠一两晚了。<<他咯咯直笑。>>
+onionCap7	1	onionCap7::English	@@So how'd you get your hands on such a beast, eh? You can tell me. 	@@那你们是怎么弄到这么头怪物的,嗯?跟我说说嘛。
+onionCap8	1	onionCap8::English	%%Well... Hmm... alright then, you seem like the trustworthy sort.	%%这个……嗯……好吧,你看着倒像靠得住的人。
+onionCap9	1	onionCap9::English	Here's the really ((clever)) thing - it's not actually a monster at all! It's just a giant balloon with an illusion spell cast on it. ((Ingenious)), no? 	最((高明))的地方在这儿——它根本不是什么怪物!就是一只巨大的气球,施了个幻象咒。((巧妙)),吧?
+onionCap10	1	onionCap10::English	Oh, I have absolutely no intent on sacking the town. Truth be told, I'm not sure my men could sack a ((nursery)). But maybe we'll scare them into giving us some coin, eh?	哦,我压根没打算洗劫镇子。说实话,我都不确定我那帮弟兄洗劫得了((托儿所))。不过也许能吓唬他们给我们几个硬币,嗯?
+onionCap11	1	onionCap11::English	&&Hmph! Well... a lady never tells. <<He winks.>> 	&&哼!这个嘛……淑女从不透露。<<他眨眨眼。>>
+p454	1	p454::English	About something else...	关于别的事……
+onionCap12	1	onionCap12::English	Oh, ((do)) make it quick...	哦,((务必))快一点……
+p455	1	p455::English	What kind of name is Rotten Onion, anyway?	烂洋葱到底算个什么名字?
+onionCap13	1	onionCap13::English	Well, a ((terrible)) one, of course. The previous name turned out to be a rather nasty ((slur)) in Slev - so we had to come up with a new one pretty quickly in a tavern. I suggested the name ((Golden Galleon)) - which I thought went down rather well.	呃,当然是个((糟透))的名字。之前的名字在斯列夫竟然是句相当难听的((脏话))——所以我们只好在酒馆里匆匆现起一个。我提议叫((黄金大帆船))——我觉得反响相当不错。
+onionCap14	1	onionCap14::English	But it turned out that the men had completely misheard me in the clamour of the pub. The next day, everyone was commending me on what an excellent name 'Rotten Onion' was. And once you get an idea into these buffon's heads, it's ((very)) hard to get it out. 	结果在酒馆的喧闹声中,弟兄们完全听岔了我的话。第二天,人人都夸'烂洋葱'这名字起得妙极了。而一旦这些蠢货脑袋里装进一个想法,((很难))再抠出来。
+p456	1	p456::English	Sorry, I'll just be going... 	抱歉,我就先走了……
+onionCap15	1	onionCap15::English	Yes, if you ((would!))	对,((请便!))
+onionGrunt1	1	onionGrunt1::English	Seein' that giant nautilob up there...? Makes me proud to call myself a ((Smelly Onion.))	看到头顶那只巨型鹦鹉螺妖……?让我很自豪能自称一只((臭洋葱))。
+onionGrunt2	1	onionGrunt2::English	...whassat? No, I'm certain it's ((Smelly)) Onion. I think I'd know my ((own)) merc company name!	……什么?不,我确定是((臭))洋葱。我总该知道((自己))佣兵团的名字吧!
+onionGrunt3	1	onionGrunt3::English	People are always chattin' about those ((Dark Stars)) and their ((Vela Callose.)) But one day... one day they'll be talking about the ((Rotten Onions!)) And our... ((our))...	人们总在议论那些((黑星佣兵团))和他们的((薇拉·卡洛斯))。但总有一天……总有一天大家会谈起((烂洋葱佣兵团!))还有我们的……((我们的))……
+onionGrunt4	1	onionGrunt4::English	((Oh gods. What's our leader's name again?))	((天哪诸神。我们头儿叫什么来着?))
+onionGrunt5	1	onionGrunt5::English	These ol' God War fortresses sure are strange, what with everything made out of metal, an' all. If you ask me, boxes n' boats should be made o' ((wood.))	这些古老的神战堡垒真是怪得很,全是金属造的什么的。要我说,箱子啊船啊就该用((木头))造。
+onionGrunt6	1	onionGrunt6::English	Gods, my feet ache from patrolling all day. Who's gonna bother to rob us anyways? We're broke!	诸神在上,巡逻一整天,我脚都酸了。再说了,谁会费劲来抢我们?我们都穷光了!
+onionGrunt7	1	onionGrunt7::English	You may've charmed the others, but I've got my eye on you. 	你也许迷惑了别人,但我可盯着你呢。
+emyr1	1	emyr1::English	<<The farmhand sits aimlessly, watching the mushrooms.>> 	<<雇农茫然地坐着,望着蘑菇。>>
+p501	1	p501::English	Busy day? 	今天忙吗?
+emyr2	1	emyr2::English	<<You startle the farmhand.>> Hmm? Oh, Emyr wasn't slackin' off, oh no! Issjust... there ain't much to do around here lately, on account o' the poor shroom yield. 	<<你吓了雇农一跳。>>嗯?哦,埃米尔没有偷懒,才没有!只是……近来这儿实在没活可干,蘑菇收成太差了。
+emyr3	1	emyr3::English	Each year the harvests get leaner an' leaner. Dwynn says it'll be fine, but I don't think even ((he)) believes it.	收成一年比一年薄。德温说没事,可我看连((他))自己都不信。
+emyr4	1	emyr4::English	Last time I took scryshroom, I saw a vision of Pwyll, barren an' bare, the houses all ruined. Honestly, unless we ((do)) summin', this town ain't got much of a future, I reckon...	上回我吃了窥菇,看见了普威尔的幻象,荒芜一片,房屋尽毁。说真的,除非我们((干))点什么,这镇子没什么未来,我看……
+p502	1	p502::English	Have you heard of any god-worshippers around here?	你听说过附近有拜神者吗?
+emyr5	1	emyr5::English	<<He looks suddenly nervous.>> Emyr don't know nuffin', y'hear? If I get caught talkin' about that kinda stuff, Culwych'll go an' weigh me on those scary scales o' his... 	<<他突然紧张起来。>>埃米尔什么都不知道,听见没?要是我被抓到谈论那种事,卡尔威奇会拿他那吓人的天平来称我……
+p503	1	p503::English	I'll leave you to it.	不打扰你了。
+emyr6	1	emyr6::English	<<He returns to staring at the mushrooms.>>	<<他继续望着蘑菇。>>
+emyr7	1	emyr7::English	So yer stopped Lludd from sacrificin' hisself, eh? Gotta admit, part o' me's relieved.	这么说你拦下了卢德,没让他把自己献祭掉,嗯?不得不说,我心里松了口气。
+emyr8	1	emyr8::English	So he really went an ((did)) it, eh? Lludd, sacrificin' hisself for the good o' Pwyll. Gotta admit, I'm glad the village is saved an' all, but it don't make me feel good knowin' Lludd's gone. Not good at all. 	所以他真的((干))了,嗯?卢德,为了普威尔把自己献祭了。不得不承认,村子得救我高兴,可一想到卢德没了,心里就不是滋味。很不是滋味。
+emyr9	1	emyr9::English	Guess I should come clean an' say... that were me, in the Wikkan robes, conductin' the Wikkan ritual. It were all stuff we found in the mayor's basement - old stuff from before the war, an' the like. 	我想我该坦白……穿维坎长袍、主持维坎仪式的,就是我。那些都是我们在镇长地下室里翻出来的——战前的老物件之类。
+emyr10	1	emyr10::English	I wanted to save the village an' all, but I did say to Lludd, d'ya ((really)) wanna do this, y'know? I never wanted anyone to ((die)) over it. 	我也想救村子来着,可我确实问过卢德,你((真))想干这个吗,你知道吗?我从没想让任何人为此((送命))。
+emyr11	1	emyr11::English	Just... don't mention me to ol' Culwych, will ya? I didn't really know what I was gettin' myself into. I don' wanna rot in some prison cell... 	只是……别跟老卡尔威奇提起我,行吗?我真不知道自己卷进了什么。我可不想烂在什么牢房里……
+emyr12	1	emyr12::English	<<In the darkness and under such a thick hood, you can't make out the person's face.>> ##Get ((away)) from me, y'hear? You shouldn't ((be)) here. Come any close an' I swear, ye'll regret it... 	<<黑暗之中,厚兜帽之下,你看不清那人的脸。>> ##离((远))点,听见没?你不该((来))这儿。再靠近我就要动手,你听好了,你会后悔的……
+ghutrid1	1	ghutrid1::English	Hmph, what's this - ((another)) drop in? I thought I ((told)) Dwynn to stop giving a key to any ol' breather. 	哼,这是什么——((又))来一位?我不是((说过))让德温别随便给哪个呼吸者配钥匙吗。
+ghutrid2	1	ghutrid2::English	<<She lets out a raspy sigh.>> Look, I'm sure you know the drill, but... tell ((anyone)) about our little smuggling enterprise and you'll get a blade in the gut. <<Her torn lips form a mockery of a smile.>> ##Got it? 	<<她发出沙哑的叹息。>>听着,我相信你懂规矩,但是……把我们这桩小小的走私买卖告诉((任何人)),你就得挨一刀,捅进肚子里。<<她残破的嘴唇挤出个扭曲的笑。>> ##明白?
+ghutrid3	1	ghutrid3::English	<<She claps her hands together.>> Well, with the ((pleasantries)) out the way, what'll it be? You looking to move some goods - or you after a [[Union Passport?]]	<<她拍了拍手。>>好了,((客套))完了,你想怎么样?是想运点货——还是想要一张[[联盟护照?]]
+ghutrid4	1	ghutrid4::English	You again, eh? Well, what'll it be? 	又是你,嗯?那,想怎么样?
+p550	1	p550::English	Let me see what you have for sale.	让我看看你卖什么。
+ghutrid5	1	ghutrid5::English	<<She nods.>> And ((obviously)) you didn't get it from me, right? 	<<她点点头。>>而且((显然))不是从我这儿买的,对吧?
+p551	1	p551::English	You look a little... worse for wear. 	你看起来有点……憔悴。
+ghutrid6	1	ghutrid6::English	What, you never seen an [[Endless]] before? ##<<She coughs.>> Bet you haven't, an' all. 	怎么,没见过[[无尽者]]? ##<<她咳了一声。>>我猜你也没见过。
+ghutrid7	1	ghutrid7::English	Well, the name's Ghutrid, an' I'm six hundred-an-somethin' years old. Forgive me if I can't recall the ((exact)) number - the last hundred 'ave been a bit of a ((drag.))	嗯,我叫古特里德,六百多岁了。要是记不清((确切))数字,还请见谅——最近一百年有点((难熬))。
+ghutrid8	1	ghutrid8::English	Anyways, I'm not a bloody emissary for the [[Endless Realm]]. You can see its rotten trees an' mausoleum spires from Pwyll - so if you ((really)) wanna know the ((delights)) of eternal life in a dusty tomb, you can go visit sometime. 	总之,我才不是[[无尽领域]]的什么该死使者。从普威尔就能望见它的烂树和陵墓尖塔——所以你要是((真))想了解尘封墓穴里永生的((妙处)),大可改天去看看。
+p552	1	p552::English	Your Union Passports - do they work?	你的联盟护照——好用吗?
+ghutrid9	1	ghutrid9::English	Well if they ((didn't)), I'm not likely to tell you now, am I? ##How's this; if the feller at the gatebridge susses it's a forgery, I'll come give you a friendly visit at your Inquisition prison cell. Satisfied? 	要是((不好用)),我现在也不会告诉你,对吧? ##这样吧;要是关卡桥那家伙看出是伪造的,我就去宗教裁判所牢房给你来个友好的探监。满意了吧?
+ghutrid10	1	ghutrid10::English	So, if you want one, just have a look through [[my stock.]]	所以,想要的话,就去翻翻[[我的货]]吧。
+p553	1	p553::English	What's with the portal in the back?	后面那道传送门是怎么回事?
+ghutrid11	1	ghutrid11::English	<<She grins.>> Ah, an old family heirloom, shall we say. Us Endless are fond of our portal mirrors, even if they often lead you to the arse-end of a mausoleum. ##Thought I might as well make ((good use)) of a pair, an' struck up this little partnership with Dwynn.	<<她咧嘴一笑。>>啊,算是件传家的老物件吧。我们无尽者都钟爱自家的传送镜,哪怕它们常把你送到陵墓的荒屁股角。 ##我想着不如把它们((物尽其用)),就跟德温搭成了这桩小买卖。
+ghutrid12	1	ghutrid12::English	That one leads right to the [[Lost Purse]] in [[Hallow Town]]. Let's just say the folk over there share a mutual distaste for Union taxes. <<She chuckles.>>	那道门直通[[哈洛镇]]的[[失包黑店]]。这么说吧,那边的人也跟联盟的税收八字不合。<<她咯咯直笑。>>
+ghutrid13	1	ghutrid13::English	Only, they keep the room barred from the other side unless we have a delivery, so don't go snoopin', now. 	只是没货的时候,他们会从那边把房间闩死,所以别去乱翻,听见没。
+p554	1	p554::English	I'll be going.	我先走了。
+ghutrid14	1	ghutrid14::English	Right. An' not a word to anyone, y'hear? 	好。跟谁都不许提一个字,听见没?
+mechFarmer1	1	mechFarmer1::English	Stop right there! <<The man brandishes a particularly rusty sword in your direction.>>##Y'er not... ((ticking)), are ye? No metallic limbs? Leaky joints? 	站住!<<那男人朝你挥舞着一把锈得厉害的剑。>> ##你不是……((滴答作响))的那种吧?没有金属四肢?漏油的关节?
+p601	1	p601::English	Why would I be... ((ticking))?	我为什么会……((滴答作响))?
+mechFarmer2	1	mechFarmer2::English	Because ye might be a ((mechanical contraption)), hidin' in the ((skin)) of a person! ##<<He gasps for air and blinks at you.>>	因为你可能是个((机械装置)),藏在人的((皮))底下! ##<<他喘着粗气,冲你直眨眼。>>
+mechFarmer3	1	mechFarmer3::English	Well, don't look at me like I'm ((daft!)) It's a perfectly reasonable suspicion!	喂,别拿那种眼神看我,以为我((疯了))!这怀疑完全合理!
+p602	1	p602::English	Yes! I am in fact, a ((clock.)) 	对!其实我就是个((时钟))。
+mechFarmer4	1	mechFarmer4::English	<<The man gasps.>> Ah! I knew it! These fiendish contraptions are gettin' more fanciful by the day! 	<<男人倒吸一口气。>>啊!我就知道!这些邪恶装置一天比一天花样多!
+mechFarmer5	1	mechFarmer5::English	<<The man steps closer and prods you a few times with his finger.>> Hmm.	<<男人走近,用手指戳了你几下。>>嗯。
+p603	1	p603::English	Get off me, old man!	放开我,老头!
+mechFarmer6	1	mechFarmer6::English	Y'er in ((my)) house! I'll do as I damn well please. ##<<He scowls at you for a moment.>>	这可是在((我))家!老子想干什么就干什么。 ##<<他冲你皱了会儿眉。>>
+p604	1	p604::English	((Allow him to continue.))	((任他继续戳。))
+mechFarmer7	1	mechFarmer7::English	<<He prods you a few more times.>> Hmmmm.	<<他又戳了你几下。>>嗯嗯嗯。
+mechFarmer8	1	mechFarmer8::English	Gah! Well I'll admit, you don't ((seem)) like a mindless killin' machine from that blasted [[Clockwork Kingdom]]. It's just, since the [[attacks]] I've been pretty jumpy. 	呸!好吧我承认,你((不像))是那该死的[[发条王国]]来的没脑子的杀戮机器。只是自从那些[[袭击]]之后,我一直神经兮兮的。
+p605	1	p605::English	Tell me about the Clockwork Kingdom.	跟我说说发条王国。
+mechFarmer9	1	mechFarmer9::English	These [[Oneiric Isles]] are home to a certain [[Clockwork Kingdom]], due [[east]] of this 'ere hamlet of Pwyll. 	这些[[梦幻群岛]]中有个[[发条王国]],就在普威尔小村[[正东]]边。
+p606	1	p606::English	What's that about a ((Clockwork Kingdom?))	((发条王国))是什么?
+mechFarmer10	1	mechFarmer10::English	Hmph, new here, are ye? These [[Oneiric Isles]] are home to a certain [[Clockwork Kingdom]], due [[east]] of this 'ere hamlet of Pwyll. 	哼,新来的,是吧?这些[[梦幻群岛]]中有个[[发条王国]],就在普威尔小村[[正东]]边。
+mechFarmer11	1	mechFarmer11::English	For a while they were decent enough neighbours - 'cept for those bothersome factories billowing out smoke an' the occasional explosion rockin' the whole isle somethin' fierce. 	有那么一阵子,他们还算体面的邻居——就是那些工厂浓烟滚滚烦人得很,偶尔的爆炸还震得整座岛七荤八素。
+mechFarmer12	1	mechFarmer12::English	But folk say their machine-king went mad, an' now somma their gadgets and gizmos are spillin' cross the border an' wreaking havoc with my crops. 	可人们说他们的机器王疯了,如今他们那些小玩意零零碎碎越过边境,把我的庄稼折腾得一塌糊涂。
+p607	1	p607::English	Did you say you were getting attacked?	你是说你们遭到了袭击?
+mechFarmer13	1	mechFarmer13::English	<<He sighs.>> Aye. By mechanical monstrosities. ##<<He frowns at you.>> An' don't ((laugh))! I'm bein' sincere! 	<<他叹了口气。>>对。被机械怪物。 ##<<他冲你皱眉。>>别((笑))!我可是认真的!
+mechFarmer14	1	mechFarmer14::English	They've been coming from the east; where the snow's been fallin'. Funny thing - it never ((used)) to snow here.	它们从东边来;那边一直在下雪。怪就怪在——这儿从前((从来))不下雪。
+mechFarmer15	1	mechFarmer15::English	At first they were jus' little things. But lately, one [[huge metal bastard]] 'as taken to ((tending)) my crop shrooms with its weapons. If I try and shoo it away, it attacks! 	起初不过是些小东西。可近来,有个[[巨大的金属混账]]开始用武器((照看))我的作物蘑菇。我一赶它,它就动手!
+p608	1	p608::English	I think I've already dealt with that. 	我想我已经摆平它了。
+mechFarmer16	1	mechFarmer16::English	<<His eyes open wide.>> You ((have?)) And there was me thinking anyone ((foolish)) enough to try would be hacked into tiny pieces! <<He chuckles.>>	<<他瞪大眼睛。>>你((摆平了?))我还以为谁((敢))去试都会被剁成碎片呢!<<他咯咯直笑。>>
+p609	1	p609::English	I could try and shut it down for you.	我可以帮你把它关掉。
+mechFarmer17	1	mechFarmer17::English	You would? Oh, I'd by mighty 'preciative. If you manage to do it, there'd be some [[coin]] in it for you. 	你愿意?哦,那可太感谢了。你要是办成了,有你一份[[硬币]]。
+mechFarmer18	1	mechFarmer18::English	The machine seems t' lurk in the [[snow-tipped mountain to the east]]. Simplest way o' dealin' with it would be to [[smash it to pieces]], but... its [[armour]] will deflect any blow that 'aint [[strong enough.]]	那机器似乎潜伏在[[东边积雪的山]]上。最简单的办法就是[[把它砸个稀烂]],但……它的[[装甲]]会弹开一切[[不够猛]]的攻击。
+mechFarmer19	1	mechFarmer19::English	So maybe there's some way o' shuttin' it down? There were a couple o' suspicious [[container crates]] that fell in the [[forest around here]]. 	所以也许有办法把它关掉?附近[[森林]]里掉落过几个可疑的[[集装箱板条箱]]。
+p610	1	p610::English	Well, good luck with that, old man.	那,祝你好运,老头。
+mechFarmer20	1	mechFarmer20::English	<<He scoffs.>> Aye, an' I'll need it. 	<<他嗤之以鼻。>>是啊,我确实需要。
+p611	1	p611::English	Can you tell me about that machine that's been bothering you?	能讲讲那台烦你的机器吗?
+p612	1	p612::English	I've got to get going.	我得走了。
+mechFarmer21	1	mechFarmer21::English	<<He nods.>>	<<他点点头。>>
+p613	1	p613::English	I've dealt with the machine that's been bothering you. 	那台烦你的机器我已经摆平了。
+mechFarmer22	1	mechFarmer22::English	<<His eyes open wide.>> You ((have?)) And there was me thinking you'd be hacked into tiny pieces! <<He chuckles.>>	<<他瞪大眼睛。>>你((摆平了?))我还以为你会被剁成碎片呢!<<他咯咯直笑。>>
+mechFarmer23	1	mechFarmer23::English	So tell me, how'd you do it? 	快说说,你是怎么办到的?
+p614	1	p614::English	I kept smashing it until it stopped moving.	我一直砸到它不动为止。
+mechFarmer24	1	mechFarmer24::English	<<He nods in appreciation.>> Like my pa used to say, If you can solve any problem with violence; you'll do alright in this world. 	<<他赞赏地点点头。>>正如我老爹常说的:能用暴力解决的问题,你在这世上就饿不死。
+mechFarmer25	1	mechFarmer25::English	<<He clears his throat.>> O' course, my pa died in a pub brawl, rest 'is soul. But ((in this case)) I s'pose he was right.	<<他清了清嗓子。>>当然,我老爹是在酒馆斗殴里丧命的,愿他安息。不过((就这事儿))而言,我觉得他说得对。
+mechFarmer26	1	mechFarmer26::English	Anyway, it's not much, but I have some [[coin]] stashed away here. Please accept it, along with my 'eartfelt thanks. 	总之,不多,但我这儿存了些[[硬币]]。请收下,连同我由衷的感谢。
+p615	1	p615::English	I managed to disable it remotely.	我成功远程把它关掉了。
+mechFarmer27	1	mechFarmer27::English	<<He taps his forehead.>> Ah, a clever one, are we? 	<<他敲敲脑门。>>啊,还是个机灵鬼?
+mechFarmer28	1	mechFarmer28::English	Well, it's not much, but I have some [[coin]] stashed away here. Please accept it, along with my 'eartfelt thanks. 	嗯,不多,但我这儿存了些[[硬币]]。请收下,连同我由衷的感谢。
+p616	1	p616::English	I changed its protocols; it should tend your farm peacefully, now. 	我改了它的协议;现在它应该会安分地照看你的农场了。
+mechFarmer29	1	mechFarmer29::English	<<He seems taken aback.>> You... changed its ((what)) now? So y'mean it's all ((friendly)) all of a sudden?	<<他似乎吃了一惊。>>你……改了它的((什么))?你是说它一下子就((友好))了?
+mechFarmer30	1	mechFarmer30::English	<<He strokes his chin.>> Hmm. If this ((works)), and that machine proves even half as useful as I 'eard they were... why, I'll be the ((richest)) shroom-tender in Pwyll...	<<他摸着下巴。>>嗯。要是这((行得通)),那机器哪怕只有我听说的一半好用……嘿,我就要成普威尔最((有钱))的蘑菇农了……
+mechFarmer31	1	mechFarmer31::English	<<He breaks into a beaming grin.>>  Maybe even in ((Hallowshire...))	<<他绽出灿烂的笑容。>>搞不好是整个((哈洛郡……))
+mechFarmer32	1	mechFarmer32::English	Thank you, stranger - truly. ##I have here an old [[family heirloom]] that should be worth a few bob to the traders in Hallow Town - please, take it. You've ((earned)) it. 	谢谢你,陌生人——真心实意。 ##我这儿有件祖传的[[传家宝]],在哈洛镇的商人那儿应该值几个钱——请收下。你((应得))的。
+mechFarmer33	1	mechFarmer33::English	Hmph. Sorry if I'm a bit distracted, traveller; that blasted [[mech]] from the [[Clockwork Kingdom]] is still ravaging my crops. 	哼。抱歉我有点心不在焉,旅人;那台从[[发条王国]]来的该死[[机兵]]还在祸害我的庄稼。
+mechFarmer34	1	mechFarmer34::English	Ah, if it isn't my favourite passer-by. I gotta tell you, things 'ave been much more peaceful around 'ere since you took care of that blasted machine.	啊,这不是我最喜欢的过路人嘛。跟你说,自从你摆平了那台该死的机器,这儿太平多了。
+mechFarmer35	1	mechFarmer35::English	Ah, if it isn't my favourite passer-by! ##I gotta tell you, since you tinkered with that robot and made it all friendly, my crop yields 'ave been ((bountiful.)) 	啊,这不是我最喜欢的过路人嘛! ##跟你说,自从你把那机器人调教得服服帖帖,我的收成就((大丰收))了。
+mechFarmer36	1	mechFarmer36::English	<<He scoffs.>>Are you just pullin' my leg?	<<他嗤之以鼻。>>你不会是拿我寻开心吧?
+mechVassal1	1	mechVassal1::English	<<The device crackles with the distinct pulse of cipher-magic. Its ocular-skull registers your presence and a mechanical quill scratches out the following lines:>>	<<装置噼啪作响,密文魔法的搏动清晰可辨。它的颅骨之眼登记下你的存在,一支机械羽笔沙沙写出如下文字:>>
+mechVassal2	1	mechVassal2::English	[[REJOICE]], DOWNTRODDEN THRALL OF THE DEFEATIST POWERS! THOU STANDEST NOW WITHIN A FIEFDOM OF MACHINUS REX. 	[[欢庆吧]],丧权势力下受尽欺凌的奴仆!汝此刻正立于机械王陛下的领地之内。
+mechVassal3	1	mechVassal3::English	[[PROCLAMATION]]: THIS HONOURABLE VASSAL GOVERNS THE PROTOCOLS OF ITS INDENTURED AUTO-SERFS. ##DESCRYING CENSUS... 	[[宣告]]:本尊贵封臣执掌其契约自动农奴之规程。 ##正在勘察人口……
+mechVassal4	1	mechVassal4::English	NUMBER OF INACTIVE AUTO-SERFS: [[253]]. ##NUMBER OF ACTIVE AUTO-SERFS =: [[1]]. ##CURRENT LABOUR PROTOCOL: [[MILITANT AGRICULTURE]]. 	未激活自动农奴数目:[[253]]。 ##激活自动农奴数目:[[1]]。 ##现行劳作规程:[[好斗农耕]]。
+mechVassal5	1	mechVassal5::English	DOST THOU HAVE A QUERY? 	汝有疑问乎?
+p620	1	p620::English	What if I just smash you up? Will that stop the robots from working?	要是我直接把你砸了,那些机器人就会停下吗?
+mechVassal5b	1	mechVassal5b::English	PONDERING... ##[[JUDGEMENT]]: CESSATION OF DUTIES IS ONLY PERMITTED BY ORDER OF MACHINUS REX OR ITS APPOINTED DEPUTIES. THEREFORE, [[EDICT]]: THY PETITION IS DENIED.	思忖中…… ##[[裁定]]:唯有机械王陛下或其委任副手下令,方可终止职守。故而,[[敕令]]:汝之请示,驳回。
+p621	1	p621::English	I want to shut down the machine in your service.	我想关闭为你效力的那台机器。
+mechVassal6	1	mechVassal6::English	[[AXIOM]]: ASSAULT OF A ROYAL VASSAL IS TREASON, & MAY BE ADJUDGED AN ACT OF WAR. THEREFORE, [[EDICT]]: THOU SHALT NOT LAY A HAND UPON THIS VASSAL.	[[公理]]:袭皇家封臣即叛国,并可裁为战争行径。故而,[[敕令]]:汝不得对本案封臣动手。
+p622	1	p622::English	((Give the thing a whack)).	((给这玩意一拳))。
+mechVassal7	1	mechVassal7::English	<<You strike the machine. It doesn't take much force for it to sputter and stop. After a few moments, you are satisfied the thing has stopped working.>>	<<你一击命中机器。没费多大力气,它便噼啪作响着停了下来。片刻之后,你确信这玩意已经罢工。>>
+p623	1	p623::English	Never mind. 	算了。
+p624	1	p624::English	I want to change the, uh, labour protocols. 	我想改一下那个,呃,劳作规程。
+mechVassal8	1	mechVassal8::English	PONDERING... ##[[JUDGEMENT]]: ALTERATION OF PROTOCOLS IS ONLY PERMITTED BY ORDER OF MACHINUS REX OR ITS APPOINTED DEPUTIES, OR BY THE ORDAINED DISCRETION OF THIS VASSAL. THEREFORE, [[QUERY]]: WHAT IS THINE ARGUMENT?	思忖中…… ##[[裁定]]:唯有机械王陛下或其委任副手下令,或经本案封臣受命裁量,方可变更规程。故而,[[质询]]:汝有何论据?
+p625	1	p625::English	@@Your serf is causing havoc and will likely be destroyed, unless you tell it to calm down.	@@你的农奴正在肆虐,若不命它安分,恐将被人摧毁。
+mechVassal9	1	mechVassal9::English	&&CONTEMPLATING CANON(Disputation)... ASSAYING VALIDITY... ##[[JUDGEMENT]: THINE ARGUMENT IS UNWORTHY. THEREFORE, [[EDICT]]: THIS VASSAL WILL CONTINUE ITS DUTIES.	&&思量圣典(辩争)……检验效力…… ##[[裁定]:汝之论据不足取。故而,[[敕令]]:本案封臣将继续恪尽职守。
+mechVassal10	1	mechVassal10::English	%%CONTEMPLATING CANON(Disputation)... ASSAYING VALIDITY... ##[[JUDGEMENT]]: THINE ARGUMENT IS WORTHY.	%%思量圣典(辩争)……检验效力…… ##[[裁定]]:汝之论据确凿有理。
+mechVassal11	1	mechVassal11::English	THEREFORE, [[EDICT]]: AUTO-SERF LABOUR PROTOCOL IS HEREBY REVISED. CURRENT LABOUR PROTOCOL: [[BENEVOLENT AGRICULTURE]]. 	故而,[[敕令]]:自动农奴劳作规程即刻修订。现行劳作规程:[[仁善农耕]]。
+mechVassal12	1	mechVassal12::English	ALL HAIL ITS MAJESTY MACHINUS REX, THE CLOCKWORK KING! 	它陛下机械王万岁,发条王万岁!
+p626	1	p626::English	Never mind, I'll be going. 	算了,我先走了。
+mechVassal13	1	mechVassal13::English	<<The machine seems inoperable.>>	<<机器似乎已无法运作。>>
+mechVassal14	1	mechVassal14::English	[[PROCLAMATION]]: THIS HONOURABLE VASSAL GOVERNS THE PROTOCOLS OF ITS INDENTURED AUTO-SERFS. ##DESCRYING CENSUS... 	[[宣告]]:本尊贵封臣执掌其契约自动农奴之规程。 ##正在勘察人口……
+mechVassal15	1	mechVassal15::English	NUMBER OF INACTIVE AUTO-SERFS: [[253]]. ##NUMBER OF ACTIVE AUTO-SERFS: [[1]]. ##CURRENT LABOUR PROTOCOL: [[BENEVOLENT AGRICULTURE]]. 	未激活自动农奴数目:[[253]]。 ##激活自动农奴数目:[[1]]。 ##现行劳作规程:[[仁善农耕]]。
+mechVassal16	1	mechVassal16::English	NUMBER OF INACTIVE AUTO-SERFS: [[254]]. ##NUMBER OF ACTIVE AUTO-SERFS: [[0]]. ##CURRENT LABOUR PROTOCOL: (((ALAS, CANNOT CONJURE VERSE))).	未激活自动农奴数目:[[254]]。 ##激活自动农奴数目:[[0]]。 ##现行劳作规程:(((呜呼,无法吟出诗句)))。
+mechVassal17	1	mechVassal17::English	<<The machine waits for you to say something.>>	<<机器等待你开口。>>
+mechPasssive1	1	mechPasssive1::English	<<The machine continues with its agricultural duties, indifferent to your presence.>> 	<<机器继续干着农活,对你的存在无动于衷。>>

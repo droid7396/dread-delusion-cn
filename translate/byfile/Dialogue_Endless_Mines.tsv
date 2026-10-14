@@ -1,0 +1,195 @@
+ID	Col	CellKey	English	Chinese
+lord1	1	lord1::English	I must say, lordship can be quite a curse!	我得说，当领主有时候真是种诅咒！
+lord2	1	lord2::English	I own the deed to the [[mines]] in the Southwest. Between you and I, it's worth a fortune.##But a few months ago it simply ceased to produce! As if out of thin air!	我握着西南边[[矿区]]的地契。跟你说句体己话，那可是笔天大的财富。##可几个月前，它突然就绝产了！凭空！
+lordp1	1	lordp1::English	I'm so sorry to hear that.	听到这个我很难过。
+lordp1alt	1	lordp1alt::English	I've been to those mines recently.	我最近去过那些矿坑。
+lordp2	1	lordp2::English	I've no interest in your bourgeois concerns.	我对你们有产阶级的烦恼没兴趣。
+lord3alt	1	lord3alt::English	Ah, you're familiar, then? Splendid!	哦，那你就熟悉那儿了？好极了！
+lord3	1	lord3::English	Now, I sent a [[couple servants]] down to the mines see what the matter is.##As you'd expect, they both split on me; Took their pay and disappeared!	于是，我派了[[几个仆人]]下去看看出了什么事。##不出你所料，他俩把工钱一分就卷款跑了！
+lord4	1	lord4::English	Every day that my [[mines]] aren't operating, I'm losing gold!##What a mess!	我的[[矿区]]每停工一天，我就在亏金子！##简直乱套！
+lordp3	1	lordp3::English	Tell me more about the [[mines]].	再跟我讲讲那些[[矿区]]。
+lordp4	1	lordp4::English	Tell me about yourself.	说说你自己吧。
+lordself	1	lordself::English	Ah, forgive me. I am [[Romulous Chairon VII]], lord and heir to the [[Southwestern Tract]].##The lands I own are rich in resources. The finest in the world. I employ merchants who sell them for me. Even the crown buys my ores.	哦，失礼了。我是[[罗慕路斯·凯隆七世]]，[[西南领地]]的领主与继承人。##我名下的土地资源丰饶，举世无双。我雇商人替我售卖。连王室都买我的矿。
+lordp5	1	lordp5::English	I've been to the mines; here's what I've seen.	我去过矿坑；我看到的情形是这样的。
+lordp6	1	lordp6::English	I must be off.	我得走了。
+lord5	1	lord5::English	My mines are to the Southwest.##The ores are a valuable export. Fine orestones fetch a devilish price in the [[Clockwork Kingdom]].	我的矿在西南边。##矿石是值钱的出口货。精矿石在[[发条王国]]能卖出吓死人的价钱。
+lord6	1	lord6::English	I've likely owned my mines since before you were born! Though I don't involve myself much in its going-ons. There are people beneath me who were handling those trivialities on-site.##Breather, perhaps you could look into it for me?	我拥有这些矿，八成比你出生都早！不过我不太管那些日常琐事，底下有人替我打理。##呼吸者，或许你能替我去查查？
+lord7	1	lord7::English	Ah, would you be so kind? It would mean the world to me.	哦，你愿意帮这个忙？这对我意义重大。
+lordp8	1	lordp8::English	I'd be happy to help.	我很乐意帮忙。
+lordp9	1	lordp9::English	@@For a fee, of course!	@@当然，得收报酬！
+lord8fail	1	lord8fail::English	&&<<He scowls>>##You'll be paid on delivery.	&&<<他皱起眉头>>##事成之后再付钱。
+lord8succ	1	lord8succ::English	%%<<He scowls>>##I'm afraid 20 gold is all I'll offer, I'm rather tight at the moment...	%%<<他皱起眉头>>##恐怕我只能出20金币，我手头挺紧的……
+lord9	1	lord9::English	Marvelous! I had a feeling about you as soon as we spoke.	太好了！一开始跟你说话我就有预感。
+lord10	1	lord10::English	The mines are on the Southwestern edge of the region.##The elevator is likely out of operation, but you can make your way down by a series of bridges.	矿在区域的西南边。##升降梯八成罢工了，不过你可以顺着一条条的桥走下去。
+lord11	1	lord11::English	Return when you've solved this fiasco, and I'll produce a suitable reward. You have my word, breather!	等你把这场烂摊子收拾好了再来，我会备好一份像样的报酬。我向你保证，呼吸者！
+lord12	1	lord12::English	<<After hearing half of your story, he interrupts you.>>##You're just complicating things, believing all their commotion about crystals. The truth is simple: those greedy miners have stolen my mines!	<<听了你一半的话，他打断了你。>>##你就是把事情搞复杂了，还信他们那套关于水晶的鬼话。真相很简单：那些贪心的矿工偷了我的矿！
+lord13	1	lord13::English	Breather! Go back and tell them at once! These mines belong to me!##You'll be rewarded handsomely, on my honor!	呼吸者！回去立刻告诉他们！这些矿是我的！##你会得到丰厚的报酬，我以名誉担保！
+lord14	1	lord14::English	My friend, I've been waiting for your return! I've been informed of your success already.##A promise is a promise; here is your reward.	我的朋友，我一直在等你回来！你的成功我已经听说了。##一诺千金；这是你的报酬。
+lord14alt	1	lord14alt::English	So you're the one who liberated my mines! An honor to meet you.##I've prepared a reward for you.	原来你就是解放我矿区的功臣！有幸相见。##我为你备好了一份报酬。
+lordp10	1	lordp10::English	Thank you, my lord.	谢谢您，大人。
+lordp11	1	lordp11::English	@@This amount is hardly adequate.	@@这点钱可远远不够。
+lord15fail	1	lord15fail::English	&&Hmph. I've been quite generous as it is.##A bit of tact and dignity would go a long way!	&&哼。我已经相当大方了。##懂点分寸、要点体面，对你有好处！
+lord15succ	1	lord15succ::English	%%A negotiator, are you, breather? Ha, very well! I admire an enterprising youngster.##Take this. It's an excellent year.	%%还挺会谈价的，是吧呼吸者？哈，好吧！我欣赏有进取心的年轻人。##拿着。这可是个好年头。
+lord16	1	lord16::English	My dear friend! So good to see you.##Perhaps you've heard? my mines will resume operation soon. I've paid a party of young men to sort it out. They say it will be any day now.	我亲爱的朋友！见到你真高兴。##也许你听说了？我的矿很快就要复工了。我雇了一伙年轻人去解决问题。他们说随时都能恢复。
+lord17	1	lord17::English	Ore is fetching an exorbitant rate in the [[Clockwork Kingdom.]] I'll make my fortune back in no time.	矿石在[[发条王国]]卖出了天价。我很快就能把本钱赚回来。
+lordp12	1	lordp12::English	What will become of the crystal cultists?	那些水晶教徒会怎么样？
+lord18	1	lord18::English	The mutineers, you mean? Any stragglers will be quartered.	你是说那些叛党？凡是漏网的都会被分尸处死。
+lord19	1	lord19::English	I'm preparing a troup of mercenaries to that very end.##They should be ready within the week.	我正在为此组建一支佣兵队。##一周之内就能就绪。
+lordp13	1	lordp13::English	The mines belong to [[us]] now.	矿现在归[[我们]]了。
+lord20	1	lord20::English	<<He looks equally shocked and incredulous>>##What the hell are you talking about, fleshsack!? I've owned the deed to that land since before your great grandfather was born!	<<他一脸震惊，又满是不信>>##你到底在放什么屁，血肉袋子！？那块地的地契在你曾祖父出生前就归我了！
+lord21	1	lord21::English	You there! Spill it! What do you know about my mines?##I've owned the deed to that land since before your great grandfather was born!	你！从实招来！关于我的矿你都知道些什么？##那块地的地契在你曾祖父出生前就归我了！
+lordp14	1	lordp14::English	I'm sorry.	对不起。
+lord22	1	lord22::English	<<He rolls his eyes at this.>>##You're ((sorry))!? I don't even care about you!	<<他对此翻了个白眼。>>##你((对不起))！？我根本就不在乎你！
+lordp15	1	lordp15::English	Forget about the mines.	别想那矿了。
+lord23	1	lord23::English	You must be joking! My mines make up the better part of my fortune! Would you have me wither and die, a ragged vagrant adrift in the wilderness?	你开玩笑吧！我的矿是我家产的大头！你是想让我枯萎而死，做个衣衫褴褛的流浪汉漂泊荒野吗？
+lordp16	1	lordp16::English	<<[Kill]>> Behold, the [[power]] of our goddess!	<<[杀死]>>看吧，我们女神的[[力量]]！
+lord24	1	lord24::English	<<At this invocation, the nobleman's body crystallizes rapidly. He can scarcely let out a scream before his lungs turn solid.>>	<<随着这一声召唤，贵族的身体迅速水晶化。他还没来得及喊出声，肺就已变成固体。>>
+lordp17	1	lordp17::English	I have nothing more to say to you	我对你无话可说
+res0	1	res0::English	<<The resident scratches at the painful crystalline growth which protrudes from his left eye...>>	<<居民抓挠着从左眼凸出的、疼痛的水晶增生……>>
+res1	1	res1::English	I just want this nightmare to end.	我只想让这场噩梦结束。
+resp1	1	resp1::English	What happened?	发生了什么？
+res2	1	res2::English	Aaargh! I can feel it in my face. [[She's]] inside me, crawling out!	啊啊啊！我能感觉到它在我脸上。[[她]]在我体内，正往外爬！
+resp2a	1	resp2a::English	There's a woman... inside you?	有个女人……在你身体里？
+res3a	1	res3a::English	Pieces of many people together. She's filling my face up with sharp corners.	许多人的碎片拼在一起。她用尖角填满我的脸。
+res4	1	res4::English	Stay out of the [[mines]].##She wants to grow...	别进[[矿坑]]。##她想生长……
+resp2b	1	resp2b::English	You're talking about the crystals in the mines.	你说的是矿里的水晶。
+res3b	1	res3b::English	Do you know where those crystals come from? They're all crying out in pain...	你知道那些水晶从哪儿来吗？它们全都在痛苦地哭喊……
+resp3	1	resp3::English	Who are you?	你是谁？
+res5	1	res5::English	<<This question distresses him greatly, and he begins to whimper.>>##Who was I? Perhaps... no that can't be right...	<<这个问题让他痛苦不已，他开始呜咽。>>##我从前是谁？也许……不，不对……
+res6	1	res6::English	I think I was a foreman... or a miner maybe? Or was I a soldier?##I remember being a young boy when the Crusaders came and... No. I must have been his mother.... But that can't have been me either...	我记得我是个工头……或者矿工？还是士兵？##我记得十字军来的时候我还是个小男孩……不对。我一定是他的母亲……可那也不该是我……
+res7	1	res7::English	Some of these memories aren't mine...	这些记忆有些不是我的……
+resp4	1	resp4::English	I'll see what I can do...	我看看能做点什么……
+res8	1	res8::English	I think I'm really dying this time. I'm so afraid.	我觉得这次我真的要死了。我好害怕。
+resLaw1	1	resLaw1::English	<<he weeps with gratitude. The crystals in his face have receded>> Thank you so much... I can't believe it's ending.	<<他感激地流下眼泪。他脸上的水晶已经消退>>太谢谢你了……真不敢相信噩梦要结束了。
+resLaw2	1	resLaw2::English	Please, take this! Though I know it's not much...	请收下这个！虽然我知道不多……
+resp5	1	resp5::English	Take care.	保重。
+resChaos1	1	resChaos1::English	I understand now. What it is to be, without the lines and boundaries of self.	我现在明白了。没有自我的线条与边界，去存在是什么滋味。
+resChaos2	1	resChaos2::English	It makes no difference whose pain this was; it belongs to everyone.	这痛苦曾属于谁已无关紧要；它属于所有人。
+serv1	1	serv1::English	This is a sacred place. You shouldn't be here. My siblings will kill you.	这是神圣之地。你不该来。我的兄弟姐妹会杀了你。
+serv2	1	serv2::English	You'd better leave. [[She]] knows what you are, and what you intend to do here.	你最好离开。[[她]]知道你是什么，也知道你打算在这儿做什么。
+servp1	1	servp1::English	What do you suspect I'll do?	你怀疑我要做什么？
+serv3	1	serv3::English	We do not suspect. We simply know.##Our mistress reveals the truth with absolute perfection.	我们不怀疑。我们只是知道。##我们的女主人以绝对完美揭示真相。
+servp2	1	servp2::English	What's happened to these [[mines]]?	这些[[矿坑]]发生了什么？
+serv4	1	serv4::English	Mines? Have you been blinded by a dark curse? These are not mines. They are more akin to the inside of a fertile egg.	矿坑？你是被黑暗诅咒迷了眼吗？这些不是矿坑。它们更像一颗饱满的卵的内部。
+servp3	1	servp3::English	Who is your [[mistress]]?	你们的[[女主人]]是谁？
+serv5	1	serv5::English	My mistress is the one who will save this accursed region.	我的女主人是将拯救这片受诅咒之地的人。
+serv6	1	serv6::English	She will heal us of the weight we've carried so long.	她将治愈我们背负已久的重担。
+servp4	1	servp4::English	Who are you?	你是谁？
+serv7	1	serv7::English	Who am ... I?##... I'm afraid I don't understand your line of reasoning.	我是……谁？##……恐怕我不明白你的思路。
+servp5	1	servp5::English	I must go.	我得走了。
+servLaw1	1	servLaw1::English	<<They wail with overwhelming grief. There is no fight left in them.>>	<<他们发出撕心裂肺的恸哭。他们再无战意。>>
+servChaos1	1	servChaos1::English	You've become part of us! Truly Her power is miraculous.##Oh celebration! Oh jouissance!	你已成为我们的一部分！她的力量真是奇迹。##哦，欢庆！哦，极乐！
+servChaos2	1	servChaos2::English	Will you go beyond this egg? Venture from Her womb so as to spread Her truth?##Please, take this with you.	你要走出这颗卵吗？离开她的子宫，去传播她的真理？##请带上这个。
+wrkr1	1	wrkr1::English	Astounding. Everything is being made clear now. How marvelous. I can see it.	不可思议。一切正在变得清晰。多么美妙。我看得见了。
+wrkrp1	1	wrkrp1::English	Who are you?	你是谁？
+wrkr2	1	wrkr2::English	I was once a child. Many children. We committed evils beyond redemption. But these are all Her memories now.	我曾是个孩子。许多孩子。我们犯下无法救赎的恶。但如今这些都是她的记忆了。
+wrkr3	1	wrkr3::English	A thousand perspectives, refracted through her.##We remember being devoured; remember dying. But we also remember devouring.	千种视角，经她折射。##我们记得被吞食；记得死亡。但我们也记得吞食。
+wrkr4	1	wrkr4::English	That's what's really inside these crystals, you know. Old wounds.	你知道吗，这些水晶里面装的其实是旧伤。
+wrkr5	1	wrkr5::English	But She is merciful, showing the truth even to a wretch like me.	但她是仁慈的，连我这个可怜虫也能得见真相。
+wrkrp2	1	wrkrp2::English	What do you see?	你看见了什么？
+wrkr6	1	wrkr6::English	A body amalgamate. Abstract geometry and structure.##Perfect in its form, steeped in a sorrow beyond compare.	一个身体的聚合体。抽象的几何与结构。##形态完美，浸透着无与伦比的悲伤。
+wrkr7	1	wrkr7::English	The true form of the divine; the great continuum of all that is.	神圣的真形；万有的宏大连续体。
+wrkrp3	1	wrkrp3::English	Is [[She]] a god?	[[她]]是神吗？
+wrkr8	1	wrkr8::English	One day She will be. Soon, perhaps.	总有一天她会是的。也许很快。
+wrkrp4	1	wrkrp4::English	What does [[She]] want?	[[她]]想要什么？
+wrkr9	1	wrkr9::English	<<She pauses, as if listening for the answer.>>##It... isn't so simple. There's so many of her.	<<她停下，仿佛在聆听答案。>>##这……没那么简单。她太多了。
+wrkr10	1	wrkr10::English	She wants to save us from our cruel fate.##We endless are all caught in this great misery; toiling away in a place without gods. Eternal mourning on an island of graves.	她想把我们从残酷的命运中解救出来。##我们无尽者都困在这巨大的苦难里；在没有神明的地方劳作至死。在坟墓之岛上永恒哀悼。
+wrkr11	1	wrkr11::English	The tragedy of the Crusades hangs over this island like a grand condemnation.	十字军的悲剧如同一纸宏大判决，笼罩着这座岛。
+wrkr12	1	wrkr12::English	But... there's something else. It's difficult to explain.	但是……还有别的。很难解释。
+wrkr13	1	wrkr13::English	She wants to heal too... More than that; she wants to escape.##There's rage there, almost like a cornered animal, or a man in a cage.	她也想治愈……不止如此；她想逃出去。##那里有愤怒，像走投无路的野兽，又像笼中人。
+wrkr14	1	wrkr14::English	<<She stands in awe of the visions before her.>>	<<她敬畏地望着眼前的幻象。>>
+wrkrLaw1	1	wrkrLaw1::English	I cannot see it anymore. The tapestry of creation is concealed again.	我看不见了。创世的锦缎重新被遮住。
+wrkrLaw2	1	wrkrLaw2::English	Our divine light; where has She gone?##These caverns are so dark without her...	我们神圣的光；她去哪儿了？##没有她，这些洞穴如此黑暗……
+keyb1	1	keyb1::English	<<He awakens from a state of meditative prayer.>>	<<他从冥想祈祷中醒来。>>
+keyb1b	1	keyb1b::English	May ye be blessed.	愿你得福。
+keybp1	1	keybp1::English	@@I'm here to show my devotion.	@@我是来表示虔敬的。
+keyb2fail	1	keyb2fail::English	&&<<He looks at you and closes his eyes. After a long pause he wordlessly shakes his head in refusal.>>	&&<<他看着你，闭上眼睛。长久的停顿后，他一言不发地摇头拒绝。>>
+keyb2succ	1	keyb2succ::English	%%<<He looks at you and closes his eyes. After a long pause he nods his head in acceptance.>>##<<He silently unlocks the gate to the [[hymnal chamber]]>>	%%<<他看着你，闭上眼睛。长久的停顿后，他点头应允。>>##<<他默默打开了通往[[圣咏室]]的门>>
+keybp2	1	keybp2::English	Who are you?	你是谁？
+keyb3	1	keyb3::English	I am a midwife of our new god.	我是我们新神的接生者。
+keyb4	1	keyb4::English	[[The sculptor]] has entrusted me guardian of the [[hymnal chamber]].	[[圣雕师]]托我守卫[[圣咏室]]。
+keybp3	1	keybp3::English	Tell me of the [[hymnal chamber]].	跟我说说[[圣咏室]]。
+keyb5	1	keyb5::English	The hymnal chamber lies through this gate. It is a place of sacred ritual.	圣咏室就在这道门后。那是举行神圣仪式的地方。
+keyb6	1	keyb6::English	By our faith, Her dream becomes possible.##And by Her dream, all dreams.	凭我们的信仰，她的梦成为可能。##凭她的梦，一切梦皆成。
+keybp1alt	1	keybp1alt::English	I'm here to show my devotion.	我是来表示虔敬的。
+keybp4	1	keybp4::English	Goodbye.	再见。
+keyblaw1	1	keyblaw1::English	You've ruined everything, you pathetic vermin. Now nothing can help us...	你毁掉了一切，你这可怜的害虫。如今没有什么能救我们了……
+keyblaw2	1	keyblaw2::English	May great misfortune befall you.	愿大祸降临于你。
+keyblawp1	1	keyblawp1::English	@@You're defeated. Let me through.	@@你败了。让我过去。
+keyblawsucc	1	keyblawsucc::English	%%...I suppose it makes no difference to me either way.##<<He opens the gate, a look of defeat on his face.>>	%%……我想这对我怎样都无所谓了。##<<他打开大门，一脸败象。>>
+keyblawfail	1	keyblawfail::English	&&<<He spits in your face.>>	&&<<他朝你脸上啐了一口。>>
+keybchao1	1	keybchao1::English	Welcome, kindred. May ye be blessed.	欢迎，同类。愿你得福。
+keybchao2	1	keybchao2::English	Of course, kindred.##<<He opens the way for you.>>	当然可以，同类。##<<他为你让开了路。>>
+pris1	1	pris1::English	Thank you for freeing me! I thought I was done for!	谢谢你放我出来！我以为这下完了！
+prisp1	1	prisp1::English	Who are you?	你是谁？
+pris2	1	pris2::English	I am Inquisitor MCCXVII of the Apostatic Union. At your service.	我是叛教联盟的 MCCXVII 号审判官。愿效犬马之劳。
+prisp2	1	prisp2::English	What's an Inquisitor doing in these mines?	审判官在这些矿坑里做什么？
+pris3	1	pris3::English	There were four of us, sent to investigate a possible class-C god entity.	我们一共四人，奉命调查一个疑似 C 级神体。
+pris4	1	pris4::English	But I was separated from the rest of the tribunal and taken prisoner.	可我跟审判团其他人走散，被俘了。
+pris5	1	pris5::English	I'm not sure what became of my comrades...	我不知道我的同伴们怎么样了……
+pris6	1	pris6::English	We weren't able to nullify the god entity. Our quest was a resounding failure...	我们没能压制那个神体。我们的任务一败涂地……
+prisp3	1	prisp3::English	I can help.	我可以帮忙。
+prisp4	1	prisp4::English	Sorry...	抱歉……
+pris7	1	pris7::English	Yes, perfect! [[take this!]]##It's a [[terminus prism]]. It can kill a god-entity like this one.	太好了！[[拿着这个！]]##这是[[终末棱镜]]。它能杀死像这样的神体。
+pris8	1	pris8::English	You can set this whole mess right!	你能收拾好这烂摊子！
+prisp5	1	prisp5::English	@@I need any supplies you've stashed.	@@把你藏的物资都给我。
+prissucc	1	prissucc::English	%%Of course! I keep these defense potions hidden in case of emergencies.	%%当然！我藏了这些防御药水，以备不时之需。
+prisfail	1	prisfail::English	&&I...I'm afraid they took everything when I was captured.##And besides, I still need to get myself out of here...	&&我……恐怕我被俘时他们把东西全搜走了。##再说，我还得想办法逃出去呢……
+prisp6	1	prisp6::English	This [[terminus prism]]... it can kill a god?	这[[终末棱镜]]……能杀死神？
+pris9	1	pris9::English	Only fledgling god entities, like this one, which are undergoing [[apotheosis]].##The [[prism]] has no effect on an older god entity.	只能杀死像这样正在[[封神]]中的初生神体。##[[棱镜]]对更古老的神体没有作用。
+pris10	1	pris10::English	Before we were separated, my tribunal determined that this [[crystal entity]] is currently in an advanced stage of apotheosis.	在我们走散之前，审判团判定这个[[水晶神体]]目前处于封神的后期阶段。
+pris11	1	pris11::English	At this stage, a god entity is still malleable to the imaginations of its followers.##That's how the [[prism]] kills the entity.	在这个阶段，神体仍会受信徒的想象塑形。##[[棱镜]]就是这样杀死神体的。
+prisp7	1	prisp7::English	What will you do now?	你现在打算怎么办？
+pris12	1	pris12::English	I'll make for the surface once I have a good opportunity.##I'm in no state to fight, so I'll have to slip through somehow...	一有机会我就往地表走。##我现在这状态打不了，只能设法悄悄溜出去……
+scul1	1	scul1::English	I am the [[sculptor]], Lucia.##The [[crystal goddess]] told me y'ed come.	我是[[圣雕师]]露西亚。##[[水晶女神]]告诉俺，你会来。
+scul2	1	scul2::English	So. What's yer intention?	说吧。你来想干什么？
+sculp1	1	sculp1::English	You sculpted this?	这是你雕的？
+scul3	1	scul3::English	Aye, I was th' first to hear it, through the rock walls.##Biggest pocket of pure crystal any of us'd ever seen.	是啊，俺是头一个隔着岩壁听见她的。##俺们谁都没见过那么大的一窝纯水晶。
+scul4	1	scul4::English	I knew the shape She needed t' take. It felt like I was born with it in me. So I started carving in secret...	俺知道她该长成什么形状。那感觉就像俺生下来就带着它。所以俺就偷偷开始雕……
+sculp2	1	sculp2::English	I'm here to swear my loyalty to the [[Crystal Goddess.]]	我是来向[[水晶女神]]宣誓效忠的。
+scul5	1	scul5::English	<<She grins.>>##Glad t' hear it.	<<她咧嘴一笑。>>##听你这么说俺高兴。
+scul6	1	scul6::English	T' complete your bond, go before [[Her]] and pledge yer devotion.##<<Lucia teaches you a series of>> [[ritual handsigns]] <<needed to complete the pact.>>	要缔结你们的契约，就去[[她]]面前起誓献上虔敬。##<<露西亚教你一套>>[[仪式手印]]<<，完成契约必不可少。>>
+scul7	1	scul7::English	When you are ready, go before the [[Crystal Goddess]] and pledge your loyalty.	等你准备好，就去[[水晶女神]]面前宣誓效忠。
+sculp3	1	sculp3::English	You have to end this madness!	你得结束这场疯狂！
+scul8	1	scul8::English	Hell are ye talkin' about, breather? "Madness"!? Ye must be joking!	你到底在说什么鬼话，呼吸者？"疯狂"！？你肯定在开玩笑！
+scul9	1	scul9::English	Centuries in this godless land, toiling in th' mines with no way out. Eating fake flesh, like some kind of livestock. That's madness.##Th' bloody [[Crusades]]! THAT was madness!	在这片没有神的土地上熬几个世纪，在矿井里做牛做马没个出路。吃着假血肉，跟牲口一样。那才叫疯狂。##那该死的[[十字军]]！那才是疯狂！
+scul10	1	scul10::English	As a young girl I was trained t' be a sculptor. Before th' crusades. I became a miner to survive.##Th' dreams that died back then never disappeared. I've carried that rotten weight.	俺小时候学的是雕石像。十字军之前的事了。为了活命，俺才当了矿工。##当年死掉的那些梦从来没有消失。那腐烂的重量俺一直背着。
+scul11	1	scul11::English	Every endless knows th' experience. That's why [[She]] came t' us.##Ye'd wither to call it madness if you knew.	每个无尽者都尝过那种滋味。所以[[她]]才来找俺们。##你要是知道内情，就绝不会说那是疯狂。
+sculp4	1	sculp4::English	Forgive me. I want to follow the [[Crystal Goddess.]]	原谅我。我想追随[[水晶女神]]。
+scul12	1	scul12::English	<<Lucia looks you in the eyes, gauging your sincerity.>>	<<露西亚直视你的眼睛，掂量你的诚意。>>
+scul13	1	scul13::English	Aye, Very well.	好吧，就这么定了。
+scul14	1	scul14::English	<<Lucia watches you cautiously.>>	<<露西亚警惕地注视着你。>>
+scullaw	1	scullaw::English	[[No!]] How could ye!?##Bloody bastard! [[I'll butcher you!]]	[[不！]]你怎么能！？##该死的杂种！[[俺要把你剁了！]]
+scullawp1	1	scullawp1::English	You don't stand a chance against me.	你根本打不过我。
+scullaw1	1	scullaw1::English	<<Lucia shrieks with rage. Her voice reverberates with the magic imbued in her body.>>##Kill me then! It dun matter!	<<露西亚愤怒地尖叫。她的声音里回荡着浸在体内的魔法。>>##那就杀了俺！无所谓了！
+scullawp2	1	scullawp2::English	I had no choice. I'm trying to save you.	我别无选择。我是想救你。
+scullaw2	1	scullaw2::English	Save me!? I'll kill you!!	救我！？我要杀了你！！
+scullawp3	1	scullawp3::English	Forgive me! It was an accident.	原谅我！那是个意外。
+scullaw3	1	scullaw3::English	<<Lucia spits in your direction.>>##Lying worm!	<<露西亚朝你的方向啐了一口。>>##撒谎的虫豸！
+sculchao1	1	sculchao1::English	Welcome, kindred.	欢迎，同类。
+sculchao2	1	sculchao2::English	Y' had a change of heart? Forgive me fr' my harsh words. We're kindred now.	你回心转意了？原谅俺之前说话冲。咱们现在是同类了。
+sta1	1	sta1::English	<<You stand beneath an intricate crystal statue. It exudes an unmistakable psychic weight.>>	<<你站在一尊精巧的水晶雕像之下。它散发着一种不容错认的精神重压。>>
+stap1	1	stap1::English	<<Smash the statue...>>	<<砸碎雕像……>>
+sta2	1	sta2::English	<<Your weapons and magic would hardly scratch the statue's solid crystal.>>##<<You wonder if there may be a way besides brute force, and if you should explore the mines more.>>	<<你的武器和魔法几乎伤不了雕像的坚实水晶分毫。>>##<<你琢磨着除了蛮力是否还有别的办法，也许该把矿坑探得更深些。>>
+stap2	1	stap2::English	<<Use the>> [[terminus prism]] <<to purge the statue...>>	<<用>>[[终末棱镜]]<<净化雕像……>>
+sta3	1	sta3::English	<<You hold the >>[[terminus prism]]<< in your hand, but before raising it, you wonder:>>##<<Are you sure this is the choice you want to make? The goddess >>[[cannot be rebuilt.]]	<<你握着>>[[终末棱镜]]<<，但在举起它之前，你心想：>>##<<你确定要做出这个选择吗？女神>>[[无法被重建。]]
+stap3	1	stap3::English	<<Raise the prism and>> [[kill the goddess...]]	<<举起棱镜，>>[[杀死女神……]]
+sta4	1	sta4::English	<<The room seems to go totally silent. Then, a piercing noise resonates through the crystals.>>##<<The statue begins to crumble.>>	<<整个房间仿佛陷入死寂。随后，一声刺耳的鸣响在水晶间共鸣。>>##<<雕像开始崩解。>>
+stap4	1	stap4::English	<<Reconsider your options...>>	<<重新考虑你的选择……>>
+stap5	1	stap5::English	<<Admire the statue...>>	<<欣赏雕像……>>
+sta5	1	sta5::English	<<Remarkably crafted, the positioning of each arm and leg clearly carries deep meaning to the artist.>>	<<工艺精湛，每一只手脚的摆放对雕者而言显然都蕴含深意。>>
+sta6	1	sta6::English	<<The identical lower face peers out from between Her legs as if being born. The word "self-begotten" floats through your mind.>>	<<一张一模一样的下脸从她双腿之间探出，仿佛正在降生。"自孕而生"这个词飘过你的脑海。>>
+sta7	1	sta7::English	<<The longer you look, the more admiration you feel. Not just for the artist and her achievement, but for the Crystal Goddess herself and all the depths that she carries.>>	<<你看得越久，敬意越深。不只是为雕师和她的成就，更是为水晶女神本人，以及她承载的所有深邃。>>
+stap6	1	stap6::English	<<Pledge your loyalty to the crystal goddess...>>	<<向水晶女神宣誓效忠……>>
+sta8	1	sta8::English	<<Before performing the>> [[ritual]] <<which Lucia taught you, you wonder:>>##<<Are you sure this is the choice you want to make?>>##<<A pact such as this>> [[cannot be broken.]]	<<在施展露西亚教你的>>[[仪式]]<<之前，你心想：>>##<<你确定要做出这个选择吗？>>##<<这样的契约>>[[无法解除。]]
+stap7	1	stap7::English	<<Perform the [[ritual handsigns]] and devote yourself to the [[crystal goddess...]]	<<施行[[仪式手印]]，将你自己献给[[水晶女神……]]
+sta9	1	sta9::English	<<Visions cross through your mind of geometric threads, converging at the statue's heart.##Immaculate webs extend in all directions, weaving through the veins of the surrounding rock.>>	<<幻象掠过脑海：几何的丝线，在雕像的心脏处汇聚。##无瑕的蛛网向四面八方延展，织入四周岩层的脉络。>>
+sta10	1	sta10::English	<<You see the cosmic totality unified through her.>>	<<你看见宇宙的全体经由她归于一体。>>
+sta11	1	sta11::English	<<The goddess sees you too, with that caressing gaze of hers.##She sees all things.>>	<<女神也看见了你，用她那爱抚般的凝视。##她看见万物。>>
+sta12	1	sta12::English	My beautiful child.##You will retain yourself, because you have another purpose. I have set an even finer role in the tapestry for you.	我美丽的孩子。##你会保有自己的存在，因为你另有使命。我在锦缎上为你安排了一个更精妙的位置。
+sta13	1	sta13::English	I will guide you now. Take this with you##<<You feel something move inside your bag...>>	从今往后我会指引你。带上这个##<<你感觉背包里有什么东西动了……>>
+sta14	1	sta14::English	<<Looking inside, you find a small parcel, wrapped neatly in flower petals.>>	<<往里一看，你发现一个小包裹，用花瓣整整齐齐地包着。>>
+sta14alt	1	sta14alt::English	<<Looking inside, you discover that the >>[[terminus prism]]<< - which the imprisoned inquisitor gave you - has been smashed.##In the middle of the pieces lies a small parcel, wrapped neatly in flower petals.>>	<<往里一看，你发现被囚审判官给你的>>[[终末棱镜]]<<已经碎了。##碎片中间躺着一个小包裹，用花瓣整整齐齐地包着。>>
+stap8	1	stap8::English	Thank you.	谢谢。
+stap9	1	stap9::English	<<Leave...>>	<<离开……>>
+stachao1	1	stachao1::English	<<You stand beneath your sworn guardian, the >>[[crystal goddess.]]<< She guides your fate now.>>	<<你站在你宣誓效忠的守护者>>[[水晶女神]]<<之下。如今她指引着你的命运。>>

@@ -1,0 +1,9 @@
+ID	Col	CellKey	English	Chinese
+portal0	1	portal0::English	<<The pages of the grimoire crackle with magical energy. A quill rises - quite of its own accord - before scratching on the page:>> ##Please write your destination.	<<魔法书页噼啪作响，蓄满能量。一支羽毛笔——完全出于自己的意志——升到半空，在纸页上沙沙写道：>>##请写下你的目的地。
+pPortal1	1	pPortal1::English	Erudite Academy	博识学院
+pPortal2	1	pPortal2::English	Clockwork Kingdom	发条王国
+pPortal3	1	pPortal3::English	Endless Realm	无尽领域
+pPortal4	1	pPortal4::English	Vela's Gunship	薇拉的炮舰
+pPortal5	1	pPortal5::English	Hallow Town	哈洛镇
+pPortal6	1	pPortal6::English	Mushroom Island	蘑菇岛
+pPortalExit	1	pPortalExit::English	((Step away from the book.))	((从书上走开。))

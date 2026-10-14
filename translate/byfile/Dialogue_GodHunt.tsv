@@ -1,0 +1,153 @@
+ID	Col	CellKey	English	Chinese
+poly1	1	poly1::English	<<She does not look up from her papers.>> Ah, another loyal subject of the Apostatic Union. ## I must remind you that impromptu meetings such as these may not exceed ten ticks of the clock. 	<<她头也不抬,继续看着文件。>>啊,又一位叛教联盟的忠诚子民。##我必须提醒你,这种临时会面不得超过十个时钟滴答。
+poly2	1	poly2::English	Are you here to serve the Union? Or is this another matter of ... <<she sighs>> livestock dispute...?	你是为联盟效劳来的吗?还是又一桩……<<她叹气>>牲畜纠纷……?
+polyp1	1	polyp1::English	I'm here for work. 	我是为工作来的。
+polyp2	1	polyp2::English	Tell me about the job, again.	再跟我说说那件差事。
+polyp3	1	polyp3::English	I wanted to ask some questions.	我想问几个问题。
+polyp4	1	polyp4::English	Actually, I think I'm in the wrong room. Goodbye.	其实,我觉得我走错房间了。再见。
+polyp5	1	polyp5::English	I want to serve the Apostatic Union.	我想为叛教联盟效力。
+poly3	1	poly3::English	<<Still looking at her papers, she answers with monotone weariness.>> ##Ah, yes... questions. It is, of course, my pleasure to oblige... <<She checks a pocket watch>> for no more than eight ticks.	<<她仍看着文件,用单调疲惫的语气回答。>>##啊,好……问题。为你效劳自然是我的荣幸……<<她看了眼怀表>>——不超过八个滴答。
+polyp6	1	polyp6::English	Who are you?	你是谁?
+poly4	1	poly4::English	<<She closes her eyes and rubs her temples.>> ##Seeing as we are having this conversation, I ((assume)) you know I am Hallowshire's polymath. I am its appointed representative in Riova and I ensure Union law is upheld.	<<她闭上眼睛,揉着太阳穴。>>##既然我们正在进行这场谈话,我((猜))你知道我是哈洛郡的博学家。我是郡里派驻里奥瓦的代表,负责确保联盟法律得到执行。
+poly5	1	poly5::English	Hallowshire was practically lawless before my council contested the region five years ago. But we won the election with minimal casualties, and I am proud to say things are much improved. 	五年前我的议会参选统治这片地区之前,哈洛郡几乎处于无政府状态。但我们以最小的伤亡赢得了选举,我可以自豪地说,如今一切大有改善。
+polyp7	1	polyp7::English	Minimal casualties?	最小的伤亡?
+poly6	1	poly6::English	You are aware of election rules, yes? Election candidates and their subordinate councils must compete in two stages; a battle and a debate.	你了解选举规则,对吧?候选人及其下属议会必须经过两个阶段的角逐:战斗和辩论。
+poly7	1	poly7::English	Well, in the last Hallow election, the opposing cultist rabble were no match for our battle-councillors. So many fell to our swords in the staged battle that, when it came to the debate, few of those left could even string a sentence together.	嗯,上届哈洛选举中,对手那帮邪教乌合之众根本不是我们战斗议员的对手。在形式化的战斗环节,倒在我们剑下的人太多了,到了辩论环节,剩下的没几个还能说出一句完整的话。
+poly8	1	poly8::English	<<She betrays a smile>>. They were hardly capable of matching our philosophical rhetoric, let me tell you that. 	<<她没忍住笑了>>。实话告诉你,他们根本无法与我们的哲思雄辩相匹敌。
+polyp8	1	polyp8::English	Okay, I get it. 	好吧,我明白了。
+poly9	1	poly9::English	So, was that the end to your... questions?	那么,你的……问题,到此为止了吗?
+polyp9	1	polyp9::English	What is the Apostatic Union?	什么是叛教联盟?
+poly10	1	poly10::English	<<Her brow contorts.>> ##I see that our policies towards educating the common folk have resulted in... mixed success.	<<她眉头拧起。>>##看来我们面向平民的教育政策取得了……喜忧参半的成效。
+poly11	1	poly11::English	To be apostatic is to reject one's religion. Forty years ago, the realms of Vena, Byonne, Lundel and Slev emerged victorious from the God War, having rejected the Wikkans and their gods.	"背教"即背弃自己的宗教。四十年前,维纳、拜昂、伦德尔和斯列夫诸国背弃了维坎教团及其诸神,在神之战中凯旋。
+poly12	1	poly12::English	Those nations established the Apostatic Union; wherein its subjects are free from the tyranny of god worship.	这些国家建立了叛教联盟;联盟的子民从此摆脱神明崇拜的暴政。
+polyp10	1	polyp10::English	What's so bad about god worship? 	神明崇拜有什么不好?
+poly13	1	poly13::English	After the world rend, humans became dependent on gods once more. But it is a cruel arrangement. Gods have their own agendas, and never bestow favours without a sacrifice in kind.	世界撕裂之后,人类再度依附于神明。但这是一笔残酷的交易。神各有各的盘算,从不白白施恩,必要以祭品相抵。
+poly14	1	poly14::English	Furthermore, the Wikkan covens had a monopoly on worship and spellcraft. God contracts had to be struck through them. Spells were approved by them. They were as corrupt as they were powerful.	而且,维坎教团垄断了崇拜与咒法。与神缔约必须经由他们,咒术要经他们批准。他们既强大又腐朽。
+poly15	1	poly15::English	The polymaths at the great universities realised that humanity would never achieve its former glory chaining itself to gods. And so they gathered powerful allies and broke their fetid chains.	大学府里的博学家们意识到,人类若把自身锁在神明身上,就永远无法重现昔日荣光。于是他们集结强大的盟友,挣脱了那些污秽的枷锁。
+polyp11	1	polyp11::English	Who are the Wikkans?	维坎教团是什么人?
+poly16	1	poly16::English	The Wikkans are occultists and spellcasters. Unlike the spells created at Union universities - which rely on the true language - the Wikkans strike binding contracts with gods to achieve power.	维坎教团是神秘学者和施法者。联盟大学府创造的咒语依靠真言,而维坎人是与神缔结约束性契约来获取力量,两者截然不同。
+polyp12	1	polyp12::English	That's all, actually.	其实,就这些了。
+poly20	1	poly20::English	<<She looks at you, finally.>> Ah, a willing subject of the realm. Excellent. ##We are hunting a god, and we need all the help we can get.	<<她终于抬眼看你。>>啊,一位自愿报效王国的子民。很好。##我们正在猎捕一位神明,急需一切援助。
+poly21	1	poly21::English	As you no doubt know, Hallowshire is beset with famine. The crops yields are poor, which aggravates a much greater problem; god worship.	你肯定知道,哈洛郡正被饥荒困扰。庄稼歉收,而这加剧了一个更大的问题:神明崇拜。
+poly22	1	poly22::English	In their panic, the populace have resorted to illegal prayer. Cultism is rife. The situation is so dire that an inquisition division has been dispatched. Their scryers say that we're dealing with... <<she inhales.>> A class-B god entity. 	民众在恐慌中诉诸非法祈祷,邪教崇拜甚嚣尘上。事态严重到宗教裁判所已派出一个分队。他们的窥探师说,我们要对付的是……<<她吸了口气>>一个B级神实体。
+poly23	1	poly23::English	The investigation is focused on the farmlands outside of Hallow, but the inquisition impose Apostatic Law with a heavy hand. Many god sympathisers have already been put to the gallows, stoking anger. So I am turning to the populace for support. Even the most lowly of subjects could help uproot this problem.	调查集中在哈洛城外的农田,但宗教裁判所推行背教法的手腕极其严酷。许多同情神明的人已被送上绞架,民怨沸腾。因此我转向民众寻求支持。哪怕最卑微的子民,也能帮助连根拔除这个祸患。
+poly24	1	poly24::English	I have but one question: where is this god?	我只有一个问题:这位神在哪里?
+poly25	1	poly25::English	Any assistance will - of course - be rewarded in coin.	任何协助——当然——都会以硬币酬谢。
+polyp13	1	polyp13::English	Where should I look?	我该去哪里找?
+poly26	1	poly26::English	The inquisition is making its way through the countryside, searching farmsteads for god sympathisers and hidden covens. I would ask around there, and search for anything the inquisition has missed.	宗教裁判所正在乡间逐户搜查,寻找同情神明的人和隐藏的教团。你不妨去那边打听打听,找找宗教裁判所漏掉的东西。
+poly27	1	poly27::English	But there is also Hallow Castle, where a noble family resides. The old dynasties are still treated with respect in the Union, so the inquisition has held off for now. But the nobles have ancient ties with gods, so I would eye it with suspicion.	但还有哈洛城堡,那里住着一个贵族世家。联盟对旧王朝仍以礼相待,所以宗教裁判所暂未行动。但那些贵族与神明渊源深厚,我要是你,就会用怀疑的目光盯着那里。
+polyp14	1	polyp14::English	Tell me about this famine.	跟我说说这场饥荒。
+poly28	1	poly28::English	The famine is the lesser problem. No doubt it will be solved in a matter of months. We are awaiting food imports from Lundel, and I have the utmost faith they will not be delayed again.	饥荒是小问题。毫无疑问,几个月内就能解决。我们正在等伦德尔的粮食进口,我坚信它们不会再延误了。
+poly29	1	poly29::English	But the peasants, in their impatience, have turned to the occult. Such foolishness! They seek to undo all the good the Union has done.	可那些农夫等不及,转向了神秘学。何等愚蠢!他们想毁掉联盟造福的一切。
+polyp15	1	polyp15::English	I'll see what I can do. Farewell.	我会尽力而为。告辞。
+polyp16	1	polyp16::English	I discovered the god Paeguth.	我找到了帕古斯神。
+poly30	1	poly30::English	<<Her quill slips on the paper. She looks up, slowly.>> ##You attest to having succeeded, where an entire echelon of inquisition agents has failed? ##I require proof.	<<她的羽毛笔在纸上划了一道。她缓缓抬头。>>##整个梯队的宗教裁判所特工都无功而返,你却声称自己成功了?##我需要证据。
+polyp17	1	polyp17::English	<<Hand over the Aspect of Paeguth.>>	<<交出帕古斯面相。>>
+polyp18	1	polyp18::English	Actually, never mind.	其实,算了吧。
+poly31	1	poly31::English	<<The thing slumps onto the Polymath's desk where it writhes, gurgles and belches a strange odour. The Polymath tries to maintain her composure, but is clearly perturbed.>>	<<那东西瘫在博学家的书桌上,扭动着,咕噜作响,散发出一股怪味。博学家强作镇定,却明显心神不宁。>>
+poly32	1	poly32::English	This... ((thing)) indeed matches the description of a god-aspect. Perhaps you really have located a class-B god entity...	这个……((东西))确实符合神之面相的描述。也许你真的找到了一个B级神实体……
+poly33	1	poly33::English	Very well. Our scryers will use this aspect to pinpoint the god's location, and an inquisition strike team will make short work of the entity.	很好。我们的窥探师会用这枚面相精确定位神明,宗教裁判所突击队自会将它干脆利落地解决掉。
+poly34	1	poly34::English	You have done well. No doubt the inquisition would have found the thing eventually, but I cannot deny your assistance in the matter.	你干得不错。无疑宗教裁判所迟早也能找到那东西,但我不能否认你在此事中的助力。
+poly35	1	poly35::English	Take this; a modest sum of coin for your efforts, plus an Apostatic Union passport document.	收下这个;一笔聊表心意的酬金,外加一份叛教联盟护照。
+poly36	1	poly36::English	Now, if you'll excuse me, this new development necessitates many official documents. You may take your leave.	现在,恕我失陪,这一新进展需要处理大量公文。你可以走了。
+polyp19	1	polyp19::English	How is the situation in Hallowshire?	哈洛郡的局势如何?
+poly40	1	poly40::English	Thanks to you, the inquisition will make short work of that class-B god entity. Naturally, the cults festering in this region should disperse.	多亏了你,宗教裁判所将会干脆利落地解决那个B级神实体。自然而然,盘踞此地的邪教也应随之溃散。
+poly41	1	poly41::English	Hallowshire is still beset with famine, of course... but with our stranglehold on the region, unrest should be kept to a minimum.	当然,哈洛郡仍受饥荒困扰……但凭借我们对这片地区的铁腕控制,动乱应能控制在最小范围。
+poly50	1	poly50::English	Our guards report a marked decrease in cult activity. I can only assume the inquisition has succeeded in scaring the bastards off. ##<<She smirks.>> Well, either that or they've all turned invisible.	我们的卫兵报告称,邪教活动显著减少。我只好认为宗教裁判所成功吓跑了那帮混蛋。##<<她露出笑容。>>嗯,除非他们全都隐形了。
+poly51	1	poly51::English	Plus, crop yields are increasing. It seems the famine is ending. A welcome bonus to our fortunes.	而且,庄稼产量正在上升。饥荒看来要结束了。这是运势的一次可喜馈赠。
+inq1	1	inq1::English	<<The inquisition agent is watching a body swing from the gallows with a grim fascination>>.	<<宗教裁判所特工带着阴森的痴迷,注视着一具尸体在绞架上摇晃>>。
+inq2	1	inq2::English	Cultists riddle these hills like vermin. Whenever we lift a rock, a dozen scuttle out. Anyone could be secretly devout.	邪教徒像害虫一样遍布这些山丘。每次掀开一块石头,就有十几只四处逃窜。谁都可能在暗中虔信。
+inq3	1	inq3::English	So watch yourself, stranger. Our eyes are on you, too.	所以你小心点,陌生人。我们的眼睛也盯着你。
+p1	1	p1::English	Tell me about these cultists. 	跟我说说这些邪教徒。
+inq4	1	inq4::English	They worship something named Paeguth. Nasty old fertility god. Our scribes have traced him back to the Middle Ages, which would make him ancient - if this isn't some imposter.	他们崇拜一个叫帕古斯的东西。邪恶的古老丰饶神。我们的文书把他追溯到中世纪——要不是有人冒名顶替,这可真是够古老的了。
+inq5	1	inq5::English	Whatever this is, our scryers are picking up class-B energies around the farms and the castle, so it's a big one. Some of the people around here are bearing mutations consistent with fertility curses, so we're close. There's something here.	不管它是什么,我们的窥探师在农场和城堡周围探测到了B级能量,所以这是个大家伙。这附近有些人身上出现了与丰饶诅咒相符的变异,说明我们离目标不远了。这里肯定藏着东西。
+p2	1	p2::English	What do you think is here?	你觉得这里藏着什么?
+inq6	1	inq6::English	Not sure. We've found a cache of fertility idols, and a Wikkan priest was hiding in a secret chamber. There's something we're missing, though. Something big.	不确定。我们找到了一批丰饶偶像的窖藏,还从一个密室里揪出个维坎祭司。但我们仍漏掉了什么。某个大东西。
+inq7	1	inq7::English	We've interrogated a few of the locals. Everyone breaks eventually - but when these lot blurted something about a belltower, some silencing curse kicked in. Their mouths filled with maggots. Thousands, spilling from their lips, until their throats ripped open.	我们审讯了几个当地人。人人最终都会开口——但当这帮人提到"钟楼"时,某种封口咒被触发了。他们嘴里灌满了蛆虫。成千上万,从嘴唇间涌出,直到喉咙撕裂。
+inq8	1	inq8::English	Funny thing is, there's not a belltower around here. We'll have to widen the search...	奇怪的是,这附近根本没有钟楼。我们得扩大搜索范围……
+p3	1	p3::English	Okay, thanks.	好的,谢谢。
+p4	1	p4::English	Your methods are sickening. 	你们的手法令人作呕。
+inq9	1	inq9::English	Hmph. Another reformer, eh? Thinking that worshippers should be tolerated, the sentences reduced?	哼,又来一个改革派,是吧?觉得应该宽容信徒,减轻刑罚?
+inq10	1	inq10::English	You've not seen what I've seen. Towns that made terrible bargains. Hordes of creatures, no longer human - the streets running with blood. The only option to purge it all.	你没见过我见过的东西。与神做了可怕交易的城镇。成群的怪物,再也不是人——街道血流成河。唯一的办法就是把一切清洗干净。
+p5	1	p5::English	Not all gods are evil. With regulation...	不是所有神都是邪恶的。只要加以规范……
+inq11	1	inq11::English	Watch it, now. This isn't a university, and you don't look like a scholar. Which makes those words treason. Now get out of my sight, before I decide to do something about it. 	你给我小心点。这里不是大学府,你也不像学者。那这些话就是叛国。趁我还没决定采取措施,快滚出我的视线。
+p6	1	p6::English	You've made your point. Farewell. 	你的观点我领教了。告辞。
+p7	1	p7::English	Farewell.	告辞。
+agent1	1	agent1::English	I do my duty as an agent. God worship is outlawed, and these people are violating Apostatic Law.	我尽特工的本分。神明崇拜已被明令禁止,这些人正在违反背教法。
+agent2	1	agent2::English	...but it's hard not to sympathise. The famine is bad here, and people are starving. It's clear the Union isn't doing enough to help. I don't blame these people for looking for a solution.	……但很难不同情他们。这里的饥荒很严重,人们在挨饿。显然联盟没有尽力相助。我不怪这些人寻找出路。
+agent3	1	agent3::English	I don't blame them. But I do punish them. 	我不怪他们。但我照样惩处他们。
+farmer1	1	farmer1::English	Those bastards. The Union will pay for what they've done.	那些混蛋。联盟会为他们的所作所为付出代价。
+farmer2	1	farmer2::English	Five years ago they came and outlawed all the priests. Since then the crops have withered, the cattle have died.  The rich folk in town can buy imported food, but out here we're starving. Even the belltower crumbled, with nobody to repair it.	五年前他们来了,宣布所有祭司为非法。从那以后庄稼枯萎,牛群死绝。镇上的富人买得起进口粮,可我们在这里挨饿。连钟楼都塌了,没人修缮。
+farmer3	1	farmer3::English	And now... they've sent in their guard dogs, to finish the job.	而现在……他们派来了看门狗,要把事做绝。
+ch1	1	ch1::English	@@What the Union is doing is terrible. I want to help.	@@联盟的所作所为太可怕了。我想帮忙。
+farmer4	1	farmer4::English	%%I can't trust you. You could be working for the inquisition, but... our options have run dry. We'll all be dead, soon. 	%%我没法信任你。你可能是宗教裁判所的人,但……我们已走投无路。我们很快都会死。
+farmer5	1	farmer5::English	If you really want to help, look for a certain ruin - atop the nearby mountain. One with a broken bell inside. Under the bell is a passageway... ##Paeguth bless you.	你若真想帮忙,去找一处遗迹——就在附近的山顶上。里面有一口破钟。钟下有条通道……##愿帕古斯保佑你。
+farmer6	1	farmer6::English	&&I'm sorry, but I don't know you. You could be working for the inquisition. Not... not that I've anything to hide, you see...	&&抱歉,我根本不认识你。你可能是宗教裁判所的人。不……不是说……不是说我是有什么见不得人的事,你明白……
+p8	1	p8::English	I'm... sorry. Goodbye. 	我……很抱歉。再见。
+fo1	1	fo1::English	Greetings, newcomer.	你好啊,新来的。
+fo2	1	fo2::English	<<Tiny insects scurry over the being's face. The stench is overpowering; sickly sweet. It leans in to smell you.>> ##I smell that your flesh is... plump, and healthy. Paeguth has blessed you, indeed. 	<<细小的虫子在那存在的脸上爬行。恶臭扑鼻,带着病态的甜腻。它凑近嗅了嗅你。>>##我闻得出,你的血肉……丰腴而健康。帕古斯确实眷顾了你。
+pq	1	pq::English	Can I ask you some questions?	我能问你几个问题吗?
+foq1	1	foq1::English	I will answer what I can.	我能答的都会答。
+foq2	1	foq2::English	Do you wish for more words?	你还想听更多话语吗?
+foq3	1	foq3::English	Very well.	很好。
+p10	1	p10::English	What... are you?	你……是什么东西?
+fo3	1	fo3::English	<<liquids ooze from a widening smile.>> ##Do not be intimidated by my glory. Once I was mortal, like yourself. But Paeguth is nothing if not generous. 	<<黏液从越咧越大的笑容中渗出。>>##不要被我的荣光吓到。我曾是凡人,和你一样。但帕古斯别的不说,慷慨是出了名的。
+fo4	1	fo4::English	I have been blessed to bear his fruit; to endure sweet agonies, so that I may heal the land and feed the people.	我蒙受恩泽,孕育他的果实;忍受甜蜜的苦楚,好医治这片土地,养活这里的人民。
+p11	1	p11::English	Can you tell me of Paeguth?	你能跟我讲讲帕古斯吗?
+fo5	1	fo5::English	He is a god of growth; of sustenance; of life itself. Those who worship him will not go hungry, or succumb to illness. They will die fat, bloated and euphoric.	他是生长之神;滋养之神;生命本源之神。崇拜他的人不会挨饿,不会病倒。他们会死得肥肥胖胖、胀鼓鼓、飘飘欲仙。
+fo6	1	fo6::English	He has protected these islands for many generations. Monuments to his greatness lie in glorious ruin. Mortals perish, but he endures. Not even the blasphemous war could cleanse him.	他庇佑这些岛屿已有许多代人。纪念他伟业的丰碑安然卧于壮丽的废墟中。凡人终有一死,他却长存。连那场亵渎之战也未能涤除他。
+p12	1	p12::English	Where can I find Paeguth?	我在哪里能找到帕古斯?
+fo7	1	fo7::English	Why, he lives inside you. In your breath, in your blood, in your cells. Even now he caresses your organs with fondness, with love, with... intent. All you must do is permit him, and he will help you.	哎呀,他就住在你体内。在你的呼吸里,你的血液里,你的细胞里。此时此刻,他正用慈爱、用深情、用……图谋,爱抚着你的器官。你只需允许他,他就会帮你。
+fo8	1	fo8::English	Ah, but I sense this answer did not satisfy you. Fear not, he is close, nearby, in his glorious bulk. He grants an audience to those who are devout, so that he may bless them... personally.	啊,但我感觉这个答案没有让你满意。别怕,他离得很近,就在附近,就在他那光辉庞大的躯体里。他愿意接见虔信之人,好亲自……赐福于他们。
+fo9	1	fo9::English	If this is what you desire, make tribute to him here. I will direct you further.	若这正是你所愿,就在此向他献上贡品。我会为你进一步指引。
+p13	1	p13::English	I understand, thank you. 	我明白了,谢谢。
+p14	1	p14::English	I want to make a tribute to Paeguth.	我想向帕古斯献上贡品。
+fo20	1	fo20::English	There is no need. You have already made an ample tribute.	无需如此。你已经献上过丰厚的贡品了。
+fo21	1	fo21::English	<<Its face contorts.>> I am afraid you do not have the wine.	<<它的脸扭了起来。>>恐怕你没有那酒。
+fo10	1	fo10::English	Very well. In ages past, those loyal to Paeguth would ferment a delicious wine from the mushrooms of the island. They would throw exuberant parties and delight in his greatness.	很好。久远的过去,忠于帕古斯的人会用岛上的蘑菇酿造美酒。他们举办狂欢盛宴,沉醉于他的伟业。
+fo11	1	fo11::English	Bring this wine, and Paeguth will grant you an audience.	把这酒带来,帕古斯就会接见你。
+ch2	1	ch2::English	@@But I can see that Paeguth wants for nothing. Are my prayers not enough?	@@可我看帕古斯什么都不缺。难道我的祈祷还不够吗?
+fo12	1	fo12::English	%%You speak truth, of course. Paeguth is excess inherent; and he is greatly pleased that you see this.	%%你说的当然没错。帕古斯本就是过盛的化身;你能看到这一点,他极为欣喜。
+fo13	1	fo13::English	&&Paeguth seeks more than prayer; a tribute, no less.	&&帕古斯要的不止祈祷;而是贡品,少一点都不行。
+p15	1	p15::English	I offer this mushroom wine.	我献上这蘑菇酒。
+p16	1	p16::English	I'll think about it. 	我考虑考虑。
+fo14	1	fo14::English	Yes, this is the vintage. Oh, he is most pleased - I hear his whispers in my ear.	对,就是这年份的酒。哦,他高兴极了——我能听见他在我耳边低语。
+fo15	1	fo15::English	Take this symbol. Go to the castle that lingers above these lands. Search beneath it, for a cave; and with this symbol you will be granted admission. Go now, and bask in his glory.	收下这个信物。去那座俯瞰这片土地的城堡。在城堡底下找一处洞穴;凭此信物,你将获准入内。去吧,沐浴他的荣光。
+pgth1	1	pgth1::English	Ah, another ape-thing scurries into my den. If you bear one of my keys, you must be a devout follower - recognised by the most fertile of my children. So I thank you. 	啊,又一只猿类之物窜进我的巢穴。你若持有我的钥匙之一,必定是个虔信的追随者——被我最多产的孩子所认可。因此我谢谢你。
+pgth2	1	pgth2::English	But, if you have come to witness my glory, I'm afraid I must disappoint. ##The age has long passed when I towered above humanity, growing bloated from its filth. Few know me now. I am small, withered, forgotten.	不过,你若是来见证我的荣光,恐怕要失望了。##我高踞人类之上、以其秽物养肥自己的时代早已过去。如今鲜有人知我。我渺小,枯萎,被遗忘。
+pgth3	1	pgth3::English	I wonder... have the Wikkans sent you to assist my plight? You bear few of my gifts; your skin is smooth and unsullied. But perhaps that may be of use.	我在想……是维坎教团派你来解救我的困境吗?你身上我的赠礼很少;你的皮肤光滑而无瑕。不过,这也许能派上用场。
+pgth4	1	pgth4::English	Take this aspect of myself. Smuggle it into the Apostatic Union council chambers. Place it in the highest point, and it will take seed.	带上我的这枚面相。把它偷偷带进叛教联盟的议事厅。放在最高的地方,它便会扎根。
+pgth5	1	pgth5::English	It will blind the Union meddlers to my presence, and I will move unshackled once more. 	它会蒙蔽联盟那帮多管闲事者的耳目,让他们看不见我,我便可再度不受束缚地行动。
+pgth6	1	pgth6::English	But beware; it contains an aspect of myself, and is thus part of me. If it should fall into their hands... they could use it to hurt me. To trap me...	但要小心;它蕴含着我的一缕面相,因此是我的一部分。它若落入他们手中……他们便能用它伤害我。困住我……
+pgth7	1	pgth7::English	Now go, with my blessing.	现在去吧,带着我的祝福。
+pgth8	1	pgth8::English	Have you performed the task I asked of you, mortal? I plead that you perform it swiftly.	你完成我托付的任务了吗,凡人?我恳请你尽快完成。
+pgth10	1	pgth10::English	Thank you, mortal. The aspect of myself has taken hold; my tendrils extend to the minds of all those nearby.	谢谢你,凡人。我的面相已经扎根;我的卷须延伸到了附近所有人的脑海。
+pgth11	1	pgth11::English	Though I loom here, only the most faithful of my servants will see the truth. My presence is hidden from all else.	尽管我盘踞于此,但只有我最忠诚的仆从才能看见真相。我的存在对其余所有人都隐而不显。
+pgth12	1	pgth12::English	Please, take this meagre gift, as recognition of your services.	请收下这份薄礼,聊表对你效劳的谢意。
+pgth13	1	pgth13::English	Now that I am restored to a glimmer of my former power, the land can begin to heal.	如今我已恢复昔日力量的一线微光,这片土地可以开始愈合了。
+pgth14	1	pgth14::English	The crops will grow. The sick will be renewed. And, in time, your mortal bodies will undergo a most glorious transformation. 	庄稼会生长。病者将康复。而且,假以时日,你们凡人的躯体将迎来无比荣耀的蜕变。
+inq20	1	inq20::English	Paeguth is gone. We sent a tactical strike team into the bastard's lair and skewered him with voidstone.	帕古斯死了。我们派出一支战术突击队攻进那混蛋的巢穴,用虚空石把他串了个透心凉。
+inq21	1	inq21::English	With their prayers unheeded, the cultists should disperse. A fine mess they made here, but the Union always triumphs.	祈祷无人回应,邪教徒自会作鸟兽散。他们在这里闹得好大一摊子,但联盟永远胜利。
+inq22	1	inq22::English	It seems we've succeeded in scaring off all those cultist bastards. We've not had any reports of activity in a while.	看来我们成功吓跑了那帮邪教混蛋。好一阵子没有活动的报告了。
+inq23	1	inq23::English	But you know, it's strange... every now and again, our equipment picks up a huge spike of class-B energy. Like there's something we're missing... ##Ah, what am I saying? It's probably just faulty equipment.	但你知道吗,很奇怪……我们的设备时不时检测到B级能量的剧烈峰值。好像我们漏掉了什么……##啊,我在说什么呢?大概只是设备故障罢了。
+inq30	1	inq30::English	Leave, citizen. This is a class-B cultist site, restricted to all but inquisition Echelon XII.	离开,公民。这里是B级邪教现场,除宗教裁判所第十二梯队外一律禁止入内。
+inq31	1	inq31::English	We destroyed a class-B god entity here. Its remains were sent to Lundel for posthumous analysis.	我们在这里消灭了一个B级神实体。它的残骸已被送往伦德尔进行死后分析。
+wik1	1	wik1::English	Ah, you must be the new messenger. You're late.	啊,你一定是新来的信使。你迟到了。
+p21	1	p21::English	Uh... sorry?	呃……抱歉?
+wik2	1	wik2::English	Better late than never. So, what is the situation in Hallowshire? Does the inquisition still have an echelon stationed nearby?	迟到总比不来强。那么,哈洛郡局势如何?宗教裁判所还在附近驻扎着梯队吗?
+p22	1	p22::English	Yeah, the inquisition have been busy.	是啊,宗教裁判所忙得很。
+wik3	1	wik3::English	Damn. We're doing our best to conceal the remnants of Paeguth's cult, but at this rate they'll sniff us out. We could all be hanging from the gallows next month.	该死。我们正竭力藏匿帕古斯教团的残部,但照这个势头,他们很快就会嗅出我们。下个月我们可能全都吊在绞架上。
+wik4	1	wik4::English	Please, pay your respects to the Fertile One while you're here.	拜托,你在这儿的时候,去向育生者致敬。
+wik5	1	wik5::English	With its produce we could end the famine tomorrow, but we could never distribute it with the Apostatic Union's presence here. If something doesn't change soon, they'll have won.	有了它的出产,我们明天就能终结饥荒,但只要叛教联盟还在这儿,我们就永远无法分发出去。若情况再不改变,他们就赢了。
+p23	1	p23::English	I don't have time for this.	我没时间搞这些。
+castleGuard1	1	castleGuard1::English	Betrayed... by my own subordinate... ##Am I the last one, loyal to the Duke?	被出卖了……被我的下属……##我是不是最后一个效忠公爵的人?
+castleGuard2	1	castleGuard2::English	Please... find the Wikkan, locked up in the keep. He's the only one who can bring an end to this.	求你……找到那个维坎人,他被关在城堡主楼里。只有他能终结这一切。
+starverA	1	starverA::English	<<The villager slumps forward, voice faint.>>##Please... Some food, please...	<<村民向前瘫倒,声音微弱。>>##求你……给点吃的,求求你……
+starverB1	1	starverB1::English	<<The villager's mouth is smeared with glistening juices, their chin smeared with flecks of richly coloured fruit.>>##Look! Try some! There's enough, enough for everyone.	<<村民的嘴上沾满亮晶晶的汁水,下巴上沾着色彩浓艳的果肉碎屑。>>##看!尝尝!多得很,人人都有份。
+starverB2	1	starverB2::English	<<He takes another bite.>>##Mmmph. More than enough! So much! So good... So filling...	<<他又咬了一口。>>##唔姆。绰绰有余!好多!真好吃……好顶饱……
+inqHunterA1	1	inqHunterA1::English	Well met, comrade. Heard about the trouble in [[Paeguth]]?##Yes, we're on our way now, just re-equipping.	幸会,同志。听说[[帕古斯]]的麻烦了?##嗯,我们这就出发,正在补充装备。
+inqHunterA2	1	inqHunterA2::English	They're sending up their latest war machinery. Nothing but the best for these God-sucking scum, right?##Well, good hunting to you.	他们正把最新的战争机械运上来。对付这些舔神的渣滓,当然要用最好的,对吧?##嗯,祝狩猎顺利。
+inqHunterB1	1	inqHunterB1::English	Makes you wonder, doesn't it... if they're so desperate to save their so-called Gods, why'd one of them give up the location of this one so easily?	这就让人琢磨了,不是吗……如果他们拼死要保住他们所谓的神,为什么其中一个这么轻易就供出了这位神的位置?
+inqHunterB2	1	inqHunterB2::English	There again, I 'spect you've seen the inside of an Inquisition facility, same as I have...##So maybe you don't have to wonder.	话说回来,我猜你跟我一样见识过宗教裁判所设施的内部……##所以也许你不用琢磨了。
+inqHunterC1	1	inqHunterC1::English	A real god! It's like the [[war]] all over again!##Or, well, not exactly, that would be bad, wouldn't it...	一位真神!就像那场[[战争]]重演!##呃,好吧,也不完全一样,真重演可就糟了,对吧……
+inqHunterC2	1	inqHunterC2::English	But still, it's exciting, you know?	但还是挺刺激的,你懂的?

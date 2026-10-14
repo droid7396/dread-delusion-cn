@@ -1,0 +1,4 @@
+ID	Col	CellKey	English	Chinese
+testTitle	1	testTitle::English	Potion Quest	药水任务
+testMain	1	testMain::English	Find the magic potion! (Main scenario)	找到魔法药水!(主线任务)
+testSub1	1	testSub1::English	This is a sub-quest.	这是一个支线任务。
